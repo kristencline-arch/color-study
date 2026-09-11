@@ -1,82 +1,55 @@
 # Color Study
 
-Explore surviving color in textiles and ancient art using regularized RGB decorrelation stretch. The searchable open database contains 66 photographs, including 29 textiles.
+An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 267 photographs, including 77 textiles, a [50-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
 
-[Open the website](https://color-study-painted-surfaces.kristen368163.chatgpt.site) · [Read the original NASA article](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) · [Download the open photo database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all)
+Curated metadata and original annotations are [CC0](CATALOG-LICENSE.md); photographs retain their individual licenses. [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) or [view all image credits](CREDITS.md).
 
-## Files
+[Explore Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=egypt) · [Pompeii & Rome](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=rome) · [Search expansion and remaining gaps](public/photo-search.md)
 
-- [Image engine](public/dcs-core.mjs) and [browser worker](public/dcs-worker.js)
-- [Python image processor](process_images.py)
-- [Website and browser app](app/ColorStudy.tsx)
-- [Community collection server](server/community.mjs) and [database schema](db/schema.ts)
-- [Reproducible showcase previews](scripts/build-showcase.py)
-- [66 study photographs, including 29 textiles](public/originals/) and [image credits](CREDITS.md)
-- [20-target research guide](public/targets.md)
-- [Source records, dimensions and licenses](public/sources.json)
+## Use
 
-## Run the app
+Run `npm run dev` and open the URL printed by the server. Import JPEG, PNG, WebP or AVIF; adjust color separation; fit to a selected surface; compare and export a native-size PNG. Save the separate JSON processing record for settings, fitted matrix, input hash and source credit. Sharing a study link includes a built-in photo and its settings. Private lab imports are never uploaded or included in shared links. The separate contribution form publishes only after the visitor explicitly agrees to the public license.
 
-Requires Node.js 22.13 or newer.
+Browser Worker, OffscreenCanvas, ImageBitmap and secure-context Web Crypto are required. Inputs are capped at 80 MiB, 64 MP and a 16,000-pixel edge. Browser memory may limit exports below those caps. A 1,600-pixel preview uses the same fitted matrix as native-size striped exports. Canvas decodes into sRGB with EXIF orientation applied. Different image decoders can produce slightly different results.
 
-```sh
-npm ci
-npm run dev
-```
+## Open community collection
 
-Open the local URL printed by the server. Import a photo, adjust the color separation, select an area to fit, compare, and export a full-resolution PNG. Private image-lab imports stay in your browser. The separate contribution form publishes a JPEG copy only after explicit consent. No account or API key is required to run the app locally; D1 and R2 are emulated locally and persist under `.wrangler/`. A production deployment needs its own `DB` (D1) and `PHOTOS` (R2) bindings. Schema migrations are in `drizzle/`.
+Visitors can publish their own photographs and descriptions immediately under CC BY 4.0, with a public photographer credit. The form converts the original to a full-size sRGB JPEG copy and a thumbnail; the server removes metadata again, validates dimensions and JPEG structure, and limits file size and daily contributions. The original file input is removed from the submission before upload. Public data contains no email, removal secret or rate-limit identifier.
 
-## Explore and expand the catalog
+D1 stores attribution and photo records; R2 stores image bytes. The logical bindings are `DB` and `PHOTOS`. The migration is in `drizzle/`; the local runtime also initializes the same tables idempotently.
 
-[Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) by material, region, date and museum. Open any photograph in the image lab, download its JPEG or follow the original museum record. Some records also link to a larger archival TIFF.
+`GET /api/community` lists 24 public contributions with a cursor. `GET /api/dataset?download=all` streams a complete downloadable JSON database, including all curated sources and community contributions with image URLs, licenses, dimensions and hashes. `/api/dataset` provides the same data in pages for programmatic use. Public reads allow cross-origin access.
 
-[Catalog documentation](CATALOG.md) explains the selection, licenses, schema, search API and reproducible imports. `GET /api/catalog?category=Textiles&download=all` downloads every textile record. `GET /api/catalog` provides filtered, paginated access backed by D1.
+Each photo has a report link to the GitHub issue form. The contributor receives a private removal key; `POST /api/community/remove` removes the photo from this collection when that key matches. Downloaded copies and valid CC BY 4.0 reuse rights cannot be recalled. No imported image is submitted automatically and no account is required.
 
-To add museum images, edit `data/museum-selection.json` and run `python3 scripts/import-museums.py`. Reviewed museum metadata snapshots are included under `data/museum-records/`. The importer checks image-rights flags, retains source JPEG bytes and hashes, and generates sRGB thumbnails. Use `--refresh` to refetch museum records. All 66 originals occupy approximately 312 MiB; page browsing loads small previews.
+## Evidence and interpretation
 
-## Community contributions
+[The NASA article](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) describes the history and applications. This is an independent implementation of the underlying principle, not DStretch or its custom color presets. False-color enhancement amplifies existing signals and noise. It does not recover the original palette, expose paint beneath opaque layers, date marks, identify pigments or prove deliberate damage.
 
-Visitors may contribute photographs they took, with a public credit and general location. The photo and description are published immediately under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The browser prepares a full-size sRGB JPEG copy and thumbnail; the server validates the JPEG structure and removes camera metadata before storage. The raw original file input is not uploaded.
+The collection includes 77 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
 
-Every contribution includes download, study and report links. Reports open a GitHub issue. A private removal-key file lets the contributor remove this site’s public copy later; copies already downloaded and their valid reuse rights are unaffected. Private keys and rate-limit identifiers are excluded from public exports.
+## Validation
 
-`GET /api/community` lists 24 contributions per page using `next_cursor`. `GET /api/dataset?download=all` streams the complete database as JSON, including all image URLs, credits, licenses, dimensions and hashes. `GET /api/dataset` is a paginated alternative. Public read endpoints support cross-origin requests. Community data lives in the database and object storage, rather than automatically creating Git commits.
+`npm test` builds the production worker and runs numeric comparisons against the preserved Python engine, worker lifecycle and export tests, production HTML and metadata checks, and source/asset integrity tests. `npm run lint` and `npx tsc --noEmit` check the app. Worker image-processing tests use an in-memory canvas adapter; they do not validate browser codecs or replace an interactive browser walkthrough. Community tests use real local D1 and R2 emulation and exercise consent, publication, metadata removal, persistence, complete exports, pagination, removal authorization, rate limits and storage-failure cleanup.
 
-## Run the Python processor
+## Photo credits
 
-Requires Python 3.11 or newer.
+- **Bhimbetka, India** — Bernard Gagnon. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg).
+- **House of the Vettii** — Chappsnet. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg).
+- **Cappadocia, Turkey** — José Luiz. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Fresco_at_the_Dark_Church,_in_Goreme_(6).JPG).
+- **Painted marble sphinx** — The Metropolitan Museum of Art. [CC0 / Public domain](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://www.metmuseum.org/art/collection/search/248501).
+- **Pyramid of Unas** — Aidan McRae Thomson. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [Source](https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg).
+- **Chehel Sotoun, Iran** — Amir Pashaei. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg).
+- **Cueva de las Manos** — Pablo A. Gimenez from Buenos Aires, Argentina. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Cueva_de_las_Manos_(6811931046).jpg).
+- **Villa of the Mysteries** — Gary Todd from Xinzheng, China. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg).
+- **House of Menander** — Marco Ober. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [Source](https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg).
+- **Great Pyramid (limits)** — Ovedc. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [Source](https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg).
+- **Titanic (limits)** — Lori Johnston / RMS Titanic Expedition 2003 / NOAA Ocean Exploration. [Public domain (NOAA; attribution retained)](https://commons.wikimedia.org/wiki/File:Captain_Smith%27s_bathroom.jpg) · [Source](https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/).
 
-```sh
-python3 -m venv .venv
-. .venv/bin/activate
-pip install -r requirements.txt
-python process_images.py --study marble-sphinx --output outputs/sphinx
-```
+Retain attribution, license links and a notice that colors were changed when sharing enhancements. No endorsement by photographers, museums, NASA or DStretch is implied. The generated social card is an illustration, not archaeological evidence.
 
-Omit `--study` to process all 66 examples, or repeat it to choose several. Outputs include PNGs, comparisons, exact processing settings and a ZIP. Use a new output directory for each run; existing results are preserved.
-
-## Checks
-
-```sh
-npm test
-npm run lint
-npx tsc --noEmit
-```
-
-Tests compare the JavaScript math with the original Python engine and exercise worker loading, selected-area fitting, exports, app HTML and image integrity. Catalog tests check persistent seeding, combined search/date filters, stable pagination, complete exports and source-rights evidence. Image-worker tests use an in-memory canvas; browser codecs and interaction need a browser walkthrough. Community tests use real local D1/R2 emulation to check consent, persistent uploads, metadata removal, deletion authorization, export pagination, full database downloads, rate limits and storage-failure cleanup.
-
-## About the method
-
-Inspired by [NASA's article on decorrelation stretch](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) and [Jon Harman's algorithm description](https://www.dstretch.com/AlgorithmDescription.html). This is an independent RGB implementation, not the DStretch plugin.
-
-Enhancement exaggerates color already present in a photo. It does not reconstruct the original ancient palette or establish pigment identity, hidden paint, dates or deliberate damage.
-
-## License
-
-Code and original documentation: [MIT](LICENSE). Curated metadata and original catalog annotations: [CC0](CATALOG-LICENSE.md). Photographs retain their individual licenses in [CREDITS.md](CREDITS.md) and [sources.json](public/sources.json). Keep those credits and license links when redistributing images, and identify enhanced images as modified. The MIT license does not relicense third-party images or dependencies.
-
-Run `python scripts/build-showcase.py` to regenerate the resized originals and enhanced website comparisons. Their original hashes, fitting regions, settings and exact matrices are recorded in `public/showcase.json`.
+Website showcase previews are resized originals and mathematical color enhancements. `public/showcase.json` preserves their exact fitting settings, matrices and file hashes; the public repository includes `scripts/build-showcase.py` to reproduce them. The existing social card remains an illustration, not evidence.
 
 Operators can set a server-only `COMMUNITY_ADMIN_TOKEN` of at least 32 characters and send `DELETE /api/community/{id}` with `Authorization: Bearer <token>` to remove a reported contribution. The token is never part of the public site, image records or database download. Keep it in the hosting service’s secret settings, not in Git.
 
-The production website loads museum JPEGs from the pinned GitHub image release in `public/photo-release.json`; all original files remain in this repository. Thumbnails, comparisons and the D1 catalog are hosted with the website. The build omits only generated museum JPEG copies from the deployment archive to respect its size limit.
+The production website loads imported museum and field JPEGs from the pinned GitHub image release in `public/photo-release.json`; all original files remain in this repository. Thumbnails, comparisons and the D1 catalog are hosted with the website. The build omits only generated imported JPEG copies from the deployment archive to respect its size limit.

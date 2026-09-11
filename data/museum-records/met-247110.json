@@ -1,0 +1,92 @@
+{
+  "objectID": 247110,
+  "isHighlight": false,
+  "accessionNumber": "04.17.5",
+  "accessionYear": "1904",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP330008.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP330008.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Grave stele, painted",
+  "title": "Painted limestone funerary slab with a soldier standing at ease",
+  "culture": "Greek",
+  "period": "Hellenistic",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "2nd half of 3rd century BCE",
+  "objectBeginDate": -250,
+  "objectEndDate": -200,
+  "medium": "Limestone, paint",
+  "dimensions": "Height: 15 1/2 in. (39.4 cm)\r\nOther: 3 3/4 in. (9.5 cm)\r\nWidth: 11 5/8 in. (29.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525019
+      }
+    },
+    {
+      "elementName": "Width",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Width": 29.52756
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.37008
+      }
+    }
+  ],
+  "creditLine": "Gift of Darius Ogden Mills, 1904",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-08-18T04:48:11.003Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/247110",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116295819",
+  "isTimelineWork": true,
+  "GalleryNumber": "162"
+}

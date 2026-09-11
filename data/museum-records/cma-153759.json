@@ -1,0 +1,440 @@
+{
+  "id": 153759,
+  "accession_number": "1987.57",
+  "share_license_status": "CC0",
+  "tombstone": "Buddhist Priest's Ceremonial Robe (袈裟), 1400s. China, Ming dynasty (1368–1644). Silk and gold thread; embroidery; overall: 119.4 x 302.1 cm (47 x 118 15/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1987.57",
+  "current_location": null,
+  "title": "Buddhist Priest's Ceremonial Robe",
+  "title_in_original_language": "袈裟",
+  "creation_date": "1400s",
+  "creation_date_earliest": 1400,
+  "creation_date_latest": 1499,
+  "artists_tags": [],
+  "culture": [
+    "China, Ming dynasty (1368–1644)"
+  ],
+  "technique": "silk and gold thread; embroidery",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Garment",
+  "measurements": "Overall: 119.4 x 302.1 cm (47 x 118 15/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.194,
+      "height_inch": 47,
+      "height_inch_fraction": 0.0,
+      "width": 3.021,
+      "width_inch": 118,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 310231,
+        "title": "The Year in Review for 1987",
+        "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+        "opening_date": "1988-02-24T05:00:00"
+      },
+      {
+        "id": 224492,
+        "title": "Buddhist Ceremonial Robe Restoration",
+        "description": "<i>Buddhist Ceremonial Robe Restoration</i>. Textilerestauratiorin SKR (October 17-December 11, 1996).",
+        "opening_date": "1996-10-17T00:00:00"
+      },
+      {
+        "id": 211548,
+        "title": "When Silk Was Gold: Central Asian & Chinese Textiles from the Cleveland and Metropolitan Museums of Art",
+        "description": "<i>When Silk Was Gold: Central Asian & Chinese Textiles from the Cleveland and Metropolitan Museums of Art</i>. The Cleveland Museum of Art, Cleveland, OH (October 26, 1997-January 4, 1998); The Metropolitan Museum of Art (organizer) (March 2-May 17, 1998).",
+        "opening_date": "1997-10-19T00:00:00"
+      },
+      {
+        "id": 318433,
+        "title": "Taming Tigers and Releasing Dragons: Masterpieces of Chinese Buddhist Art – Chinese Gallery Rotation 240a, 241c",
+        "description": "<i>Taming Tigers and Releasing Dragons: Masterpieces of Chinese Buddhist Art – Chinese Gallery Rotation 240a, 241c</i>. The Cleveland Museum of Art (organizer) (February 8-August 11, 2019).",
+        "opening_date": "2019-02-08T05:00:00"
+      },
+      {
+        "id": 540063,
+        "title": "Like a Lotus Unstained by Mud",
+        "description": "<i>Like a Lotus Unstained by Mud</i>. Hoam Museum of Art, Kyunggi-do, Korea (Republic of) (March 19-June 23, 2024) https://www.leeumhoam.org/hoam/exhibition/77.",
+        "opening_date": "2024-03-19T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 244)</em>. The Cleveland Museum of Art, Cleveland, OH (December 11, 2013-March 9, 2015).",
+        "opening_date": "2013-12-11T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Spink & Son, Ltd., London, sold to the Cleveland Museum of Art.)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1987",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1987–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The Five Transcendent Buddhas, who symbolize the purity of the five elements, are repeated around the edges.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This example of imperial embroidery is one of the earliest surviving Chinese Buddhist robes (<em>kasaya</em>) in the West. Depicting 991 Buddhas, each slightly different, it is constructed out of patches in reference to the legend in which the Buddha's favorite disciple divided a robe he was given into 30 pieces. Patchwork is also a sign of humility. Multiple Buddha images known as “thousand Buddha” designs are seen painted and sculpted on the walls of cave temples in India, Afghanistan, Central Asia, and China, but are rare on garments. The Four Heavenly Kings, guardians of the four directions, occupy the textile’s corners. When draped around the body, the inverted figures in the upper left corner appear right side up. Robes with 25 columns were worn by the highest-ranking clergy on ceremonial occasions.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79940001"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1987.57-buddhist-priest-s-ce"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Watt, James C. Y., Anne E. Wardwell, and Morris Rossabi. <em>When silk was gold: Central Asian and Chinese textiles</em>. New York: Metropolitan Museum of Art in cooperation with the Cleveland Museum of Art: Distributed by H.N. Abrams, 1997.",
+      "page_number": "Reproduced: cat. no. 64, pp. 210–212",
+      "url": null
+    },
+    {
+      "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1998.",
+      "page_number": "Mentioned and Reproduced: pp. 84–85",
+      "url": ""
+    },
+    {
+      "citation": "Yi, Sŭng-hye. 2024. <em>Unsullied, like a Lotus in Mud</em>. Seoul: Hoam Museum of Art. (in Korean with English translations throughout)",
+      "page_number": "cat. no. 89, p. 268-271",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1987.57",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_web.jpg",
+      "width": "1263",
+      "height": "525",
+      "filesize": "710221",
+      "filename": "1987.57_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_print.jpg",
+      "width": "3400",
+      "height": "1413",
+      "filesize": "5716401",
+      "filename": "1987.57_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_full.tif",
+      "width": "15865",
+      "height": "6595",
+      "filesize": "313936452",
+      "filename": "1987.57_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt0_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "641922"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt0_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "9346562"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt0_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99891740"
+      },
+      "date_created": "2011-07-13T15:34:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt1_web.jpg",
+        "width": "704",
+        "height": "893",
+        "filesize": "706929"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt1_print.jpg",
+        "width": "2682",
+        "height": "3400",
+        "filesize": "10415365"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt1_full.tif",
+        "width": "4992",
+        "height": "6328",
+        "filesize": "94801236"
+      },
+      "date_created": "2011-07-13T15:00:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt2_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "612318"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt2_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "8759977"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt2_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99892488"
+      },
+      "date_created": "2011-07-13T14:28:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt3_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "631411"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt3_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "10350137"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt3_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99892852"
+      },
+      "date_created": "2011-07-13T18:00:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt4_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "627717"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt4_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "9909382"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt4_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99893080"
+      },
+      "date_created": "2011-07-13T18:29:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt5_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "655087"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt5_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "10474741"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt5_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99893648"
+      },
+      "date_created": "2011-07-13T18:53:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt6_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "657152"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt6_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "10247827"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt6_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99894152"
+      },
+      "date_created": "2011-07-13T19:05:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt7_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "631627"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt7_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "9570254"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt7_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99893380"
+      },
+      "date_created": "2011-07-13T19:12:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt8_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "645946"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt8_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "10604405"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt8_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99893828"
+      },
+      "date_created": "2011-07-13T19:19:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt9_web.jpg",
+        "width": "717",
+        "height": "893",
+        "filesize": "688853"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt9_print.jpg",
+        "width": "2728",
+        "height": "3400",
+        "filesize": "9900952"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt9_full.tif",
+        "width": "4992",
+        "height": "6220",
+        "filesize": "93184244"
+      },
+      "date_created": "2011-07-12T18:11:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt10_web.jpg",
+        "width": "714",
+        "height": "893",
+        "filesize": "728550"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt10_print.jpg",
+        "width": "2719",
+        "height": "3400",
+        "filesize": "10655552"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt10_full.tif",
+        "width": "4992",
+        "height": "6241",
+        "filesize": "93498512"
+      },
+      "date_created": "2011-07-12T18:15:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt11_web.jpg",
+        "width": "1263",
+        "height": "519",
+        "filesize": "730337"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt11_print.jpg",
+        "width": "2048",
+        "height": "842",
+        "filesize": "1916840"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_alt11_full.tif",
+        "width": "2048",
+        "height": "842",
+        "filesize": "5175116"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 153759,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1987-08-19T00:00:00",
+  "sortable_date": 1400,
+  "date_added_to_oa": null,
+  "date_text": "1400s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Kashaya (Buddhist Priest's Robe)"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 07:57:12.247000"
+}

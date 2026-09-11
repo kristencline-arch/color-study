@@ -1,0 +1,178 @@
+{
+  "id": 161637,
+  "accession_number": "2000.201",
+  "share_license_status": "CC0",
+  "tombstone": "Vinca Idol, 4500–3500 BCE. Serbia, Vinça culture, Neolithic Era. Fired clay with paint; overall: 16.1 cm (6 5/16 in.). The Cleveland Museum of Art, Gift of Bruce Ferrini, 2000.201",
+  "current_location": "106A Migration Period & Coptic",
+  "title": "Vinca Idol",
+  "creation_date": "4500–3500 BCE",
+  "creation_date_earliest": -4500,
+  "creation_date_latest": -3500,
+  "artists_tags": [],
+  "culture": [
+    "Serbia, Vinça culture, Neolithic Era"
+  ],
+  "technique": "fired clay with paint",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - European Bronze Age",
+  "type": "Ceramic",
+  "measurements": "Overall: 16.1 cm (6 5/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.161,
+      "height_inch": 6,
+      "height_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+      "citations": [],
+      "footnotes": null,
+      "date": "2000–",
+      "sortorder": 1
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "If you look closely, you can see remnants of red pigment on this diminutive figure.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This statuette, probably a cult idol, dates to the Neolithic Era which saw the development of farming and human technology. It is extraordinarily well preserved and derives from the settlement at Vinca in modern Serbia. This flourishing culture was the largest known in Europe at that time, extending along the Danube into the Balkans and Central Europe. Thousands of clay statuettes have been discovered in the region's Vinca settlements suggestive of the intense magic-religious practices within the Vinca culture. This statuette is anthropomorphic, or human-shaped, and is presumed to have been used for ritual purposes. The use of red paint is typical of Vinca Neolithic figurines, and few have survived in such excellent condition.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60780048"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2000.201-vinca-idol"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/2000.201",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_web.jpg",
+      "width": "665",
+      "height": "893",
+      "filesize": "301691",
+      "filename": "2000.201_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_print.jpg",
+      "width": "2531",
+      "height": "3400",
+      "filesize": "4634039",
+      "filename": "2000.201_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_full.tif",
+      "width": "3488",
+      "height": "4685",
+      "filesize": "49054072",
+      "filename": "2000.201_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt0_web.jpg",
+        "width": "553",
+        "height": "893",
+        "filesize": "220256"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt0_print.jpg",
+        "width": "2105",
+        "height": "3400",
+        "filesize": "3397909"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt0_full.tif",
+        "width": "2902",
+        "height": "4688",
+        "filesize": "40842840"
+      },
+      "date_created": "2009-05-05T15:26:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt1_web.jpg",
+        "width": "509",
+        "height": "893",
+        "filesize": "212934"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt1_print.jpg",
+        "width": "1937",
+        "height": "3400",
+        "filesize": "3331356"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt1_full.tif",
+        "width": "2666",
+        "height": "4680",
+        "filesize": "37459712"
+      },
+      "date_created": "2009-05-05T15:31:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt2_web.jpg",
+        "width": "680",
+        "height": "893",
+        "filesize": "298708"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt2_print.jpg",
+        "width": "2590",
+        "height": "3400",
+        "filesize": "4694789"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.201/2000.201_alt2_full.tif",
+        "width": "3575",
+        "height": "4693",
+        "filesize": "50362368"
+      },
+      "date_created": "2009-05-05T15:37:53",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Bruce Ferrini",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 161637,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2001-06-04T00:00:00",
+  "sortable_date": -4500,
+  "date_added_to_oa": null,
+  "date_text": "4500–3500 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:24:00.177000"
+}

@@ -1,0 +1,366 @@
+{
+  "id": 133447,
+  "accession_number": "1956.10",
+  "share_license_status": "CC0",
+  "tombstone": "Royal Reception in a Landscape, left folio from the double frontispiece of a Shahnama (Book of Kings) of Firdausi (Persian, about 940–1019 or 1025), 1444. Iran, Shiraz, Timurid period (1370-1501). Opaque watercolor, ink, gold and silver on paper; recto image: 26.1 x 20.7 cm (10 1/4 x 8 1/8 in.); overall: 32.7 x 22 cm (12 7/8 x 8 11/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1956.10",
+  "current_location": null,
+  "title": "Royal Reception in a Landscape, left folio from the double frontispiece of a Shahnama (Book of Kings) of Firdausi (Persian, about 940–1019 or 1025)",
+  "creation_date": "1444",
+  "creation_date_earliest": 1444,
+  "creation_date_latest": 1444,
+  "artists_tags": [],
+  "culture": [
+    "Iran, Shiraz, Timurid period (1370-1501)"
+  ],
+  "technique": "opaque watercolor, ink, gold and silver on paper",
+  "support_materials": [],
+  "department": "Islamic Art",
+  "collection": "Islamic Art",
+  "type": "Manuscript",
+  "measurements": "Recto Image: 26.1 x 20.7 cm (10 1/4 x 8 1/8 in.); Overall: 32.7 x 22 cm (12 7/8 x 8 11/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.327,
+      "height_inch": 12,
+      "height_inch_fraction": 0.875,
+      "width": 0.22,
+      "width_inch": 8,
+      "width_inch_fraction": 0.6875
+    },
+    "recto image": {
+      "height": 0.261,
+      "height_inch": 10,
+      "height_inch_fraction": 0.25,
+      "width": 0.207,
+      "width_inch": 8,
+      "width_inch_fraction": 0.125
+    },
+    "verso image": {
+      "height": 0.251,
+      "height_inch": 9,
+      "height_inch_fraction": 0.875,
+      "width": 0.16,
+      "width_inch": 6,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 518751,
+        "title": "The Exhibition of Persian Art: 7000 Years of Art in Iran",
+        "description": "<i>The Exhibition of Persian Art: 7000 Years of Art in Iran</i>. Petit Palais, Musée des Beaux-Arts de la Ville de Paris, Paris, France (organizer) (October 19, 1961-January 31, 1962).",
+        "opening_date": "1961-10-19T04:00:00"
+      },
+      {
+        "id": 519268,
+        "title": "Muslim Miniature Paintings",
+        "description": "<i>Muslim Miniature Paintings</i>. Fondazione Giorgio Cini, Venice, Italy, Venezia, Italy (organizer) (September 1-October 31, 1962); The Asia Society Museum, New York, NY (December 4, 1962-February 3, 1963).",
+        "opening_date": "1962-09-01T04:00:00"
+      },
+      {
+        "id": 300779,
+        "title": "Juxtapositions",
+        "description": "<i>Juxtapositions</i>. The Cleveland Museum of Art, Cleveland, OH (September 11-October 10, 1965).",
+        "opening_date": "1965-09-11T04:00:00"
+      },
+      {
+        "id": 443710,
+        "title": "Persian Miniature Manuscripts",
+        "description": "<i>Persian Miniature Manuscripts</i>. The Scottish Arts Council Gallery, Edinburgh, United Kingdom of Great Britain and Northern Ireland (organizer) (August 13-September 11, 1977).",
+        "opening_date": "1977-08-13T04:00:00"
+      },
+      {
+        "id": 309887,
+        "title": "The Twain Shall Meet",
+        "description": "<i>The Twain Shall Meet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 1985-January 5, 1986).",
+        "opening_date": "1985-10-30T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Institute of Arts, Detroit, MI (1935). [lent by Minassian] (both folios?)",
+        "opening_date": "1935-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Exhibition of Islamic Art</em>. De Young Memorial Museum, San Francisco, CA (February 24-March 22, 1937).",
+        "opening_date": "1937-02-24T00:00:00"
+      },
+      {
+        "description": "<em>Exhibition of Persian Art. </em>The Iranian Institute, New York, NY (1940).",
+        "opening_date": "1940-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Exhibition of Islamic Art</em>. The Cleveland Museum of Art, Cleveland, OH (1944).",
+        "opening_date": "1944-01-01T00:00:00"
+      },
+      {
+        "description": "<em>7000 Ans d'art en Iran</em>. Petit Palais, Paris (October-November 1961).",
+        "opening_date": "1961-10-01T00:00:00"
+      },
+      {
+        "description": "<em>Muslim Miniature Paintings from American Collections</em>. Fondazione Giorgio Cini, Venice, Italy; Asia House, New York, NY (September 1962-February 1963).",
+        "opening_date": "1962-09-01T00:00:00"
+      },
+      {
+        "description": "<em>Imperial Images in Persian Painting</em>. The Scottish Arts Council Gallery, Edinburgh, Scotland (August 13-September 11, 1977).",
+        "opening_date": "1977-08-13T00:00:00"
+      },
+      {
+        "description": "<em>Order and Rhythm: Carpets from the Islamic World</em>. Allen Memorial Art Museum, Oberlin, OH (September 10-November 7, 1993<em>).</em>",
+        "opening_date": "1993-09-10T00:00:00"
+      },
+      {
+        "description": "<em>Islamic art rotation</em>. The Cleveland Museum of Art, Cleveland, OH (December 16, 2013-December 15, 2014). (1956.10.a only)",
+        "opening_date": "2013-12-16T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Philipp Walter Schulz [1864–1920], Leipzig, Germany",
+      "citations": [],
+      "footnotes": [],
+      "date": "by 1914",
+      "sortorder": 1
+    },
+    {
+      "description": "(Adrienne Minassian [1913–1994], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1956",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1956–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 124165,
+      "description": "Royal Reception in a Landscape, right folio from a double-page frontispiece of a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), 1444. Iran, Shiraz, Timurid period (1370-1501). Opaque watercolor, gold, and silver on paper; overall: 32.5 x 22.1 cm (12 13/16 x 8 11/16 in.); recto image: 27.7 x 10.3 cm (10 7/8 x 4 1/16 in.); verso image: 26.3 x 20.7 cm (10 3/8 x 8 1/8 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1945.169",
+      "relationship": "partner of"
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "From the upper left two trained cheetahs, a falcon, and horses are led into the scene.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The painting on the recto of this folio is the second half of a double-page frontispiece now detached from a <em>Shahnama</em> manuscript (see <a href=\"http://cma.org/art/1945.169\"><u>CMA 1945.169</u></a> for the first half of the frontispiece). The scene does not illustrate a narrative from the <em>Shahnama</em>, but likely represents the courtly audience for whose entertainment the manuscript was created. The date and style of the painting indicate that it was made during the reign of the Timurid dynasty in Shiraz, Iran.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60759591"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1956.10-royal-reception-in-a"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Schulz, Philipp Walter. <em>Die persisch-islamische Miniaturmalerei. Ein Beitrag zur Kunstgeschichte Irans</em>. Leipzig: Hiersemann, 1914.",
+      "page_number": "Mentioned and Reproduced: vol.1, p. 87; vol II, pl. 36",
+      "url": null
+    },
+    {
+      "citation": "Ackerman, Phyllis. <em>Guide to the Exhibition of Persian Art</em>. New York: Iranian Institute of America, 1940.",
+      "page_number": "p. 194",
+      "url": null
+    },
+    {
+      "citation": "Robinson, B.W. “The Illustrated Persian Manuscripts in the John Rylands Library,” <em>Bulletin of the John Rylands Library </em>34 (September 1952): 69–80.",
+      "page_number": "p.72n3",
+      "url": null
+    },
+    {
+      "citation": "Robinson, B.W. “Origin and Date of Three Famous Shah-Nameh Illustrations,” <em>Ars Orientalis</em> I (1954): 105–112.",
+      "page_number": "p. 105",
+      "url": null
+    },
+    {
+      "citation": "Stchoukine, Ivan. <em>Les Peintures des Manuscrits Timurids.</em> Paris: Institut Français d’Archéologie de Beyrouth, Bibliothéque archéologique et historique, 1954.",
+      "page_number": "pp. 44, 46, 60",
+      "url": null
+    },
+    {
+      "citation": "Shepherd, D.G. “A Shahnamah Frontispiece,” <em>The Bulletin of the Cleveland Museum of Art </em>43 (December 1956): pp. 213–215.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 722",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n132"
+    },
+    {
+      "citation": "Gray, Basil. <em>Persian Painting.</em> Cleveland: Editions d’Art Albert Sikra and The World Publishing Company, 1961.",
+      "page_number": "pp. 96, 102–103",
+      "url": null
+    },
+    {
+      "citation": "Ghirshman, Roman. <em>Sept mille ans d'art en Iran: Petit Palais, Octobre 1961-Janvier 1962</em>. Paris: Association francaise d’action artistique, 1961.",
+      "page_number": "no.1079, p. 193",
+      "url": null
+    },
+    {
+      "citation": "Grube, Ernst J. and Alberta Maria Fabris. <em>Muslim Miniature Paintings from the XIII to XIX Century from Collections in the United States and Canada.</em> Venice: N. Pozza, 1962.",
+      "page_number": "Reproduced: no. 34, pp. 46–48",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 222",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n246"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 222",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n246"
+    },
+    {
+      "citation": "Robinson, B.W. ed.,<em> Islamic Painting and the Arts of the Book</em>. London: Faber and Faber Limited, 1976.",
+      "page_number": "pp. 153, 154",
+      "url": null
+    },
+    {
+      "citation": "Hillenbrand, Robert. <em>Imperial Images in Persian Painting. </em>Edinburgh: Scottish Arts Council Gallery, 1977.",
+      "page_number": "p. 25, no. 107",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 279",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n299"
+    },
+    {
+      "citation": "Neils, Jenifer. “The Twain Shall Meet.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 72, no. 6, 1985, pp. 326–359.",
+      "page_number": "Reproduced: no. 45, p. 350",
+      "url": "https://www.jstor.org/stable/25159914"
+    },
+    {
+      "citation": "Williams, Marjorie. “Dragons, Porcelains and Demons, Cultural Exchange between China and Persia,” <em>Orientations</em> 17 no. 8 (August 1986).",
+      "page_number": "Reproduced: p. 26, fig. 5",
+      "url": null
+    },
+    {
+      "citation": "Blair, Sheila S. and Jonathan S. Bloom. <em>The Art and Architecture of Islam 1250 – 1800</em>. New Haven: Yale University Press, 1994.",
+      "page_number": "p. 318, no. 24",
+      "url": null
+    },
+    {
+      "citation": "Grabar, Oleg. “Toward an Aesthetic of Persian Painting,” in <em>The Art of Interpreting: Papers in Art History from the Pennsylvania State Universit</em>y vol. IX, ed. Susan C. Scott, pp. 129–162. University Park: Pennsylvania State University, 1995.",
+      "page_number": "Reproduced: fig. 6-2",
+      "url": null
+    },
+    {
+      "citation": "Sims, Eleanor, with Boris I. Marshak and Ernst J. Grube. <em>Peerless Images: Persian Painting and its Sources</em>. New Haven and London: Yale University Press, 2002.",
+      "page_number": "p. 115, fig. 32",
+      "url": null
+    },
+    {
+      "citation": "de Selliers, Diane, editor.<em> Orient: Mille ans de poesi et de peinture</em>. Paris: Diane de Selliers, 2004.",
+      "page_number": "pp. 106, 107",
+      "url": null
+    },
+    {
+      "citation": "Allsen, Thomas T. <em>The Royal Hunt in Eurasian History. </em>Philadelphia, PA: University of Pennsylvania Press, 2006.",
+      "page_number": "Reproduced:  p. 80, fig. 9",
+      "url": null
+    },
+    {
+      "citation": "Mackie, Louise W. <em>Symbols of Power: Luxury Textiles from Islamic Lands, 7th-21st Century</em>. Cleveland; New Haven: Cleveland Museum of Art; Yale University Press, 2015.",
+      "page_number": "Reproduced: P. 132, fig. 4.3; Mentioned: P. 133",
+      "url": null
+    },
+    {
+      "citation": "Harrison-Hall, Jessica. \" Early Ming Ceramics: Rethinking the Status of Blue-and-White.\" In <em>Ming China: Courts and Contacts, 1400-1450. </em>Craig Clunas, Jessica Harrison-Hall, and Yu Ping Luk., eds., p. 80. London: The British Museum, 2016.",
+      "page_number": "Reproduced: p. 80 pl. 8.7",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1956.10",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_web.jpg",
+      "width": "622",
+      "height": "900",
+      "filesize": "315789",
+      "filename": "1956.10_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_print.jpg",
+      "width": "2351",
+      "height": "3400",
+      "filesize": "3242637",
+      "filename": "1956.10_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_full.tif",
+      "width": "4621",
+      "height": "6682",
+      "filesize": "92664572",
+      "filename": "1956.10_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_alt0_web.jpg",
+        "width": "620",
+        "height": "900",
+        "filesize": "246315"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_alt0_print.jpg",
+        "width": "2341",
+        "height": "3400",
+        "filesize": "2854658"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.10/1956.10_alt0_full.tif",
+        "width": "4592",
+        "height": "6668",
+        "filesize": "91886428"
+      },
+      "date_created": "2009-11-23T15:23:36",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 133447,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1956-01-19T00:00:00",
+  "sortable_date": 1444,
+  "date_added_to_oa": null,
+  "date_text": "1444",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "A Princely Banquet in a Garden, Left Folio of Double Page Frontispiece (Recto); Text and Illumination Page, Persian Prose (Verso)",
+    "Royal Feast in a Garden, left folio from the double-page frontispiece of a Shahnama of Firdausi (Persian, about 934–1020)",
+    "Royal Feast in a Garden, left folio from the double-page frontispiece of a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:51:17.852000"
+}

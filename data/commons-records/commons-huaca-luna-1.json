@@ -1,0 +1,110 @@
+{
+  "pageid": 3947034,
+  "ns": 6,
+  "title": "File:Huaca de la Luna Août 2007 - Peintures 1.jpg",
+  "index": 6,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2217756,
+      "width": 1944,
+      "height": 2592,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3947034",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2008-04-26 22:35:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Huaca de la Luna Août 2007 - Peintures 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSC-V1|Huaca de la Luna|Self-published work|Files with coordinates missing SDC location of creation|Moche art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "-8.134722",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-78.990472",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Murals at Huaca de la Luna in Trujillo, Peru",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-08-27",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Martin St-Amant (<a href=\"//commons.wikimedia.org/wiki/User:S23678\" title=\"User:S23678\">S23678</a>)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

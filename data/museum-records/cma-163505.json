@@ -1,0 +1,200 @@
+{
+  "id": 163505,
+  "accession_number": "2004.64",
+  "share_license_status": "CC0",
+  "tombstone": "Jar with Spiral Designs, 3300–2650 BCE. Northwest China, Neolithic period, Majiayao culture, Majiayao phase (3300–2650 BCE). Earthenware with slip-painted decoration; diameter: 39.1 cm (15 3/8 in.); overall: 45.2 cm (17 13/16 in.). The Cleveland Museum of Art, Gift of Donna S. and James S. Reid Jr. in honor of Dr. Ju-hsi Chou, 2004.64",
+  "current_location": "241A Arts of Ancient China",
+  "title": "Jar with Spiral Designs",
+  "creation_date": "3300–2650 BCE",
+  "creation_date_earliest": -3300,
+  "creation_date_latest": -2650,
+  "artists_tags": [],
+  "culture": [
+    "Northwest China, Neolithic period, Majiayao culture, Majiayao phase (3300–2650 BCE)"
+  ],
+  "technique": "earthenware with slip-painted decoration",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Neolithic",
+  "type": "Ceramic",
+  "measurements": "Diameter: 39.1 cm (15 3/8 in.); Overall: 45.2 cm (17 13/16 in.)",
+  "dimensions": {
+    "diameter": {
+      "width": 0.391,
+      "width_inch": 15,
+      "width_inch_fraction": 0.375
+    },
+    "overall": {
+      "height": 0.452,
+      "height_inch": 17,
+      "height_inch_fraction": 0.8125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Kaikodo, New York, NY)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Mr. James Sims Reid Jr. [1926–2020] and Mrs. Donna S. Reid [b. 1931], Cleveland Heights, OH, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–2004",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2004–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "56.2000"
+  ],
+  "did_you_know": "The spiral designs on this jar were made using an ancient Chinese pottery technique called slip painting.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This jar is a spectacular example of painted pottery from the Majiayao culture, one of the regional cultures of prehistoric China. Its geometric patterns are probably abstract symbols transformed from a bird image, which may suggest a clan totem or nature spirits. Archaeological work confirms the coexistence of different regional cultures in ancient China, contesting the old belief that the Chinese civilization originated solely along the Yellow River. The artifacts of these cultures manifest distinctive characteristics; each one played a role in the formation of the greater Chinese civilization.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60753785"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2004.64-jar-with-spiral-desi"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "<em>Kaikodo journal</em>. Vol XI, Spring 1999.",
+      "page_number": "Mentioned and Reproduced: cat. no. 42, pp. 152–153, 286–287",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and Reproduced: p. 92",
+      "url": ""
+    },
+    {
+      "citation": "“A Walking Tour: The entire new museum wing by wing, with curators calling out a few favorite works in the collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 1 (January/February 2014): 8–33.",
+      "page_number": "Reproduced and Mentioned: p. 32",
+      "url": "https://archive.org/details/CMAMM2014-01"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+      "page_number": "Mentioned and Reproduced: p. 34",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/2004.64",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_web.jpg",
+      "width": "783",
+      "height": "893",
+      "filesize": "397609",
+      "filename": "2004.64_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_print.jpg",
+      "width": "2980",
+      "height": "3400",
+      "filesize": "4979290",
+      "filename": "2004.64_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_full.tif",
+      "width": "3758",
+      "height": "4288",
+      "filesize": "48373852",
+      "filename": "2004.64_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt0_web.jpg",
+        "width": "882",
+        "height": "893",
+        "filesize": "470621"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt0_print.jpg",
+        "width": "3238",
+        "height": "3277",
+        "filesize": "6149666"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt0_full.tif",
+        "width": "3238",
+        "height": "3277",
+        "filesize": "31863076"
+      },
+      "date_created": "2005-09-22T18:41:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt1_web.jpg",
+        "width": "722",
+        "height": "893",
+        "filesize": "415249"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt1_print.jpg",
+        "width": "2749",
+        "height": "3400",
+        "filesize": "5611114"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2004.64/2004.64_alt1_full.tif",
+        "width": "4042",
+        "height": "5000",
+        "filesize": "60643176"
+      },
+      "date_created": "2005-02-11T19:59:51",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Donna S. and James S. Reid Jr. in honor of Dr. Ju-hsi Chou",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 163505,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2004-09-07T00:00:00",
+  "sortable_date": -3300,
+  "date_added_to_oa": null,
+  "date_text": "3300–2650 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Jar with Painted Spiral Design"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-22 11:53:17.417000"
+}

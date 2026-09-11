@@ -1,0 +1,517 @@
+{
+  "id": 123434,
+  "accession_number": "1943.658.b",
+  "share_license_status": "CC0",
+  "tombstone": "Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama, 1330–35. Iran, Tabriz, Ilkhanid period (1256-1353). Opaque watercolor, ink, and gold on paper; sheet: 45.8 x 34.4 cm (18 1/16 x 13 9/16 in.); image: 19.5 x 29.5 cm (7 11/16 x 11 5/8 in.). The Cleveland Museum of Art, Grace Rainey Rogers Fund, 1943.658.b",
+  "current_location": null,
+  "title": "Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama",
+  "creation_date": "1330–35",
+  "creation_date_earliest": 1330,
+  "creation_date_latest": 1335,
+  "artists_tags": [],
+  "culture": [
+    "Iran, Tabriz, Ilkhanid period (1256-1353)"
+  ],
+  "technique": "opaque watercolor, ink, and gold on paper",
+  "support_materials": [],
+  "department": "Islamic Art",
+  "collection": "Islamic Art",
+  "type": "Manuscript",
+  "measurements": "Sheet: 45.8 x 34.4 cm (18 1/16 x 13 9/16 in.); Image: 19.5 x 29.5 cm (7 11/16 x 11 5/8 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.458,
+      "height_inch": 18,
+      "height_inch_fraction": 0.0625,
+      "width": 0.344,
+      "width_inch": 13,
+      "width_inch_fraction": 0.5625
+    },
+    "image": {
+      "height": 0.195,
+      "height_inch": 7,
+      "height_inch_fraction": 0.6875,
+      "width": 0.295,
+      "width_inch": 11,
+      "width_inch_fraction": 0.625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Script: Naskh",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    },
+    {
+      "inscription": null,
+      "inscription_translation": "Title heading, in gold outlined in black on a ground with red dots: \"Bahram-e Gur kills the dragon.\"",
+      "inscription_remark": "The relevant couplet is the last one on the penultimate line before the image (line 9): \"He then pulled out a dagger and tore out its chest.\"",
+      "sortorder": 2
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 517994,
+        "title": "The Classical Style in Islamic Painting",
+        "description": "<i>The Classical Style in Islamic Painting</i>. The Morgan Library & Museum, New York, NY (organizer) (November 1, 1968-January 4, 1969).",
+        "opening_date": "1968-11-01T05:00:00"
+      },
+      {
+        "id": 443710,
+        "title": "Persian Miniature Manuscripts",
+        "description": "<i>Persian Miniature Manuscripts</i>. The Scottish Arts Council Gallery, Edinburgh, United Kingdom of Great Britain and Northern Ireland (organizer) (August 13-September 11, 1977).",
+        "opening_date": "1977-08-13T04:00:00"
+      },
+      {
+        "id": 206288,
+        "title": "The Legacy of Genghis Khan:  Courtly Art and Culture in Western Asia 1256-1353",
+        "description": "<i>The Legacy of Genghis Khan:  Courtly Art and Culture in Western Asia 1256-1353</i>. The Metropolitan Museum of Art, New York, NY (organizer) (October 28, 2002-February 16, 2003); Los Angeles County Museum of Art, Los Angeles, CA (April 13-July 27, 2003).",
+        "opening_date": "2002-10-28T00:00:00"
+      },
+      {
+        "id": 380961,
+        "title": "Islamic art rotation",
+        "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 16, 2013-December 15, 2014).",
+        "opening_date": "2013-12-16T05:00:00"
+      },
+      {
+        "id": 380565,
+        "title": "An Epic of Kings: The Great Mongol Shahnama",
+        "description": "<i>An Epic of Kings: The Great Mongol Shahnama</i>. National Museum of Asian Art, Washington, DC (organizer) (September 21, 2024-January 12, 2025) https://asia.si.edu/whats-on/exhibitions/mongol-shahnama/.",
+        "opening_date": "2024-09-21T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>International Exhibition of Persian Art</em>. Royal Academy of Arts, London, UK (January 7-February 28, 1931).",
+        "opening_date": "1931-01-07T05:00:00Z"
+      },
+      {
+        "description": "<em>Islamic Miniature Painting and Book Illumination.</em> Metropolitan Museum of Art, New York, NY (October 9, 1933-January 7, 1934).",
+        "opening_date": "1933-10-09T05:00:00Z"
+      },
+      {
+        "description": "<em>Persian Art</em>. Iranian Institute, New York, NY (1940).",
+        "opening_date": "1940-01-01T05:00:00Z"
+      },
+      {
+        "description": "<em>Islamic and Indian Miniature Paintings and Manuscripts</em>. Metropolitan Museum of Art, New York, NY (December 15, 1955-February 19, 1956).",
+        "opening_date": "1955-12-15T05:00:00Z"
+      },
+      {
+        "description": "<em>Exhibition of Persian Art</em>. Istituto Italiano per il Medio ed Estremo Oriente, Rome, Italy (May-October 1956).",
+        "opening_date": "1956-05-01T04:00:00Z"
+      },
+      {
+        "description": "<em>Islamic Art Exhibition</em>. University of Michigan, Ann Arbor, MI (April 9-May 17, 1959).",
+        "opening_date": "1959-04-09T05:00:00Z"
+      },
+      {
+        "description": "<em>7000 Ans d'art en Iran</em>. Petit Palais, Paris, France (October-November 1961).",
+        "opening_date": "1961-10-01T04:00:00Z"
+      },
+      {
+        "description": "<em>Muslim Miniature Paintings from American Collections</em>. Fondazione Giorgio Cini, Venice, Italy; Asia House, New York, NY (September 1962-February 1963).",
+        "opening_date": "1962-09-01T04:00:00Z"
+      },
+      {
+        "description": "<em>Imperial Images in Persian Painting</em>. The Scottish Arts Council, Edinburgh, Scotland (August 13-September 11, 1977).",
+        "opening_date": "1977-08-13T04:00:00Z"
+      },
+      {
+        "description": "<em>Main Gallery Rotation (gallery 116)</em>. The Cleveland Museum of Art, Cleveland, OH (October 30, 2018–January 4, 2019).",
+        "opening_date": "2018-10-30T04:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Georges Demotte [1877–1923], New York, NY)",
+      "citations": [],
+      "footnotes": null,
+      "date": "c. 1910–?",
+      "sortorder": 1
+    },
+    {
+      "description": "Wells",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "Grace Rainey Rogers [1867–1943], New York, NY",
+      "citations": [],
+      "footnotes": [],
+      "date": "before 1943",
+      "sortorder": 3
+    },
+    {
+      "description": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1943",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1943–",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The monumental <em>Great Mongol Shahnama</em> was commissioned by a ruler of the Ilkhanid dynasty, which governed the southwestern part of the Mongol Empire.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In this intense painting, Bahram Gur plunges his sword into the breast of a dragon. A favorite character from Iran's pre-Islamic history, Bahram Gur (reigned 420–38 CE) was a popular ruler of the Sasanian dynasty and a great hunter. He took the name \"Gur,\" meaning <em>onager </em>(a wild ass), because it was his preferred game, although he also excelled at killing dragons. <br><br>As evidenced by this illustration's rock formations, tree trunk, and dragon, Iranian painting in the Mongol period borrowed numerous stylistic and spatial elements from Chinese models. With the surging landscape and writhing dragon rendered with equal energy, this is a picture of extraordinary unity and concentration.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79900643"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1943.658.b-bahram-gur-slays-a-d"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Watson, Arnold Talbot and Royal Academy of Arts (Great Britain). <em>Catalogue of the International Exhibition of Persian Art; Patrons: His Majesty the King, His Majesty Rizā ShāH Pahlavi. 7th January to 28th February, 1931, Royal Academy of Arts, London</em>. 1st ed. London: Office of the Exhibition [Printed by Gee &amp; Co.], 1931.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Erdman, Kurt. \"La Mostra d'arte Persiana a Londra.\"<em> Dedalo</em> XI (April 1931).",
+      "page_number": "p. 826",
+      "url": null
+    },
+    {
+      "citation": "Royal Academy of Arts (Great Britain), Laurence Binyon, Basil Gray, and J. V. S. Wilkinson. <em>Persian Miniature Painting. Including a Critical and Descriptive Catalogue of the Miniatures Exhibited at Burlington House, January-March, 1931</em>. London: Oxford University Press, 1933.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Dimand, Maurice Sven. <em>A Guide to an Exhibition of Islamic Miniature Painting and Book Illumination</em>. New York: The Metropolitan Museum of Art, 1933.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Lorey, E. de. \"\"L'Ecole de Tabriz.\" <em>Revue des Arts Asiatiques</em> I (1935).",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Schroeder, Eric. \"Ahmed Musa and Shams al-Din: A Review of Fourteenth Century Painting.\" <em>Ars Islamica </em>VI, pt 2 (1939).",
+      "page_number": "132–133",
+      "url": null
+    },
+    {
+      "citation": "Ackerman, Phyllis. <em>Guide to the Exhibition of Persian Art : ... New York, 1940</em>. New York: The Iranian Institute, 1940.",
+      "page_number": "246",
+      "url": null
+    },
+    {
+      "citation": "Parke-Bernet Galleries. <em>French XVIII Century Furniture, Paintings, Drawings, Etc., Collection of Grace Rainey Rogers 1943/11/18-20</em>. [N.Y.]: [Parke-Bernet galleries, Inc., auctioneers], 1943.",
+      "page_number": "140",
+      "url": null
+    },
+    {
+      "citation": "Dimand, M.S. \"An Exhibition of Islamic and Indian Paintings.\" <em>Bulletin of the Metropolitan Museum of Art</em> XIV (Dec. 1955).",
+      "page_number": "p. 88",
+      "url": null
+    },
+    {
+      "citation": "Istituto italiano per il Medio ed Estremo Oriente (Roma). M<em>ostra D'arte Iranica: Catalogo, Palazzo Brancaccio, Roma, Giugno-Agosto 1956</em> [= Exhibition of Iranian Art : Catalogue, Palazzo Brancaccio, Roma, June-August 1956]. Milano: Silvana editoriale d'arte, 1956.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 720",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n131"
+    },
+    {
+      "citation": "<em>Persian Art Before And After the Mongol Conquest.: [Exhibition] April 9-May 17, 1959. the University of Michigan, Museum of Art, Ann Arbor</em>. Ann Arbor, MI: University of Michigan, Museum of Art, 1959.",
+      "page_number": "Mentioned: cat. no. 148, p. 43",
+      "url": null
+    },
+    {
+      "citation": "Grabar, Oleg and University of Michigan. <em>Persian Art Before and After the Mongol Conquest [Exhibition] April 9-May 17, 1959, the University of Michigan, Museum of Art, Ann Arbor</em>. Ann Arbor: University of Michigan Museum of Art, 1959.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "<em>Sept mille ans d'art en Iran: [exposition], Petit Palais, octobre 1961-janvier 1962</em>. Paris: Petit Palais, 1962.",
+      "page_number": "192",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 221",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n245"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 221",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n245"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 278",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n298"
+    },
+    {
+      "citation": "Rosenzweig, Daphne Lange. \"Stalking the Persian Dragon: Chinese Prototypes for Miniature Representations.\" <em>Kunst des Orients</em> XII 1/2 (1978-1979).",
+      "page_number": "pp. 151–176",
+      "url": null
+    },
+    {
+      "citation": "Grabar, Oleg, and Sheila Blair. <em>Epic Images and Contemporary History: The Illustrations of the Great Mongol Shahnama</em>. Chicago: Univ. of Chicago Press, 1980.",
+      "page_number": "pp. 154–155",
+      "url": null
+    },
+    {
+      "citation": "Williams, Marjorie. \"Dragons, Porcelains and Demons: Cultural Exchange Between China and Persia.\" <em>Orientations</em> vol. 18 no. 8 (August 1986).",
+      "page_number": "p. 86",
+      "url": null
+    },
+    {
+      "citation": "Lentz, Thomas W., Glenn D. Lowry, and Gerlach Collection. <em>Timur and the Princely Vision: Persian Art and Culture in the Fifteenth Century</em>. Los Angeles, Washington, DC: Los Angeles County Museum of Art; Smithsonian Institution Press, 1989.",
+      "page_number": "p. 53",
+      "url": null
+    },
+    {
+      "citation": "Komaroff, Linda, and Stefano Carboni. <em>The Legacy of Genghis Khan: Courtly Art and Culture in Western Asia, 1256-1353</em>. New York: Metropolitan Museum of Art, 2002.",
+      "page_number": "pp. 257 and 160",
+      "url": null
+    },
+    {
+      "citation": "Komaroff, Linda, and Stefano Carboni, eds. <em>The Legacy of Genghis Khan: Courtly Art and Culture in Western Asia, 1256-1353</em>. New York: Metropolitan Museum of Art; New Haven: Yale University Press [distributor], 2002.",
+      "page_number": "Reproduced: cat no. 56, p. 257, fig. 187, p. 160",
+      "url": null
+    },
+    {
+      "citation": "Curatola, Giovanni, and Gianroberto Scarcia.<em> Iran: l'arte persiana</em>. Milano: Jaca Book, 2004.",
+      "page_number": "Reproduced: fig.162, pp. 198–199",
+      "url": null
+    },
+    {
+      "citation": "Curatola, Giovanni, and Gianroberto Scarcia. <em>Iran: l'arte persiana</em>. Milano: Jaca Book, 2004.",
+      "page_number": "pp. 198–199",
+      "url": null
+    },
+    {
+      "citation": "Hagedorn, Annette, and Norbert Wolf.<em> Islamic Art.</em> Hong Kong: Taschen, 2009.",
+      "page_number": "Reproduced: fig. 16, p. 18",
+      "url": null
+    },
+    {
+      "citation": "Hillenbrand, Robert. \"Color in the Great Mongol Shahnama.\" In<em> Manuscripts in the Making: Art &amp; Science.</em> Stella Panayotova and Paola Ricciardi. London; Turnhout: Harvey Miller, 2017.",
+      "page_number": "Reproduced: p. 217; ill. 3",
+      "url": null
+    },
+    {
+      "citation": "Coffey, Heather. \"Collapsing Geography and Orientalizing Pigment in a Fourteenth-Century Chromoshpere: Italian Painting and Ilkhanid Ceramics.\" In <em>The Seas and the Mobility of Islamic Art. </em>Radha Dalal, Sean E. Roberts, and Jochen A. Sokoly eds., 38–53. Biennial Hamad bin Khalifa Symposium on Islamic Art and Culture, 2021. New Haven: Yale University Press; [Ar-Rayyan, Qatar]: in association with Qatar Foundation; [Richmond, Virginia]: Virginia Commonwealth University; [Education City, Doha, Qatar]: and Virginia Commonwealth University School of the Arts in Qatar, 2021.",
+      "page_number": "Mentioned and reproduced: P. 47, fig. 2.5",
+      "url": ""
+    },
+    {
+      "citation": "Hillenbrand, Robert. <em>The Great Mongol Shahnama</em>. London, Washington, DC, New Haven, CT: Hali Publications Ltd.; Freer Gallery of Art: Arthur M. Sackler Gallery, the Smithsonian’s National Museum of Asian Art; Published in association with Yale University Press, 2022.",
+      "page_number": "Mentioned and Reproduced: painting 49",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1943.658.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_web.jpg",
+      "width": "685",
+      "height": "900",
+      "filesize": "373009",
+      "filename": "1943.658.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_print.jpg",
+      "width": "2586",
+      "height": "3400",
+      "filesize": "4824223",
+      "filename": "1943.658.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_full.tif",
+      "width": "9397",
+      "height": "12354",
+      "filesize": "348303756",
+      "filename": "1943.658.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt0_web.jpg",
+        "width": "682",
+        "height": "900",
+        "filesize": "407663"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt0_print.jpg",
+        "width": "2577",
+        "height": "3400",
+        "filesize": "4375145"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt0_full.tif",
+        "width": "10215",
+        "height": "13479",
+        "filesize": "413093236"
+      },
+      "date_created": "2019-04-24T19:11:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt1_web.jpg",
+        "width": "900",
+        "height": "628",
+        "filesize": "468253"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt1_print.jpg",
+        "width": "3400",
+        "height": "2372",
+        "filesize": "4957729"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt1_full.tif",
+        "width": "12095",
+        "height": "8438",
+        "filesize": "306203924"
+      },
+      "date_created": "2019-04-24T19:17:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt2_web.jpg",
+        "width": "900",
+        "height": "426",
+        "filesize": "273379"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt2_print.jpg",
+        "width": "3400",
+        "height": "1610",
+        "filesize": "2503515"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt2_full.tif",
+        "width": "12164",
+        "height": "5760",
+        "filesize": "210221868"
+      },
+      "date_created": "2019-04-24T19:29:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt3_web.jpg",
+        "width": "900",
+        "height": "579",
+        "filesize": "304158"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt3_print.jpg",
+        "width": "3400",
+        "height": "2189",
+        "filesize": "2798169"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt3_full.tif",
+        "width": "3863",
+        "height": "2487",
+        "filesize": "28848752"
+      },
+      "date_created": "2019-04-24T19:42:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt4_web.jpg",
+        "width": "669",
+        "height": "893",
+        "filesize": "575006"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt4_print.jpg",
+        "width": "2546",
+        "height": "3400",
+        "filesize": "7721953"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt4_full.tif",
+        "width": "4826",
+        "height": "6444",
+        "filesize": "93331644"
+      },
+      "date_created": "2009-07-15T15:29:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt5_web.jpg",
+        "width": "1263",
+        "height": "869",
+        "filesize": "1125552"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt5_print.jpg",
+        "width": "3400",
+        "height": "2340",
+        "filesize": "7614633"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.658.b/1943.658.b_alt5_full.tif",
+        "width": "5834",
+        "height": "4015",
+        "filesize": "70307768"
+      },
+      "date_created": "2009-07-15T16:20:11",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Grace Rainey Rogers Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 123434,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1943-12-29T00:00:00",
+  "sortable_date": 1330,
+  "date_added_to_oa": null,
+  "date_text": "1330–35",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1943.658",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Bahram Gur Slays a Dragon, from The Shahnama by Firdausi, known as the Demotte Shahnama (verso)",
+    "Illustration from a Manuscript of the Shahnamah of Firdawsi: Bahram Gur Slays a Dragon"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:21:10.956000"
+}

@@ -1,0 +1,853 @@
+{
+  "id": 117940,
+  "accession_number": "1938.9",
+  "share_license_status": "CC0",
+  "tombstone": "Cranes and Serpents (蛇座鳳鳥鼓架), 475–221 BCE. China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE). Lacquered wood with polychromy; overall: 132.1 x 124.5 cm (52 x 49 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1938.9",
+  "current_location": "241A Arts of Ancient China",
+  "title": "Cranes and Serpents",
+  "title_in_original_language": "蛇座鳳鳥鼓架",
+  "creation_date": "475–221 BCE",
+  "creation_date_earliest": -475,
+  "creation_date_latest": -221,
+  "artists_tags": [],
+  "culture": [
+    "China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE)"
+  ],
+  "technique": "lacquered wood with polychromy",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "China - Zhou Dynasty",
+  "type": "Sculpture",
+  "measurements": "Overall: 132.1 x 124.5 cm (52 x 49 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.321,
+      "height_inch": 52,
+      "height_inch_fraction": 0.0,
+      "width": 1.245,
+      "width_inch": 49,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312341,
+        "title": "The Silver Jubilee Exhibition",
+        "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+        "opening_date": "1941-06-23T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Survey of Early Chinese Art</em>. Yamanaka &amp; Co., New York, NY (January 1938).",
+        "opening_date": "1938-01-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Mr. Umekichi Asano [1877–1960], Ōsaka, Japan)",
+      "citations": [],
+      "footnotes": [],
+      "date": "1934 or later–before 1938",
+      "sortorder": 1
+    },
+    {
+      "description": "(Yamanaka and Company, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1938",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1938–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The cranes' long necks allowed a lightweight drum to be suspended from strings through the beaks, while the densely intertwined snakes provided a weighty base to stabilize the object during musical performances.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "A different style of ritual art developed in the state of Chu in South China. In addition to bronze vessels, lacquered wood artifacts expanded the repertory of ritual implements. <br><br>This extraordinary sculpture was probably a drum stand for supporting a suspended drum in ritual ceremonies. It is unique among other excavated drum stands of the Chu, which typically show two birds standing on tigers. The theme of the bird stepping on the serpent was common in the Chu visual culture. Yet the slender proportions and seemingly flimsy structure of this particular set raise the question of whether it was utilitarian or mostly served symbolic functions in the tomb. <br><br>The birds' and serpents' bodies have designs painted in red lacquer and yellow pigment against the black lacquer. Scientific analyses confirm the additional use of a blue or green pigment that has been discolored over time.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757420"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1938.9-cranes-and-serpents"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Umehara Sueji 梅原末治 and Mizuno Seiichi 水野清一. \"Wooden Cranes and Snakes, decorated with Lacquer, said to have been discovered in Chang-sha, China\" [傳長沙出土の漆畫雙鶴雙蛇に就いて]. <em>Bijutsu Kenkyū</em> [美術硏究 = Journal of the Japanese Art History Society] no. 72 (December 1937), pp. 487-491.",
+      "page_number": "Reproduced: pp. 489, 490, pl. V-VII",
+      "url": null
+    },
+    {
+      "citation": "“Accessions.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 25, no. 2, 1938, pp. 29–32.",
+      "page_number": "Mentioned: p. 30",
+      "url": "www.jstor.org/stable/25137905"
+    },
+    {
+      "citation": "Hollis, Howard C. “Cranes and Serpents.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 25, no. 8, 1938, pp. 147–151, 159.",
+      "page_number": "Reproduced and Mentioned: pp. 147-151 and 159",
+      "url": "https://www.jstor.org/stable/25137954"
+    },
+    {
+      "citation": "Morgan, Whitney. “Museum Accessions.” <em>Parnassus</em>, vol. 11, no. 1, 1939, pp. 37–41.",
+      "page_number": "Reproduced: p. 37",
+      "url": "https://www.jstor.org/stable/771774"
+    },
+    {
+      "citation": "Hollis, Howard. “Corrections in Previous Articles on Oriental Objects.” <em>The Bulletin of the Cleveland Museum of Art</em> 32, no. 7 (1945): 141.",
+      "page_number": "Mentioned: p. 141",
+      "url": "http://www.jstor.org/stable/25141228"
+    },
+    {
+      "citation": "“Art and Archaeology at the Cleveland Museum of Art.” <em>Archaeology</em>, vol. 6, no. 4, 1953, pp. 195–202.",
+      "page_number": "Mentioned and Reproduced: p. 200",
+      "url": "www.jstor.org/stable/41663172"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 805",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n143"
+    },
+    {
+      "citation": "Consten, Eleanor von Erdberg. <em>Das Alte China</em>. Stuttgart: G. Kilpper, 1958.",
+      "page_number": "Reprodcued: pl. 71. p. 107, 244",
+      "url": null
+    },
+    {
+      "citation": "Misugi, Takatoshi 三杉隆敏. Chūgoku kinseki tōji zukan [中國金石陶瓷圖鑑 = Old Chinese Art]. Ōsaka: Chūgoku Kinseki Tōji Zukan Kankōkai, 1961.",
+      "page_number": "Reproduced: no. 33",
+      "url": null
+    },
+    {
+      "citation": "Misugi, Takatoshi 三杉隆敏. Chūgoku kinseki tōji zukan [中國金石陶瓷圖鑑 = Old Chinese Art]. Ōsaka: Chūgoku Kinseki Tōji Zukan Kankōkai, 1961.",
+      "page_number": "Reproduced: no. 33",
+      "url": null
+    },
+    {
+      "citation": "Tucci, Giuseppe, and Antonio Gargano. <em>Le Civiltà dell'Oriente ... Sotto la dir. di Giuseppe Tucci</em> vol. 4 Arte [Roma]: G. Casini, 1962.",
+      "page_number": "p. 1100",
+      "url": null
+    },
+    {
+      "citation": "Jenyns, Soame, and William Watson. <em>Chinese Art: The Minor Arts</em>. New York: Universe Books, 1963.",
+      "page_number": "p. 286",
+      "url": null
+    },
+    {
+      "citation": "Fontein, Jan. \"The Oriental Collection of the Cleveland Museum of Art.\" <em>Apollo: A Journal of the Arts</em> 78 (December 1963): 468-469.",
+      "page_number": "pp. 468-469",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. <em>A History of Far Eastern Art</em>. New York: H.N. Abrams, 1964.",
+      "page_number": "Reproduced: pp. 52-53",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 246",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n270"
+    },
+    {
+      "citation": "<em>Selected Works: Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: pl. 52",
+      "url": null
+    },
+    {
+      "citation": "Luzzatto-Bilitz, Oscar. <em>Lacche orientali</em>. Milano: Fratelli Fabbri, 1966.",
+      "page_number": "Reproduced: pl. 1",
+      "url": null
+    },
+    {
+      "citation": "Watson, William. <em>Early Civilization in China</em>. London: Thames &amp; Hudson, 1966.",
+      "page_number": "p. 129",
+      "url": null
+    },
+    {
+      "citation": "Riviere, Jean Roger. \"El Arte de la China.\" <em>Summa artis, historia general del arte</em> 20 (1966)",
+      "page_number": "p. 219",
+      "url": null
+    },
+    {
+      "citation": "Alsop, Joseph. \"Treasures of the Cleveland Museum of Art.\" <em>Art in America </em>54 no. 3 (May-June 1966). pp. 21-44.",
+      "page_number": "Reproduced: p. 22",
+      "url": null
+    },
+    {
+      "citation": "Alsop, Joseph. \"Les Chefs-d'Oeuvre de Premiere Importance du Second Musee des Etats-Unis.\" <em>Connaissance des arts </em>172 (June 1966).",
+      "page_number": "p. 63",
+      "url": null
+    },
+    {
+      "citation": "Munsterberg, Hugo. <em>Der Ferne Osten</em>. Baden-Baden: Holle, 1968.",
+      "page_number": "Reproduced: p. 33",
+      "url": null
+    },
+    {
+      "citation": "Aida, Yūji. <em>Sekai rekishi shirīzu </em>[世界歴史シリーズ = World History Series]. Vol. 3 Kodai Chūgoku 古代中国. Tōkyō: Sekai Bunkasha, 1968.",
+      "page_number": "Reproduced: p. 80",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 246",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n270"
+    },
+    {
+      "citation": "Froncek, Thomas, ed. and Hugh Honour. <em>The Horizon Book of the Arts of China</em>. New York: American Heritage Pub. Co, 1969.",
+      "page_number": "p. 265",
+      "url": null
+    },
+    {
+      "citation": "Kadokawa Shoten, ed. <em>A Pictorial Encyclopedia of the Oriental Arts: China</em>. Vol.1. New York: Crown Publishers, 1969.",
+      "page_number": "p. 10",
+      "url": null
+    },
+    {
+      "citation": "Fricke, Berthold, editor. <em>The Cleveland Museum of Art</em>. Hannover: Knorr &amp; Hirth, 1970.",
+      "page_number": "Reproduced: p. 94; Mentioned: p. 95",
+      "url": null
+    },
+    {
+      "citation": "Barnard, Noel. \"Some Remarks upon the Origin and the Nature of the Art of Ch'u.\" in <em>Waikato University China Papers: Proceedings of the First New Zealand International Conference on Chinese Studies, University of Waikato, Hamilton New Zealand, 17-20 May 1972</em>. Dov Bing, ed. Hamilton, New Zealand: Conference on Chinese Studies, 1972.",
+      "page_number": "Reproduced: fig. 6:12",
+      "url": null
+    },
+    {
+      "citation": "Cooper, Barbara, and Maureen Matheson, editors. T<em>he World Museums Guide</em>. London: Threshold Books Ltd, 1973.",
+      "page_number": "p. 78",
+      "url": null
+    },
+    {
+      "citation": "Glubok, Shirley. <em>The Art of China</em>. New York: Macmillan, 1973.",
+      "page_number": "p. 24",
+      "url": null
+    },
+    {
+      "citation": "Ridley, Michael. <em>Treasures of China</em>. New York: Arco Pub. Co, 1974.",
+      "page_number": "p. 36",
+      "url": null
+    },
+    {
+      "citation": "T'an Tan-chiung. \"The <em>Fei-i</em> and the Paired Dragon and Phoenix\" [«肥遺» 和 «龍鳳配»]. <em>Dong Wu da xue Zhongguo yi shu shi ji kan </em>[東吳大學中國藝術史集刊 = <em>Soochow University journal of Chinese art history </em>vol. 6 (September 1976): pp. 1-32.",
+      "page_number": "Reproduced: Pl. XV",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 327",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n347"
+    },
+    {
+      "citation": "Watson, William. <em>L'art de l'ancienne Chine</em>. Paris: Mazenod, 1979.",
+      "page_number": "Reproduced: pl. 180",
+      "url": null
+    },
+    {
+      "citation": "Guo li gu gong bo wu yuan [National Palace Museum = 國立故宮博物院].<em> Hai wai yi zhen. Qi qi </em>[Chinese art in overseas collections. Lacquerware = 海外遺珎. 漆器]. Taibei Shi Shilin qu Waishuangxi: Guo li gu gong bo wu yuan, 1987.",
+      "page_number": "Reproduced: pl. 2",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 9",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n24"
+    },
+    {
+      "citation": "Lee, Sherman E., and Naomi Noble Richard. <em>A History of Far Eastern Art</em>. New York: Harry N. Abrams, 1994.",
+      "page_number": "Mentioned and Reproduced: pp. 52–53, fig. 65",
+      "url": ""
+    },
+    {
+      "citation": "Watson, William. <em>The Arts of China to AD 900</em>. New Haven: Yale University Press, 1995.",
+      "page_number": "Reproduced: cover and figs. 122–123",
+      "url": null
+    },
+    {
+      "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland: Cleveland Museum of Art, 1998.",
+      "page_number": "Reproduced: pp. 30-31",
+      "url": null
+    },
+    {
+      "citation": "Kontler, Christine. <em>Arts et sagesses de la Chine</em>. [Saint-Léger-Vauban]: Zodiaque, 2000.",
+      "page_number": "Reproduced: pl. no. 24, pp. 71-72",
+      "url": null
+    },
+    {
+      "citation": "Scarpari, Maurizio. <em>Ancient China: Chinese civilization from the origins to the Tang Dynasty</em>. Vercelli: White Star, 2000.",
+      "page_number": "Reproduced: no. 214, p. 214",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "Reproduced: no. 77, p. 73; Mentioned: p. 118",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 53 no. 05, September/October 2013",
+      "page_number": "Mentioned and reproduced: p. 14",
+      "url": "https://archive.org/details/CMAMM2013-05/page/14"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1938.9",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_web.jpg",
+      "width": "770",
+      "height": "900",
+      "filesize": "185650",
+      "filename": "1938.9_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_print.jpg",
+      "width": "2909",
+      "height": "3400",
+      "filesize": "2144314",
+      "filename": "1938.9_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_full.tif",
+      "width": "3664",
+      "height": "4282",
+      "filesize": "47091272",
+      "filename": "1938.9_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt0_web.jpg",
+        "width": "900",
+        "height": "872",
+        "filesize": "99683"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt0_print.jpg",
+        "width": "3400",
+        "height": "3294",
+        "filesize": "920424"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt0_full.tif",
+        "width": "6020",
+        "height": "5832",
+        "filesize": "105349876"
+      },
+      "date_created": "2013-11-15T09:51:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt1_web.jpg",
+        "width": "714",
+        "height": "900",
+        "filesize": "93192"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt1_print.jpg",
+        "width": "2697",
+        "height": "3400",
+        "filesize": "859773"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt1_full.tif",
+        "width": "4483",
+        "height": "5652",
+        "filesize": "76037564"
+      },
+      "date_created": "2013-11-15T10:20:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt2_web.jpg",
+        "width": "759",
+        "height": "900",
+        "filesize": "97128"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt2_print.jpg",
+        "width": "2868",
+        "height": "3400",
+        "filesize": "865814"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt2_full.tif",
+        "width": "4804",
+        "height": "5696",
+        "filesize": "82114712"
+      },
+      "date_created": "2013-11-15T10:25:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt3_web.jpg",
+        "width": "857",
+        "height": "900",
+        "filesize": "107735"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt3_print.jpg",
+        "width": "3239",
+        "height": "3400",
+        "filesize": "1049377"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt3_full.tif",
+        "width": "5308",
+        "height": "5572",
+        "filesize": "88752484"
+      },
+      "date_created": "2013-11-15T10:31:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt4_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "173412"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt4_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "1767794"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt4_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144023776"
+      },
+      "date_created": "2013-11-15T10:57:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt5_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "167484"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt5_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "1609995"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt5_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144023880"
+      },
+      "date_created": "2013-11-15T11:04:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt6_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "165074"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt6_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "1453217"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt6_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144023504"
+      },
+      "date_created": "2013-11-15T11:14:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt7_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "117402"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt7_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "1029525"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt7_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144023224"
+      },
+      "date_created": "2013-11-15T11:18:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt8_web.jpg",
+        "width": "740",
+        "height": "893",
+        "filesize": "49444"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt8_print.jpg",
+        "width": "3147",
+        "height": "3400",
+        "filesize": "7378952"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt8_full.tif",
+        "width": "6100",
+        "height": "6590",
+        "filesize": "120618208"
+      },
+      "date_created": "2009-12-08T21:54:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt9_web.jpg",
+        "width": "827",
+        "height": "893",
+        "filesize": "538037"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt9_print.jpg",
+        "width": "3147",
+        "height": "3400",
+        "filesize": "7233281"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt9_full.tif",
+        "width": "4628",
+        "height": "5000",
+        "filesize": "69449440"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt10_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "865707"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt10_print.jpg",
+        "width": "3400",
+        "height": "2266",
+        "filesize": "5861525"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt10_full.tif",
+        "width": "5000",
+        "height": "3333",
+        "filesize": "50023356"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt11_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "384014"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt11_print.jpg",
+        "width": "2266",
+        "height": "3400",
+        "filesize": "4594246"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt11_full.tif",
+        "width": "3333",
+        "height": "5000",
+        "filesize": "50021416"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt12_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "427943"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt12_print.jpg",
+        "width": "2266",
+        "height": "3400",
+        "filesize": "5086092"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt12_full.tif",
+        "width": "3333",
+        "height": "5000",
+        "filesize": "50023788"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt13_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "766082"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt13_print.jpg",
+        "width": "3400",
+        "height": "2266",
+        "filesize": "5075352"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt13_full.tif",
+        "width": "5000",
+        "height": "3333",
+        "filesize": "50022472"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt14_web.jpg",
+        "width": "1263",
+        "height": "469",
+        "filesize": "374538"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt14_print.jpg",
+        "width": "3400",
+        "height": "1263",
+        "filesize": "2452731"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt14_full.tif",
+        "width": "5000",
+        "height": "1857",
+        "filesize": "27875560"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt15_web.jpg",
+        "width": "1263",
+        "height": "575",
+        "filesize": "460633"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt15_print.jpg",
+        "width": "3400",
+        "height": "1549",
+        "filesize": "2969300"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt15_full.tif",
+        "width": "5000",
+        "height": "2278",
+        "filesize": "34191360"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt16_web.jpg",
+        "width": "394",
+        "height": "893",
+        "filesize": "196220"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt16_print.jpg",
+        "width": "1501",
+        "height": "3400",
+        "filesize": "2279495"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt16_full.tif",
+        "width": "2208",
+        "height": "5000",
+        "filesize": "33140772"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt17_web.jpg",
+        "width": "446",
+        "height": "893",
+        "filesize": "214108"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt17_print.jpg",
+        "width": "1697",
+        "height": "3400",
+        "filesize": "2447996"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt17_full.tif",
+        "width": "2495",
+        "height": "5000",
+        "filesize": "37445832"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt18_web.jpg",
+        "width": "404",
+        "height": "893",
+        "filesize": "207456"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt18_print.jpg",
+        "width": "1539",
+        "height": "3400",
+        "filesize": "2473289"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt18_full.tif",
+        "width": "2263",
+        "height": "5000",
+        "filesize": "33965516"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt19_web.jpg",
+        "width": "543",
+        "height": "893",
+        "filesize": "279017"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt19_print.jpg",
+        "width": "2068",
+        "height": "3400",
+        "filesize": "3598573"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt19_full.tif",
+        "width": "3041",
+        "height": "5000",
+        "filesize": "45636668"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt20_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "218848"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt20_print.jpg",
+        "width": "2266",
+        "height": "3400",
+        "filesize": "3303214"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt20_full.tif",
+        "width": "3333",
+        "height": "5000",
+        "filesize": "50017100"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt21_web.jpg",
+        "width": "763",
+        "height": "893",
+        "filesize": "261477"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt21_print.jpg",
+        "width": "2905",
+        "height": "3400",
+        "filesize": "3780150"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt21_full.tif",
+        "width": "4096",
+        "height": "4794",
+        "filesize": "58930348"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt22_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "395449"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt22_print.jpg",
+        "width": "2266",
+        "height": "3400",
+        "filesize": "4525396"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_alt22_full.tif",
+        "width": "3333",
+        "height": "5000",
+        "filesize": "50023844"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": "1b7e690bf1df4c4cb053857f5b86cf8a",
+  "sketchfab_url": "https://sketchfab.com/models/1b7e690bf1df4c4cb053857f5b86cf8a",
+  "gallery_donor_text": null,
+  "athena_id": 117940,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1938-01-17T00:00:00",
+  "sortable_date": -475,
+  "date_added_to_oa": null,
+  "date_text": "475–221 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Cranes and Serpents: Drum Stand",
+    "Drum Stand"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-09-10 20:45:59.828000"
+}

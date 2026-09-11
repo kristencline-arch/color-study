@@ -1,0 +1,488 @@
+{
+  "id": 149683,
+  "accession_number": "1979.71",
+  "share_license_status": "CC0",
+  "tombstone": "Arhat (세공양존자 [世供養尊者]), 1235. Korea, Goryeo dynasty (918–1392). Hanging scroll; ink and slight color on silk; image: 52.7 x 40.6 cm (20 3/4 x 16 in.); overall: 140 x 54.1 cm (55 1/8 x 21 5/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1979.71",
+  "current_location": null,
+  "title": "Arhat",
+  "title_in_original_language": "세공양존자 [世供養尊者]",
+  "creation_date": "1235",
+  "creation_date_earliest": 1235,
+  "creation_date_latest": 1235,
+  "artists_tags": [],
+  "culture": [
+    "Korea, Goryeo dynasty (918–1392)"
+  ],
+  "technique": "Hanging scroll; ink and slight color on silk",
+  "support_materials": [],
+  "department": "Korean Art",
+  "collection": "ASIAN - Hanging scroll",
+  "type": "Painting",
+  "measurements": "Image: 52.7 x 40.6 cm (20 3/4 x 16 in.); Overall: 140 x 54.1 cm (55 1/8 x 21 5/16 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.527,
+      "height_inch": 20,
+      "height_inch_fraction": 0.75,
+      "width": 0.406,
+      "width_inch": 16,
+      "width_inch_fraction": 0.0
+    },
+    "overall": {
+      "height": 1.4,
+      "height_inch": 55,
+      "height_inch_fraction": 0.125,
+      "width": 0.541,
+      "width_inch": 21,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 304412,
+        "title": "Year in Review: 1979",
+        "description": "<i>Year in Review: 1979</i>. The Cleveland Museum of Art (organizer) (February 13-March 9, 1980).",
+        "opening_date": "1980-02-13T05:00:00"
+      },
+      {
+        "id": 304427,
+        "title": "Korea: Bridge of Culture",
+        "description": "<i>Korea: Bridge of Culture</i>. The Cleveland Museum of Art (organizer) (June 11-August 10, 1980).",
+        "opening_date": "1980-06-11T04:00:00"
+      },
+      {
+        "id": 314048,
+        "title": "Buddhist Portraiture",
+        "description": "<i>Buddhist Portraiture</i>. Nara National Museum, Nara 630, Japan (organizer) (April 29-June 7, 1981).",
+        "opening_date": "1981-04-29T04:00:00"
+      },
+      {
+        "id": 442377,
+        "title": "日本の仏教を築いた人びと: その肖像と書 (Those Who Built Japanese Buddhism: Portraits and Calligraphy)",
+        "description": "<i>日本の仏教を築いた人びと: その肖像と書 (Those Who Built Japanese Buddhism: Portraits and Calligraphy)</i>. Nara National Museum, Nara 630, Japan (organizer) (April 29-June 7, 1981).",
+        "opening_date": "1981-04-29T04:00:00"
+      },
+      {
+        "id": 311446,
+        "title": "Asian Autumn: Masterpieces from the Collection",
+        "description": "<i>Asian Autumn: Masterpieces from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17, 1991-January 5, 1992).",
+        "opening_date": "1991-09-17T04:00:00"
+      },
+      {
+        "id": 211775,
+        "title": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+        "description": "<i>Highlights of Asian Paintings from The Cleveland Museum of Art</i>. Nara National Museum (organizer) (February 21-March 29, 1998); Suntory Museum of Art (April 28-June 21, 1998).",
+        "opening_date": "1998-02-21T00:00:00"
+      },
+      {
+        "id": 222275,
+        "title": "Goryeo Dynasty: Korea's Age of Enlightenment (918-1392)",
+        "description": "<i>Goryeo Dynasty: Korea's Age of Enlightenment (918-1392)</i>. Asian Art Museum of San Francisco, San Francisco, CA (organizer) (October 22, 2003-January 11, 2004).",
+        "opening_date": "2003-10-22T00:00:00"
+      },
+      {
+        "id": 196054,
+        "title": "Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art",
+        "description": "<i>Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 27-August 23, 2009).",
+        "opening_date": "2009-06-27T04:00:00"
+      },
+      {
+        "id": 230948,
+        "title": "Masterpieces of Goryeo Buddhist Paintings",
+        "description": "<i>Masterpieces of Goryeo Buddhist Paintings</i>. National Museum of Korea, Seoul, Korea (Republic of) (organizer) (October 11-November 21, 2010).",
+        "opening_date": "2010-10-11T00:00:00"
+      },
+      {
+        "id": 309000,
+        "title": "Korean Gallery 236 Rotation",
+        "description": "<i>Korean Gallery 236 Rotation</i>. The Cleveland Museum of Art (organizer) (July 16, 2018-January 20, 2019).",
+        "opening_date": "2018-07-16T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 237)</em>. The Cleveland Museum of Art, Cleveland, OH (May 29- December 23, 2013).",
+        "opening_date": "2013-05-29T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Fugendo Co., Tokyo, Japan, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1979",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1979–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This painting that depicts an <em>arhat</em>, a human being who has achieved enlightenment, used to be part of a set of 500 hanging scrolls.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "An arhat (Nahan in Korean), an advanced disciple of the Buddha, is represented here in profile with a halo encircling his head. This particular arhat is Segongyang jonja, numbered as the 464th of 500 arhats. He sits on a woven bamboo stool, is luring a dragon into an alms bowl. This hanging scroll is one of only about ten known works that survive today, all of which (except for Cleveland’s piece) are currently preserved in Korea or Japan.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60474076"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1979.71-arhat"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Yamato Bunkakan 大和文華館. <em>Tokubetsuten Kōrai butsuga: Waga kuni ni shōraisareta ringoku no konjiki no hotoketachi</em> 特別展高麗仏画 : わが国に請来された隣国の金色の仏たち [Special exhibition Korean Buddhist paintings of Koryo dynasty (918–1392)]. Nara: Yamato Bunkakan, 1978.",
+      "page_number": "no. 53",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. \"The Year in Review for 1979.\" <em>The Bulletin of the Cleveland Museum of Art</em> 67, no. 3 (1980): 58–99.",
+      "page_number": "Reproduced: cat. no. 134, p. 82; Mentioned: p. 62",
+      "url": "https://www.jstor.org/stable/25159667"
+    },
+    {
+      "citation": "Kikutake Junichi 菊竹淳一 and Yoshida Hiroshi 吉田宏志, eds. <em>Kōrai butsuga </em>高麗仏画 [Goryeo Buddhist painting]. Tokyo: Asahi shimbunsha, 1981.",
+      "page_number": "Mentioned and Reproduced: pp. 39, 58, 146, pl. 62",
+      "url": ""
+    },
+    {
+      "citation": "Nara Kokuritsu Hakubutsukan 奈良国立博物館. <em>Nihon no Bukkyō o kizuita hitobito: sono shōzō to sho</em> [日本の仏教を築いた人びと: その肖像と書 = Special exhibition of Buddhist portraiture]. Nara: Nara Kokuritsu Hakubutsukan, Shōwa 56 [1981].",
+      "page_number": "cat. no. 200",
+      "url": null
+    },
+    {
+      "citation": "Williams, Marjorie L. “Korean Art in Western Collections: Korean Art in the Cleveland Museum of Art.” <em>Korean Culture</em> 3, no. 4 (December 1982): 4–17.",
+      "page_number": "Reproduced: cover and pl. 4",
+      "url": ""
+    },
+    {
+      "citation": "Hanguk Gukje Gyoryu Jaedan 한국국제교류재단. <em>Miguk bangmulgwan sojang Hanguk munhwajae</em> 미국박물관 소장 한국문화재 [Korean Relics in the United States]. Seoul: Hanguk Gukje Munhwa Hyeopoe, 1989.",
+      "page_number": "Reproduced: p. 186, pl. 33",
+      "url": ""
+    },
+    {
+      "citation": "Moon Myongdae 문명대. <em>Goryeo bulhwa</em> 고려불화. Seoul: Youlhwadang, 1991.",
+      "page_number": "p. 47",
+      "url": ""
+    },
+    {
+      "citation": "Chung Woothak 鄭于澤. “Kōrai jidai no rakan gazō 高麗時代の羅漢画像 [Painting of Arhat in the Goryeo Dynasty].” <em>Yamato bunka</em> 大和文華 92 (1994).",
+      "page_number": "Reproduced: p. 38, fig. 7",
+      "url": ""
+    },
+    {
+      "citation": "Kikutake Junichi 菊竹淳一 and Chung Woothak 鄭于澤, eds. <em>The Buddhist Painting of Goryeo Dynasty </em>[고려시대의 불화 = <em>Goryeo sidae ui bulhwa</em>]<em>.</em> Seoul: Sigongsa, 1996.",
+      "page_number": "Reproduced: vol. 1, p. 271, no. 128, Mentioned: vol. 2, p. 101",
+      "url": null
+    },
+    {
+      "citation": "Hanguk Gukje Gyoryu Jaedan 한국국제교류재단. <em>Miguk sojang Hanguk munhwajae </em>[미국 소장. 2, 호놀룰루 美術館, 클리블랜드 博物館, 시카고 美術館, 시애틀 博物館 = The Korean relics in the United States. 2, The Honolulu Academy of Arts, The Cleveland Museum of Art, The Art Institute of Chicago, The Seattle Art Museum]. Seoul: Hanguk Gukje Gyoryu Jaedan, 1996.",
+      "page_number": "Reproduced: p. 186, fig. 33",
+      "url": ""
+    },
+    {
+      "citation": "Tōyō kaiga no seika: tokubetsuten: Kurīvurando Bijutsukan no korekushon kara [東洋絵画の精華 : 特别展 : クリーヴラント美術館のコレクションから = Highlights of Asian painting from the Cleveland Museum of Art]. Nara, Japan: Nara National Museum, 1998.",
+      "page_number": "Reproduced: p. 76, cat. no. 47",
+      "url": null
+    },
+    {
+      "citation": "Kikutake Junichi 菊竹淳一 and Chung Woothak 鄭于澤, eds. <em>Kōrai jidai no butsuga</em> 高麗時代の仏画 [The Buddhist paintings of Koryo Dynasty]. Seoul: Sigongsa, 2000.",
+      "page_number": "Mentioned and Reproduced: pp. 271, 471, pl. 128",
+      "url": ""
+    },
+    {
+      "citation": "<em>Gudo wa kkaedareum ui seongja nahan</em> 求道와 깨달음의 聖者 羅漢 [The Arhats: The Holy Men of Truth and Enlightenment]. Chuncheon: Gungnip Chuncheon Bangmulgwan 국립춘천박물관, 2003.",
+      "page_number": "Reproduced: p. 65, no. 42",
+      "url": ""
+    },
+    {
+      "citation": "<em>Goryeo Dynasty: Korea's Age of Enlightenment, 918-1392</em>. San Francisco: Asian Art Museum, 2003.",
+      "page_number": "Reproduced: p. 89, cat. no. 22",
+      "url": null
+    },
+    {
+      "citation": "<em>Masterpieces of Goryeo Buddhist Painting</em> [고려 불화 대전 ]. Seoul: National Museum of Korea, 2010.",
+      "page_number": "Reproduced: p. 192, no. 84, Mentioned: p. 309",
+      "url": null
+    },
+    {
+      "citation": "Park, Hyewon. “Masterpieces of Goryeo Buddhist Painting.” <em>National Museum of Korea</em> 13 (Autumn 2010): 10.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Jeong, Woo-taek [= Chung Woothak 정우택 鄭于澤]. “The Selection and Transformation of Chinese Buddhist painting in the Goryeo Period [고려의 중국불화 선택과 변용].” <em>Misulsa yeongu</em> (2011): 109–136.",
+      "page_number": null,
+      "url": "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01791591"
+    },
+    {
+      "citation": "Kim, Jung-hee. \"The Patrons and Donors of Goryeo Buddhist Paintings [高麗佛畵의 發願者와 施主者].” <em>Kangjwa misulsa</em> (2012): 251-284.",
+      "page_number": null,
+      "url": "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09054241"
+    },
+    {
+      "citation": "Chung Woothak 정우택 鄭于澤. “Miguk sojae Hanguk bulhwa josa yeongu 미국소재 한국불화 조사 연구 [Investigation Research on the Korean Buddhist Painting in the United States].” <em>Dongak misulsahak</em> 東岳美術史學 13 (2012): 46–47.",
+      "page_number": "Reproduced: fig. 15",
+      "url": ""
+    },
+    {
+      "citation": "Pak, Eun-kyung. “About Silk and Enshrinement Practice of Goryeo Buddhist Painting [高麗佛畵의 변죽: 本地, 畵幅, 奉安에 대한 問題].” <em>Misulsa nondan</em> (2012): 35-65.",
+      "page_number": null,
+      "url": "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01909570"
+    },
+    {
+      "citation": "Lyu Mari 유마리. <em>Amita bulhwa ui yeongu</em> 아미타불화의 연구. Daejeon: Munhwajaecheong, 2013.",
+      "page_number": "Mentioned and Reproduced: pp. 595–596, 609, fig. 6.",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 250",
+      "url": ""
+    },
+    {
+      "citation": "Shin, Kwanghee 신광희. <em>Hanguk ui nahando</em> 한국의 나한도 [Arhat Paintings in Korea]. Seoul: Hanguk Misul Yeonguso, 2014.",
+      "page_number": "Reproduced: p. 82, fig. 36",
+      "url": ""
+    },
+    {
+      "citation": "Shin, Kwang Hee. \"A Sixteenth-Century Arhat Painting Commissioned by Queen Munjeong: Deoksewi, 153rd of the 500 Arhats, in the Collection of the Los Angeles County Museum of Art.\" <em>Journal of Korean Art and Archaeology</em>, no. 9 (2015): 93-108.",
+      "page_number": "Reproduced: p. 100",
+      "url": null
+    },
+    {
+      "citation": "<em>Goryeo: The Glory of Korea </em>[대고려, 그 찬란한 도전]. Seoul: National Museum of Korea, 2018.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "McCormick, Sooa Im. \"The Past and Present of the Korean Collection in the Cleveland Museum of Art.\" In <em>The Korean Collection of the Cleveland Museum of Art</em>. Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, 국외소재문화재재단, and An Min-hŭi, ed., 22-37. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+      "page_number": "Mentioned and reproduced: P. 30, fig. 22",
+      "url": ""
+    },
+    {
+      "citation": "Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, and 국외소재문화재재단. <em>The Korean Collection of the Cleveland Museum of Art</em>. Edited by An Min-hŭi. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+      "page_number": "Mentioned and reproduced: p. 154-157, no. 102",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1979.71",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_web.jpg",
+      "width": "396",
+      "height": "900",
+      "filesize": "135051",
+      "filename": "1979.71_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_print.jpg",
+      "width": "1496",
+      "height": "3400",
+      "filesize": "1709486",
+      "filename": "1979.71_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_full.tif",
+      "width": "2781",
+      "height": "6322",
+      "filesize": "52773860",
+      "filename": "1979.71_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt0_web.jpg",
+        "width": "393",
+        "height": "893",
+        "filesize": "282822"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt0_print.jpg",
+        "width": "1496",
+        "height": "3400",
+        "filesize": "4323349"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt0_full.tif",
+        "width": "2781",
+        "height": "6322",
+        "filesize": "52773860"
+      },
+      "date_created": "2009-04-03T13:21:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt1_web.jpg",
+        "width": "396",
+        "height": "900",
+        "filesize": "135051"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt1_print.jpg",
+        "width": "1496",
+        "height": "3400",
+        "filesize": "1709486"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt1_full.tif",
+        "width": "2781",
+        "height": "6322",
+        "filesize": "52773860"
+      },
+      "date_created": "2009-04-03T13:21:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt2_web.jpg",
+        "width": "691",
+        "height": "893",
+        "filesize": "512971"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt2_print.jpg",
+        "width": "2632",
+        "height": "3400",
+        "filesize": "7496389"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt2_full.tif",
+        "width": "3802",
+        "height": "4912",
+        "filesize": "56057840"
+      },
+      "date_created": "2009-04-03T13:38:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt3_web.jpg",
+        "width": "697",
+        "height": "900",
+        "filesize": "229785"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt3_print.jpg",
+        "width": "2632",
+        "height": "3400",
+        "filesize": "2963257"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt3_full.tif",
+        "width": "3802",
+        "height": "4912",
+        "filesize": "56057840"
+      },
+      "date_created": "2009-04-03T13:38:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt4_web.jpg",
+        "width": "456",
+        "height": "893",
+        "filesize": "373801"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt4_print.jpg",
+        "width": "1735",
+        "height": "3400",
+        "filesize": "5452194"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt4_full.tif",
+        "width": "3240",
+        "height": "6349",
+        "filesize": "61742632"
+      },
+      "date_created": "2009-04-03T13:41:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt5_web.jpg",
+        "width": "459",
+        "height": "900",
+        "filesize": "197263"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt5_print.jpg",
+        "width": "1735",
+        "height": "3400",
+        "filesize": "2334816"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt5_full.tif",
+        "width": "3240",
+        "height": "6349",
+        "filesize": "61742632"
+      },
+      "date_created": "2009-04-03T13:41:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt6_web.jpg",
+        "width": "681",
+        "height": "893",
+        "filesize": "529409"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt6_print.jpg",
+        "width": "1536",
+        "height": "2014",
+        "filesize": "2791683"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.71/1979.71_alt6_full.tif",
+        "width": "1536",
+        "height": "2014",
+        "filesize": "9283916"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 149683,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1979-11-14T00:00:00",
+  "sortable_date": 1235,
+  "date_added_to_oa": null,
+  "date_text": "1235",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Arhat (Nahan)"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-09-10 12:11:46.533000"
+}

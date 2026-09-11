@@ -1,4 +1,5 @@
 import {getCatalogDb, normalizeSearch, publicCatalogPhoto} from '../db/catalog.mjs';
+import collections from '../public/collections.json';
 
 const response = (value, status = 200, headers = {}) => Response.json(value, {status, headers: {
   'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff', 'Access-Control-Allow-Origin': '*', ...headers,
@@ -7,6 +8,12 @@ const invalid = message => Object.assign(new Error(message), {status: 400});
 
 function filters(params, revision) {
   const where = ['release_id = ?'], args = [revision];
+  const collection = params.get('collection');
+  if (collection) {
+    if (!collections.some(item => item.id === collection)) throw invalid('Choose a valid collection.');
+    where.push("EXISTS (SELECT 1 FROM json_each(data_json, '$.collections') WHERE value = ?)");
+    args.push(collection);
+  }
   const query = params.get('q')?.trim() || '';
   if (query.length > 120) throw invalid('Search with up to 120 characters.');
   for (const word of normalizeSearch(query).split(/\s+/).filter(Boolean)) {
@@ -41,7 +48,7 @@ export async function handleCatalog(request, env) {
     }
     const pageText = url.searchParams.get('page') || '1';
     if (!/^[1-9]\d{0,4}$/.test(pageText)) throw invalid('Choose a valid collection page.');
-    const page = Number(pageText), limit = 18;
+    const page = Number(pageText), limit = 36;
     const {where, args} = filters(url.searchParams, revision);
     const sort = url.searchParams.get('sort') || 'featured';
     const order = new Map([['featured', 'sort_order, id'], ['oldest', '(year_start IS NULL), year_start, id'], ['newest', '(year_end IS NULL), year_end DESC, id']]).get(sort);

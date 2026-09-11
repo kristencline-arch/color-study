@@ -1,0 +1,73 @@
+{
+  "objectID": 254440,
+  "isHighlight": false,
+  "accessionNumber": "41.162.272",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP114272.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP114272.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Wall painting fragment",
+  "title": "Wall painting fragment",
+  "culture": "Roman",
+  "period": "Early Imperial",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1st century CE",
+  "objectBeginDate": 1,
+  "objectEndDate": 99,
+  "medium": "Fresco",
+  "dimensions": "Overall: 5 11/16 in. (14.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 14.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/254440",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116287805",
+  "isTimelineWork": false,
+  "GalleryNumber": "171"
+}

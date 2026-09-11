@@ -1,0 +1,158 @@
+{
+  "id": 108411,
+  "accession_number": "1926.141",
+  "share_license_status": "CC0",
+  "tombstone": "Roundel from a Blanket or Cover, 300s–400s CE. Egypt, Byzantine period. Tapestry weave with supplementary weft wrapping; undyed linen and dyed wool; overall: 49.5 x 55.3 cm (19 1/2 x 21 3/4 in.); mounted: 59.7 x 65.4 cm (23 1/2 x 25 3/4 in.). The Cleveland Museum of Art, Gift of George D. Pratt, 1926.141",
+  "current_location": null,
+  "title": "Roundel from a Blanket or Cover",
+  "creation_date": "300s–400s CE",
+  "creation_date_earliest": 300,
+  "creation_date_latest": 499,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "tapestry weave with supplementary weft wrapping; undyed linen and dyed wool",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 49.5 x 55.3 cm (19 1/2 x 21 3/4 in.); Mounted: 59.7 x 65.4 cm (23 1/2 x 25 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.495,
+      "height_inch": 19,
+      "height_inch_fraction": 0.5,
+      "width": 0.553,
+      "width_inch": 21,
+      "width_inch_fraction": 0.75
+    },
+    "mounted": {
+      "height": 0.597,
+      "height_inch": 23,
+      "height_inch_fraction": 0.5,
+      "width": 0.654,
+      "width_inch": 25,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383006,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 4, 2011-May 21, 2012).",
+        "opening_date": "2011-04-04T04:00:00"
+      },
+      {
+        "id": 343673,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 23, 2017-May 14, 2018).",
+        "opening_date": "2017-05-23T04:00:00"
+      },
+      {
+        "id": 457591,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art (organizer) (November 21, 2022-November 12, 2023).",
+        "opening_date": "2022-11-12T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The center element has been lost.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Since pharaohs ruled ancient Egypt, linen cloth was woven with woolen loops for increased warmth and used as blankets and covers. Monochrome or single-color decoration as seen here dates this piece to the AD 300s. Polychrome or multicolor designs came later. Formed with deep purple wool and natural linen, the design consists of an outer circle with a knotted square inside.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80056702"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1926.141-roundel-from-a-blank"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1926.141",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_web.jpg",
+      "width": "998",
+      "height": "893",
+      "filesize": "868668",
+      "filename": "1926.141_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_print.jpg",
+      "width": "3400",
+      "height": "3043",
+      "filesize": "10095736",
+      "filename": "1926.141_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_full.tif",
+      "width": "5291",
+      "height": "4736",
+      "filesize": "75212376",
+      "filename": "1926.141_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_alt0_web.jpg",
+        "width": "982",
+        "height": "893",
+        "filesize": "789824"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_alt0_print.jpg",
+        "width": "3400",
+        "height": "3093",
+        "filesize": "9986578"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.141/1926.141_alt0_full.tif",
+        "width": "5272",
+        "height": "4796",
+        "filesize": "75885636"
+      },
+      "date_created": "2011-02-16T16:37:22",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of George D. Pratt",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 108411,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1926-06-04T00:00:00",
+  "sortable_date": 300,
+  "date_added_to_oa": null,
+  "date_text": "300s–400s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Two Fragments of the Ornaments of a Large Cloth"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:48:18.910000"
+}

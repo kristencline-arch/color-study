@@ -1,0 +1,336 @@
+{
+  "id": 147039,
+  "accession_number": "1972.64",
+  "share_license_status": "CC0",
+  "tombstone": "Thunder God (Raijin), 1300s. Japan, Kamakura period (1185–1333). Wood with traces of gesso and red and black pigment; overall: 66.7 cm (26 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1972.64",
+  "current_location": null,
+  "title": "Thunder God (Raijin)",
+  "creation_date": "1300s",
+  "creation_date_earliest": 1300,
+  "creation_date_latest": 1399,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Kamakura period (1185–1333)"
+  ],
+  "technique": "wood with traces of gesso and red and black pigment",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "Japanese Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 66.7 cm (26 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.667,
+      "height_inch": 26,
+      "height_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301752,
+        "title": "Year in Review: 1972",
+        "description": "<i>Year in Review: 1972</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 27-March 18, 1973).",
+        "opening_date": "1973-02-27T05:00:00"
+      },
+      {
+        "id": 358325,
+        "title": "Masterworks of Wood: China and Japan",
+        "description": "<i>Masterworks of Wood: China and Japan</i>. Portland Art Museum, Portland, OR (organizer) (November 4-December 5, 1976); Asia House Galleries, New York City, NY (January 13-March 27, 1977).",
+        "opening_date": "1976-11-04T05:00:00"
+      },
+      {
+        "id": 309646,
+        "title": "Reflections of Reality in Japanese Art",
+        "description": "<i>Reflections of Reality in Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 16-May 1, 1983).",
+        "opening_date": "1983-03-16T04:00:00"
+      },
+      {
+        "id": 309844,
+        "title": "Byobu: The Art of the Japanese Screen",
+        "description": "<i>Byobu: The Art of the Japanese Screen</i>. The Cleveland Museum of Art (organizer) (August 1-October 14, 1984).",
+        "opening_date": "1984-08-01T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Setsu Gatoda Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1972",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1972–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The Thunder (Raijin) and Wind (Fujin) gods first appeared in early Buddhist art in China and Japan and were based on the popular imagery in India that was derived from the life of the historical Buddha, Shakyamuni. They were shown among a group of demon-monsters flying through the sky above the meditating Shakyamuni in an attempt to frighten away his concentration. Raijin is surrounded by a ring of small drums struck by a stick held in his hand so that he is always accompanied by a thunderous noise. A metal clasp protruding from this sculptures' back indicates that a ring of drums was once attached to the Cleveland Raijin. The matching sculpture, Fujin, is in the Fukuoka Art Museum in Japan.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79926017"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1972.64-thunder-god-raijin"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman E. “The Year in Review for 1972.” <em>The Bulletin of the Cleveland Museum of Art</em> 60, no. 3 (March 1973): 63–115.",
+      "page_number": "Mentioned: pp. 65, 115; Reproduced: no. 329, p. 99",
+      "url": "http://www.jstor.org/stable/25093732"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 372",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n392"
+    },
+    {
+      "citation": "Shimizu Zenzō, \"Japanese Sculptures in America and Canada,\" <em>Bukkyō geijutsu</em> [佛教藝術= Ars Buddhica] , no. 126 (September 1979), part I, pp. 67–88.",
+      "page_number": "Reproduced: fig. 16, p. 71",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1972.64",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_web.jpg",
+      "width": "737",
+      "height": "900",
+      "filesize": "152392",
+      "filename": "1972.64_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_print.jpg",
+      "width": "2784",
+      "height": "3400",
+      "filesize": "1420716",
+      "filename": "1972.64_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_full.tif",
+      "width": "5188",
+      "height": "6336",
+      "filesize": "98645084",
+      "filename": "1972.64_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt0_web.jpg",
+        "width": "802",
+        "height": "900",
+        "filesize": "165006"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt0_print.jpg",
+        "width": "3031",
+        "height": "3400",
+        "filesize": "1575490"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt0_full.tif",
+        "width": "5529",
+        "height": "6202",
+        "filesize": "102904388"
+      },
+      "date_created": "2014-04-23T11:29:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt1_web.jpg",
+        "width": "709",
+        "height": "900",
+        "filesize": "139642"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt1_print.jpg",
+        "width": "2680",
+        "height": "3400",
+        "filesize": "1259502"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt1_full.tif",
+        "width": "4925",
+        "height": "6247",
+        "filesize": "92330324"
+      },
+      "date_created": "2014-04-23T11:43:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt2_web.jpg",
+        "width": "695",
+        "height": "900",
+        "filesize": "139630"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt2_print.jpg",
+        "width": "2624",
+        "height": "3400",
+        "filesize": "1139202"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt2_full.tif",
+        "width": "4773",
+        "height": "6184",
+        "filesize": "88579840"
+      },
+      "date_created": "2014-04-23T11:48:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt3_web.jpg",
+        "width": "713",
+        "height": "900",
+        "filesize": "134390"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt3_print.jpg",
+        "width": "2694",
+        "height": "3400",
+        "filesize": "1276238"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt3_full.tif",
+        "width": "5247",
+        "height": "6622",
+        "filesize": "104267576"
+      },
+      "date_created": "2014-04-23T12:01:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt4_web.jpg",
+        "width": "685",
+        "height": "900",
+        "filesize": "121223"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt4_print.jpg",
+        "width": "2587",
+        "height": "3400",
+        "filesize": "1062076"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt4_full.tif",
+        "width": "5143",
+        "height": "6758",
+        "filesize": "104299436"
+      },
+      "date_created": "2014-04-23T12:06:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt5_web.jpg",
+        "width": "621",
+        "height": "900",
+        "filesize": "130471"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt5_print.jpg",
+        "width": "2347",
+        "height": "3400",
+        "filesize": "1179130"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt5_full.tif",
+        "width": "4520",
+        "height": "6549",
+        "filesize": "88835140"
+      },
+      "date_created": "2014-04-23T12:18:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt6_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "155662"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt6_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "1264049"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt6_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144031632"
+      },
+      "date_created": "2014-04-23T12:26:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt7_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "166168"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt7_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "1302515"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.64/1972.64_alt7_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144032212"
+      },
+      "date_created": "2014-04-23T12:30:58",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147039,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1972-06-12T00:00:00",
+  "sortable_date": 1300,
+  "date_added_to_oa": null,
+  "date_text": "1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:32:39.163000"
+}

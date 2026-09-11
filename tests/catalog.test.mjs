@@ -4,6 +4,7 @@ import {readFile} from 'node:fs/promises';
 import {Miniflare} from 'miniflare';
 
 const sources = JSON.parse(await readFile(new URL('../public/sources.json', import.meta.url)));
+const collections = JSON.parse(await readFile(new URL('../public/collections.json', import.meta.url)));
 const {default: worker} = await import('../dist/server/index.js');
 const origin = 'https://color-study.example';
 const context = {waitUntil() {}, passThroughOnException() {}};
@@ -19,7 +20,7 @@ const page = async (path, bindings) => {const response = await send(path, undefi
 test('the collection seeds once into D1, persists across bindings, and preserves community records', async () => {
   const [first, concurrent] = await Promise.all([page(), page()]);
   assert.equal(first.collection_total, sources.length); assert.equal(first.total, sources.length);
-  assert.equal(first.photos.length, 18); assert.equal(first.revision, concurrent.revision);
+  assert.equal(first.photos.length, 36); assert.equal(first.revision, concurrent.revision);
   assert.match(first.revision, /^[a-f0-9]{64}$/);
   assert.equal((await env.DB.prepare('SELECT COUNT(*) AS total FROM catalog_releases').first()).total, 1);
   const fresh = await page(undefined, {...env, DB: await runtime.getD1Database('DB')});
@@ -39,9 +40,13 @@ test('material, region, date and multiword search combine without treating SQL o
   assert.ok(matches.photos.every(photo => photo.region === 'Andes' && photo.year_end < 500));
   const accented = await page('/api/catalog?q=chavin');
   assert.ok(accented.photos.some(photo => photo.id === 'cma-294034'));
-  for (const query of ["' OR 1=1 --", '%', '_', 'DROP TABLE catalog_photos']) {
+  for (const query of ["' OR 1=1 --", '_', 'DROP TABLE catalog_photos']) {
     assert.equal((await page('/api/catalog?q=' + encodeURIComponent(query))).total, 0);
   }
+  // Two radiocarbon date labels actually contain "95% probability". A percent
+  // sign must match those literal records rather than act as a SQL wildcard.
+  const percent = await page('/api/catalog?q=%25&download=all');
+  assert.deepEqual(new Set(percent.photos.map(photo => photo.id)), new Set(['cma-165257', 'met-444355']));
   assert.equal((await page('/api/catalog?before=500&download=all')).total, sources.filter(source => source.year_end !== null && source.year_end < 500).length);
   const counts = Object.fromEntries(textiles.filters.category.map(item => [item.value, item.count]));
   assert.equal(counts.Textiles, textiles.total);
@@ -70,6 +75,20 @@ test('catalog pagination covers every record once and sorting leaves undated wor
   assert.deepEqual((await page('/api/catalog?page=99999')).photos, []);
 });
 
+test('curated collections preserve explicit membership, combine with materials and export the complete selection', async () => {
+  for (const collection of collections) {
+    const result = await page(`/api/catalog?collection=${collection.id}&download=all`);
+    assert.equal(result.total, collection.count);
+    assert.deepEqual(new Set(result.photos.map(photo => photo.id)), new Set(collection.photo_ids));
+    assert.ok(result.photos.some(photo => photo.id === collection.cover));
+  }
+  const egyptianTextiles = await page('/api/catalog?collection=egypt&category=Textiles&download=all');
+  const expected = sources.filter(photo => photo.collections.includes('egypt') && photo.category === 'Textiles');
+  assert.ok(expected.length > 20);
+  assert.deepEqual(new Set(egyptianTextiles.photos.map(photo => photo.id)), new Set(expected.map(photo => photo.id)));
+  assert.equal((await page('/api/catalog?collection=rome&category=Textiles')).total, 0);
+});
+
 test('detail links open the selected lab study and export only the filtered public records', async () => {
   const {photo} = await page('/api/catalog/cma-294034');
   assert.equal(photo.id, 'cma-294034');
@@ -89,7 +108,7 @@ test('detail links open the selected lab study and export only the filtered publ
 });
 
 test('invalid filters fail clearly, unknown IDs stay missing and public catalog writes are rejected', async () => {
-  for (const query of ['page=0', 'page=-1', 'page=1.2', 'before=2026', 'sort=invalid', 'sort=constructor', 'q=' + 'a'.repeat(121)]) {
+  for (const query of ['page=0', 'page=-1', 'page=1.2', 'before=2026', 'sort=invalid', 'sort=constructor', 'collection=unknown', 'collection=constructor', 'q=' + 'a'.repeat(121)]) {
     assert.equal((await send('/api/catalog?' + query)).status, 400, query);
   }
   assert.equal((await send('/api/catalog/no-such-photo')).status, 404);
@@ -97,7 +116,7 @@ test('invalid filters fail clearly, unknown IDs stay missing and public catalog 
   assert.equal((await send('/api/catalog', undefined, {})).status, 503);
 });
 
-test('museum originals resolve to the exact archived image release without arbitrary redirects', async () => {
+test('imported museum and field originals resolve to the exact archived image release without arbitrary redirects', async () => {
   const release = JSON.parse(await readFile(new URL('../public/photo-release.json', import.meta.url)));
   assert.match(release.commit, /^[a-f0-9]{40}$/);
   for (const source of sources.filter(item => item.source_api)) {

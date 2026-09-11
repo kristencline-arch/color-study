@@ -1,0 +1,216 @@
+{
+  "id": 150633,
+  "accession_number": "1982.107.b",
+  "share_license_status": "CC0",
+  "tombstone": "Clavi (Decorative Band), 700s. Egypt, Umayyad period (661–750) or Abbasid period (750–1258). Wool; plain weave with slit-tapestry weave; overall: 80 x 17.8 cm (31 1/2 x 7 in.); mounted: 92.7 x 68.6 cm (36 1/2 x 27 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1982.107.b",
+  "current_location": "106A Migration Period & Coptic",
+  "title": "Clavi (Decorative Band)",
+  "creation_date": "700s",
+  "creation_date_earliest": 700,
+  "creation_date_latest": 799,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Umayyad period (661–750) or Abbasid period (750–1258)"
+  ],
+  "technique": "wool; plain weave with slit-tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 80 x 17.8 cm (31 1/2 x 7 in.); Mounted: 92.7 x 68.6 cm (36 1/2 x 27 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.8,
+      "height_inch": 31,
+      "height_inch_fraction": 0.5,
+      "width": 0.178,
+      "width_inch": 7,
+      "width_inch_fraction": 0.0
+    },
+    "mounted": {
+      "height": 0.927,
+      "height_inch": 36,
+      "height_inch_fraction": 0.5,
+      "width": 0.686,
+      "width_inch": 27,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311451,
+        "title": "Textiles from Egypt, Syria and Spain: 7th through 15th centuries",
+        "description": "<i>Textiles from Egypt, Syria and Spain: 7th through 15th centuries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 26-June 6, 1991).",
+        "opening_date": "1991-11-26T05:00:00"
+      },
+      {
+        "id": 437426,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 2, 2001-October 15, 2002).",
+        "opening_date": "2001-11-02T05:00:00"
+      },
+      {
+        "id": 383048,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 18, 2014-March 2, 2015).",
+        "opening_date": "2014-03-18T04:00:00"
+      },
+      {
+        "id": 343660,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 13, 2019-May 11, 2020).",
+        "opening_date": "2019-05-13T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Mrs. Paul Mallon, Paris.",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "82.107a"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Figures and winged animals from ancient Greece and Rome remained popular during the early Islamic period of the Umayyad and Abbasid dynasties. The naked figure could represent Dionysus, the Greek god of wine; he holds his thyrsus, a staff decorated with ivy leaves and pinecones, while pouring liquid from a small jug for the panther. These colorful designs probably adorned the sleeve and front or back of a tunic, a garment worn directly on the body for over 1,000 years, from Roman antiquity to the Middle Ages. Popular decorations were regularly reused and sewn onto new tunics, as can be seen on this winter garment made of wool.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79933222"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1982.107.b-clavi-decorative-ban"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1982.107.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_web.jpg",
+      "width": "253",
+      "height": "900",
+      "filesize": "110250",
+      "filename": "1982.107.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_print.jpg",
+      "width": "957",
+      "height": "3400",
+      "filesize": "1491452",
+      "filename": "1982.107.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_full.tif",
+      "width": "2251",
+      "height": "8000",
+      "filesize": "54053552",
+      "filename": "1982.107.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt0_web.jpg",
+        "width": "253",
+        "height": "900",
+        "filesize": "109809"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt0_print.jpg",
+        "width": "957",
+        "height": "3400",
+        "filesize": "1491011"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt0_full.tif",
+        "width": "2251",
+        "height": "8000",
+        "filesize": "54053100"
+      },
+      "date_created": "2014-03-03T09:31:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt1_web.jpg",
+        "width": "317",
+        "height": "900",
+        "filesize": "110700"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt1_print.jpg",
+        "width": "1197",
+        "height": "3400",
+        "filesize": "1453228"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt1_full.tif",
+        "width": "1856",
+        "height": "5272",
+        "filesize": "29377688"
+      },
+      "date_created": "2009-12-08T23:52:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt2_web.jpg",
+        "width": "295",
+        "height": "900",
+        "filesize": "72692"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt2_print.jpg",
+        "width": "1114",
+        "height": "3400",
+        "filesize": "1155916"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.107.b/1982.107.b_alt2_full.tif",
+        "width": "1710",
+        "height": "5220",
+        "filesize": "26800768"
+      },
+      "date_created": "2009-12-08T23:52:58",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Andrew R. and Martha Holden Jennings Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 150633,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1982-07-19T00:00:00",
+  "sortable_date": 700,
+  "date_added_to_oa": null,
+  "date_text": "700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1982.107",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:46:22.749000"
+}

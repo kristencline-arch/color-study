@@ -1,0 +1,518 @@
+{
+  "id": 93986,
+  "accession_number": "1914.561.b",
+  "share_license_status": "CC0",
+  "tombstone": "Coffin of Bakenmut (lid), c. 1000–900 BCE. Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22. Gessoed and painted sycamore fig; overall: 68 cm (26 3/4 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1914.561.b",
+  "current_location": "107 Egyptian",
+  "title": "Coffin of Bakenmut (lid)",
+  "creation_date": "c. 1000–900 BCE",
+  "creation_date_earliest": -1000,
+  "creation_date_latest": -900,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22"
+  ],
+  "technique": "gessoed and painted sycamore fig",
+  "support_materials": [],
+  "department": "Egyptian and Ancient Near Eastern Art",
+  "collection": "Egypt - Third Intermediate",
+  "type": "Funerary Equipment",
+  "measurements": "Overall: 68 cm (26 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "width": 0.68,
+      "width_inch": 26,
+      "width_inch_fraction": 0.75,
+      "length": 2.08,
+      "length_inch": 81,
+      "length_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 317001,
+        "title": "Inaugural Exhibition",
+        "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+        "opening_date": "1916-06-06T05:00:00"
+      },
+      {
+        "id": 281475,
+        "title": "Pharaoh: King of Ancient Egypt",
+        "description": "<i>Pharaoh: King of Ancient Egypt</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 13-June 12, 2016).",
+        "opening_date": "2016-03-13T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA 1916, no. 91, p. 214; CMA 1991, p. 4, illus.; CMA 1996 (not in cat.)",
+        "opening_date": "1916-01-01T00:00:00"
+      },
+      {
+        "description": "The Cleveland Museum of Art (3/13/16-6/12/16) \"Pharaoh: King of Ancient Egypt\" Cat pg.87 fig.50",
+        "opening_date": "2016-03-13T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Thebes, probably Deir el-Bahri. Purchased from Joseph Hassan Ahmed, Luxor, by Lucy Olcott Perkins through Henry W. Kent",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "353.14a",
+    "14.561a"
+  ],
+  "did_you_know": "Originally another smaller coffin was placed inside this outer coffin and in that the deceased with a mummy board would have rested.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The coffin of Bakenmut is one of the finest examples of painted wooden coffins made for the priests of Amen and their families at Thebes during Dynasty 21 and early Dynasty 22. The pharaohs of this time were no longer buried in the Valley of the Kings, but instead built tombs in the Delta, far to the north, where they resided. Security was lax in the Theban necropolis. The coffins and funerary goods of the wealthy citizens of Thebes were placed in unmarked and undecorated family tombs cut into the cliffs on the west bank of the Nile. All the care and detail that in more prosperous times were devoted to the decoration of the tomb chapel were now lavished on the elaborately painted coffins. Every available surface is crowded with religious scenes, images of funerary gods and goddesses, protective spells, and magical symbols. The deceased appears mummiform. An elaborate floral collar entirely covers the upper body, exposing only the separately attached hands (now lost). A pair of red \"mummy braces\" are crossed over the chest, their point of intersection marked by a winged sun disk. The lower body is covered with tiny figures modeled in gesso against a yellow background, which gives the effect of gold inlaid with glass or semiprecious stone. The decoration on the interior features two deified dead kings of Dynasty 18. Although these rulers had lived centuries before, memory of their greatness was still very much alive. The main scene near the top depicts Tuthmosis III, the great military pharaoh, who lived 500 years before Bakenmut. Posed as a mummy, the ruler wears a brilliant feathered garment enfolding him with falcon’s wings. The scene below features back-to-back seated images of Amenhotep I, regarded as the patron of the Theban cemetery and worshiped as a local god there.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761507"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1914.561.b-coffin-of-bakenmut-l"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 4",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n20"
+    },
+    {
+      "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+      "page_number": "Mentioned and reproduced: P. 314-324, cat. no. 251; reproduced: P. 58-59",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth. <em>Knockouts: a pocket guide.</em> Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "Reproduced: no. 8, p. 12 - 13",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 74-75",
+      "url": ""
+    },
+    {
+      "citation": "Tedbury, Imogen. \"Our Woman in Cairo: Lucy Olcott Perkin's Work as an Agent for the Cleveland Museum of Art.\" In <em>The Art Market and the Museum: Institutional Collecting, Display and Patronage since the Mid-Nineteenth Century. </em>Edited by Frances Fowle, and MaryKate Cleary, 167-183. London: Bloomsbury Visual Arts, 2025.",
+      "page_number": "Mentioned: p. 173; Reproduced: pl. 13",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1914.561.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_web.jpg",
+      "width": "555",
+      "height": "893",
+      "filesize": "291543",
+      "filename": "1914.561.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_print.jpg",
+      "width": "2114",
+      "height": "3400",
+      "filesize": "4941823",
+      "filename": "1914.561.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_full.tif",
+      "width": "3947",
+      "height": "6346",
+      "filesize": "75171764",
+      "filename": "1914.561.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt0_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "500552"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt0_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "7721555"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt0_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99890012"
+      },
+      "date_created": "2010-05-17T15:48:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt1_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "568937"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt1_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "8802244"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt1_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99891940"
+      },
+      "date_created": "2010-05-17T16:00:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt2_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "528389"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt2_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "7529426"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt2_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99890368"
+      },
+      "date_created": "2010-05-17T17:40:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt3_web.jpg",
+        "width": "461",
+        "height": "893",
+        "filesize": "201830"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt3_print.jpg",
+        "width": "1754",
+        "height": "3400",
+        "filesize": "3656897"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt3_full.tif",
+        "width": "3294",
+        "height": "6384",
+        "filesize": "63112724"
+      },
+      "date_created": "2010-05-17T14:22:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt4_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "336171"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt4_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "5691557"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt4_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99887608"
+      },
+      "date_created": "2010-05-17T15:03:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt5_web.jpg",
+        "width": "579",
+        "height": "893",
+        "filesize": "339426"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt5_print.jpg",
+        "width": "2205",
+        "height": "3400",
+        "filesize": "5493636"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt5_full.tif",
+        "width": "4326",
+        "height": "6668",
+        "filesize": "86565440"
+      },
+      "date_created": "2010-05-17T15:16:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt6_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "335482"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt6_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "5927271"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt6_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99887580"
+      },
+      "date_created": "2010-05-17T15:23:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt7_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "775311"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt7_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6913658"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt7_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99889216"
+      },
+      "date_created": "2010-05-17T15:31:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt8_web.jpg",
+        "width": "562",
+        "height": "893",
+        "filesize": "248019"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt8_print.jpg",
+        "width": "2141",
+        "height": "3400",
+        "filesize": "4426846"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt8_full.tif",
+        "width": "4109",
+        "height": "6525",
+        "filesize": "80459888"
+      },
+      "date_created": "2010-05-17T18:07:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt9_web.jpg",
+        "width": "637",
+        "height": "893",
+        "filesize": "335124"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt9_print.jpg",
+        "width": "2427",
+        "height": "3400",
+        "filesize": "5655278"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt9_full.tif",
+        "width": "4760",
+        "height": "6668",
+        "filesize": "95247372"
+      },
+      "date_created": "2010-05-17T18:40:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt10_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "364897"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt10_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "5878638"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt10_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99888736"
+      },
+      "date_created": "2010-05-17T18:48:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt11_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "331949"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt11_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "5695196"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt11_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99887804"
+      },
+      "date_created": "2010-05-17T18:52:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt12_web.jpg",
+        "width": "1025",
+        "height": "893",
+        "filesize": "693035"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt12_print.jpg",
+        "width": "3400",
+        "height": "2961",
+        "filesize": "7917362"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt12_full.tif",
+        "width": "5437",
+        "height": "4735",
+        "filesize": "77263748"
+      },
+      "date_created": "2010-05-17T18:58:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt13_web.jpg",
+        "width": "568",
+        "height": "893",
+        "filesize": "269095"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt13_print.jpg",
+        "width": "2162",
+        "height": "3400",
+        "filesize": "4784810"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt13_full.tif",
+        "width": "4102",
+        "height": "6450",
+        "filesize": "79400804"
+      },
+      "date_created": "2010-05-17T19:07:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt14_web.jpg",
+        "width": "954",
+        "height": "893",
+        "filesize": "525478"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt14_print.jpg",
+        "width": "3400",
+        "height": "3184",
+        "filesize": "7342823"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt14_full.tif",
+        "width": "4992",
+        "height": "4675",
+        "filesize": "70042528"
+      },
+      "date_created": "2010-05-14T18:51:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt15_web.jpg",
+        "width": "895",
+        "height": "893",
+        "filesize": "623476"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt15_print.jpg",
+        "width": "3400",
+        "height": "3393",
+        "filesize": "11326765"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.561.b/1914.561.b_alt15_full.tif",
+        "width": "4992",
+        "height": "4982",
+        "filesize": "74641736"
+      },
+      "date_created": "2010-05-14T18:56:36",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 93986,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1914-01-01T00:00:00",
+  "sortable_date": -1000,
+  "date_added_to_oa": null,
+  "date_text": "c. 1000–900 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1914.561",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 04:59:38.502000"
+}

@@ -1,0 +1,254 @@
+{
+  "id": 160294,
+  "accession_number": "1998.172",
+  "share_license_status": "CC0",
+  "tombstone": "Kriophoros (Ram-Bearer), Statuette, 650–600 BCE. Greece, Crete. Terracotta and polychrome; overall: 17.5 x 9.6 x 8 cm (6 7/8 x 3 3/4 x 3 1/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1998.172",
+  "current_location": "102B Greek",
+  "title": "Kriophoros (Ram-Bearer), Statuette",
+  "creation_date": "650–600 BCE",
+  "creation_date_earliest": -650,
+  "creation_date_latest": -600,
+  "artists_tags": [],
+  "culture": [
+    "Greece, Crete"
+  ],
+  "technique": "terracotta and polychrome",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Sculpture",
+  "measurements": "Overall: 17.5 x 9.6 x 8 cm (6 7/8 x 3 3/4 x 3 1/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.175,
+      "height_inch": 6,
+      "height_inch_fraction": 0.875,
+      "width": 0.096,
+      "width_inch": 3,
+      "width_inch_fraction": 0.75,
+      "depth": 0.08,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 215140,
+        "title": "Intimate Rituals and Personal Devotions: Spiritual Art Through the Ages",
+        "description": "<i>Intimate Rituals and Personal Devotions: Spiritual Art Through the Ages</i>. Samuel P. Harn Museum of Art, Gainesville, FL (organizer) (July 16, 2000-January 14, 2001).",
+        "opening_date": "2000-07-16T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Gainesville, FL: University of Florida. Samuel P. Harn Museum of Art. \"Intimate Rituals and Personal Devotions: Spiritual Art Through the Ages\" 8/12/00 - 1/14/01",
+        "opening_date": "2000-08-12T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Purchased in London by Robert E. Hecht Sr. and Julia M. Kimball Kirk Hecht, gifted to their son, Robert Hecht",
+      "citations": [],
+      "footnotes": null,
+      "date": "1948–1949",
+      "sortorder": 1
+    },
+    {
+      "description": "Robert Hecht (1919–2012), New York, NY",
+      "citations": [],
+      "footnotes": null,
+      "date": "1949–1998",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "1998",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This heroic figure is shown presenting a ram, most likely as a sacrificial offering to a god or goddess.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In Greek art, the kriophoros is usually a shepherd or, later, Hermes. This statuette may be unique in presenting a warrior-hero as kriophoros. It is certainly one of the earliest sculptural representations of this type. The figure appears to be wearing a helmet, secured under the chin with a painted strap. Double outlines, reinforced at the bottom with incision and adorned with dotted circles in the area of the nipples, were used to suggest breastplates. A thick waist belt, decorated with painted crosshatched lines, is clearly the heroic zoster (warrior's belt). As described in ancient Homeric poetry, the zoster is the ultimate symbol of valor and prowess, worn by such heroes as the brothers Agamemnon and Menelaos and old King Nestor. This figure is shown in the solemn act of presenting a ram, most likely as a sacrificial offering, to a god or goddess.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60746171"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1998.172-kriophoros-ram-beare"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, “New Cleveland Indian Arrives at the CMA,” November 27, 1998, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr4223"
+    },
+    {
+      "citation": "Bennett, Michael, \"Poussin’s Holy Family\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 39 no. 10, December 1999",
+      "page_number": "Mentioned & reproduced: p. 6-7",
+      "url": "https://archive.org/details/CMAMM1999-10/page/n5"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 78",
+      "url": ""
+    },
+    {
+      "citation": "Bennett, Michael. “A Walking Tour: The entire new museum wing by wing, with curators calling out a few favorite works in the collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 1 (January/February 2014): 8-33.",
+      "page_number": "Reproduced and Mentioned: p. 10",
+      "url": "https://archive.org/details/CMAMM2014-01"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+      "page_number": "Mentioned and Reproduced: P. 12",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1998.172",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_web.jpg",
+      "width": "614",
+      "height": "893",
+      "filesize": "306060",
+      "filename": "1998.172_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_print.jpg",
+      "width": "2339",
+      "height": "3400",
+      "filesize": "4355021",
+      "filename": "1998.172_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_full.tif",
+      "width": "3796",
+      "height": "5517",
+      "filesize": "62851020",
+      "filename": "1998.172_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt0_web.jpg",
+        "width": "579",
+        "height": "893",
+        "filesize": "275542"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt0_print.jpg",
+        "width": "2206",
+        "height": "3400",
+        "filesize": "3827589"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt0_full.tif",
+        "width": "3244",
+        "height": "5000",
+        "filesize": "48682140"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt1_web.jpg",
+        "width": "567",
+        "height": "893",
+        "filesize": "280501"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt1_print.jpg",
+        "width": "2160",
+        "height": "3400",
+        "filesize": "3931676"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt1_full.tif",
+        "width": "3176",
+        "height": "5000",
+        "filesize": "47662596"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt2_web.jpg",
+        "width": "652",
+        "height": "893",
+        "filesize": "336881"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt2_print.jpg",
+        "width": "2482",
+        "height": "3400",
+        "filesize": "4779356"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt2_full.tif",
+        "width": "3650",
+        "height": "5000",
+        "filesize": "54773532"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt3_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "491958"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt3_print.jpg",
+        "width": "3400",
+        "height": "2266",
+        "filesize": "3364213"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.172/1998.172_alt3_full.tif",
+        "width": "5000",
+        "height": "3333",
+        "filesize": "50017076"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 160294,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1998-11-23T00:00:00",
+  "sortable_date": -650,
+  "date_added_to_oa": null,
+  "date_text": "650–600 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-01 11:36:36.313000"
+}

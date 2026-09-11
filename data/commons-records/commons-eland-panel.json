@@ -1,0 +1,105 @@
+{
+  "pageid": 196929040,
+  "ns": 6,
+  "title": "File:ELANDS - San rock paintings at Eland Cave, Cathedral Peak, South Africa, 2017.jpg",
+  "index": 6,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9017432,
+      "width": 4288,
+      "height": 2848,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ELANDS_-_San_rock_paintings_at_Eland_Cave%2C_Cathedral_Peak%2C_South_Africa%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:ELANDS_-_San_rock_paintings_at_Eland_Cave,_Cathedral_Peak,_South_Africa,_2017.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196929040",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-08-06 21:11:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ELANDS - San rock paintings at Eland Cave, Cathedral Peak, South Africa, 2017",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Uploaded with OpenRefine|Files with coordinates missing SDC location of creation|Rock art in KwaZulu-Natal|Ukhahlamba-Drakensberg Park",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "-28.951900",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "29.205300",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Panel of San rock paintings with animal and human figures at Eland Cave in the Cathedral Peak area of the Drakensberg.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Josep M. Gracia",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

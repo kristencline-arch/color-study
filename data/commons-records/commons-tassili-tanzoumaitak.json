@@ -1,0 +1,105 @@
+{
+  "pageid": 153807790,
+  "ns": 6,
+  "title": "File:The Tanzoumaitak cave painting in Tassili n'ajjer.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 12134851,
+      "width": 5163,
+      "height": 2904,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Tanzoumaitak_cave_painting_in_Tassili_n%27ajjer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n%27ajjer.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153807790",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-10-16 22:42:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "The Tanzoumaitak cave painting in Tassili n'ajjer",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images from Wiki Loves Monuments 2024|Cultural heritage monuments in Algeria with known IDs|Uploaded via Campaign:wlm-dz|Files with coordinates missing SDC location of creation|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Wiki Loves Monuments 2024 in Algeria|Images from Wiki Loves Monuments 2024 in Algeria|Featured pictures from Wiki Loves Monuments Algeria 2024|Rock Art of the Tassili n'Ajjer|Preselection For Montage Campaign:wlm-dz",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|featured",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "25.500000",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "9.000000",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This zoomorphic cave paintingis located Tanzoumaitak in Tassili n'ajjer park in Djanet in Algeria.\n<pre>This is one of more than thousannds of cave paintings discovered by Henri Lhote and his team and they was guided by Djebrine Machar a Touareg guide who was known for a great expertise in the great Sahara's cave paintings.\n</pre>\nAll the cave painting of this park are dated from the Neolithic 10000BC.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-02-07 10:25:27",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:IssamBarhoumi\" title=\"User:IssamBarhoumi\">IssamBarhoumi</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

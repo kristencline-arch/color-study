@@ -1,0 +1,92 @@
+{
+  "pageid": 193397275,
+  "ns": 6,
+  "title": "File:Damaged painting in Ajanta caves.jpg",
+  "index": 3,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2176459,
+      "width": 4080,
+      "height": 1836,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Damaged_painting_in_Ajanta_caves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Damaged_painting_in_Ajanta_caves.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193397275",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-05 09:40:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Damaged painting in Ajanta caves",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ajanta Caves|CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Taken with Vivo T2X 5G",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This are some leftover damaged painting in Ajanta cave.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-03 11:39:15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Debotrroy_Dutta\" title=\"User:Debotrroy Dutta\">Debotrroy Dutta</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

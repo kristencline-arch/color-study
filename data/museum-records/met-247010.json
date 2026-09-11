@@ -1,0 +1,92 @@
+{
+  "objectID": 247010,
+  "isHighlight": false,
+  "accessionNumber": "03.14.6",
+  "accessionYear": "1903",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP140600.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP140600.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/gr/original/DP165180.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP105944.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP118094.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP118095.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP141479.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP140598.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP140599.jpg"
+  ],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Wall painting",
+  "title": "Wall painting from Room H of the Villa of P. Fannius Synistor at Boscoreale",
+  "culture": "Roman",
+  "period": "Late Republican",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 50–40 BCE",
+  "objectBeginDate": -50,
+  "objectEndDate": -40,
+  "medium": "Fresco",
+  "dimensions": "Overall: 69 x 76in. (175.3 x 193cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 175.3,
+        "Width": 193
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1903",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-06-16T04:51:27.217Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/247010",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Chairs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037772",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q15026"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116296820",
+  "isTimelineWork": true,
+  "GalleryNumber": "164"
+}

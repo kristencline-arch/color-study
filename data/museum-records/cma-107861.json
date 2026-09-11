@@ -1,0 +1,155 @@
+{
+  "id": 107861,
+  "accession_number": "1925.490",
+  "share_license_status": "CC0",
+  "tombstone": "Hinggi, 1800s. Indonesia, Sumba, 19th century. Warp ikat; cotton; overall: 243.8 x 116.8 cm (96 x 46 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1925.490",
+  "current_location": null,
+  "title": "Hinggi",
+  "creation_date": "1800s",
+  "creation_date_earliest": 1800,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Indonesia, Sumba, 19th century"
+  ],
+  "technique": "warp ikat; cotton",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 243.8 x 116.8 cm (96 x 46 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.438,
+      "height_inch": 96,
+      "height_inch_fraction": 0.0,
+      "width": 1.168,
+      "width_inch": 46,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 355370,
+        "title": "Exhibition of the Month: Arts of Java and Bali",
+        "description": "<i>Exhibition of the Month: Arts of Java and Bali</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 5-September 3, 1946).",
+        "opening_date": "1946-06-05T04:00:00"
+      },
+      {
+        "id": 312048,
+        "title": "Techniques of Textile Printing",
+        "description": "<i>Techniques of Textile Printing</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 11, 1948-May 29, 1949).",
+        "opening_date": "1948-10-11T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Indonesian Textiles. Textile corridor, The Cleveland Museum of Art, Cleveland, OH (June 1983-May 1984).",
+        "opening_date": "1983-06-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(A. K. Coomaraswamy).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "<em>Hinggi </em>are large mantles woven in identical pairs, one worn around the waist and the other draped over the shoulder. As is characteristic of Sumbanese \"hinggi,\" the design of this mantle relates to the traditional animistic religious and social structure of Sumba: the division of the cloth into horizontal bands reflects the layout of the traditional Sumbanese village, the rampant lions denote royal power, the trees of life between the cockatoos are symbols of fertility, and the geometric figure repeated across the center of the cloth is a symbol of royalty.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80055844"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1925.490-hinggi"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1925.490",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_web.jpg",
+      "width": "900",
+      "height": "399",
+      "filesize": "160914",
+      "filename": "1925.490_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_print.jpg",
+      "width": "3400",
+      "height": "1506",
+      "filesize": "1778265",
+      "filename": "1925.490_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_full.tif",
+      "width": "12984",
+      "height": "5753",
+      "filesize": "224122756",
+      "filename": "1925.490_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_alt0_web.jpg",
+        "width": "422",
+        "height": "900",
+        "filesize": "156847"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_alt0_print.jpg",
+        "width": "1596",
+        "height": "3400",
+        "filesize": "2130228"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.490/1925.490_alt0_full.tif",
+        "width": "2703",
+        "height": "5758",
+        "filesize": "46723060"
+      },
+      "date_created": "2018-03-14T15:10:52",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 107861,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1925-03-24T00:00:00",
+  "sortable_date": 1800,
+  "date_added_to_oa": null,
+  "date_text": "1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:46:58.025000"
+}

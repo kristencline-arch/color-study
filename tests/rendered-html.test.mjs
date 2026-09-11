@@ -11,7 +11,7 @@ test('production worker renders the photographic showcase, public links and shar
   const response = await worker.fetch(new Request('https://color-study.example/', {headers: {accept: 'text/html', host: 'color-study.example'}}), {ASSETS: {fetch: async () => new Response('Not found', {status: 404})}}, {waitUntil() {}, passThroughOnException() {}});
   assert.equal(response.status, 200);
   const html = (await response.text()).replace(/<!--.*?-->/g, "");
-  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'Explore the collection', '29 textiles', 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/cma-294034-original.webp', '/showcase/cma-294034-enhanced.webp', '/api/dataset', '/api/catalog', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
+  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'Explore the collection', `${sources.filter(source => source.study_type === 'textile').length} textiles`, 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/commons-nefertari-68-original.webp', '/showcase/commons-nefertari-68-enhanced.webp', 'Choose a collection.', 'Babylon &amp; Sumer', 'Persia &amp; Iran', '/api/dataset', '/api/catalog', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
   assert.doesNotMatch(html, /Your site is taking shape|Starter Project|codex-preview|react-loading-skeleton/);
 });
 

@@ -1,0 +1,92 @@
+{
+  "pageid": 124152996,
+  "ns": 6,
+  "title": "File:Tomb of Nefertari 2022 11.jpg",
+  "index": 4,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3014448,
+      "width": 4032,
+      "height": 3024,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tomb_of_Nefertari_2022_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Nefertari_2022_11.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124152996",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-10-13 19:28:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Tomb of Nefertari 2022 11",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Tomb of Nefertari|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Tomb of Nefertari",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Onceinawhile\" title=\"User:Onceinawhile\">Onceinawhile</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

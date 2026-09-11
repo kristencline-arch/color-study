@@ -1,0 +1,164 @@
+{
+  "id": 155414,
+  "accession_number": "1990.144",
+  "share_license_status": "CC0",
+  "tombstone": "Female Figurine, c. 1200–900 BCE. Mesoamerica, Central Mexico, Tlatilco. Earthenware with pigment; overall: 10.9 x 4.1 cm (4 5/16 x 1 5/8 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. James C. Gruener, 1990.144",
+  "current_location": null,
+  "title": "Female Figurine",
+  "creation_date": "c. 1200–900 BCE",
+  "creation_date_earliest": -1200,
+  "creation_date_latest": -900,
+  "artists_tags": [],
+  "culture": [
+    "Mesoamerica, Central Mexico, Tlatilco"
+  ],
+  "technique": "earthenware with pigment",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Mesoamerica",
+  "type": "Sculpture",
+  "measurements": "Overall: 10.9 x 4.1 cm (4 5/16 x 1 5/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.109,
+      "height_inch": 4,
+      "height_inch_fraction": 0.3125,
+      "width": 0.041,
+      "width_inch": 1,
+      "width_inch_fraction": 0.625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 344809,
+        "title": "The Gruener Collection of Pre-Columbian Art",
+        "description": "<i>The Gruener Collection of Pre-Columbian Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-November 29, 1992).",
+        "opening_date": "1992-02-04T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Everett Rassiga, Inc., New York, NY, 1963, sold to James C. and Florence C. Gruener)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1963",
+      "sortorder": 1
+    },
+    {
+      "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "1963-1990",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1990-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Figurines were also made of perishable materials including wood, paper, cloth, rubber, and dough.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This ceramic figurine—in the style of Tlatilco, an early village site near Mexico City—depicts a nude female with an elaborate coiffure, attenuated arms, and the traces of mineral pigment. Since many figurines from the period depict females, modern interpreters usually connect them to fertility concerns. At Tlatilco, figurines were found in human burials that had been placed under the floors of homes.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79943444"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1990.144-female-figurine"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Young-Sánchez, Margaret. \"The Gruener Collection of Pre-Columbian Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 7 (1992): 234-75.",
+      "page_number": "Referenced: cat. no. 4, p. 267, Reproduced: fig. 4., p. 239",
+      "url": "http://www.jstor.org/stable/25161367."
+    }
+  ],
+  "url": "https://clevelandart.org/art/1990.144",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_web.jpg",
+      "width": "794",
+      "height": "893",
+      "filesize": "356614",
+      "filename": "1990.144_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_print.jpg",
+      "width": "3024",
+      "height": "3400",
+      "filesize": "6413870",
+      "filename": "1990.144_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_full.tif",
+      "width": "4096",
+      "height": "4604",
+      "filesize": "56607776",
+      "filename": "1990.144_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_alt0_web.jpg",
+        "width": "720",
+        "height": "893",
+        "filesize": "320895"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_alt0_print.jpg",
+        "width": "2743",
+        "height": "3400",
+        "filesize": "5890588"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.144/1990.144_alt0_full.tif",
+        "width": "3824",
+        "height": "4739",
+        "filesize": "54401524"
+      },
+      "date_created": "2011-02-22T18:28:59",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Mr. and Mrs. James C. Gruener",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 155414,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1991-03-27T00:00:00",
+  "sortable_date": -1200,
+  "date_added_to_oa": null,
+  "date_text": "c. 1200–900 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:02:08.271000"
+}

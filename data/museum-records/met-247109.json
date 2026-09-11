@@ -1,0 +1,93 @@
+{
+  "objectID": 247109,
+  "isHighlight": false,
+  "accessionNumber": "04.17.4",
+  "accessionYear": "1904",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP330007.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP330007.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Grave stele, painted",
+  "title": "Painted limestone funerary slab with a soldier and two girls",
+  "culture": "Greek",
+  "period": "Hellenistic",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "2nd half of 3rd century BCE",
+  "objectBeginDate": -250,
+  "objectEndDate": -200,
+  "medium": "Limestone, paint",
+  "dimensions": "Other: 16 1/2 × 9 5/8 × 3 7/8 in. (41.9 × 24.4 × 9.8 cm)\r\nOther (Panel): 7 1/4 × 6 3/4 in. (18.4 × 17.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Panel",
+      "elementMeasurements": {
+        "Height": 18.415037,
+        "Width": 17.145035
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.84252,
+        "Height": 41.910084,
+        "Width": 24.44755
+      }
+    }
+  ],
+  "creditLine": "Gift of Darius Odgen Mills, 1904",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/247109",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

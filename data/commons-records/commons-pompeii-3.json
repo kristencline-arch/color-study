@@ -1,0 +1,88 @@
+{
+  "pageid": 101209418,
+  "ns": 6,
+  "title": "File:Frescoes from the Praedia of Julia Felix (48443433432).jpg",
+  "index": 11,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9150176,
+      "width": 6000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Frescoes_from_the_Praedia_of_Julia_Felix_%2848443433432%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Frescoes_from_the_Praedia_of_Julia_Felix_(48443433432).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101209418",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-03-07 22:04:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Frescoes from the Praedia of Julia Felix (48443433432)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Photographs by Gary Lee Todd|Flickr images reviewed by FlickreviewR 2|PD-author-FlickrPDM|Frescoes from the Praedia of Julia Felix|2019 in Pompeii",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Frescoes from the Praedia of Julia Felix.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-08-02 16:50",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/48443433432/\">Pompeii Ruins Fresco</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 250932,
+  "isHighlight": false,
+  "accessionNumber": "20.192.3",
+  "accessionYear": "1920",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP146614.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP146614.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/gr/original/DP144213.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP144214.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP146612.jpg"
+  ],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Wall painting on black ground: Egyptianizing scene and pair of swans",
+  "title": "Wall painting on black ground: Egyptianizing scene and pair of swans, from the imperial villa at Boscotrecase",
+  "culture": "Roman, Pompeian",
+  "period": "Early Imperial",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "last decade of the 1st century BCE",
+  "objectBeginDate": -10,
+  "objectEndDate": -1,
+  "medium": "Fresco",
+  "dimensions": "Overall: 91 3/4 x 19 5/8in. (233.1 x 49.8cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 233.05,
+        "Width": 49.83
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1920",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-06-16T04:51:27.217Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/250932",
+  "tags": [
+    {
+      "term": "Anubis",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47534"
+    },
+    {
+      "term": "Isis",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000704",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q79876"
+    },
+    {
+      "term": "Swans",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34384"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116291704",
+  "isTimelineWork": true,
+  "GalleryNumber": "167"
+}

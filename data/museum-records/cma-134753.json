@@ -1,0 +1,528 @@
+{
+  "id": 134753,
+  "accession_number": "1957.27",
+  "share_license_status": "CC0",
+  "tombstone": "Haniwa Horse (馬形埴輪), 400s–500s CE. Japan, Kofun period (300–710 CE). Earthenware with traces of pigment; overall: 59.7 x 66 cm (23 1/2 x 26 in.). The Cleveland Museum of Art, The Norweb Collection, 1957.27",
+  "current_location": "235A Japanese",
+  "title": "Haniwa Horse",
+  "title_in_original_language": "馬形埴輪",
+  "creation_date": "400s–500s CE",
+  "creation_date_earliest": 400,
+  "creation_date_latest": 599,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Kofun period (300–710 CE)"
+  ],
+  "technique": "earthenware with traces of pigment",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "Japanese Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 59.7 x 66 cm (23 1/2 x 26 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.597,
+      "height_inch": 23,
+      "height_inch_fraction": 0.5,
+      "width": 0.66,
+      "width_inch": 26,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      },
+      {
+        "id": 311640,
+        "title": "Asian Autumn: Early Ceramics from Japan and Korea",
+        "description": "<i>Asian Autumn: Early Ceramics from Japan and Korea</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 19-December 3, 1995).",
+        "opening_date": "1995-09-16T04:00:00"
+      },
+      {
+        "id": 311658,
+        "title": "Japanese Gallery 235 Rotation",
+        "description": "<i>Japanese Gallery 235 Rotation</i>. The Cleveland Museum of Art (organizer) (January 7-July 8, 2019).",
+        "opening_date": "2019-01-07T05:00:00"
+      },
+      {
+        "id": 455863,
+        "title": "Animals in Japanese Art",
+        "description": "<i>Animals in Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-December 10, 2023).",
+        "opening_date": "2023-06-24T04:00:00"
+      },
+      {
+        "id": 698362,
+        "title": "Highlights of Japanese Art",
+        "description": "<i>Highlights of Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2025-June 14, 2026).",
+        "opening_date": "2025-12-07T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "The Norweb Collection, Cleveland, OH, given by Mrs, R. Henry Norweb [1895–1984] to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1957",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1957–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This horse’s tack, with its round bells, resembles saddlery in fashion in Korea during the 400s–500s CE. Concurrent with mass migration from the Korean Peninsula, tombs covered with large earthen mounds similar to those on the Asian continent began to appear in Japan around the year 300 CE. Called “old mounds” (<em>kofun</em>), their surfaces were covered with hollow clay cylinders (<em>haniwa</em>). Sculptures of animals, buildings, and finally human figures followed, developing over the ensuing three centuries.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60758217"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1957.27-caparisoned-haniwa-h",
+      "https://archive.org/details/clevelandart-1957.27-haniwa-horse"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 895",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n158"
+    },
+    {
+      "citation": "\"Recent Accessions Briefly Noted.\" <em>The Bulletin of the Cleveland Museum of Art</em> 46, no. 4 (April 1959): 60–61.",
+      "page_number": "Reproduced: p. 61",
+      "url": "https://www.jstor.org/stable/25142335"
+    },
+    {
+      "citation": "Lee, Sherman E. \"Contrasts in Chinese and Japanese Art.\" <em>Journal of Aesthetics and Art Criticism</em> 21, no. 1 (Fall 1962): 3–12.",
+      "page_number": "Reproduced: fig. 13, p. 8",
+      "url": "https://www.jstor.org/stable/427632"
+    },
+    {
+      "citation": "Lee, Sherman E. <em>A History of Far Eastern Art</em>. New York: H.N. Abrams, 1964.",
+      "page_number": "Reproduced: fig. 79, p. 73",
+      "url": null
+    },
+    {
+      "citation": "Hane, Mikiso. <em>Japan; a Historical Survey</em>. [New York]: Scribner, 1972.",
+      "page_number": "Reproduced: p. 25",
+      "url": null
+    },
+    {
+      "citation": "Stitt, Irene. <em>Japanese Ceramics of the Last 100 Years</em>. New York: Crown Publishers, 1974.",
+      "page_number": "Reproduced: p. 3, Fig. 3",
+      "url": null
+    },
+    {
+      "citation": "Matsumara, Gentaro. <em>The Emperor's Island: The Story of Japan; (1)</em>. Tokyo: Lotus Press, 1977.",
+      "page_number": "Reproduced: fig. 6",
+      "url": null
+    },
+    {
+      "citation": "Gardner, Helen, Horst De la Croix, and Richard G. Tansey. <em>Gardner's Art Through the Ages</em>. New York: Harcourt Brace Jovanovich, 1980.",
+      "page_number": "Reproduced: fig. 13-1, p. 400",
+      "url": null
+    },
+    {
+      "citation": "Gilbert, Rita, and William McCarter. <em>Living with Art.</em> New York: Knopf, 1988.",
+      "page_number": "Reproduced: fig. 379, p. 306",
+      "url": null
+    },
+    {
+      "citation": "Mittler, Gene A. <em>Art in Focus</em>. Mission Hills, CA: Glencoe Pub. Co, 1989.",
+      "page_number": "Reproduced: fig. 20.11, p. 410",
+      "url": null
+    },
+    {
+      "citation": "Gardner, Helen, Horst De la Croix, Richard G. Tansey, and Diane Kirkpatrick. <em>Gardner's Art Through the Ages</em>. San Diego: Harcourt Brace Jovanovich, 1991.",
+      "page_number": "Reproduced: fig, 13-1, p. 476",
+      "url": null
+    },
+    {
+      "citation": "Hobbs, Jack A. <em>Art in Contex</em>t. San Diego: Harcourt Brace Jovanovich, 1991.",
+      "page_number": "Reproduced: fig. 2-34, p. 45",
+      "url": null
+    },
+    {
+      "citation": "Getlein, Mark. <em>Gilbert's Living with Art</em>. New York, NY: McGraw-Hill, 2002.",
+      "page_number": "Reproduced: p. 279, fig. 12.1",
+      "url": null
+    },
+    {
+      "citation": "Brommer, Gerald F. <em>Discovering Art History</em>. Worcester, MA: Davis Publications, 2007.",
+      "page_number": "Reproduced:  p. 102, fig. 4- 43",
+      "url": null
+    },
+    {
+      "citation": "<em>Art Documentation: Bulletin of the Art Libraries Society of North America </em>38, no. 2 (Fall 2019): cover.",
+      "page_number": "Reproduced: cover image",
+      "url": null
+    },
+    {
+      "citation": "Koyama-Richard, Brigitte. <em>Animaux Dans La Peinture Japonaise</em>. Lyon: Nouvelles éditions Scala, 2020.",
+      "page_number": "Mentioned and Reproduced: p. 13",
+      "url": ""
+    },
+    {
+      "citation": "Cunningham, Michael R. \"Asian Autumn\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 35 no. 08, October 1995.",
+      "page_number": "Mentioned andn Reproduced: pp. 4–5",
+      "url": "https://archive.org/details/CMAMM1995-08/page/4"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1957.27",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_web.jpg",
+      "width": "776",
+      "height": "900",
+      "filesize": "130455",
+      "filename": "1957.27_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_print.jpg",
+      "width": "2931",
+      "height": "3400",
+      "filesize": "1643981",
+      "filename": "1957.27_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_full.tif",
+      "width": "5699",
+      "height": "6610",
+      "filesize": "113039364",
+      "filename": "1957.27_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt0_web.jpg",
+        "width": "900",
+        "height": "800",
+        "filesize": "128420"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt0_print.jpg",
+        "width": "3400",
+        "height": "3024",
+        "filesize": "1465447"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt0_full.tif",
+        "width": "5789",
+        "height": "5149",
+        "filesize": "89451132"
+      },
+      "date_created": "2015-05-15T10:10:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt1_web.jpg",
+        "width": "647",
+        "height": "900",
+        "filesize": "100124"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt1_print.jpg",
+        "width": "2445",
+        "height": "3400",
+        "filesize": "1140218"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt1_full.tif",
+        "width": "4559",
+        "height": "6340",
+        "filesize": "86739664"
+      },
+      "date_created": "2015-05-14T09:05:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt2_web.jpg",
+        "width": "900",
+        "height": "520",
+        "filesize": "93427"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt2_print.jpg",
+        "width": "3400",
+        "height": "1963",
+        "filesize": "875175"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt2_full.tif",
+        "width": "7862",
+        "height": "4540",
+        "filesize": "107107956"
+      },
+      "date_created": "2015-05-14T09:36:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt3_web.jpg",
+        "width": "900",
+        "height": "631",
+        "filesize": "119931"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt3_print.jpg",
+        "width": "3400",
+        "height": "2383",
+        "filesize": "1329784"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt3_full.tif",
+        "width": "6898",
+        "height": "4835",
+        "filesize": "100083348"
+      },
+      "date_created": "2015-05-14T09:48:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt4_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "84128"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt4_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "583095"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt4_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144027292"
+      },
+      "date_created": "2015-05-14T11:34:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt5_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "98644"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt5_print.jpg",
+        "width": "3400",
+        "height": "2549",
+        "filesize": "1051770"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt5_full.tif",
+        "width": "6263",
+        "height": "4695",
+        "filesize": "88242168"
+      },
+      "date_created": "2015-05-14T11:41:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt6_web.jpg",
+        "width": "900",
+        "height": "757",
+        "filesize": "135411"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt6_print.jpg",
+        "width": "3400",
+        "height": "2860",
+        "filesize": "1397414"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt6_full.tif",
+        "width": "7077",
+        "height": "5952",
+        "filesize": "126396100"
+      },
+      "date_created": "2015-05-14T15:08:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt7_web.jpg",
+        "width": "900",
+        "height": "806",
+        "filesize": "194589"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt7_print.jpg",
+        "width": "3400",
+        "height": "3043",
+        "filesize": "2424979"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt7_full.tif",
+        "width": "5904",
+        "height": "5284",
+        "filesize": "93619804"
+      },
+      "date_created": "2015-05-14T15:42:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt8_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "124847"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt8_print.jpg",
+        "width": "2945",
+        "height": "3400",
+        "filesize": "1577923"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt8_full.tif",
+        "width": "5846",
+        "height": "6750",
+        "filesize": "118409448"
+      },
+      "date_created": "2015-05-13T13:56:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt9_web.jpg",
+        "width": "685",
+        "height": "900",
+        "filesize": "107387"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt9_print.jpg",
+        "width": "2587",
+        "height": "3400",
+        "filesize": "1287778"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt9_full.tif",
+        "width": "4733",
+        "height": "6221",
+        "filesize": "88359448"
+      },
+      "date_created": "2015-05-13T15:01:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt10_web.jpg",
+        "width": "811",
+        "height": "900",
+        "filesize": "124757"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt10_print.jpg",
+        "width": "3064",
+        "height": "3400",
+        "filesize": "1582490"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt10_full.tif",
+        "width": "6000",
+        "height": "6658",
+        "filesize": "119872060"
+      },
+      "date_created": "2015-05-13T14:25:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt11_web.jpg",
+        "width": "836",
+        "height": "900",
+        "filesize": "123991"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt11_print.jpg",
+        "width": "3158",
+        "height": "3400",
+        "filesize": "1500216"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt11_full.tif",
+        "width": "6000",
+        "height": "6459",
+        "filesize": "116290132"
+      },
+      "date_created": "2015-05-13T15:24:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt12_web.jpg",
+        "width": "1116",
+        "height": "893",
+        "filesize": "551871"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt12_print.jpg",
+        "width": "1919",
+        "height": "1536",
+        "filesize": "1717399"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_alt12_full.tif",
+        "width": "1919",
+        "height": "1536",
+        "filesize": "8846004"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Norweb Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 134753,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1957-01-17T00:00:00",
+  "sortable_date": 400,
+  "date_added_to_oa": null,
+  "date_text": "400s–500s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Caparisoned Haniwa Horse"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:43.876000"
+}

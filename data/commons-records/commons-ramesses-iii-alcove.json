@@ -1,0 +1,92 @@
+{
+  "pageid": 100494083,
+  "ns": 6,
+  "title": "File:KV11 Tomb of Ramses III DSCF2984.jpg",
+  "index": 15,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1057187,
+      "width": 3000,
+      "height": 2250,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/KV11_Tomb_of_Ramses_III_DSCF2984.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:KV11_Tomb_of_Ramses_III_DSCF2984.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100494083",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-02-28 03:24:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "KV11 Tomb of Ramses III DSCF2984",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "KV11|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "KV11, Tomb of Ramses III. One of the side alcoves along the second corridor.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-06-21 15:01:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:R_Prazeres\" title=\"User:R Prazeres\">R Prazeres</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

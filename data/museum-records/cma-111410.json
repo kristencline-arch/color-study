@@ -1,0 +1,164 @@
+{
+  "id": 111410,
+  "accession_number": "1929.907",
+  "share_license_status": "CC0",
+  "tombstone": "Fragment of a Woodblock Print on Linen, 1200s–1300s. Mamluk Sultanate (Egypt). Pigment, linen; overall: 20.5 x 11.9 cm (8 1/16 x 4 11/16 in.). The Cleveland Museum of Art, Gift of George D. Pratt, 1929.907",
+  "current_location": null,
+  "title": "Fragment of a Woodblock Print on Linen",
+  "creation_date": "1200s–1300s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1399,
+  "artists_tags": [],
+  "culture": [
+    "Mamluk Sultanate (Egypt)"
+  ],
+  "technique": "pigment, linen",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 20.5 x 11.9 cm (8 1/16 x 4 11/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.205,
+      "height_inch": 8,
+      "height_inch_fraction": 0.0625,
+      "width": 0.119,
+      "width_inch": 4,
+      "width_inch_fraction": 0.6875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "al-sultan",
+      "inscription_translation": "The Arabic inscription in the center of each rosette: \"the sultan\".",
+      "inscription_remark": "",
+      "sortorder": 1
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312048,
+        "title": "Techniques of Textile Printing",
+        "description": "<i>Techniques of Textile Printing</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 11, 1948-May 29, 1949).",
+        "opening_date": "1948-10-11T04:00:00"
+      },
+      {
+        "id": 302021,
+        "title": "Design in Printed Textiles",
+        "description": "<i>Design in Printed Textiles</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 7-September 3, 1961).",
+        "opening_date": "1961-04-07T05:00:00"
+      },
+      {
+        "id": 311451,
+        "title": "Textiles from Egypt, Syria and Spain: 7th through 15th centuries",
+        "description": "<i>Textiles from Egypt, Syria and Spain: 7th through 15th centuries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 26-June 6, 1991).",
+        "opening_date": "1991-11-26T05:00:00"
+      },
+      {
+        "id": 521317,
+        "title": "Africa & Byzantium",
+        "description": "<i>Africa & Byzantium</i>. The Cleveland Museum of Art, Cleveland, OH (co-organizer) (April 14-July 21, 2024).",
+        "opening_date": "2023-11-13T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Paul Mallon [1884–1975], Paris, France, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "–1929",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1929–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Egypt remained an active hub of textile production and trade under the rule of the Mamluk Sultanate (1250–1517), a Muslim dynasty. In the block-print technology used on this textile, multiple carved wooden blocks impress patterns on cotton or linen fabrics. Artisans used separate blocks to transfer the round medallions, create the stars, and apply the interlocking motif at the fragment’s center. The inner medallion inscription reads “the sultan” in an abbreviated Arabic spelling. Block-printed textiles were in high demand around the Mediterranean and Red Sea regions, with many produced in Egypt and others imported from western India.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80003521"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1929.907-fragment-of-a-wood-b",
+      "https://archive.org/details/clevelandart-1929.907-fragment",
+      "https://archive.org/details/clevelandart-1929.907-fragment-of-a-woodbl"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Pfister, Rudoph. <em>Les toiles imprimées de Fostat et l'Hindoustan</em>. Paris: Les Éditions d'art et d'histoire, 1938.",
+      "page_number": "Reproduced: p. 75, pl. XXIXd",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1929.907",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.907/1929.907_web.jpg",
+      "width": "567",
+      "height": "893",
+      "filesize": "544749",
+      "filename": "1929.907_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.907/1929.907_print.jpg",
+      "width": "2157",
+      "height": "3400",
+      "filesize": "8636589",
+      "filename": "1929.907_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.907/1929.907_full.tif",
+      "width": "3714",
+      "height": "5854",
+      "filesize": "65256832",
+      "filename": "1929.907_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of George D. Pratt",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 111410,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1929-11-12T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "1200s–1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": "Fiber microscopy was performed on this object and on 1929.845, a very similar fragment that is also from the Mamluk period of Egypt. This object's fiber type has previously been identified as linen through visual analysis, but fiber microscopy provides confirmation of this identification. Polarized light microscopy is a form of testing that requires a very small sample to be removed from the object for the test to be performed. A polarized light microscope can be used to identify fibers; each fiber type has its own unique structure that is visible under magnification. This textile’s fibers were identified as a bast fiber, likely linen, because they have striations perpendicular to the length of the fiber that are characteristic of bast fibers.",
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Fragment of a Wood-Block Print",
+    "Fragment of a wood-block print on linen"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:53:48.131000"
+}

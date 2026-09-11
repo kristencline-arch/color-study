@@ -1,0 +1,88 @@
+{
+  "pageid": 64630900,
+  "ns": 6,
+  "title": "File:Tapa Cloth (Samoa), 1800–1850 (CH 18563805).jpg",
+  "index": 8,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 13887947,
+      "width": 2340,
+      "height": 4096,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tapa_Cloth_%28Samoa%29%2C_1800%E2%80%931850_%28CH_18563805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tapa_Cloth_(Samoa),_1800%E2%80%931850_(CH_18563805).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64630900",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-12-06 08:37:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Tapa Cloth (Samoa), 1800–1850",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Samoa in the 19th century|Tapa (cloth)|Images uploaded by Fæ|Artworks without Wikidata item|PD-old-100-expired|Artworks with known accession number|Template Unknown (artist)|CC-PD-Mark|19th-century textiles in the Cooper–Hewitt, Smithsonian Design Museum|Artworks of Samoa in the Cooper–Hewitt, Smithsonian Design Museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Tapa cloth printed in design of brown daisies on white circles on brown ground.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1800–1850",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://collection.cooperhewitt.org/objects/18563805\">Catalog</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://images.collection.cooperhewitt.org/132528_5adb7e84486dfde7_x.jpg\">Photo</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

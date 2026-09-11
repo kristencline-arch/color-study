@@ -1,0 +1,416 @@
+{
+  "id": 126730,
+  "accession_number": "1949.158",
+  "share_license_status": "CC0",
+  "tombstone": "Gigaku Mask of Young Persian Boy (Taikōji) (伎楽面・太孤児), 710–94. Japan, Nara period (710–94). Paulownia wood, lacquered and painted; overall: 28 x 21 x 18.5 cm (11 x 8 1/4 x 7 5/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1949.158",
+  "current_location": null,
+  "title": "Gigaku Mask of Young Persian Boy (Taikōji)",
+  "title_in_original_language": "伎楽面・太孤児",
+  "creation_date": "710–94",
+  "creation_date_earliest": 710,
+  "creation_date_latest": 794,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Nara period (710–94)"
+  ],
+  "technique": "paulownia wood, lacquered and painted",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "Japanese Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 28 x 21 x 18.5 cm (11 x 8 1/4 x 7 5/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.28,
+      "height_inch": 11,
+      "height_inch_fraction": 0.0,
+      "width": 0.21,
+      "width_inch": 8,
+      "width_inch_fraction": 0.25,
+      "depth": 0.185,
+      "depth_inch": 7,
+      "depth_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311898,
+        "title": "35th Anniversary Exhibition",
+        "description": "<i>35th Anniversary Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-September 30, 1951).",
+        "opening_date": "1951-06-20T04:00:00"
+      },
+      {
+        "id": 355637,
+        "title": "The Mask",
+        "description": "<i>The Mask</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27, 1951-January 14, 1952).",
+        "opening_date": "1951-10-27T05:00:00"
+      },
+      {
+        "id": 300779,
+        "title": "Juxtapositions",
+        "description": "<i>Juxtapositions</i>. The Cleveland Museum of Art, Cleveland, OH (September 11-October 10, 1965).",
+        "opening_date": "1965-09-11T04:00:00"
+      },
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>One Thousand Years of Japanese Art (650-1650) from The Cleveland Museum of Art</em>. Japan House Gallery, New York, NY (Spring 1981).",
+        "opening_date": "1981-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Main Asian Rotation (Gallery 237)</em>. The Cleveland Museum of Art, Cleveland, OH (April 10, 2013-November 17, 2015).",
+        "opening_date": "2013-04-10T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Hollis & Company, Cleveland, OH, and New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1949",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1949–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This is the mask for one of two sons who accompany a widower in ancient dance theater.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This mask is for the role of the son of an old Persian widower in <em>gigaku</em>, a theatrical dance repertoire imported to Japan from continental Asia during the seventh century. The old man and his sons mime prayers to the Buddha. While the mask would cover the entire head of the actor, there are openings for the eyes, nostrils, and mouth.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79906300"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1949.158-gikaku-mask-of-young"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Milliken, William M. “A Gigaku Mask.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 37, no. 8, 1950, pp. 176–178.",
+      "page_number": "Reproduced: cover; Mentioned; pp. 176-178",
+      "url": "https://www.jstor.org/stable/25141655"
+    },
+    {
+      "citation": "Milliken, William M. “Important Acquisitions of Japanese Art.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 38, no. 9, 1951, pp. 211–217.",
+      "page_number": "Mentioned: p. 211",
+      "url": "https://www.jstor.org/stable/25141741"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 900",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n159"
+    },
+    {
+      "citation": "Kleinschmidt, Peter. “Die Masken Der Gigaku Der äLtesten Theaterform Japans.” Ph.D. diss., Universität Köln, 1964.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 273",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n297"
+    },
+    {
+      "citation": "Mayuyama, Junkichi. <em>Japanese Art in the West</em>. Tokyo: Mayuyama &amp; Co, 1966.",
+      "page_number": "Reproduced: pl. 9, pp. 10 and 341",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 273",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n297"
+    },
+    {
+      "citation": "Lee, Sherman E. “Noh: Masks and Robe.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 62, no. 2, 1975, pp. 26–35.",
+      "page_number": "Reproduced: fig. 1, p. 27",
+      "url": "https://www.jstor.org/stable/25152574"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 369",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n389"
+    },
+    {
+      "citation": "Yamane, Yūzō 山根有三, Shūjirō Shimada 島田修二郎, and Terukazu Akiyama 秋山光和. <em>Zaigai Nihon no shihō </em>[在外日本の至宝 = Japanese art: selections from western collections]. Tōkyō: Mainichi Shinbunsha, 1979.",
+      "page_number": "Reproduced: no. 93, p. 154, pl. 93",
+      "url": null
+    },
+    {
+      "citation": "Zenzo Shimizu. \"Japanese Sculptures in America and Canada,\" <em>Ars Buddhica </em>佛教藝術, no. 126 (September 1979), part I, pp. 67–88.",
+      "page_number": "Reproduced: fig. 29, p. 74",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E., Michael R. Cunningham, and Ursula Korneitchouk. <em>One Thousand Years of Japanese Art (650-1650): From the Cleveland Museum of Art: Catalogue</em>. New York: Japan Society, 1981.",
+      "page_number": "Mentioned and Reproduced: p. 17, no. 3",
+      "url": ""
+    },
+    {
+      "citation": "Mizuno, Keizaburō 水野敬三郎, Hideo Okada 岡田英男, and Kazuharu Asai 浅井和春. <em>Tōdaiji to Heijōkyō: Nara no kenchiku, chōkoku</em> [東大寺と平城京 : 奈良の建築・彫刻 = The Sculpture and Architecture of the Nara Dynasty ]. Tōkyō: Kōdansha, 1990.",
+      "page_number": "Reproduced: fig. 148, p. 147",
+      "url": null
+    },
+    {
+      "citation": "Iwata, Shigeki. \"Gigaku Masks at the Cleveland Museum of Art and Tsunashiki Tenmangu Shrine.\" <em>Bulletin of the Nara National Museum</em> 23 (March 2021): 15–22.",
+      "page_number": "Mentioned and Reproduced: p. 15, fig. 1",
+      "url": ""
+    },
+    {
+      "citation": "Vilbar, Sinéad. \"The Japanese Art Collection of the Cleveland Museum of Art, 1915-1951.\" In <em>Great Waves &amp; Mountains: Perspectives and Discoveries in Collecting the Arts of Japan. </em>Natsu Oyobe, and Allysa B. Peyton, eds., 160–197. Gainesville: University of Florida Press, 2022.",
+      "page_number": "Mentioned and Reproduced: pp. 180–181, fig. 7.15",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1949.158",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_web.jpg",
+      "width": "763",
+      "height": "900",
+      "filesize": "224925",
+      "filename": "1949.158_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_print.jpg",
+      "width": "2884",
+      "height": "3400",
+      "filesize": "2690369",
+      "filename": "1949.158_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_full.tif",
+      "width": "10652",
+      "height": "12558",
+      "filesize": "401332976",
+      "filename": "1949.158_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt0_web.jpg",
+        "width": "763",
+        "height": "900",
+        "filesize": "223693"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt0_print.jpg",
+        "width": "2881",
+        "height": "3400",
+        "filesize": "2723835"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt0_full.tif",
+        "width": "10652",
+        "height": "12570",
+        "filesize": "401716408"
+      },
+      "date_created": "2024-11-11T16:24:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt1_web.jpg",
+        "width": "764",
+        "height": "900",
+        "filesize": "220821"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt1_print.jpg",
+        "width": "2887",
+        "height": "3400",
+        "filesize": "2663348"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt1_full.tif",
+        "width": "10652",
+        "height": "12543",
+        "filesize": "400853584"
+      },
+      "date_created": "2024-11-11T16:27:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt2_web.jpg",
+        "width": "826",
+        "height": "900",
+        "filesize": "199658"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt2_print.jpg",
+        "width": "3120",
+        "height": "3400",
+        "filesize": "2506837"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt2_full.tif",
+        "width": "10652",
+        "height": "11608",
+        "filesize": "370974188"
+      },
+      "date_created": "2024-11-11T16:31:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt3_web.jpg",
+        "width": "830",
+        "height": "900",
+        "filesize": "190213"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt3_print.jpg",
+        "width": "3137",
+        "height": "3400",
+        "filesize": "2382439"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt3_full.tif",
+        "width": "10652",
+        "height": "11544",
+        "filesize": "368928692"
+      },
+      "date_created": "2024-11-11T16:35:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt4_web.jpg",
+        "width": "900",
+        "height": "824",
+        "filesize": "207285"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt4_print.jpg",
+        "width": "3400",
+        "height": "3113",
+        "filesize": "2871614"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt4_full.tif",
+        "width": "9419",
+        "height": "8624",
+        "filesize": "243716624"
+      },
+      "date_created": "2024-11-11T16:41:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt5_web.jpg",
+        "width": "900",
+        "height": "824",
+        "filesize": "231648"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt5_print.jpg",
+        "width": "3400",
+        "height": "3111",
+        "filesize": "2798692"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt5_full.tif",
+        "width": "9419",
+        "height": "8618",
+        "filesize": "243548904"
+      },
+      "date_created": "2024-11-11T16:45:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt6_web.jpg",
+        "width": "765",
+        "height": "900",
+        "filesize": "199347"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt6_print.jpg",
+        "width": "2890",
+        "height": "3400",
+        "filesize": "2378801"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt6_full.tif",
+        "width": "10138",
+        "height": "11925",
+        "filesize": "362715596"
+      },
+      "date_created": "2024-11-11T17:01:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt7_web.jpg",
+        "width": "638",
+        "height": "893",
+        "filesize": "338321"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt7_print.jpg",
+        "width": "2431",
+        "height": "3400",
+        "filesize": "4843072"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.158/1949.158_alt7_full.tif",
+        "width": "4042",
+        "height": "5654",
+        "filesize": "68581468"
+      },
+      "date_created": "2009-11-13T15:57:35",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": "908a266ae8084123962cc99b6d29eae3",
+  "sketchfab_url": "https://sketchfab.com/models/908a266ae8084123962cc99b6d29eae3",
+  "gallery_donor_text": null,
+  "athena_id": 126730,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1949-06-14T00:00:00",
+  "sortable_date": 710,
+  "date_added_to_oa": null,
+  "date_text": "710–94",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "伎楽面・酔胡従",
+    "Gigaku Mask: Suikojū",
+    "Gikaku Mask of Drunken Foreign Attendant (Suikojū)"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-09-10 20:48:27.738000"
+}

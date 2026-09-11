@@ -1,0 +1,150 @@
+{
+  "id": 107859,
+  "accession_number": "1925.489",
+  "share_license_status": "CC0",
+  "tombstone": "Ceremonial Cloth (Kampo), 1800s. Indonesia, Central Java, 19th century. Batik; cotton; overall: 325 x 208.3 cm (127 15/16 x 82 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1925.489",
+  "current_location": null,
+  "title": "Ceremonial Cloth (Kampo)",
+  "creation_date": "1800s",
+  "creation_date_earliest": 1800,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Indonesia, Central Java, 19th century"
+  ],
+  "technique": "batik; cotton",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 325 x 208.3 cm (127 15/16 x 82 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 3.25,
+      "height_inch": 127,
+      "height_inch_fraction": 0.9375,
+      "width": 2.083,
+      "width_inch": 82,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 355370,
+        "title": "Exhibition of the Month: Arts of Java and Bali",
+        "description": "<i>Exhibition of the Month: Arts of Java and Bali</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 5-September 3, 1946).",
+        "opening_date": "1946-06-05T04:00:00"
+      },
+      {
+        "id": 302021,
+        "title": "Design in Printed Textiles",
+        "description": "<i>Design in Printed Textiles</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 7-September 3, 1961).",
+        "opening_date": "1961-04-07T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(A. K. Coomaraswamy).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80055840"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1925.489-ceremonial-cloth-kam"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1925.489",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_web.jpg",
+      "width": "900",
+      "height": "587",
+      "filesize": "293118",
+      "filename": "1925.489_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_print.jpg",
+      "width": "3400",
+      "height": "2217",
+      "filesize": "3669744",
+      "filename": "1925.489_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_full.tif",
+      "width": "7649",
+      "height": "4988",
+      "filesize": "114487228",
+      "filename": "1925.489_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_alt0_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "375255"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_alt0_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "3432887"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1925.489/1925.489_alt0_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144030916"
+      },
+      "date_created": "2019-01-16T09:36:33",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 107859,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1925-03-24T00:00:00",
+  "sortable_date": 1800,
+  "date_added_to_oa": null,
+  "date_text": "1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:08:31.371000"
+}

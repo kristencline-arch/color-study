@@ -1,0 +1,539 @@
+{
+  "id": 94191,
+  "accession_number": "1914.715",
+  "share_license_status": "CC0",
+  "tombstone": "Cartonnage Mummy Case , c. 50 BCE–50 CE. Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)–Roman empire (30 BCE–395 CE). Cartonnage, painted and gilded, with glass inlays; overall: 20.5 x 57 cm (8 1/16 x 22 7/16 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1914.715",
+  "current_location": "107 Egyptian",
+  "title": "Cartonnage Mummy Case ",
+  "creation_date": "c. 50 BCE–50 CE",
+  "creation_date_earliest": -50,
+  "creation_date_latest": 50,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)–Roman empire (30 BCE–395 CE)"
+  ],
+  "technique": "cartonnage, painted and gilded, with glass inlays",
+  "support_materials": [],
+  "department": "Egyptian and Ancient Near Eastern Art",
+  "collection": "Egypt - Ptolemaic Dynasty",
+  "type": "Funerary Equipment",
+  "measurements": "Overall: 20.5 x 57 cm (8 1/16 x 22 7/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.205,
+      "height_inch": 8,
+      "height_inch_fraction": 0.0625,
+      "width": 0.57,
+      "width_inch": 22,
+      "width_inch_fraction": 0.4375,
+      "length": 1.665,
+      "length_inch": 65,
+      "length_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 211751,
+        "title": "Long-term loan",
+        "description": "<i>Long-term loan</i>. The Toledo Museum of Art (organizer) (April 1, 1997-September 21, 1998).",
+        "opening_date": "1997-04-04T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Perhaps Akhmim. Purchased from Mr. Hornblower (in Egypt?) by Lucy Olcott Perkins through Henry W. Kent",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "354.14"
+  ],
+  "did_you_know": "This coffin is smaller and later in date than the other coffins in this gallery. It is made of cartonnage, which used layers of linen to create a material similar to papier-mâché. The painted portrait head displays the influence of Roman portraiture at this time and incorporates both gilding and glass inlays. Despite the fragile materials, this mummy case survived due to the very dry desert climate in which it was found.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This mummy case is made of cartonnage, a material similar to papier-mâché, but using layers of linen rather than paper. Cartonnage mummy cases such as these are contemporary with funerary portraits painted on wood or linen, although they present a very different appearance. The face, modeled in plaster, is bland and idealized, although the effect of the gilding and glass inlays is quite dazzling. The body is painted with traditional, age-old funerary motifs: the god Osiris, seated and mummiform; the fetish of Abydos, holy city of Osiris, flanked by standing deities (Thoth and Shu); a Horus falcon with outspread wings, and the bark of Sokar. Below these are the sandaled feet of the deceased. On the sides are rows of seated deities. On the top of the head are a winged scarab beetle flanked by Anubis jackals. On the foot are painted the soles of the deceased’s sandals, flanked by scorpions for protection.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60756044"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1914.715-cartonnage-mummy-cas"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Grimm, Günter. <em>Die Römischen Mumienmasken aus Ägypten.</em> Wiesbaden: F. Steiner, 1974.",
+      "page_number": "Mentioned: P. 100, 116; Reproduced: Taf. 115.1",
+      "url": ""
+    },
+    {
+      "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+      "page_number": "Reproduced: p. 503-5; Mentioned: p. 504-5",
+      "url": null
+    },
+    {
+      "citation": "Riggs, Christina. <em>The Beautiful Burial in Roman Egypt: Art, Identity, and Funerary Religion</em>. Oxford: Oxford University Press, 2005.",
+      "page_number": "Mentioned and reproduced: P. 49-52, fig. 13, 14, 15",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1914.715",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_web.jpg",
+      "width": "441",
+      "height": "893",
+      "filesize": "294299",
+      "filename": "1914.715_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_print.jpg",
+      "width": "1011",
+      "height": "2048",
+      "filesize": "1724566",
+      "filename": "1914.715_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_full.tif",
+      "width": "1011",
+      "height": "2048",
+      "filesize": "6213812",
+      "filename": "1914.715_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt0_web.jpg",
+        "width": "490",
+        "height": "893",
+        "filesize": "271765"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt0_print.jpg",
+        "width": "1864",
+        "height": "3400",
+        "filesize": "4851106"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt0_full.tif",
+        "width": "3502",
+        "height": "6385",
+        "filesize": "67109380"
+      },
+      "date_created": "2010-05-21T18:33:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt1_web.jpg",
+        "width": "814",
+        "height": "893",
+        "filesize": "581225"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt1_print.jpg",
+        "width": "3101",
+        "height": "3400",
+        "filesize": "8937808"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt1_full.tif",
+        "width": "4788",
+        "height": "5249",
+        "filesize": "75429460"
+      },
+      "date_created": "2010-05-21T12:57:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt2_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "1105861"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt2_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "9927106"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt2_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893012"
+      },
+      "date_created": "2010-05-21T13:44:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt3_web.jpg",
+        "width": "1112",
+        "height": "893",
+        "filesize": "1042142"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt3_print.jpg",
+        "width": "3400",
+        "height": "2731",
+        "filesize": "10679102"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt3_full.tif",
+        "width": "6213",
+        "height": "4992",
+        "filesize": "93081344"
+      },
+      "date_created": "2010-05-21T14:10:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt4_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "1107258"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt4_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "9739416"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt4_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99894416"
+      },
+      "date_created": "2010-05-21T14:17:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt5_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "1086303"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt5_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "9564043"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt5_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99894032"
+      },
+      "date_created": "2010-05-21T14:34:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt6_web.jpg",
+        "width": "1022",
+        "height": "893",
+        "filesize": "878586"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt6_print.jpg",
+        "width": "3400",
+        "height": "2972",
+        "filesize": "9808614"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt6_full.tif",
+        "width": "5649",
+        "height": "4938",
+        "filesize": "83720064"
+      },
+      "date_created": "2010-05-21T14:45:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt7_web.jpg",
+        "width": "1263",
+        "height": "528",
+        "filesize": "393012"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt7_print.jpg",
+        "width": "3400",
+        "height": "1422",
+        "filesize": "3449865"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt7_full.tif",
+        "width": "6668",
+        "height": "2790",
+        "filesize": "55837880"
+      },
+      "date_created": "2010-05-21T15:22:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt8_web.jpg",
+        "width": "1263",
+        "height": "745",
+        "filesize": "727626"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt8_print.jpg",
+        "width": "3400",
+        "height": "2006",
+        "filesize": "6415525"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt8_full.tif",
+        "width": "6668",
+        "height": "3936",
+        "filesize": "78764348"
+      },
+      "date_created": "2010-05-21T15:44:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt9_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "792320"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt9_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6958639"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt9_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99889012"
+      },
+      "date_created": "2010-05-21T15:53:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt10_web.jpg",
+        "width": "1252",
+        "height": "893",
+        "filesize": "842487"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt10_print.jpg",
+        "width": "3400",
+        "height": "2426",
+        "filesize": "6476545"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt10_full.tif",
+        "width": "6668",
+        "height": "4758",
+        "filesize": "95209016"
+      },
+      "date_created": "2010-05-21T15:58:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt11_web.jpg",
+        "width": "1263",
+        "height": "450",
+        "filesize": "351212"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt11_print.jpg",
+        "width": "3400",
+        "height": "1211",
+        "filesize": "2976965"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt11_full.tif",
+        "width": "6668",
+        "height": "2376",
+        "filesize": "47556240"
+      },
+      "date_created": "2010-05-21T17:25:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt12_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "864350"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt12_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7511713"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt12_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99891220"
+      },
+      "date_created": "2010-05-21T17:36:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt13_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "881936"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt13_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7528498"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt13_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99890692"
+      },
+      "date_created": "2010-05-21T17:41:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt14_web.jpg",
+        "width": "1263",
+        "height": "890",
+        "filesize": "961796"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt14_print.jpg",
+        "width": "3400",
+        "height": "2395",
+        "filesize": "7337243"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt14_full.tif",
+        "width": "6668",
+        "height": "4698",
+        "filesize": "94009536"
+      },
+      "date_created": "2010-05-21T17:46:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt15_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "834383"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt15_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7018323"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt15_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99890756"
+      },
+      "date_created": "2010-05-21T17:51:28",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt16_web.jpg",
+        "width": "802",
+        "height": "893",
+        "filesize": "579153"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt16_print.jpg",
+        "width": "3054",
+        "height": "3400",
+        "filesize": "8047181"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt16_full.tif",
+        "width": "4992",
+        "height": "5557",
+        "filesize": "83254896"
+      },
+      "date_created": "2010-05-21T18:05:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt17_web.jpg",
+        "width": "824",
+        "height": "893",
+        "filesize": "653938"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt17_print.jpg",
+        "width": "3139",
+        "height": "3400",
+        "filesize": "9573855"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1914.715/1914.715_alt17_full.tif",
+        "width": "4992",
+        "height": "5406",
+        "filesize": "80994700"
+      },
+      "date_created": "2010-05-21T18:15:09",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 94191,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1914-01-01T00:00:00",
+  "sortable_date": -50,
+  "date_added_to_oa": null,
+  "date_text": "c. 50 BCE–50 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:00:50.252000"
+}

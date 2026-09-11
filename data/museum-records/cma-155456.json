@@ -1,0 +1,190 @@
+{
+  "id": 155456,
+  "accession_number": "1990.182",
+  "share_license_status": "CC0",
+  "tombstone": "Plate, c. 800. Mexico, Campeche, Maya. Earthenware with colored slips; overall: 6.5 x 41.5 cm (2 9/16 x 16 5/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. James C. Gruener, 1990.182",
+  "current_location": "233 Mesoamerican and Intermediate Region",
+  "title": "Plate",
+  "creation_date": "c. 800",
+  "creation_date_earliest": 750,
+  "creation_date_latest": 850,
+  "artists_tags": [],
+  "culture": [
+    "Mexico, Campeche, Maya"
+  ],
+  "technique": "earthenware with colored slips",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Mesoamerica",
+  "type": "Ceramic",
+  "measurements": "Overall: 6.5 x 41.5 cm (2 9/16 x 16 5/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.065,
+      "height_inch": 2,
+      "height_inch_fraction": 0.5625,
+      "width": 0.415,
+      "width_inch": 16,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 344809,
+        "title": "The Gruener Collection of Pre-Columbian Art",
+        "description": "<i>The Gruener Collection of Pre-Columbian Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-November 29, 1992).",
+        "opening_date": "1992-02-04T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Cleveland, OH: The Cleveland Museum of Art; February 4 - November 29, 1992. \"The Gruener Collection of Pre-Columbian Art.\" The Bulletin of the Cleveland Museum of Art. 79 (September, 1992.) cat. no. 91, p. 272, repr. fig. 91, p. 256.",
+        "opening_date": "1992-02-04T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(possibly Stendahl Art Galleries, Los Angeles, CA, 1972, sold to James C. and Florence C. Gruener)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1972?",
+      "sortorder": 1
+    },
+    {
+      "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1972-1991",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1990-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Apex predators like jaguars are natural power metaphors.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Its pose and jewelry suggest this flamboyantly painted figure may represent a human clad in the skin of a jaguar. Because the jaguar is the largest, most powerful predator in Mesoamerica, it was a natural metaphor for earthly and supernatural power alike.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60778381"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1990.182-plate"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Young-Sánchez, Margaret. \"The Gruener Collection of Pre-Columbian Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 7 (1992): 234-75.",
+      "page_number": "Reproduced and Mentioned: p. 256",
+      "url": "https://www.jstor.org/stable/25161367"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1990.182",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_web.jpg",
+      "width": "985",
+      "height": "893",
+      "filesize": "587383",
+      "filename": "1990.182_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_print.jpg",
+      "width": "3400",
+      "height": "3083",
+      "filesize": "8521743",
+      "filename": "1990.182_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_full.tif",
+      "width": "5326",
+      "height": "4830",
+      "filesize": "77235960",
+      "filename": "1990.182_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt0_web.jpg",
+        "width": "969",
+        "height": "893",
+        "filesize": "594307"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt0_print.jpg",
+        "width": "3400",
+        "height": "3134",
+        "filesize": "9732604"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt0_full.tif",
+        "width": "5209",
+        "height": "4803",
+        "filesize": "75085744"
+      },
+      "date_created": "2011-03-21T18:05:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt1_web.jpg",
+        "width": "721",
+        "height": "893",
+        "filesize": "504979"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt1_print.jpg",
+        "width": "1536",
+        "height": "1903",
+        "filesize": "2386415"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.182/1990.182_alt1_full.tif",
+        "width": "1536",
+        "height": "1903",
+        "filesize": "8772252"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Mr. and Mrs. James C. Gruener",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 155456,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1991-03-27T00:00:00",
+  "sortable_date": 750,
+  "date_added_to_oa": null,
+  "date_text": "c. 800",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:02:37.569000"
+}

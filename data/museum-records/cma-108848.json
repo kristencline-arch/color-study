@@ -1,0 +1,379 @@
+{
+  "id": 108848,
+  "accession_number": "1926.522",
+  "share_license_status": "CC0",
+  "tombstone": "Female Figurine, 330–200 BCE. Greece, Tanagra (Boeotia). Molded terracotta, painted; overall: 23.5 cm (9 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1926.522",
+  "current_location": "102C Greek",
+  "title": "Female Figurine",
+  "creation_date": "330–200 BCE",
+  "creation_date_earliest": -330,
+  "creation_date_latest": -200,
+  "artists_tags": [],
+  "culture": [
+    "Greece, Tanagra (Boeotia)"
+  ],
+  "technique": "molded terracotta, painted",
+  "support_materials": [],
+  "department": "Greek and Roman Art",
+  "collection": "GR - Greek",
+  "type": "Sculpture",
+  "measurements": "Overall: 23.5 cm (9 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.235,
+      "height_inch": 9,
+      "height_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "L. Ciani, Paris, France, sold to Brummer Gallery",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1926",
+      "sortorder": 1
+    },
+    {
+      "description": "Brummer Gallery, New York, NY, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "1926-1926",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1926-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This woman’s rolled hairstyle is now called a “melon coiffure.”",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This figurine depicts an elegantly draped young woman wearing a cloak or <em>himation</em> over a dress called a chiton. The contrast between her sharp elbow and flowing skirts illustrates an interest in the stretch and fold of different fabrics. Originally brilliantly painted, this figurine still has traces of color such as the red hair and the white on her face. The site of Tanagra in central Greece is known for its abundance of terracotta figurines like this one made by mixing and matching different molds.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60742664"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1926.522-female-figurine"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Brummer Gallery Records. Cloisters (Museum), n.d.",
+      "page_number": "P3189",
+      "url": "https://libmma.contentdm.oclc.org/digital/collection/p16028coll9/id/28130"
+    },
+    {
+      "citation": "Howard, Rossiter, \"Greek Sculptures in Terra-Cotta.\" <em>The Bulletin of the Cleveland Museum of Art</em> 14, no. 2 (1927).",
+      "page_number": "p. 22",
+      "url": "https://www.jstor.org/stable/25137000"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1926.522",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_web.jpg",
+      "width": "549",
+      "height": "900",
+      "filesize": "173716",
+      "filename": "1926.522_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_print.jpg",
+      "width": "2074",
+      "height": "3400",
+      "filesize": "1284007",
+      "filename": "1926.522_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_full.tif",
+      "width": "8096",
+      "height": "13271",
+      "filesize": "322353116",
+      "filename": "1926.522_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt0_web.jpg",
+        "width": "550",
+        "height": "900",
+        "filesize": "163851"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt0_print.jpg",
+        "width": "2077",
+        "height": "3400",
+        "filesize": "1146017"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt0_full.tif",
+        "width": "8096",
+        "height": "13252",
+        "filesize": "321891448"
+      },
+      "date_created": "2024-02-22T22:51:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt1_web.jpg",
+        "width": "550",
+        "height": "900",
+        "filesize": "170855"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt1_print.jpg",
+        "width": "2077",
+        "height": "3400",
+        "filesize": "1225678"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt1_full.tif",
+        "width": "8096",
+        "height": "13254",
+        "filesize": "321940184"
+      },
+      "date_created": "2024-02-22T22:55:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt2_web.jpg",
+        "width": "550",
+        "height": "900",
+        "filesize": "158593"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt2_print.jpg",
+        "width": "2079",
+        "height": "3400",
+        "filesize": "1074687"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt2_full.tif",
+        "width": "8096",
+        "height": "13243",
+        "filesize": "321672728"
+      },
+      "date_created": "2024-02-22T23:04:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt3_web.jpg",
+        "width": "551",
+        "height": "900",
+        "filesize": "160495"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt3_print.jpg",
+        "width": "2081",
+        "height": "3400",
+        "filesize": "1092194"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt3_full.tif",
+        "width": "8096",
+        "height": "13228",
+        "filesize": "321308404"
+      },
+      "date_created": "2024-02-22T23:00:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt4_web.jpg",
+        "width": "551",
+        "height": "900",
+        "filesize": "172188"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt4_print.jpg",
+        "width": "2083",
+        "height": "3400",
+        "filesize": "1285970"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt4_full.tif",
+        "width": "8096",
+        "height": "13216",
+        "filesize": "321017228"
+      },
+      "date_created": "2024-02-22T23:08:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt5_web.jpg",
+        "width": "900",
+        "height": "792",
+        "filesize": "227653"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt5_print.jpg",
+        "width": "3400",
+        "height": "2993",
+        "filesize": "2139502"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt5_full.tif",
+        "width": "8590",
+        "height": "7562",
+        "filesize": "194900796"
+      },
+      "date_created": "2024-02-22T23:15:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt6_web.jpg",
+        "width": "900",
+        "height": "792",
+        "filesize": "306714"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt6_print.jpg",
+        "width": "3400",
+        "height": "2992",
+        "filesize": "3230289"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt6_full.tif",
+        "width": "8590",
+        "height": "7560",
+        "filesize": "194850580"
+      },
+      "date_created": "2024-02-22T23:20:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt7_web.jpg",
+        "width": "562",
+        "height": "893",
+        "filesize": "263444"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt7_print.jpg",
+        "width": "2138",
+        "height": "3400",
+        "filesize": "3827845"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt7_full.tif",
+        "width": "3617",
+        "height": "5753",
+        "filesize": "62455716"
+      },
+      "date_created": "2009-04-17T13:33:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt8_web.jpg",
+        "width": "552",
+        "height": "893",
+        "filesize": "227028"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt8_print.jpg",
+        "width": "2101",
+        "height": "3400",
+        "filesize": "3507792"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt8_full.tif",
+        "width": "3554",
+        "height": "5752",
+        "filesize": "61357144"
+      },
+      "date_created": "2009-04-17T13:48:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt9_web.jpg",
+        "width": "536",
+        "height": "893",
+        "filesize": "225139"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt9_print.jpg",
+        "width": "2039",
+        "height": "3400",
+        "filesize": "3494159"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt9_full.tif",
+        "width": "3497",
+        "height": "5830",
+        "filesize": "61191748"
+      },
+      "date_created": "2009-04-17T14:09:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt10_web.jpg",
+        "width": "575",
+        "height": "893",
+        "filesize": "266670"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt10_print.jpg",
+        "width": "2189",
+        "height": "3400",
+        "filesize": "4193829"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1926.522/1926.522_alt10_full.tif",
+        "width": "3716",
+        "height": "5773",
+        "filesize": "64387312"
+      },
+      "date_created": "2009-04-17T14:18:28",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": "e29cf6ad005b47429386d96d9a879a54",
+  "sketchfab_url": "https://sketchfab.com/models/e29cf6ad005b47429386d96d9a879a54",
+  "gallery_donor_text": "Dr. John and Helen Collis Family Gallery",
+  "athena_id": 108848,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1926-11-30T00:00:00",
+  "sortable_date": -330,
+  "date_added_to_oa": null,
+  "date_text": "330–200 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-10 20:47:26.086000"
+}

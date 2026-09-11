@@ -1,0 +1,225 @@
+{
+  "id": 96266,
+  "accession_number": "1916.1980",
+  "share_license_status": "CC0",
+  "tombstone": "Ornamental Square from a Tunic, 400s CE. Egypt, Byzantine period. Linen, undyed; wool, dyed; tapestry weave with supplementary weft wrapping; overall: 21 x 20 cm (8 1/4 x 7 7/8 in.); mounted: 28.6 x 27.6 cm (11 1/4 x 10 7/8 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1916.1980",
+  "current_location": null,
+  "title": "Ornamental Square from a Tunic",
+  "creation_date": "400s CE",
+  "creation_date_earliest": 400,
+  "creation_date_latest": 499,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "Linen, undyed; wool, dyed; tapestry weave with supplementary weft wrapping",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 21 x 20 cm (8 1/4 x 7 7/8 in.); Mounted: 28.6 x 27.6 cm (11 1/4 x 10 7/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.21,
+      "height_inch": 8,
+      "height_inch_fraction": 0.25,
+      "width": 0.2,
+      "width_inch": 7,
+      "width_inch_fraction": 0.875
+    },
+    "mounted": {
+      "height": 0.286,
+      "height_inch": 11,
+      "height_inch_fraction": 0.25,
+      "width": 0.276,
+      "width_inch": 10,
+      "width_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 317001,
+        "title": "Inaugural Exhibition",
+        "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+        "opening_date": "1916-06-06T05:00:00"
+      },
+      {
+        "id": 437426,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 2, 2001-October 15, 2002).",
+        "opening_date": "2001-11-02T05:00:00"
+      },
+      {
+        "id": 383006,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 4, 2011-May 21, 2012).",
+        "opening_date": "2011-04-04T04:00:00"
+      },
+      {
+        "id": 282101,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 12, 2016-May 22, 2017).",
+        "opening_date": "2016-04-12T04:00:00"
+      },
+      {
+        "id": 539451,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art (organizer) (November 13, 2023-November 10, 2024).",
+        "opening_date": "2023-11-13T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>First National Silk Convention. </em>Paterson City Hall, Paterson, NJ (October 12–21, 1915).",
+        "opening_date": "1915-10-12T05:00:00Z"
+      },
+      {
+        "description": "<em>2000 Years of Tapestry Weaving</em>. Wadsworth Atheneum, Hartford, CT (December 7, 1951-January 27, 1952); Baltimore Museum of Art, Baltimore, MD (February 27-March 25, 1952).",
+        "opening_date": "1952-02-27T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Mrs. Chauncey J. [Mary A. I. Mitchell] Blair [1856–1940], Chicago, IL, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1916",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1916–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "248.1916",
+    "1667.1916"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Riders dressed in hunting clothes and boots hurl rocks at fleeing lions. The man wears a short tunic and the woman has a fluttering skirt. The border consists of curved acanthus leaves that enclose a chase of alternating lions and hares. This square was sewn onto a tunic rather than woven in. Hunting was a popular artistic theme in pre-Islamic traditions, including Byzantine art, and was then adopted into Islamic art.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761529"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.1980-ornamental-square-fr"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Meyer-Reifstahl, Rudolf A.. <em>First National Silk Convention: [Exhibition] City Hall, Paterson, N.J., October 12th, to 21st., 1915</em>. [Paterson, NJ?]: [Chamber of Commerce?], 1915.",
+      "page_number": "no. 3, p. 19",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1925.",
+      "page_number": "Reproduced: p. 65",
+      "url": "https://archive.org/details/CMAHandbook_80839/page/n67"
+    },
+    {
+      "citation": "Wadsworth Atheneum, Adelyn Dohme Breeskin, and Charles Crehore Cunningham. <em>2000 Years of Tapestry Weaving: A Loan Exhibition : Wadsworth Atheneum, Hartford, Dec. 7, 1951 to Jan. 27, 1952 ; the Baltimore Museum of Art, Feb. 27, 1952 to Mar. 25, 1952</em>. Hartford, CT: Wardsworth Atheneum, 1951.",
+      "page_number": "no. 36, pl. III.",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 45",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n23"
+    },
+    {
+      "citation": "Francovich, Géza de. 1963. \"L' Egitto, la Siria e Costantinopoli: problemi di metodo\". Rivista Dell'Istituto Nazionale D'Archeologia E Storia Dell'Arte / Istituto Nazionale D'Archeologia E Storia Dell'Arte . 83-229.",
+      "page_number": "139, fig. 72",
+      "url": null
+    },
+    {
+      "citation": "Thompson, Deborah. 1965. “A Fatimid Textile of Coptic Tradition with Arabic Inscription.” <em>Journal of the American Research Center in Egypt</em> 4: 145–50.",
+      "page_number": "fig. 8, pl. XXXVIII",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 30",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n54"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 30",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n52"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 36",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n56"
+    },
+    {
+      "citation": "Kajitani, Nobuko. Koputo gire. Kyōto: Kyōto Shoin, 1981.",
+      "page_number": "p. 48, pl. 63",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1916.1980",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1980/1916.1980_web.jpg",
+      "width": "899",
+      "height": "900",
+      "filesize": "586844",
+      "filename": "1916.1980_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1980/1916.1980_print.jpg",
+      "width": "3396",
+      "height": "3400",
+      "filesize": "7405566",
+      "filename": "1916.1980_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1980/1916.1980_full.tif",
+      "width": "5810",
+      "height": "5817",
+      "filesize": "101427020",
+      "filename": "1916.1980_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 96266,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1916-12-05T00:00:00",
+  "sortable_date": 400,
+  "date_added_to_oa": null,
+  "date_text": "400s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Tunic Decoration with Roman Hunters"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:11:01.269000"
+}

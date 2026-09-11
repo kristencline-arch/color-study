@@ -1,0 +1,136 @@
+{
+  "id": 132176,
+  "accession_number": "1954.70.i",
+  "share_license_status": "CC0",
+  "tombstone": "Fragment, 700s. China or Japan. Plain cloth, batik printed; overall: 17.2 x 4.5 cm (6 3/4 x 1 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1954.70.i",
+  "current_location": null,
+  "title": "Fragment",
+  "creation_date": "700s",
+  "creation_date_earliest": 700,
+  "creation_date_latest": 799,
+  "artists_tags": [],
+  "culture": [
+    "China or Japan"
+  ],
+  "technique": "plain cloth, batik printed",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 17.2 x 4.5 cm (6 3/4 x 1 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.172,
+      "height_inch": 6,
+      "height_inch_fraction": 0.75,
+      "width": 0.045,
+      "width_inch": 1,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "said to have come from the Shōsōin and Hōryūji, Nara, Japan",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "(Howard Hollis and Co., Cleveland, OH, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1954",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1954–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1954.78"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80023977"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1954.70.i-fragment"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Shepherd, Dorothy G. \"An Album of Textiles from the Shōsōin and Hōryūji.\" <em>The Bulletin of the Cleveland Museum of Art</em> 42, no. 6 (1955): 124–127.",
+      "page_number": "Mentioned: pp. 124–127; Reproduced: pp. 126–127",
+      "url": "https://www.jstor.org/stable/25142048"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1954.70.i",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.70.i/1954.70.i_web.jpg",
+      "width": "231",
+      "height": "900",
+      "filesize": "172878",
+      "filename": "1954.70.i_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.70.i/1954.70.i_print.jpg",
+      "width": "874",
+      "height": "3400",
+      "filesize": "1569612",
+      "filename": "1954.70.i_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.70.i/1954.70.i_full.tif",
+      "width": "2552",
+      "height": "9927",
+      "filesize": "76025292",
+      "filename": "1954.70.i_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 132176,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1954-02-04T00:00:00",
+  "sortable_date": 700,
+  "date_added_to_oa": null,
+  "date_text": "700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1954.70",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:48:48.540000"
+}

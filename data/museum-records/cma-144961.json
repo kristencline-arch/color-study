@@ -1,0 +1,818 @@
+{
+  "id": 144961,
+  "accession_number": "1970.156",
+  "share_license_status": "CC0",
+  "tombstone": "Green Tara, c. 1260s, mounted 2020. Attributed to Aniko (Nepalese, active in Tibet mid- to late 1200s). Thangka; gum tempera, ink, and gold on sized cotton; mount: silk; painting: 52.4 x 43.2 cm (20 5/8 x 17 in.); overall: 107 x 65 cm (42 1/8 x 25 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund by exchange, 1970.156",
+  "current_location": null,
+  "title": "Green Tara",
+  "creation_date": "c. 1260s, mounted 2020",
+  "creation_date_earliest": 1250,
+  "creation_date_latest": 1270,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Central Tibet"
+  ],
+  "technique": "thangka; gum tempera, ink, and gold on sized cotton; mount: silk",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Tibetan Art",
+  "type": "Painting",
+  "measurements": "Painting: 52.4 x 43.2 cm (20 5/8 x 17 in.); Overall: 107 x 65 cm (42 1/8 x 25 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.07,
+      "height_inch": 42,
+      "height_inch_fraction": 0.125,
+      "width": 0.65,
+      "width_inch": 25,
+      "width_inch_fraction": 0.5625
+    },
+    "painting": {
+      "height": 0.524,
+      "height_inch": 20,
+      "height_inch_fraction": 0.625,
+      "width": 0.432,
+      "width_inch": 17,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": null,
+      "inscription_translation": "Tolerance is the most excellent asceticism; the Buddha said that \"Tolerance is the best liberation.\" Novices who harm others and cause others pain are not [true] practitioners.",
+      "inscription_remark": "Lower four lines of the inscription on the verso translated from the Tibetan by Dr. Paul Nietupski",
+      "sortorder": null
+    },
+    {
+      "inscription": "Om Ah Hum",
+      "inscription_translation": null,
+      "inscription_remark": "Behind brow, throat, and heart of Green Tara",
+      "sortorder": null
+    },
+    {
+      "inscription": "om tare tutare ture svaha",
+      "inscription_translation": null,
+      "inscription_remark": "Mantra of Green Tara",
+      "sortorder": null
+    },
+    {
+      "inscription": "Om Ah Hum",
+      "inscription_translation": null,
+      "inscription_remark": "Behind the Buddha Amoghasidhi, in smaller letters",
+      "sortorder": null
+    },
+    {
+      "inscription": "Om Ah Hum",
+      "inscription_translation": null,
+      "inscription_remark": "Behind the figure of the monastic donor",
+      "sortorder": null
+    },
+    {
+      "inscription": "om ah sarva vyida svaha",
+      "inscription_translation": null,
+      "inscription_remark": "Sanskrit mantra, top line of the inscriptions on the verso",
+      "sortorder": null
+    },
+    {
+      "inscription": "ye dharmā hetuprabhavā he-\ntuṃ teṣāṃ tathāgato hy avadat teṣāṃ ca yo \nnirodha evaṃvādī mahāśramaṇaḥ",
+      "inscription_translation": "Of those phenomena which arise from causes:\nThose causes have been taught by the Tathāgata (Buddha),\nAnd their cessation too - thus proclaims the Great Ascetic.",
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301391,
+        "title": "Year in Review: 1970",
+        "description": "<i>Year in Review: 1970</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 10-March 7, 1971).",
+        "opening_date": "1971-02-10T05:00:00"
+      },
+      {
+        "id": 311444,
+        "title": "Object Lessons: Cleveland Creates an Art Museum",
+        "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+        "opening_date": "1991-06-07T04:00:00"
+      },
+      {
+        "id": 206268,
+        "title": "Sacred Visions: Early Paintings from Central Tibet",
+        "description": "<i>Sacred Visions: Early Paintings from Central Tibet</i>. The Metropolitan Museum of Art (organizer) (October 5, 1998-January 17, 1999); Museum Rietberg, Zürich (February 14-May 16, 1999).",
+        "opening_date": "1998-10-05T00:00:00"
+      },
+      {
+        "id": 196054,
+        "title": "Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art",
+        "description": "<i>Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 27-August 23, 2009).",
+        "opening_date": "2009-06-27T04:00:00"
+      },
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      },
+      {
+        "id": 689028,
+        "title": "Himalayan Gallery 237 Rotation",
+        "description": "<i>Himalayan Gallery 237 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 16, 2026-January 10, 2027).",
+        "opening_date": "2026-01-16T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 239)</em>. The Cleveland Museum of Art, Cleveland, OH (November 18, 2013-June 30, 2014).",
+        "opening_date": "2013-11-18T00:00:00"
+      },
+      {
+        "description": "<em>Main Gallery Rotation (Gallery 237)</em>. The Cleveland Museum of Art, Cleveland, OH (April 4-November 7, 2016).",
+        "opening_date": "2016-04-04T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1970–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The tiny monastic figure under Green Tara's right hand commissioned the painting.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "For Tibetans, Green Tara is one of the preeminent figures of their Buddhist faith, a radiant savioress who embodies the female form of the perfect, enlightened mind. The Green Tara in the Cleveland <em>thangka—</em>a Tibetan devotional painting on cloth—specifically dispels fear and provides protection, just like her mantra inscribed on the back side of the painting. Her green color and fear-not gesture link her to the cosmic Buddha of the North, enshrined above her head. Most scholars agree that this work was painted by the celebrated Nepalese artist known as Aniko.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60470748"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1970.156-green-tara"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman E. \"The Year in Review for 1970.\" <em>The Bulletin of the Cleveland Museum of Art</em> 58, no. 2 (1971): 22–71.",
+      "page_number": "Mentioned: no. 70, p. 157",
+      "url": "http://www.jstor.org/stable/25152361"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n317"
+    },
+    {
+      "citation": "<em>Orientations</em>, vol. 20, October 1989.",
+      "page_number": "Reproduced: cover and fig. 17, p. 42",
+      "url": null
+    },
+    {
+      "citation": "Rhie, Marylin M., and Robert A. F. Thurman. <em>Wisdom and Compassion: The Sacred Art of Tibet</em>. London: Thames and Hudson, 1991.",
+      "page_number": "Reproduced: fig. 14, p. 51",
+      "url": null
+    },
+    {
+      "citation": "Singer, Jane Casey. \"Early Tankas: Eleventh-Thirteenth Centuries,\" <em>Marg: A Magazine of the Arts </em>(Sept. 1996), pp. 28–29.",
+      "page_number": "Reproduced: fig. 11",
+      "url": null
+    },
+    {
+      "citation": "Fisher, Robert E. <em>Art of Tibet</em>. London; New York: Thames &amp; Hudson, 1997.",
+      "page_number": "Reproduced: fig. 112, pp. 134–135",
+      "url": null
+    },
+    {
+      "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1998.",
+      "page_number": "Mentioned and Reproduced: pp. 158–159",
+      "url": null
+    },
+    {
+      "citation": "Kossak, Steven, Jane Casey Singer, and Robert Bruce-Gardner. <em>Sacred Visions: Early Paintings from Central Tibe</em>t. New York: Metropolitan Museum of Art, 1998.",
+      "page_number": "Reproduced: no. 37, pp. 144–146",
+      "url": "https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/101557"
+    },
+    {
+      "citation": "Kossak, Steven, Jane Casey Singer, Robert Bruce-Gardner, and Michael Henss. <em>Geheime Visionen: frühe Malerei aus Zentraltibet</em> [=Sacred visions : early paintings from Central Tibet]. Zürich: Museum Rietberg, 1999.",
+      "page_number": "Reproduced: cat. no. 37, pp. 144–146",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "Mentioned and Reproduced: cat. no. 101, pp. 91, 119",
+      "url": null
+    },
+    {
+      "citation": "Blezer, Henk and John Ardussi, eds. <em>Impressions of Bhutan and Tibetan Art: Tibetan Studies III</em>. Leiden: Brill, 2002.",
+      "page_number": "Reproduced: pl. 42",
+      "url": null
+    },
+    {
+      "citation": "Czuma, Stanislaw, \"Great Acquisitions and Southeast Asian Art at the Cleveland Museum of Art,\" <em>Orientations </em>(Jan/Feb 2005), vol. 36, no. 1.",
+      "page_number": "Reproduced: pp. 86–87",
+      "url": null
+    },
+    {
+      "citation": "Sparks, Amy. \"Was Sherman Lee Ever Wrong?\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 49, no. 6 (July/August 2009): 3–5.",
+      "page_number": "Reproduced: p. 5",
+      "url": "https://archive.org/details/CMAMM2009-06/page/2/mode/2up"
+    },
+    {
+      "citation": "Jackson, David Paul, and Christian Luczanits. <em>Mirror of the Buddha: Early Portraits from Tibet: from the Masterworks of Tibetan Painting Series</em>. New York: Rubin Museum of Art, 2011.",
+      "page_number": "Reproduced: p 12, fig 1.8",
+      "url": null
+    },
+    {
+      "citation": "Franklin, David and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2012.",
+      "page_number": "Reproduced: pp. 104–105",
+      "url": null
+    },
+    {
+      "citation": "“A Walking Tour: The entire new museum wing by wing, with curators calling out a few favorite works in the collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 1 (January/February 2014): 8–33.",
+      "page_number": "Reproduced and Mentioned: p. 31",
+      "url": "https://archive.org/details/CMAMM2014-01"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+      "page_number": "Mentioned and Reproduced: p. 33",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Masterworks on Loan: Celebrating the 100th Anniversary of the Cleveland Museum of Art: April through June 2016</em>. Cleveland, OH: The Cleveland Museum of Art, 2016.",
+      "page_number": "Reproduced: p. 22",
+      "url": null
+    },
+    {
+      "citation": "\"Stories from Storage.\" <em>The Asian Art Newspaper: Monthly for Collectors, Dealers, Museums and Galleries </em>24, i. 5 (May 2021): 6–7.",
+      "page_number": "Mentioned and Reproduced: pp. 6–7",
+      "url": ""
+    },
+    {
+      "citation": "Mace, Sonya Rhie. “Asian Art: Green Tara and the Art of Protection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 1 (Winter 2021): 24.",
+      "page_number": "Reproduced and Mentioned: p. 24",
+      "url": "https://archive.org/details/CMAMM2021-01"
+    },
+    {
+      "citation": "Campbell, Aurelia. \"Consecrating the Imperial City: Tibetan Stupas in Yuan Dadu.\" <em>Journal of Song-Yuan Studies </em>51 (2022): 207–243, plates 252–255",
+      "page_number": "Mentioned: p. 233, fig. 11; Reproduced: p. 253",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1970.156",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_web.jpg",
+      "width": "762",
+      "height": "900",
+      "filesize": "457301",
+      "filename": "1970.156_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_print.jpg",
+      "width": "2877",
+      "height": "3400",
+      "filesize": "5231997",
+      "filename": "1970.156_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_full.tif",
+      "width": "11034",
+      "height": "13040",
+      "filesize": "431684840",
+      "filename": "1970.156_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt0_web.jpg",
+        "width": "551",
+        "height": "900",
+        "filesize": "236275"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt0_print.jpg",
+        "width": "2082",
+        "height": "3400",
+        "filesize": "2247942"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt0_full.tif",
+        "width": "8559",
+        "height": "13975",
+        "filesize": "358862544"
+      },
+      "date_created": "2021-02-02T16:02:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt1_web.jpg",
+        "width": "567",
+        "height": "900",
+        "filesize": "217387"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt1_print.jpg",
+        "width": "2141",
+        "height": "3400",
+        "filesize": "2895771"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt1_full.tif",
+        "width": "8944",
+        "height": "14204",
+        "filesize": "381147436"
+      },
+      "date_created": "2021-02-02T16:07:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt2_web.jpg",
+        "width": "736",
+        "height": "900",
+        "filesize": "186061"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt2_print.jpg",
+        "width": "2779",
+        "height": "3400",
+        "filesize": "3391734"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt2_full.tif",
+        "width": "11223",
+        "height": "13732",
+        "filesize": "462371132"
+      },
+      "date_created": "2016-03-10T11:42:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt3_web.jpg",
+        "width": "740",
+        "height": "900",
+        "filesize": "164054"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt3_print.jpg",
+        "width": "2796",
+        "height": "3400",
+        "filesize": "3186619"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt3_full.tif",
+        "width": "11298",
+        "height": "13740",
+        "filesize": "465731804"
+      },
+      "date_created": "2016-03-10T11:42:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt4_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "401132"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt4_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "4297536"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt4_full.tif",
+        "width": "16000",
+        "height": "12000",
+        "filesize": "576034056"
+      },
+      "date_created": "2016-01-27T10:03:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt5_web.jpg",
+        "width": "900",
+        "height": "587",
+        "filesize": "361058"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt5_print.jpg",
+        "width": "3400",
+        "height": "2217",
+        "filesize": "3908758"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt5_full.tif",
+        "width": "8000",
+        "height": "5216",
+        "filesize": "125216336"
+      },
+      "date_created": "2016-01-27T10:26:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt6_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "444540"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt6_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "4649428"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt6_full.tif",
+        "width": "8000",
+        "height": "6000",
+        "filesize": "144034264"
+      },
+      "date_created": "2016-01-27T10:36:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt7_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "384867"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt7_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4280717"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt7_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144033568"
+      },
+      "date_created": "2016-01-27T10:40:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt8_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "375986"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt8_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "3941842"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt8_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144033860"
+      },
+      "date_created": "2016-01-27T10:48:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt9_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "437202"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt9_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4346046"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt9_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144033756"
+      },
+      "date_created": "2016-01-27T11:12:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt10_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "413573"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt10_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4065131"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt10_full.tif",
+        "width": "6000",
+        "height": "8000",
+        "filesize": "144033668"
+      },
+      "date_created": "2016-01-27T11:19:16",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt11_web.jpg",
+        "width": "476",
+        "height": "900",
+        "filesize": "273765"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt11_print.jpg",
+        "width": "1798",
+        "height": "3400",
+        "filesize": "3002481"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt11_full.tif",
+        "width": "4231",
+        "height": "8000",
+        "filesize": "101575332"
+      },
+      "date_created": "2016-01-27T14:34:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt12_web.jpg",
+        "width": "391",
+        "height": "900",
+        "filesize": "222643"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt12_print.jpg",
+        "width": "1478",
+        "height": "3400",
+        "filesize": "2428447"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt12_full.tif",
+        "width": "3183",
+        "height": "7322",
+        "filesize": "69948456"
+      },
+      "date_created": "2016-01-27T14:44:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt13_web.jpg",
+        "width": "471",
+        "height": "900",
+        "filesize": "256428"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt13_print.jpg",
+        "width": "1781",
+        "height": "3400",
+        "filesize": "2684940"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt13_full.tif",
+        "width": "2730",
+        "height": "5213",
+        "filesize": "42726152"
+      },
+      "date_created": "2016-01-27T14:56:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt14_web.jpg",
+        "width": "507",
+        "height": "900",
+        "filesize": "286953"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt14_print.jpg",
+        "width": "1902",
+        "height": "3375",
+        "filesize": "2814824"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt14_full.tif",
+        "width": "1902",
+        "height": "3375",
+        "filesize": "19290960"
+      },
+      "date_created": "2016-01-27T15:04:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt15_web.jpg",
+        "width": "709",
+        "height": "900",
+        "filesize": "343381"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt15_print.jpg",
+        "width": "2171",
+        "height": "2754",
+        "filesize": "2618111"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt15_full.tif",
+        "width": "2171",
+        "height": "2754",
+        "filesize": "17969688"
+      },
+      "date_created": "2016-01-27T15:04:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt16_web.jpg",
+        "width": "900",
+        "height": "700",
+        "filesize": "374730"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt16_print.jpg",
+        "width": "3400",
+        "height": "2643",
+        "filesize": "3431253"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt16_full.tif",
+        "width": "6255",
+        "height": "4863",
+        "filesize": "91290256"
+      },
+      "date_created": "2016-01-27T15:20:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt17_web.jpg",
+        "width": "900",
+        "height": "809",
+        "filesize": "511467"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt17_print.jpg",
+        "width": "3400",
+        "height": "3055",
+        "filesize": "4604055"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt17_full.tif",
+        "width": "6677",
+        "height": "6000",
+        "filesize": "120223112"
+      },
+      "date_created": "2016-01-27T15:29:51",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt18_web.jpg",
+        "width": "900",
+        "height": "720",
+        "filesize": "457020"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt18_print.jpg",
+        "width": "3400",
+        "height": "2721",
+        "filesize": "4626128"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt18_full.tif",
+        "width": "6788",
+        "height": "5433",
+        "filesize": "110672336"
+      },
+      "date_created": "2016-01-27T15:35:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt19_web.jpg",
+        "width": "733",
+        "height": "893",
+        "filesize": "668448"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt19_print.jpg",
+        "width": "2791",
+        "height": "3400",
+        "filesize": "9433010"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt19_full.tif",
+        "width": "4714",
+        "height": "5742",
+        "filesize": "81238684"
+      },
+      "date_created": "2009-03-31T19:28:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt20_web.jpg",
+        "width": "703",
+        "height": "893",
+        "filesize": "636472"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt20_print.jpg",
+        "width": "2675",
+        "height": "3400",
+        "filesize": "8739905"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt20_full.tif",
+        "width": "3934",
+        "height": "5000",
+        "filesize": "59080508"
+      },
+      "date_created": "2007-11-14T15:51:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt21_web.jpg",
+        "width": "731",
+        "height": "893",
+        "filesize": "661850"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt21_print.jpg",
+        "width": "1257",
+        "height": "1536",
+        "filesize": "1986336"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_alt21_full.tif",
+        "width": "1257",
+        "height": "1536",
+        "filesize": "5794484"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund by exchange",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 144961,
+  "creators": [
+    {
+      "id": 705258,
+      "description": "Aniko (Nepalese, active in Tibet mid- to late 1200s)",
+      "extent": null,
+      "qualifier": "attributed to",
+      "role": null,
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1970-12-18T00:00:00",
+  "sortable_date": 1250,
+  "date_added_to_oa": null,
+  "date_text": "c. 1260s, mounted 2020",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Tanka with Green Tara"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-08-28 11:27:29.909000"
+}

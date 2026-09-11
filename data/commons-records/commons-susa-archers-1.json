@@ -1,0 +1,105 @@
+{
+  "pageid": 65194230,
+  "ns": 6,
+  "title": "File:Frieze of Archers AOD 487 (31289617842).jpg",
+  "index": 12,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 12752192,
+      "width": 5119,
+      "height": 3404,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Frieze_of_Archers_AOD_487_%2831289617842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Frieze_of_Archers_AOD_487_(31289617842).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65194230",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-01-02 06:19:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Frieze of Archers AOD 487 (31289617842)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Frieze of Archers AOD 487|Uploaded by Paris 16|Palais du Louvre in 2016|Flickr images reviewed by FlickreviewR 2|Paris photographs taken on 2016-08-31|Files with coordinates missing SDC location of creation (48° N, 2° E)|Photographs by Fred Romero",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "48.861130",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "2.338210",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Louvre Sully wing: Department of Near Eastern Antiquities - Iran, Susa, Persia, ca 510 BC.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 31 August 2016, 17:12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/129231073@N06/31289617842/\">Paris - Musée du Louvre</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/129231073@N06\">Fred Romero</a> from Paris, France",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

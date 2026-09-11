@@ -1,0 +1,101 @@
+{
+  "pageid": 101209599,
+  "ns": 6,
+  "title": "File:Pompeii Ruins Fresco (48442834532).jpg",
+  "index": 17,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 7208259,
+      "width": 6000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pompeii_Ruins_Fresco_%2848442834532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Fresco_(48442834532).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101209599",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-03-07 22:09:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pompeii Ruins Fresco (48442834532)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Flickr images reviewed by trusted users|Files with coordinates missing SDC location of creation|PD-author-FlickrPDM|Ancient Roman frescos in the House of Menander (Pompeii)|2019 in Pompeii",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.749880",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.490020",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ancient Roman fresco in <a rel=\"nofollow\" class=\"external text\" href=\"https://www.pompeiiinpictures.com/pompeiiinpictures/R1/1%2010%2004%20east%20part%204.htm\">Room 15</a> of the House of Menander (Pompeii).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-08-02 18:26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/101561334@N08/48442834532/\">Pompeii Ruins Fresco</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/101561334@N08\">Gary Todd</a> from Xinzheng, China",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

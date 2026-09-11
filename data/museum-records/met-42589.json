@@ -1,0 +1,112 @@
+{
+  "objectID": 42589,
+  "isHighlight": false,
+  "accessionNumber": "1975.268.166a–d",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT10513.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DT10513.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Asian Art",
+  "objectName": "Figure",
+  "title": "Jizō, Bodhisattva of the Earth Store (Kshitigarbha)",
+  "culture": "Japan",
+  "period": "Kamakura period (1185–1333)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "second half 13th century",
+  "objectBeginDate": 1250,
+  "objectEndDate": 1299,
+  "medium": "Wood with lacquer, pigment, and cut gold",
+  "dimensions": "Overall: H. 45 3/4 × W. 24 1/8 × D. 23 7/8 in. (116.2 × 61.3 × 60.6 cm)\r\n(Figure): H. 19 1/2 × W. 16 1/2 × D. 15 3/4 in. (49.5 × 41.9 × 40 cm)\r\n(Base): H. 17 1/4 × W. 24 1/8 × D. 23 7/8 in. (43.8 × 61.3 × 60.6 cm)\r\n(Halo): H. 28 7/8 in. (73.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Halo",
+      "elementMeasurements": {
+        "Height": 73.34264
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Base",
+      "elementMeasurements": {
+        "Depth": 60.64262,
+        "Height": 43.815086,
+        "Width": 61.277622
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 60.64262,
+        "Height": 116.20523,
+        "Width": 61.277622
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Figure",
+      "elementMeasurements": {
+        "Depth": 40.00508,
+        "Height": 49.530098,
+        "Width": 41.910084
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Total",
+      "elementMeasurements": {
+        "Height": 116.20523
+      }
+    }
+  ],
+  "creditLine": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-28T04:58:01.027Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/42589",
+  "tags": [
+    {
+      "term": "Buddhism",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+    },
+    {
+      "term": "Bodhisattvas",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

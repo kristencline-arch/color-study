@@ -7,7 +7,7 @@ const release = JSON.parse(await readFile(new URL('public/photo-release.json', r
 if (!/^[a-f0-9]{40}$/.test(release.commit) || release.public_base_url !== `https://raw.githubusercontent.com/kristencline-arch/color-study/${release.commit}/public/`) throw new Error('Invalid pinned image release.');
 let removedBytes = 0;
 for (const source of sources.filter(item => item.source_api)) {
-  if (!/^originals\/(cma|met|aic)-\d+\.jpg$/.test(source.original_file)) throw new Error('Unexpected museum asset path.');
+  if (!/^originals\/(?:(?:cma|met|aic)-\d+|commons-[a-z0-9]+(?:-[a-z0-9]+)*)\.jpg$/.test(source.original_file)) throw new Error('Unexpected catalog asset path.');
   const original = await readFile(new URL('public/' + source.original_file, root));
   if (createHash('sha256').update(original).digest('hex') !== source.sha256) throw new Error(`Original hash mismatch: ${source.id}`);
   // Keep all originals in the source checkout and GitHub. Remove only their

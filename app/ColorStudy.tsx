@@ -5,6 +5,7 @@
 import { useCallback, useEffect, useRef, useState, type CSSProperties, type PointerEvent } from "react";
 import sourceData from "../public/sources.json";
 import targets from "../public/targets.json";
+import collections from "../public/collections.json";
 import Showcase from "./Showcase";
 import Catalog from "./Catalog";
 import Community, {type CommunityPhoto} from "./Community";
@@ -35,6 +36,7 @@ export default function ColorStudy() {
   const [tab, setTab] = useState("showcase");
   const [communityOpened, setCommunityOpened] = useState(false);
   const [catalogOpened, setCatalogOpened] = useState(false);
+  const [catalogCollection, setCatalogCollection] = useState("");
   const [photo, setPhoto] = useState<Photo | null>(null);
   const [before, setBefore] = useState("");
   const [afterURL, setAfter] = useState("");
@@ -142,6 +144,10 @@ export default function ColorStudy() {
         if (hash === "community") setCommunityOpened(true);
         if (hash === "collection") setCatalogOpened(true);
         const params = new URLSearchParams(hash);
+        if (params.has("collection")) {
+          const selected = collections.find(item => item.id === params.get("collection"));
+          setCatalogCollection(selected?.id || ""); setTab("collection"); setCatalogOpened(true);
+        }
         const sample = sourceData.find(item => item.id === params.get("sample")) || sourceData.find(item => item.id === "cueva-hands")!;
         const strength = Number(params.get("strength") || 42), gain = Number(params.get("gain") || 12);
         const initialSettings = { targetStd: Number.isFinite(strength) ? Math.max(12, Math.min(65, strength)) : 42, maxGain: Number.isFinite(gain) ? Math.max(3, Math.min(24, gain)) : 12 };
@@ -195,7 +201,8 @@ export default function ColorStudy() {
     return () => observer.disconnect();
   }, [photo, tab]);
 
-  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); if (next === "collection") setCatalogOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
+  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); if (next === "collection") setCatalogOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : next === "collection" && catalogCollection ? `#collection=${catalogCollection}` : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
+  function openCollection(id = "") {const selected = collections.find(item => item.id === id)?.id || ""; setCatalogCollection(selected); switchTab("collection"); window.history.replaceState(null, "", selected ? `#collection=${selected}` : "#collection");}
   function pickFile(file?: File) { if (file && !exporting) { switchTab("lab", false); void loadPhoto(undefined, file); } }
   function openStudy(id: string) {const sample = sourceData.find(item => item.id === id); if (sample) {switchTab("lab", false); void loadPhoto(sample, undefined, {settings: {targetStd: 34, maxGain: 12}, region: sample.focus_box_fraction as Region});}}
   function openCommunity(photo: CommunityPhoto) {switchTab("lab", false); void loadPhoto(asCommunitySample(photo));}
@@ -227,7 +234,7 @@ export default function ColorStudy() {
   function saveRecipe() { if (fit) download(new Blob([JSON.stringify(recipe(), null, 2)], { type: "application/json" }), "color-study-processing.json"); }
   async function share() {
     const url = new URL(window.location.origin + window.location.pathname);
-    if (tab !== "lab" && tab !== "showcase") url.hash = tab;
+    if (tab !== "lab" && tab !== "showcase") url.hash = tab === "collection" && catalogCollection ? `collection=${catalogCollection}` : tab;
     else if (tab === "lab" && (photo?.sampleId || photo?.communityId)) {
       const params = new URLSearchParams({ [photo.communityId ? "community" : "sample"]: photo.communityId || photo.sampleId!, strength: String(settings.targetStd), gain: String(settings.maxGain) });
       if (region) params.set("area", region.map(value => value.toFixed(5)).join(","));
@@ -259,8 +266,8 @@ export default function ColorStudy() {
     {error && <div className="message error" role="alert">{error}<button onClick={() => setError("")} aria-label="Dismiss error">&#215;</button></div>}
     {notice && <div className="message notice" role="status">{notice}<button onClick={() => setNotice("")} aria-label="Dismiss notice">&#215;</button></div>}
     <main>
-      {tab === "showcase" && <Showcase onCollection={() => switchTab("collection")} onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
-      {catalogOpened && <div hidden={tab !== "collection"}><Catalog onStudy={openStudy} onContribute={() => switchTab("community")} /></div>}
+      {tab === "showcase" && <Showcase onCollection={openCollection} onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
+      {catalogOpened && <div hidden={tab !== "collection"}><Catalog key={catalogCollection} collection={catalogCollection} onCollection={openCollection} onStudy={openStudy} onContribute={() => switchTab("community")} /></div>}
       {communityOpened && <div hidden={tab !== "community"}><Community onPhoto={openCommunity} onShare={share} /></div>}
       {tab === "lab" && <div className="lab" onDragOver={event => { if (event.dataTransfer.types.includes("Files")) { event.preventDefault(); setDragging(true); } }} onDragLeave={event => { if (!event.currentTarget.contains(event.relatedTarget as Node)) setDragging(false); }} onDrop={event => { event.preventDefault(); setDragging(false); pickFile(event.dataTransfer.files[0]); }}>
         {dragging && <div className="drop-overlay">Drop a photograph to begin.</div>}
@@ -302,7 +309,7 @@ export default function ColorStudy() {
         </section>
       </div>}
       {tab === "targets" && <section className="guide-page">
-        <div className="guide-heading"><div><p className="eyebrow">A FIELD GUIDE / {targets.length} PLACES TO EXPLORE</p><h1>Where color<br /><em>has more to say.</em></h1><p>Follow the surviving paint: worn murals, cave paintings, painted plaster and traces of color on sculpture. Featured photographs open directly in the lab; research targets link to their evidence.</p></div><button className="button" onClick={saveTargets}>Download target list <span aria-hidden="true">&#8595;</span></button></div>
+        <div className="guide-heading"><div><p className="eyebrow">A FIELD GUIDE / {targets.length} STUDY LEADS</p><h1>Where color<br /><em>has more to say.</em></h1><p>Follow the surviving paint: worn murals, cave paintings, painted plaster and traces of color on sculpture. Featured photographs open directly in the lab; research targets link to their evidence.</p></div><button className="button" onClick={saveTargets}>Download target list <span aria-hidden="true">&#8595;</span></button></div>
         <div className="evidence-key"><p><strong>Documented</strong> Published examples of decorrelation stretch.</p><p><strong>Candidate</strong> Suggested applications based on the material.</p><p><strong>Exploratory</strong> Lower-confidence uses that expose the limits.</p></div>
         <div className="guide-filters"><label className="search-field"><span className="sr-only">Search targets</span><input type="search" placeholder="Search a place, country or material..." value={query} onChange={event => setQuery(event.target.value)} /></label><div className="filter-buttons" role="group" aria-label="Evidence filter">{["All", "Documented", "Candidate", "Exploratory"].map(kind => <button key={kind} className={filter === kind ? "selected" : ""} aria-pressed={filter === kind} onClick={() => setFilter(kind)}>{kind}</button>)}</div></div>
         <p className="results-count" aria-live="polite">{visibleTargets.length} {visibleTargets.length === 1 ? "target" : "targets"}</p>

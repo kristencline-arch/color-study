@@ -1,0 +1,289 @@
+{
+  "id": 165257,
+  "accession_number": "2007.193.a",
+  "share_license_status": "CC0",
+  "tombstone": "Container in the form of a Sacrificer, 770–890 (radiocarbon date, 95% probability). Peru, Middle Horizon, Wari Culture. Wood and red pigment (cinnabar); overall: 10.8 x 7 x 7.5 cm (4 1/4 x 2 3/4 x 2 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.193.a",
+  "current_location": "232 Andean",
+  "title": "Container in the form of a Sacrificer",
+  "creation_date": "770–890 (radiocarbon date, 95% probability)",
+  "creation_date_earliest": 770,
+  "creation_date_latest": 890,
+  "artists_tags": [],
+  "culture": [
+    "Peru, Middle Horizon, Wari Culture"
+  ],
+  "technique": "wood and red pigment (cinnabar)",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Andes",
+  "type": "Wood",
+  "measurements": "Overall: 10.8 x 7 x 7.5 cm (4 1/4 x 2 3/4 x 2 15/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.108,
+      "height_inch": 4,
+      "height_inch_fraction": 0.25,
+      "width": 0.07,
+      "width_inch": 2,
+      "width_inch_fraction": 0.75,
+      "depth": 0.075,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 198695,
+        "title": "Wari: Lords of the Ancient Andes",
+        "description": "<i>Wari: Lords of the Ancient Andes</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 28, 2012-January 6, 2013); Ft. Lauderdale Museum of Art (February 10-May 19, 2013); Kimbell Art Museum, Fort Worth, TX (June 16-September 8, 2013).",
+        "opening_date": "2012-10-28T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum fo Art (10/28/2012 - 1/6/2013); Ft. Lauderdale Museum of Art, FL (2/10/2013 - 5/19/2013); and the Kimbell Art Museum, Fort Worth, TX ((6/16/2013 - 9/8/2013): \"Wari: Lords of the Ancient Andes\"",
+        "opening_date": "2012-10-28T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Erich Stumpf, Austria",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1967",
+      "sortorder": 1
+    },
+    {
+      "description": "Anton Roeckl, Irschenberg, Germany",
+      "citations": [],
+      "footnotes": [],
+      "date": "1967-2000",
+      "sortorder": 2
+    },
+    {
+      "description": "(David Bernstein Fine Art, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "2007",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2007-",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Traces of cinnabar, a toxic mercuric sulfide, are visible on the container's surface.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This container assumes the shape of a magnificent, feline-headed, supernatural sacrificer who draws a knife across the throat of the human it holds in its lap. Severed human heads hang from the feline's belt and dangle by the trachea at the back of its headdress. Sacrifice had a place in Wari religious practice, probably as an unusual and exceptionally precious offering made to entice the benevolence of cosmic forces. Indeed, colonial-period Andean people believed that death was a prerequisite for the renewal of the world.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60763709"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2007.193.a-container-in-the-for"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 333",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/2007.193.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_web.jpg",
+      "width": "834",
+      "height": "900",
+      "filesize": "200346",
+      "filename": "2007.193.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_print.jpg",
+      "width": "3149",
+      "height": "3400",
+      "filesize": "1719074",
+      "filename": "2007.193.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_full.tif",
+      "width": "4941",
+      "height": "5335",
+      "filesize": "79105832",
+      "filename": "2007.193.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt0_web.jpg",
+        "width": "841",
+        "height": "900",
+        "filesize": "204617"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt0_print.jpg",
+        "width": "3177",
+        "height": "3400",
+        "filesize": "1793611"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt0_full.tif",
+        "width": "4941",
+        "height": "5288",
+        "filesize": "78409276"
+      },
+      "date_created": "2021-07-23T16:01:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt1_web.jpg",
+        "width": "842",
+        "height": "900",
+        "filesize": "204466"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt1_print.jpg",
+        "width": "3179",
+        "height": "3400",
+        "filesize": "1810787"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt1_full.tif",
+        "width": "4941",
+        "height": "5284",
+        "filesize": "78349980"
+      },
+      "date_created": "2021-07-23T16:02:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt2_web.jpg",
+        "width": "842",
+        "height": "900",
+        "filesize": "206233"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt2_print.jpg",
+        "width": "3179",
+        "height": "3400",
+        "filesize": "1853000"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt2_full.tif",
+        "width": "4941",
+        "height": "5285",
+        "filesize": "78364796"
+      },
+      "date_created": "2021-07-23T16:03:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt3_web.jpg",
+        "width": "838",
+        "height": "900",
+        "filesize": "199672"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt3_print.jpg",
+        "width": "3164",
+        "height": "3400",
+        "filesize": "1754979"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt3_full.tif",
+        "width": "4941",
+        "height": "5310",
+        "filesize": "78735128"
+      },
+      "date_created": "2021-07-23T16:04:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt4_web.jpg",
+        "width": "882",
+        "height": "900",
+        "filesize": "205370"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt4_print.jpg",
+        "width": "3331",
+        "height": "3400",
+        "filesize": "1882917"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt4_full.tif",
+        "width": "3887",
+        "height": "3968",
+        "filesize": "46296432"
+      },
+      "date_created": "2021-07-23T16:06:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt5_web.jpg",
+        "width": "887",
+        "height": "900",
+        "filesize": "201441"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt5_print.jpg",
+        "width": "3349",
+        "height": "3400",
+        "filesize": "1845661"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2007.193.a/2007.193.a_alt5_full.tif",
+        "width": "3887",
+        "height": "3946",
+        "filesize": "46039608"
+      },
+      "date_created": "2021-07-23T16:08:26",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 165257,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2007-12-03T00:00:00",
+  "sortable_date": 770,
+  "date_added_to_oa": null,
+  "date_text": "770–890 (radiocarbon date, 95% probability)",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "2007.193",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:33:53.459000"
+}

@@ -1,0 +1,127 @@
+{
+  "id": 108417,
+  "accession_number": "1926.145",
+  "share_license_status": "CC0",
+  "tombstone": "Ornamental Shoulder Bands from a Tunic, 500s. Egypt, Byzantine period. Tapestry weave with supplementary weft wrapping; undyed linen and dyed wool; average: 7 x 43.5 cm (2 3/4 x 17 1/8 in.). The Cleveland Museum of Art, Gift of George D. Pratt, 1926.145",
+  "current_location": null,
+  "title": "Ornamental Shoulder Bands from a Tunic",
+  "creation_date": "500s",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 599,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "tapestry weave with supplementary weft wrapping; undyed linen and dyed wool",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Average: 7 x 43.5 cm (2 3/4 x 17 1/8 in.)",
+  "dimensions": {
+    "average": {
+      "height": 0.07,
+      "height_inch": 2,
+      "height_inch_fraction": 0.75,
+      "width": 0.435,
+      "width_inch": 17,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383006,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 4, 2011-May 21, 2012).",
+        "opening_date": "2011-04-04T04:00:00"
+      },
+      {
+        "id": 343673,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 23, 2017-May 14, 2018).",
+        "opening_date": "2017-05-23T04:00:00"
+      },
+      {
+        "id": 457591,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art (organizer) (November 21, 2022-November 12, 2023).",
+        "opening_date": "2022-11-12T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "One band contains a nude female dancer playing finger cymbals while the other shows a shepherd carrying a crook and dressed in a skirt of animal skin.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This fragment shows human figures including dancers, a hunter, and shepherd under arches alternating with animals such as dogs, rabbits, and a lion. The orientation of the figures indicates that these vertical bands were once part of a tunic. The decorative bands would have descended from the shoulders. Since the mid-3rd century tunics were the main garments worn in Egypt which was then part of the Roman Empire.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80056715"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1926.145-ornamental-shoulder"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1926.145",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.145/1926.145_web.jpg",
+      "width": "334",
+      "height": "900",
+      "filesize": "234295",
+      "filename": "1926.145_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.145/1926.145_print.jpg",
+      "width": "1260",
+      "height": "3400",
+      "filesize": "2539036",
+      "filename": "1926.145_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1926.145/1926.145_full.tif",
+      "width": "2472",
+      "height": "6668",
+      "filesize": "49476888",
+      "filename": "1926.145_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of George D. Pratt",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 108417,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1926-06-04T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "500s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Three Fragments of Clavi"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:48:18.933000"
+}

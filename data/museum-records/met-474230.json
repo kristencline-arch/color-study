@@ -1,0 +1,79 @@
+{
+  "objectID": 474230,
+  "isHighlight": false,
+  "accessionNumber": "2002.239.13",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP104091.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/DP104091.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Medieval Art",
+  "objectName": "Textile fragment",
+  "title": "Textile Fragment",
+  "culture": "Coptic",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "6th–7th century",
+  "objectBeginDate": 500,
+  "objectEndDate": 699,
+  "medium": "Linen, wool",
+  "dimensions": "Overall: 7 11/16 x 7 5/8in. (19.6 x 19.3cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.6,
+        "Width": 19.3
+      }
+    }
+  ],
+  "creditLine": "Gift of  Nanette B. Kelekian, in honor of Nobuko Kajitani, 2002",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Byzantine Egypt",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Woven",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/474230",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 247111,
+  "isHighlight": false,
+  "accessionNumber": "04.17.6",
+  "accessionYear": "1904",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP330009.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP330009.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Grave stele, painted",
+  "title": "Painted limestone funerary slab with a soldier taking a kantharos from his attendant",
+  "culture": "Greek",
+  "period": "Hellenistic",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "2nd half of 3rd century BCE",
+  "objectBeginDate": -250,
+  "objectEndDate": -200,
+  "medium": "Limestone, paint",
+  "dimensions": "Other: 14 13/16 × 9 5/8 × 3 3/8 in. (37.6 × 24.4 × 8.6 cm)\r\nOther (Panel): 9 3/4 × 7 7/8 in. (24.8 × 20 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Panel",
+      "elementMeasurements": {
+        "Height": 24.765049,
+        "Width": 20.00254
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.572517,
+        "Height": 37.623825,
+        "Width": 24.44755
+      }
+    }
+  ],
+  "creditLine": "Gift of Darius Odgen Mills, 1904",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Miscellaneous-Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/247111",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

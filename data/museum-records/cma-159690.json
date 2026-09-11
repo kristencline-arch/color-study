@@ -1,0 +1,153 @@
+{
+  "id": 159690,
+  "accession_number": "1996.400.a",
+  "share_license_status": "CC0",
+  "tombstone": "Tripod Vessel with Lid, 250–600 CE. Mexico or Central America, Maya. Earthenware with pigment; overall: 10 x 11.1 cm (3 15/16 x 4 3/8 in.). The Cleveland Museum of Art, Gift of Brian and Florence Mahony, 1996.400.a",
+  "current_location": "233 Mesoamerican and Intermediate Region",
+  "title": "Tripod Vessel with Lid",
+  "creation_date": "250–600 CE",
+  "creation_date_earliest": 250,
+  "creation_date_latest": 600,
+  "artists_tags": [],
+  "culture": [
+    "Mexico or Central America, Maya"
+  ],
+  "technique": "earthenware with pigment",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Mesoamerica",
+  "type": "Ceramic",
+  "measurements": "Overall: 10 x 11.1 cm (3 15/16 x 4 3/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.1,
+      "height_inch": 3,
+      "height_inch_fraction": 0.9375,
+      "width": 0.111,
+      "width_inch": 4,
+      "width_inch_fraction": 0.375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60746307"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1996.400.a-tripod-vessel-with-l"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1996.400.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_web.jpg",
+      "width": "900",
+      "height": "804",
+      "filesize": "179658",
+      "filename": "1996.400.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_print.jpg",
+      "width": "3400",
+      "height": "3036",
+      "filesize": "1451737",
+      "filename": "1996.400.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_full.tif",
+      "width": "6513",
+      "height": "5815",
+      "filesize": "113646716",
+      "filename": "1996.400.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt0_web.jpg",
+        "width": "900",
+        "height": "844",
+        "filesize": "202031"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt0_print.jpg",
+        "width": "3400",
+        "height": "3189",
+        "filesize": "1785556"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt0_full.tif",
+        "width": "5564",
+        "height": "5218",
+        "filesize": "87126720"
+      },
+      "date_created": "2022-05-19T14:29:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt1_web.jpg",
+        "width": "900",
+        "height": "845",
+        "filesize": "213616"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt1_print.jpg",
+        "width": "3400",
+        "height": "3192",
+        "filesize": "2009464"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.400.a/1996.400.a_alt1_full.tif",
+        "width": "5564",
+        "height": "5224",
+        "filesize": "87226900"
+      },
+      "date_created": "2022-05-19T14:34:51",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Brian and Florence Mahony",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159690,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1997-03-04T00:00:00",
+  "sortable_date": 250,
+  "date_added_to_oa": null,
+  "date_text": "250–600 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1996.400",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Lidded Tripod Vessel"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:23:15.719000"
+}

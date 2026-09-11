@@ -15,7 +15,7 @@ from pathlib import Path
 import time
 import threading
 import urllib.request
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 from PIL import Image, ImageCms, ImageOps
 
@@ -39,7 +39,7 @@ def fetch_bytes(url, max_bytes, chicago=False):
     for attempt in range(3):
         try:
             agent = "ColorStudy/1.0 (github.com/kristencline-arch/color-study)"
-            request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0" if chicago else agent, "AIC-User-Agent": agent})
+            request = urllib.request.Request(quote(url, safe=":/?&=%#+@;,-._~"), headers={"User-Agent": "Mozilla/5.0" if chicago else agent, "AIC-User-Agent": agent})
             with urllib.request.urlopen(request, timeout=90) as response:
                 content = response.read(max_bytes + 1)
             if len(content) > max_bytes:
@@ -86,7 +86,7 @@ def source_record(spec, refresh):
                     source_page=record["url"], accession_number=record["accession_number"],
                     credit_line=record.get("creditline") or "", download_url=photo["url"],
                     rights_evidence={"field": "share_license_status", "value": "CC0"})
-        if master:
+        if master and master.get("width") and master.get("height"):
             base.update(master_url=master["url"], master_dimensions=[int(master["width"]), int(master["height"])], master_size_bytes=int(master["filesize"]) if master.get("filesize") else None, master_format="TIFF")
     elif provider == "met":
         assert record["isPublicDomain"] is True and record["primaryImage"], f"Image rights not open: {key}"

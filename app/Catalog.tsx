@@ -3,6 +3,7 @@
 /* eslint-disable @next/next/no-img-element -- Local credited museum thumbnails, with original files linked separately. */
 import {useEffect, useState} from "react";
 import {REPOSITORY} from "./links";
+import collections from "../public/collections.json";
 
 type CatalogPhoto = {
   id: string; title: string; short_title: string; category: string; region: string; provider: string;
@@ -17,7 +18,7 @@ type CatalogPage = {
   filters: Record<"category" | "region" | "provider", {value: string; count: number}[]>;
 };
 
-export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) => void; onContribute: () => void}) {
+export default function Catalog({onStudy, onContribute, collection, onCollection}: {onStudy: (id: string) => void; onContribute: () => void; collection: string; onCollection: (id?: string) => void}) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("");
   const [region, setRegion] = useState("");
@@ -31,7 +32,7 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
   const [result, setResult] = useState<{key: string; data?: CatalogPage; error?: string} | null>(null);
   const [facets, setFacets] = useState<CatalogPage["filters"] | null>(null);
   const params = new URLSearchParams();
-  for (const [key, value] of Object.entries({q: query.trim(), category, region, provider, before, sort})) if (value) params.set(key, value);
+  for (const [key, value] of Object.entries({q: query.trim(), category, region, provider, before, sort, collection})) if (value) params.set(key, value);
   const downloadURL = `/api/catalog?${params}&download=all`;
   params.set("page", String(page));
   const requestKey = params.toString(), key = `${requestKey}:${retry}`;
@@ -54,7 +55,7 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
     return () => {clearTimeout(timer); controller.abort();};
   }, [key, requestKey]);
 
-  function clear() {setQuery(""); setCategory(""); setRegion(""); setProvider(""); setBefore(""); setSort("featured"); setPage(1);}
+  function clear() {setQuery(""); setCategory(""); setRegion(""); setProvider(""); setBefore(""); setSort("featured"); setPage(1); if (collection) onCollection("");}
   async function downloadPhoto(photo: CatalogPhoto) {
     setDownloading(photo.id); setDownloadNotice("");
     try {
@@ -68,9 +69,12 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
     } catch (error) {setDownloadNotice(error instanceof Error ? error.message : "The photograph could not be downloaded.");}
     finally {setDownloading("");}
   }
-  const filtered = !!(query || category || region || provider || before);
+  const filtered = !!(query || category || region || provider || before || collection);
+  const selectedCollection = collections.find(item => item.id === collection);
   return <section className="catalog-page" aria-labelledby="catalog-title">
     <div className="catalog-heading"><div><p className="eyebrow">THE OPEN COLLECTION / PAINT, DYE &amp; TIME</p><h1 id="catalog-title">Color, carried<br /><em>through centuries.</em></h1><p>Painted cotton. Woven silk. A figure on worn plaster. Explore textiles and ancient art through photographs you can study, download and reuse.</p></div><div className="catalog-heading-aside"><p>Every photograph has a source and a license. Museum dates describe the object; the photograph shows its surviving condition.</p><a className="button ghost" href="/api/dataset?download=all">Download the full database ↓</a><a className="catalog-files" href={`${REPOSITORY}/tree/main/public/originals`} target="_blank" rel="noopener noreferrer">Image files on GitHub ↗</a></div></div>
+    <div className="catalog-themes" role="group" aria-label="Curated collections"><button className={!collection ? "selected" : ""} aria-pressed={!collection} onClick={() => onCollection("")}>All photographs</button>{collections.map(item => <button key={item.id} className={collection === item.id ? "selected" : ""} aria-pressed={collection === item.id} onClick={() => onCollection(item.id)}>{item.label} <span>{item.count}</span></button>)}</div>
+    {selectedCollection && <p className="catalog-theme-note">{selectedCollection.description} <a href={`#collection=${selectedCollection.id}`}>Link to this collection ↗</a></p>}
     <div className="catalog-search"><label><span className="sr-only">Search the collection</span><input type="search" maxLength={120} placeholder="Search cotton, Iran, a museum, a motif…" value={query} onChange={event => {setQuery(event.target.value); setPage(1);}} /></label><button className="text-button" onClick={clear} disabled={!filtered && sort === "featured"}>Clear filters</button></div>
     <div className="catalog-filters">
       {([

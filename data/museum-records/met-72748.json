@@ -1,0 +1,83 @@
+{
+  "objectID": 72748,
+  "isHighlight": false,
+  "accessionNumber": "2005.256",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP158242.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP158242.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP158233.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP158241.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP158240.jpg"
+  ],
+  "constituents": null,
+  "department": "Asian Art",
+  "objectName": "Panel",
+  "title": "Ceremonial Textile Decorated with Female Courtesans with Attendants and Parrots",
+  "culture": "India (Gujarat)",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 14th–early 15th century",
+  "objectBeginDate": 1371,
+  "objectEndDate": 1435,
+  "medium": "Plain-weave cotton block print (mordant- and painted resist-dyed)",
+  "dimensions": "37 3/8 in. x 17 ft. 1 1/8 in. (95 x 521 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 95,
+        "Width": 521
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of Asian Art Gifts, Lila Acheson Wallace Gift and Rogers Fund, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Printed",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/72748",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

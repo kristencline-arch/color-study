@@ -5,7 +5,13 @@
     "category": "Textiles",
     "region": "Andes",
     "short_title": "Painted cotton goddess",
-    "notes": "Look at the faint painted outlines on the cotton and compare them with the unpainted weave. The museum dates this Chavín-style fragment to 800–500 BCE. False color can clarify contrast but cannot reconstruct its original palette."
+    "notes": "Look at the faint painted outlines on the cotton and compare them with the unpainted weave. The museum dates this Chavín-style fragment to 800–500 BCE. False color can clarify contrast but cannot reconstruct its original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
@@ -13,7 +19,13 @@
     "category": "Textiles",
     "region": "Egypt",
     "short_title": "Resist-dyed biblical hanging",
-    "notes": "Compare the faded resist-dyed figures and architectural details with the linen ground. Keep weave, stains and losses in view; stronger color separation does not establish which colors are dyes."
+    "notes": "Compare the faded resist-dyed figures and architectural details with the linen ground. Keep weave, stains and losses in view; stronger color separation does not establish which colors are dyes.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
@@ -34,7 +46,14 @@
     "object_id": 124739,
     "category": "Textiles",
     "region": "Andes",
-    "short_title": "Paracas embroidered mantle"
+    "short_title": "Paracas embroidered mantle",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
@@ -42,21 +61,41 @@
     "category": "Murals and cave art",
     "region": "West and Central Asia",
     "short_title": "Painted stucco from Iran",
-    "notes": "Explore the painted geometric ornament on stucco from ninth-century Iran. Compare the faint colors with cracks and surface variation. This is a historic work, with its museum date retained."
+    "notes": "Explore the painted geometric ornament on stucco from ninth-century Iran. Compare the faint colors with cracks and surface variation. This is a historic work, with its museum date retained.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 138881,
     "category": "Murals and cave art",
     "region": "Mesoamerica",
-    "short_title": "Teotihuacán mural fragment"
+    "short_title": "Teotihuacán mural fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 145925,
     "category": "Paintings and manuscripts",
     "region": "Egypt",
-    "short_title": "Portrait of a young girl"
+    "short_title": "Portrait of a young girl",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
@@ -78,7 +117,13 @@
     "category": "Murals and cave art",
     "region": "West and Central Asia",
     "short_title": "Bodhisattva from Kizil",
-    "notes": "A painted head survives in a fragment from Kizil. Compare the colored edges with areas of exposed plaster; enhancement does not restore missing paint or determine how the damage occurred."
+    "notes": "A painted head survives in a fragment from Kizil. Compare the colored edges with areas of exposed plaster; enhancement does not restore missing paint or determine how the damage occurred.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
@@ -86,14 +131,27 @@
     "category": "Textiles",
     "region": "Andes",
     "short_title": "Chancay painted wrapping",
-    "notes": "Painted motifs survive on a cotton wrapping. Study a section of cloth and compare the enhanced pattern with the original; the new colors are analytical, not recovered historical hues."
+    "notes": "Painted motifs survive on a cotton wrapping. Study a section of cloth and compare the enhanced pattern with the original; the new colors are analytical, not recovered historical hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 159280,
     "category": "Textiles",
     "region": "East Asia",
-    "short_title": "Phoenixes and dragons in silk"
+    "short_title": "Phoenixes and dragons in silk",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "aic",
@@ -101,84 +159,167 @@
     "category": "Paintings and manuscripts",
     "region": "Egypt",
     "short_title": "Funerary papyrus of Tayuhenutmut",
-    "notes": "The museum provides a 10,226-pixel-wide image of this painted papyrus. Select a figure or a small group of columns to study the local contrast. Ink, pigment, aging and lighting all influence the result."
+    "notes": "The museum provides a 10,226-pixel-wide image of this painted papyrus. Select a figure or a small group of columns to study the local contrast. Ink, pigment, aging and lighting all influence the result.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 124740,
     "category": "Textiles",
     "region": "Andes",
-    "short_title": "Paracas wool tunic"
+    "short_title": "Paracas wool tunic",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 152258,
     "category": "Textiles",
     "region": "Andes",
-    "short_title": "Textile with fanged heads"
+    "short_title": "Textile with fanged heads",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 165269,
     "category": "Textiles",
     "region": "Andes",
-    "short_title": "Moche textile fragment"
+    "short_title": "Moche textile fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 143165,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Virgin and Child in wool"
+    "short_title": "Virgin and Child in wool",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 150873,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Tunic with woven ornament"
+    "short_title": "Tunic with woven ornament",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 148336,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Satyr and maenad"
+    "short_title": "Satyr and maenad",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 130419,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "A sea nymph in wool"
+    "short_title": "A sea nymph in wool",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 161684,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Scenes of merrymaking"
+    "short_title": "Scenes of merrymaking",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 151044,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Hanging with Christian images"
+    "short_title": "Hanging with Christian images",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 125230,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Silk sleeve with hunters"
+    "short_title": "Silk sleeve with hunters",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 129205,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Animals in silk medallions"
+    "short_title": "Animals in silk medallions",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
@@ -186,14 +327,27 @@
     "category": "Textiles",
     "region": "West and Central Asia",
     "short_title": "Gold-leaf lions on cloth",
-    "notes": "Study the printed lions and surviving fabric. Gold leaf and its reflections can produce color differences unrelated to dyes; enhancement alone cannot identify the material of a colored mark."
+    "notes": "Study the printed lions and surviving fabric. Gold leaf and its reflections can produce color differences unrelated to dyes; enhancement alone cannot identify the material of a colored mark.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 129826,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Embroidered animals in roundels"
+    "short_title": "Embroidered animals in roundels",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
@@ -201,209 +355,2560 @@
     "category": "Textiles",
     "region": "West and Central Asia",
     "short_title": "Golden lions and palmettes",
-    "notes": "The museum lists silk and gold in this tapestry. Compare the woven motif with the original; metallic reflection, lighting and dye can all affect the color separation."
+    "notes": "The museum lists silk and gold in this tapestry. Compare the woven motif with the original; metallic reflection, lighting and dye can all affect the color separation.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 157123,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Silk with palmettes"
+    "short_title": "Silk with palmettes",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 156983,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Textile with diamonds"
+    "short_title": "Textile with diamonds",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 150738,
     "category": "Textiles",
     "region": "Europe",
-    "short_title": "Silk curtain from the Alhambra"
+    "short_title": "Silk curtain from the Alhambra",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 443300,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Coptic textile fragment"
+    "short_title": "Coptic textile fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 446011,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "Woven image of a goddess"
+    "short_title": "Woven image of a goddess",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 326230,
     "category": "Textiles",
     "region": "Egypt",
-    "short_title": "A ram with fluttering ribbons"
+    "short_title": "A ram with fluttering ribbons",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 308078,
     "category": "Textiles",
     "region": "Andes",
-    "short_title": "Embroidered figures with staves"
+    "short_title": "Embroidered figures with staves",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 329610,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "Silk horses"
+    "short_title": "Silk horses",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 443591,
     "category": "Textiles",
     "region": "West and Central Asia",
-    "short_title": "A woven medallion"
+    "short_title": "A woven medallion",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 120400,
     "category": "Painted sculpture and relief",
     "region": "West and Central Asia",
-    "short_title": "Sasanian ibex with paint traces"
+    "short_title": "Sasanian ibex with paint traces",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 148798,
     "category": "Painted sculpture and relief",
     "region": "Egypt",
-    "short_title": "Offerings in painted limestone"
+    "short_title": "Offerings in painted limestone",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 149594,
     "category": "Painted sculpture and relief",
     "region": "Egypt",
-    "short_title": "Painted head of Userkaf"
+    "short_title": "Painted head of Userkaf",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 148794,
     "category": "Painted sculpture and relief",
     "region": "Egypt",
-    "short_title": "Painted portrait of Nefertiti"
+    "short_title": "Painted portrait of Nefertiti",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 138686,
     "category": "Painted sculpture and relief",
     "region": "Egypt",
-    "short_title": "Amenhotep and his family"
+    "short_title": "Amenhotep and his family",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 153630,
     "category": "Paintings and manuscripts",
     "region": "Egypt",
-    "short_title": "Ramesses II on an ostracon"
+    "short_title": "Ramesses II on an ostracon",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 93984,
     "category": "Paintings and manuscripts",
     "region": "Egypt",
-    "short_title": "Painted coffin of Bakenmut"
+    "short_title": "Painted coffin of Bakenmut",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 133068,
     "category": "Paintings and manuscripts",
     "region": "South Asia",
-    "short_title": "Painted palm-leaf sutra"
+    "short_title": "Painted palm-leaf sutra",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 248130,
     "category": "Murals and cave art",
     "region": "Europe",
-    "short_title": "Roman wall painting"
+    "short_title": "Roman wall painting",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 256186,
     "category": "Murals and cave art",
     "region": "Europe",
-    "short_title": "South Italian wall painting"
+    "short_title": "South Italian wall painting",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 253329,
     "category": "Murals and cave art",
     "region": "Europe",
-    "short_title": "Roman fresco fragment"
+    "short_title": "Roman fresco fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 247106,
     "category": "Painted sculpture and relief",
     "region": "Mediterranean",
-    "short_title": "Painted stele: a woman in childbirth"
+    "short_title": "Painted stele: a woman in childbirth",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 548344,
     "category": "Paintings and manuscripts",
     "region": "Egypt",
-    "short_title": "Painted papyrus for Nauny"
+    "short_title": "Painted papyrus for Nauny",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 553673,
     "category": "Paintings and manuscripts",
     "region": "Egypt",
-    "short_title": "Book of the Dead: two chapters"
+    "short_title": "Book of the Dead: two chapters",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 312928,
     "category": "Painted ceramics",
     "region": "Andes",
-    "short_title": "Paracas jar with a painted scene"
+    "short_title": "Paracas jar with a painted scene",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "met",
     "object_id": 308426,
     "category": "Painted ceramics",
     "region": "Andes",
-    "short_title": "A feline face in post-fired paint"
+    "short_title": "A feline face in post-fired paint",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "aic",
     "object_id": 14968,
     "category": "Murals and cave art",
     "region": "Mesoamerica",
-    "short_title": "Maguey bloodletting mural"
+    "short_title": "Maguey bloodletting mural",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "cma",
     "object_id": 108532,
     "category": "Murals and cave art",
     "region": "East Asia",
-    "short_title": "Buddha in painted plaster"
+    "short_title": "Buddha in painted plaster",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "aic",
     "object_id": 201,
     "category": "Painted ceramics",
     "region": "North America",
-    "short_title": "Painted Southwest dipper"
+    "short_title": "Painted Southwest dipper",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   },
   {
     "provider": "aic",
     "object_id": 4715,
     "category": "Painted ceramics",
     "region": "Andes",
-    "short_title": "Nasca fish or sharks"
+    "short_title": "Nasca fish or sharks",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 160940,
+    "category": "Paintings and manuscripts",
+    "region": "Africa",
+    "short_title": "Ethiopian Gospel: Saint Luke",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 535124,
+    "category": "Paintings and manuscripts",
+    "region": "Africa",
+    "short_title": "Ethiopian apostles on painted wood",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128915,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Indian resist-dyed cotton",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128930,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Painted mordants on cotton",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128937,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Fourteenth-century Indian dyed cloth",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128928,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Medieval hand-painted cotton",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128943,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Stamped and painted Indian cotton",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 128923,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Gujarati bands in resist dye",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 107205,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Cambodian silk sampot",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 107861,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Sumba ikat: a woven narrative",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 151375,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Lampung tapis with embroidery",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 97613,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Javanese batik sarong",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 107858,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Central Javanese batik waist cloth",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 110569,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "North-coast Java silk batik",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 107859,
+    "category": "Textiles",
+    "region": "Southeast Asia",
+    "short_title": "Javanese ceremonial batik",
+    "notes": "This is a later historic work; its museum date is retained. Study surviving painted or dyed details alongside the original. Enhanced colors are analytical and do not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 132176,
+    "category": "Textiles",
+    "region": "East Asia",
+    "short_title": "Eighth-century resist-printed cloth",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 132184,
+    "category": "Textiles",
+    "region": "East Asia",
+    "short_title": "Early batik-printed textile fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 127672,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Tenth-century Yemeni ikat",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 156118,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Makaras and phoenixes in silk",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 153759,
+    "category": "Textiles",
+    "region": "East Asia",
+    "short_title": "Embroidered Buddhist robe",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 149458,
+    "category": "Textiles",
+    "region": "Oceania",
+    "short_title": "Hawaiian painted barkcloth",
+    "notes": "The museum dates this painted Hawaiian barkcloth to the early twentieth century. It extends the material comparison to painted bark; it is not an ancient specimen.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 126730,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Nara-period painted theatre mask",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 127952,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Heian painted bodhisattva mask",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 149369,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Shinto deity with surviving color",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 134753,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Haniwa horse with pigment traces",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 147039,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Raijin: worn red and black paint",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 153662,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Aizen Myōō in lacquer and red",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 153369,
+    "category": "Painted sculpture and relief",
+    "region": "South Asia",
+    "short_title": "Himalayan Buddha in painted wood",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 117940,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Warring States cranes and serpents",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135158,
+    "category": "Painted sculpture and relief",
+    "region": "Europe",
+    "short_title": "Medieval painted Saint John",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 147394,
+    "category": "Painted sculpture and relief",
+    "region": "Europe",
+    "short_title": "Virgin and Child in painted wood",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 165257,
+    "category": "Painted sculpture and relief",
+    "region": "Andes",
+    "short_title": "Wari container with red pigment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155455,
+    "category": "Painted ceramics",
+    "region": "Mesoamerica",
+    "short_title": "Maya painted ruler and scribe",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 143265,
+    "category": "Painted ceramics",
+    "region": "Mesoamerica",
+    "short_title": "Maya vessel with palace scene",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 131818,
+    "category": "Painted ceramics",
+    "region": "Mesoamerica",
+    "short_title": "Maya deities around a vessel",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155456,
+    "category": "Painted ceramics",
+    "region": "Mesoamerica",
+    "short_title": "Maya painted plate",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155451,
+    "category": "Painted sculpture and relief",
+    "region": "Mesoamerica",
+    "short_title": "Maya warrior with surviving pigment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155447,
+    "category": "Painted sculpture and relief",
+    "region": "Mesoamerica",
+    "short_title": "Palenque polychrome incense support",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155457,
+    "category": "Painted sculpture and relief",
+    "region": "Mesoamerica",
+    "short_title": "Maya painted stucco façade head",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 159690,
+    "category": "Painted ceramics",
+    "region": "Mesoamerica",
+    "short_title": "Maya painted tripod vessel",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 155414,
+    "category": "Painted sculpture and relief",
+    "region": "Mesoamerica",
+    "short_title": "Tlatilco figurine with pigment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 149683,
+    "category": "Paintings and manuscripts",
+    "region": "East Asia",
+    "short_title": "Goryeo arhat on silk",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 310353,
+    "category": "Paintings and manuscripts",
+    "region": "East Asia",
+    "short_title": "Goryeo Fourth King of Hell",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 688675,
+    "category": "Paintings and manuscripts",
+    "region": "East Asia",
+    "short_title": "Goryeo Ksitigarbha on silk",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 144961,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Green Tara on painted cotton",
+    "notes": "The museum dates the painting to the 1260s and records a mount made in 2020. Fit to the painted cotton, excluding the modern mount. False color does not reconstruct the original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 153618,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Tibetan lineage masters",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 154338,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Vairochana as Vajrasattva",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 157147,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Nairatma mandala on cloth",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 161703,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Tholing painted initiation card",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 161704,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Tabo Amitabha on cloth",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 117658,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Painted Nepalese manuscript cover",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 117663,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Prajnaparamita on palm leaf",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 145830,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Gujarati nuns on a palm-leaf page",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 123434,
+    "category": "Paintings and manuscripts",
+    "region": "West and Central Asia",
+    "short_title": "Bahram Gur and the dragon",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135808,
+    "category": "Paintings and manuscripts",
+    "region": "West and Central Asia",
+    "short_title": "Portrait of Nushirwan the Just",
+    "notes": "Study the painted portrait, keeping ink text and the paper ground separate. This fourteenth-century manuscript page depicts an earlier ruler; it is not a contemporary Sasanian portrait.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 133447,
+    "category": "Paintings and manuscripts",
+    "region": "West and Central Asia",
+    "short_title": "Timurid royal reception",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 94963,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Kashan painted luster wall tile",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 111410,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Medieval woodblock print on linen",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 72748,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Gujarati courtesans on dyed cotton",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 448526,
+    "category": "Textiles",
+    "region": "South Asia",
+    "short_title": "Indian block-printed textile from Fustat",
+    "notes": "The museum identifies Gujarat, India as the place of manufacture and Fustat, Egypt as the findspot. Study the block-printed, mordant-dyed pattern with the woven cotton ground; original hues cannot be reconstructed by this transform.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 42589,
+    "category": "Painted sculpture and relief",
+    "region": "East Asia",
+    "short_title": "Jizō in lacquer, pigment and gold",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 136667,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Nome gods carrying offerings",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 126198,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Minnefer in painted limestone",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 152255,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Middle Kingdom painted statuette",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 94188,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted coffin of Nesykhonsu",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 94190,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Nesykhonsu: painted coffin lid",
+    "notes": "A separate photograph of the painted coffin lid. Related coffin views are retained as distinct perspectives on the same object, not counted as separate artifacts. False color does not reconstruct the ancient palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 93986,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Bakenmut: painted coffin lid",
+    "notes": "A separate photograph of the painted coffin lid. Related coffin views are retained as distinct perspectives on the same object, not counted as separate artifacts. False color does not reconstruct the ancient palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 102365,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Stele of Shemai",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135658,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Nefertiti in surviving paint",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 101391,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted pair statue",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 112312,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Nyankhnesut seated in relief",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135656,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Nefertiti offers to the Aten",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 93957,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Itetioqer and family",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 94191,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted cartonnage mummy case",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 94201,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted shabti box of Ditamenpaankh",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135988,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Wool pillow cover with inscription",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 144696,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Tunic panel with woven ornament",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 108411,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Roman-era Egyptian woven roundel",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 108417,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Patterned shoulder bands",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 150874,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Coptic wool roundel",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 147015,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Woolen tunic with decorated bands",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 124964,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Fourth-century curtain roundel",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 135578,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Alexander on horseback in wool",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 126046,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Galloping horse on a curtain",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 108415,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Tunic with woven ornament",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 157033,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Lower section of an Egyptian tunic",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 149666,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Two figures in a jeweled border",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 136406,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Heads and palmettes on a hanging",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 127673,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Fatimid turban end with tiraz",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 150633,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Decorative wool band",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 96266,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Ornamental tunic square",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 156754,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Greek dancing satyrs in terracotta",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 110926,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Greek marble warrior with paint traces",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 110928,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Greek seated man in painted clay",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 160294,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Cretan ram-bearer with polychromy",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 108848,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Tanagra painted female figurine",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 394308,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Etruscan painted architectural maiden",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 133308,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Dancing Pan with red polychromy",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 161637,
+    "category": "Painted sculpture and relief",
+    "region": "Europe",
+    "short_title": "Neolithic Vinča figurine with paint",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 163505,
+    "category": "Painted ceramics",
+    "region": "East Asia",
+    "short_title": "Neolithic Chinese painted spiral jar",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 133598,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Nishapur slip-painted bowl",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 245840,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman fresco fragment with painted bird",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 245847,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman fresco fragment with foliage",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253324,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman red fresco with vertical bands",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253326,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman red fresco with scrolling ornament",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253330,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman yellow fresco fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253331,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman ochre fresco with floral detail",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253333,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman dark fresco with linear border",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253335,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman dark fresco with white foliage",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253337,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman fresco with a decorated border",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 253338,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman dark fresco with a curling plant",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 254440,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Roman fresco: surviving figurative detail",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250939,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: landscape",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250934,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: a painted room at The Met",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues. The selected photograph shows a museum room installation with multiple painted panels; the museum record title describes supports with entablature.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250932,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: Egyptianizing scene and pair of swans",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250931,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: Egyptianizing scene and pair of swans",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250942,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: candelabrum with frieze",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250930,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: Aedicula with small landscape",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 250945,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscotrecase: Perseus and Andromeda in landscape",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247017,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscoreale: a painted Roman bedroom",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247015,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscoreale: Room F painted wall 5",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247010,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscoreale: Room H painted wall 0",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247016,
+    "category": "Murals and cave art",
+    "region": "Mediterranean",
+    "short_title": "Boscoreale: Room F painted wall 6",
+    "notes": "Roman wall painting from the Vesuvian region near Pompeii; the museum records the specific villa and room. Distinguish original painted plaster from fills and the modern museum installation. False color does not restore missing scenes or original hues.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 324017,
+    "category": "Murals and cave art",
+    "region": "West and Central Asia",
+    "short_title": "Sasanian wall painting: veiled woman",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 324018,
+    "category": "Murals and cave art",
+    "region": "West and Central Asia",
+    "short_title": "Sasanian wall painting: male head",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247107,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted limestone funerary stele with a seated man and two stand",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247109,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted limestone funerary slab with a soldier and two girls",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247110,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted limestone funerary slab with a soldier standing at ease",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 247111,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted limestone funerary slab with a soldier taking a kantharo",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 329920,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Fragmentary Head of a Man",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 544336,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Canopic jar lid",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 545914,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Bust of a Revered Person",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 547685,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Relief Fragment Depicting Atum and Hatshepsut",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 555674,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Procession of Deities",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 555946,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Relief Showing a Seated Woman Smelling the Blossom of a Water Li",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 543902,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Statue of Demedji and Hennutsen",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 543874,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Standing statue of Mitry's wife",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 548489,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Statue of an official Ihy",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 552356,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Coffin of Teti",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 444166,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Round Insert from a Coptic Tunic or Shawl",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 444296,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Vertical Band from a Tunic",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 444355,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Three Fragments with a Coptic Inscription",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 444378,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Fragment from a Coptic Hanging",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 448111,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Textile Fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 448123,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Tiraz Fragment with Inscription",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 448572,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Shawl with Coptic Inscriptions",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 474230,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Textile Fragment",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 551786,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Book of the Dead of the Priest of Horus, Imhotep (Imuthes)",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 590941,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Book of the Dead of Khamhor",
+    "notes": "Study surviving dyes and painted detail alongside the original photograph. Color separation also amplifies stains, lighting and damage; the enhanced palette is not a reconstruction.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 322585,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Babylon: lion in glazed brick",
+    "notes": "A Neo-Babylonian glazed-brick lion. This is colored glaze on ceramic rather than a fresco. Reflections, joints, conservation fills, and variations in glaze can dominate the transform; enhanced colors do not reconstruct Babylon’s original palette.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 324087,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Eridu: Ubaid painted bowl 7",
+    "notes": "Painted pottery from Ubaid-period Eridu in southern Mesopotamia. This predates the later Sumerian city-states; retain the museum’s Ubaid attribution. Study the surviving brown painted pattern without interpreting the false colors as original pigments.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 324086,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Eridu: Ubaid painted bowl 6",
+    "notes": "Painted pottery from Ubaid-period Eridu in southern Mesopotamia. This predates the later Sumerian city-states; retain the museum’s Ubaid attribution. Study the surviving brown painted pattern without interpreting the false colors as original pigments.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
+  },
+  {
+    "provider": "met",
+    "object_id": 324088,
+    "category": "Painted ceramics",
+    "region": "West and Central Asia",
+    "short_title": "Eridu: Ubaid painted bowl 8",
+    "notes": "Painted pottery from Ubaid-period Eridu in southern Mesopotamia. This predates the later Sumerian city-states; retain the museum’s Ubaid attribution. Study the surviving brown painted pattern without interpreting the false colors as original pigments.",
+    "focus_box_fraction": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ]
   }
 ]

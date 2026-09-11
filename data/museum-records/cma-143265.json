@@ -1,0 +1,290 @@
+{
+  "id": 143265,
+  "accession_number": "1967.203",
+  "share_license_status": "CC0",
+  "tombstone": "Cylindrical Vessel with Palace Scene, 600–900. Mexico or Central America, Maya. Earthenware with colored slips; diameter: 19 x 11.3 cm (7 1/2 x 4 7/16 in.); overall: 19.1 cm (7 1/2 in.). The Cleveland Museum of Art, Gift of Edgar A. Hahn, 1967.203",
+  "current_location": "233 Mesoamerican and Intermediate Region",
+  "title": "Cylindrical Vessel with Palace Scene",
+  "creation_date": "600–900",
+  "creation_date_earliest": 600,
+  "creation_date_latest": 900,
+  "artists_tags": [],
+  "culture": [
+    "Mexico or Central America, Maya"
+  ],
+  "technique": "earthenware with colored slips",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Mesoamerica",
+  "type": "Ceramic",
+  "measurements": "Diameter: 19 x 11.3 cm (7 1/2 x 4 7/16 in.); Overall: 19.1 cm (7 1/2 in.)",
+  "dimensions": {
+    "diameter": {
+      "height": 0.19,
+      "height_inch": 7,
+      "height_inch_fraction": 0.5,
+      "width": 0.113,
+      "width_inch": 4,
+      "width_inch_fraction": 0.4375
+    },
+    "overall": {
+      "height": 0.191,
+      "height_inch": 7,
+      "height_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301285,
+        "title": "Year in Review for 1968",
+        "description": "<i>Year in Review for 1968</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 29-March 9, 1969).",
+        "opening_date": "1969-01-29T05:00:00"
+      },
+      {
+        "id": 309564,
+        "title": "The World of Ceramics: Masterpieces from the Cleveland Museum of Art",
+        "description": "<i>The World of Ceramics: Masterpieces from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-August 22, 1982).",
+        "opening_date": "1982-06-20T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Cleveland, OH: The Cleveland Museum of Art; June 29- September 5, 1982. \" The World of Ceramics: Masterpieces from the Cleveland Museum of Art.\" cat. no. 81, repr. p. 77.",
+        "opening_date": "1982-06-29T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The scene here may commemorate a special event in the life of a Maya ruler, who stands on a stairway before his throne, his legs framed by a litter on the ground. His gesture and the jaguar pelt at the waist visually unify him with his attendants. The ruler perhaps used the vessel as a drinking cup on important occasions; fine ceramics also served as gifts and as offerings in tombs.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60746569"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1967.203-cylindrical-vessel-w"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, and Jenifer Neils. <em>The World of Ceramics: Masterpieces from the Cleveland Museum of Art</em>. Cleveland: Museum in cooperation with Indiana University Press, 1982.",
+      "page_number": "Mentioned and reproduced: P. 77, no. 81",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1967.203",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_web.jpg",
+      "width": "689",
+      "height": "893",
+      "filesize": "406482",
+      "filename": "1967.203_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_print.jpg",
+      "width": "2625",
+      "height": "3400",
+      "filesize": "6487443",
+      "filename": "1967.203_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_full.tif",
+      "width": "4161",
+      "height": "5388",
+      "filesize": "67285804",
+      "filename": "1967.203_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt0_web.jpg",
+        "width": "783",
+        "height": "900",
+        "filesize": "316326"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt0_print.jpg",
+        "width": "2957",
+        "height": "3400",
+        "filesize": "3364893"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt0_full.tif",
+        "width": "4472",
+        "height": "5142",
+        "filesize": "69015636"
+      },
+      "date_created": "2013-11-04T14:11:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt1_web.jpg",
+        "width": "756",
+        "height": "900",
+        "filesize": "291127"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt1_print.jpg",
+        "width": "2855",
+        "height": "3400",
+        "filesize": "3029902"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt1_full.tif",
+        "width": "4810",
+        "height": "5729",
+        "filesize": "82700032"
+      },
+      "date_created": "2013-11-04T14:25:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt2_web.jpg",
+        "width": "729",
+        "height": "900",
+        "filesize": "280013"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt2_print.jpg",
+        "width": "2753",
+        "height": "3400",
+        "filesize": "2646636"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt2_full.tif",
+        "width": "4285",
+        "height": "5292",
+        "filesize": "68054284"
+      },
+      "date_created": "2010-07-23T18:19:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt3_web.jpg",
+        "width": "674",
+        "height": "900",
+        "filesize": "268492"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt3_print.jpg",
+        "width": "2547",
+        "height": "3400",
+        "filesize": "2530374"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt3_full.tif",
+        "width": "4018",
+        "height": "5363",
+        "filesize": "64670992"
+      },
+      "date_created": "2010-07-23T18:29:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt4_web.jpg",
+        "width": "687",
+        "height": "893",
+        "filesize": "412871"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt4_print.jpg",
+        "width": "2615",
+        "height": "3400",
+        "filesize": "6287246"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt4_full.tif",
+        "width": "4102",
+        "height": "5333",
+        "filesize": "65655536"
+      },
+      "date_created": "2010-07-23T18:36:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt5_web.jpg",
+        "width": "933",
+        "height": "893",
+        "filesize": "384946"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt5_print.jpg",
+        "width": "3400",
+        "height": "3254",
+        "filesize": "6029854"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt5_full.tif",
+        "width": "3923",
+        "height": "3755",
+        "filesize": "44218776"
+      },
+      "date_created": "2010-07-23T18:47:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt6_web.jpg",
+        "width": "1035",
+        "height": "893",
+        "filesize": "586966"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt6_print.jpg",
+        "width": "3400",
+        "height": "2933",
+        "filesize": "7327286"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.203/1967.203_alt6_full.tif",
+        "width": "4102",
+        "height": "3539",
+        "filesize": "43577308"
+      },
+      "date_created": "2010-07-23T18:56:35",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Edgar A. Hahn",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 143265,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1967-10-27T00:00:00",
+  "sortable_date": 600,
+  "date_added_to_oa": null,
+  "date_text": "600–900",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:21:59.359000"
+}
