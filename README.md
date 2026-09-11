@@ -2,11 +2,15 @@
 
 Explore faint color in photographs of painted surfaces using regularized RGB decorrelation stretch.
 
+[Open the website](https://color-study-painted-surfaces.kristen368163.chatgpt.site) · [Read the original NASA article](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) · [Download the open photo database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all)
+
 ## Files
 
 - [Image engine](public/dcs-core.mjs) and [browser worker](public/dcs-worker.js)
 - [Python image processor](process_images.py)
-- [Browser app](app/ColorStudy.tsx)
+- [Website and browser app](app/ColorStudy.tsx)
+- [Community collection server](server/community.mjs) and [database schema](db/schema.ts)
+- [Reproducible showcase previews](scripts/build-showcase.py)
 - [11 full-resolution photographs](public/originals/) and [image credits](CREDITS.md)
 - [20-target research guide](public/targets.md)
 - [Source records, dimensions and licenses](public/sources.json)
@@ -20,7 +24,15 @@ npm ci
 npm run dev
 ```
 
-Open the local URL printed by the server. Import a photo, adjust the color separation, select an area to fit, compare, and export a full-resolution PNG. Imported photos stay in your browser. No account or API key is required.
+Open the local URL printed by the server. Import a photo, adjust the color separation, select an area to fit, compare, and export a full-resolution PNG. Private image-lab imports stay in your browser. The separate contribution form publishes a JPEG copy only after explicit consent. No account or API key is required to run the app locally; D1 and R2 are emulated locally and persist under `.wrangler/`. A production deployment needs its own `DB` (D1) and `PHOTOS` (R2) bindings. The initial migration is in `drizzle/`.
+
+## Community contributions
+
+Visitors may contribute photographs they took, with a public credit and general location. The photo and description are published immediately under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The browser prepares a full-size sRGB JPEG copy and thumbnail; the server validates the JPEG structure and removes camera metadata before storage. The raw original file input is not uploaded.
+
+Every contribution includes download, study and report links. Reports open a GitHub issue. A private removal-key file lets the contributor remove this site’s public copy later; copies already downloaded and their valid reuse rights are unaffected. Private keys and rate-limit identifiers are excluded from public exports.
+
+`GET /api/community` lists 24 contributions per page using `next_cursor`. `GET /api/dataset?download=all` streams the complete database as JSON, including all image URLs, credits, licenses, dimensions and hashes. `GET /api/dataset` is a paginated alternative. Public read endpoints support cross-origin requests. Community data lives in the database and object storage, rather than automatically creating Git commits.
 
 ## Run the Python processor
 
@@ -43,7 +55,7 @@ npm run lint
 npx tsc --noEmit
 ```
 
-Tests compare the JavaScript math with the original Python engine and exercise worker loading, selected-area fitting, exports, app HTML and image integrity. The worker tests use an in-memory canvas; browser codecs and interaction need a browser walkthrough.
+Tests compare the JavaScript math with the original Python engine and exercise worker loading, selected-area fitting, exports, app HTML and image integrity. Image-worker tests use an in-memory canvas; browser codecs and interaction need a browser walkthrough. Community tests use real local D1/R2 emulation to check consent, persistent uploads, metadata removal, deletion authorization, export pagination, full database downloads, rate limits and storage-failure cleanup.
 
 ## About the method
 
@@ -54,3 +66,7 @@ Enhancement exaggerates color already present in a photo. It does not reconstruc
 ## License
 
 Code and original documentation: [MIT](LICENSE). Photographs retain their individual licenses in [CREDITS.md](CREDITS.md) and [sources.json](public/sources.json). Keep those credits and license links when redistributing images, and identify enhanced images as modified. The MIT license does not relicense third-party images or dependencies.
+
+Run `python scripts/build-showcase.py` to regenerate the resized originals and enhanced website comparisons. Their original hashes, fitting regions, settings and exact matrices are recorded in `public/showcase.json`.
+
+Operators can set a server-only `COMMUNITY_ADMIN_TOKEN` of at least 32 characters and send `DELETE /api/community/{id}` with `Authorization: Bearer <token>` to remove a reported contribution. The token is never part of the public site, image records or database download. Keep it in the hosting service’s secret settings, not in Git.

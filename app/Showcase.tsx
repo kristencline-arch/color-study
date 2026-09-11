@@ -1,0 +1,74 @@
+"use client";
+
+/* eslint-disable @next/next/no-img-element -- Credited, pre-sized photographic derivatives; no image proxy. */
+import { useState, type CSSProperties } from "react";
+import sources from "../public/sources.json";
+import { NASA_ARTICLE, REPOSITORY } from "./links";
+
+const demonstrations = [
+  {id: "cueva-hands", label: "Hand stencils", place: "Cueva de las Manos, Argentina", detail: "Hands, layered in color.", note: "Overlapping stencils survive in red, white and ochre. Move the line to explore their color relationships."},
+  {id: "bhimbetka-paintings", label: "Cave paintings", place: "Bhimbetka, India", detail: "A wall full of movement.", note: "Painted figures cross the shelter wall. Color separation helps distinguish their red traces from the surrounding surface."},
+  {id: "cappadocia-fresco", label: "Painted plaster", place: "Göreme, Turkey", detail: "A pattern still holding on.", note: "A surviving red motif contrasts with worn plaster. The enhancement also brings out variations in the surface."},
+  {id: "marble-sphinx", label: "Painted marble", place: "Greek marble sphinx · The Met", detail: "Marble was a canvas, too.", note: "This sculpture retains documented traces of paint. Enhanced colors are a way to inspect the photograph, not a reconstruction of its ancient palette."},
+];
+
+const selections = [
+  {id: "pompeii-mysteries", title: "Pompeii, in red.", place: "Villa of the Mysteries · Italy", description: "A sweeping painted scene, with vivid color and worn passages to compare."},
+  {id: "iran-chehel-sotoun", title: "A story inside a story.", place: "Chehel Sotoun · Iran", description: "A historic palace mural framed by intricate ornament. Try the worn border; conservation and repainting matter here."},
+  {id: "pompeii-vettii", title: "The figure that remains.", place: "House of the Vettii · Italy", description: "A weathered fresco offers a closer study of surviving paint, pale edges and exposed plaster."},
+  {id: "bhimbetka-paintings", title: "A wall full of life.", place: "Bhimbetka · India", description: "Small painted figures and layered marks fill this rock shelter. Follow the pigment across the surface."},
+  {id: "unas-pyramid", title: "Words on a pyramid wall.", place: "Pyramid of Unas · Egypt", description: "Compare the already-visible inscriptions with the subtle color of the surrounding stone."},
+  {id: "marble-sphinx", title: "Beyond white marble.", place: "Greek sculpture · The Met", description: "A winged sphinx with surviving paint: an invitation to look closely at sculpture, too."},
+];
+
+type Props = { onStudy: (id: string) => void; onLab: () => void; onCommunity: () => void; onGuide: () => void; onShare: () => void };
+
+export default function Showcase({onStudy, onLab, onCommunity, onGuide, onShare}: Props) {
+  const [active, setActive] = useState(0);
+  const [split, setSplit] = useState(50);
+  const demo = demonstrations[active];
+  const source = sources.find(item => item.id === demo.id)!;
+  return <div className="showcase-page">
+    <section className="showcase-hero" aria-labelledby="showcase-title">
+      <div className="hero-copy">
+        <p className="eyebrow">SURVIVING PAINT / A DIFFERENT WAY TO SEE</p>
+        <h1 id="showcase-title">Look a little<br /><em>closer.</em></h1>
+        <p className="hero-intro">Time fades the color.<br />A photograph can still hold its traces.</p>
+        <p className="hero-description">Explore cave paintings, worn murals and once-painted marble through color separation. Start with a remarkable photograph, or bring your own.</p>
+        <div className="hero-actions"><button className="button" onClick={onLab}>Try the image lab <span aria-hidden="true">↗</span></button><button className="text-button" onClick={onCommunity}>Contribute a photograph</button></div>
+        <a className="hero-origin" href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">Inspired by the original NASA Spinoff article <span aria-hidden="true">↗</span></a>
+      </div>
+      <figure className="hero-study">
+        <div className="hero-study-top"><span className="eyebrow">A CLOSER LOOK</span><span>Drag to compare <span aria-hidden="true">↔</span></span></div>
+        <div className={`hero-comparison ${demo.id === "marble-sphinx" ? "sculpture-comparison" : ""}`} style={{"--split": `${split}%`} as CSSProperties}>
+          <img src={`/showcase/${demo.id}-original.webp`} alt={`Original photograph: ${demo.place}`} width={1600} height={1000} fetchPriority="high" draggable={false} />
+          <img className="hero-enhanced" src={`/showcase/${demo.id}-enhanced.webp`} alt={`RGB decorrelation stretch of the same ${demo.place} photograph`} width={1600} height={1000} draggable={false} />
+          <span className="image-badge original-badge">Original</span><span className="image-badge enhanced-badge">Color study</span>
+          <span className="divider" aria-hidden="true"><span className="divider-grip">‹ ›</span></span>
+          <input className="hero-divider-input" type="range" min="0" max="100" step=".1" value={split} aria-label={`Compare original and enhanced ${demo.place} photograph`} aria-valuetext={`${Math.round(split)} percent original`} onChange={event => setSplit(Number(event.target.value))} />
+        </div>
+        <figcaption><div><p className="eyebrow">{demo.place}</p><h2>{demo.detail}</h2></div><button onClick={() => onStudy(demo.id)}>Explore this photo <span aria-hidden="true">↗</span></button></figcaption>
+        <p className="hero-study-note">{demo.note}</p>
+        <div className="demo-options" role="group" aria-label="Featured photographs">{demonstrations.map((item, index) => <button key={item.id} aria-pressed={active === index} className={active === index ? "selected" : ""} onClick={() => {setActive(index); setSplit(50);}}>{item.label}</button>)}</div>
+        <p className="showcase-credit">Photo: {source.author} · <a href={source.source_page} target="_blank" rel="noopener noreferrer">Source</a> · <a href={source.license_url} target="_blank" rel="noopener noreferrer">{source.license}</a>. Color study: modified with RGB decorrelation stretch.</p>
+      </figure>
+    </section>
+    <div className="showcase-principle"><span className="eyebrow">THE SAME PHOTOGRAPH. A DIFFERENT VIEW.</span><p>These are real photographs and mathematical color enhancements. The new colors make differences easier to see; they don’t tell us what the original palette looked like.</p></div>
+    <section className="selected-studies" aria-labelledby="selected-heading">
+      <div className="section-heading"><div><p className="eyebrow">SELECTED PHOTOGRAPHS</p><h2 id="selected-heading">Paint that still has<br /><em>something to say.</em></h2></div><p>From a palace in Iran to the interiors of Pompeii. Every image includes its original source, photographer’s credit and reuse license.</p></div>
+      <div className="showcase-grid">{selections.map((item, index) => {
+        const photo = sources.find(source => source.id === item.id)!;
+        return <article className={`showcase-card ${item.id === "marble-sphinx" ? "sculpture-card" : ""}`} key={item.id}>
+          <button className="showcase-photo-link" onClick={() => onStudy(item.id)} aria-label={`Open ${item.place} in the image lab`}><img src={`/showcase/${item.id}-original.webp`} width={photo.expected_dimensions[0]} height={photo.expected_dimensions[1]} alt={photo.title} loading="lazy" /><span className="photo-open" aria-hidden="true">↗</span><span className="photo-size">{(photo.expected_dimensions[0] * photo.expected_dimensions[1] / 1000000).toFixed(1)} MP original</span></button>
+          <div className="showcase-card-copy"><p className="eyebrow"><span>{String(index + 1).padStart(2, "0")}</span> {item.place}</p><h3>{item.title}</h3><p>{item.description}</p><button className="study-open-link" onClick={() => onStudy(item.id)}>Open in the image lab <span aria-hidden="true">→</span></button><p className="showcase-credit">{photo.author} · <a href={photo.source_page} target="_blank" rel="noopener noreferrer">Source</a> · <a href={photo.license_url} target="_blank" rel="noopener noreferrer">{photo.license}</a></p></div>
+        </article>;
+      })}</div>
+      <button className="guide-invitation" onClick={onGuide}><span><strong>Where else could we look?</strong> Explore the 20-place field guide, from Angkor Wat to painted cliff dwellings.</span><span aria-hidden="true">→</span></button>
+    </section>
+    <section className="origins-grid" aria-label="The original article and open source files">
+      <article><p className="eyebrow">THE ORIGINAL STORY</p><h2>From satellites<br /><em>to surviving paint.</em></h2><p>NASA Spinoff tells how decorrelation stretch moved from satellite imagery into archaeology, including the faded paintings of Angkor Wat. That story inspired this independent image lab.</p><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">Read the original NASA article <span aria-hidden="true">↗</span></a></article>
+      <article><p className="eyebrow">OPEN SOURCE / OPEN EXPLORATION</p><h2>The files.<br /><em>Yours to explore.</em></h2><p>The engine, website, Python processor and research guide are on GitHub. Download the photographs, inspect how the color changes, or build something of your own.</p><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Browse the GitHub repository <span aria-hidden="true">↗</span></a><a className="dataset-link" href="/api/dataset?download=all">Download the photo database <span aria-hidden="true">↓</span></a></article>
+    </section>
+    <section className="share-invitation"><div><p className="eyebrow">A SHARED COLLECTION. A SHARED CURIOSITY.</p><h2>Bring a photograph.<br /><em>Pass it on.</em></h2><p>Have a photograph of surviving paint? Add it to the open collection with your credit. Know someone who would enjoy looking closer? Send them the link.</p></div><div className="invitation-actions"><button className="button" onClick={onCommunity}>Add your photograph <span aria-hidden="true">+</span></button><button className="button ghost" onClick={onShare}>Share Color Study <span aria-hidden="true">↗</span></button></div></section>
+  </div>;
+}

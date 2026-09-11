@@ -5,13 +5,16 @@
 import { useCallback, useEffect, useRef, useState, type CSSProperties, type PointerEvent } from "react";
 import sourceData from "../public/sources.json";
 import targets from "../public/targets.json";
+import Showcase from "./Showcase";
+import Community, {type CommunityPhoto} from "./Community";
+import { NASA_ARTICLE, REPOSITORY } from "./links";
 
 type Region = [number, number, number, number];
 type Settings = { targetStd: number; maxGain: number };
 type Fit = { fitClippedFraction: number; sampleCount: number; independentColorAxes: number; width: number; height: number; sourceSHA256: string; [key: string]: unknown };
 type Reply = { jobId: number; type: string; imageId: number; width: number; height: number; originalPreview: Blob; preview: Blob; blob: Blob; fit: Fit; error?: string; progress?: number };
-type Photo = { name: string; sampleId?: string; author?: string; source?: string; license?: string; licenseURL?: string; imageId: number; width: number; height: number };
-type Sample = (typeof sourceData)[number];
+type Photo = { name: string; sampleId?: string; communityId?: string; author?: string; source?: string; originalURL?: string; notes?: string; license?: string; licenseURL?: string; imageId: number; width: number; height: number };
+type Sample = Pick<(typeof sourceData)[number], "id" | "title" | "original_file" | "source_page" | "author" | "license" | "license_url" | "focus_box_fraction"> & {notes?: string; communityId?: string};
 const labels: Record<string, string> = Object.fromEntries(sourceData.map(item => [item.id, item.short_title]));
 const DEFAULTS: Settings = { targetStd: 42, maxGain: 12 };
 const errorText = (error: unknown) => error instanceof Error ? error.message : "Something went wrong. Please try again.";
@@ -23,8 +26,13 @@ function download(blob: Blob, name: string) {
   setTimeout(() => URL.revokeObjectURL(url), 60000);
 }
 
+function asCommunitySample(photo: CommunityPhoto): Sample {
+  return {id: photo.id, communityId: photo.id, title: photo.title, original_file: `api/community/${photo.id}/image`, source_page: photo.image_url, author: photo.author, license: photo.license, license_url: photo.license_url, focus_box_fraction: [.2, .2, .8, .8], notes: `${photo.location}. ${photo.description} Contributor-submitted photograph; context and credit are supplied by the contributor.`};
+}
+
 export default function ColorStudy() {
-  const [tab, setTab] = useState("lab");
+  const [tab, setTab] = useState("showcase");
+  const [communityOpened, setCommunityOpened] = useState(false);
   const [photo, setPhoto] = useState<Photo | null>(null);
   const [before, setBefore] = useState("");
   const [afterURL, setAfter] = useState("");
@@ -33,7 +41,7 @@ export default function ColorStudy() {
   const [draftRegion, setDraftRegion] = useState<Region | null>(null);
   const [selecting, setSelecting] = useState(false);
   const [split, setSplit] = useState(50);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [exporting, setExporting] = useState(false);
   const [progress, setProgress] = useState(0);
   const [error, setError] = useState("");
@@ -96,7 +104,7 @@ export default function ColorStudy() {
       const result = await request("load", { blob, imageId });
       if (!mounted.current || imageId !== loadSequence.current) return;
       replaceURL("before", result.originalPreview); replaceURL("after");
-      setPhoto({ name: file?.name || sample!.title, sampleId: sample?.id, author: sample?.author, source: sample?.source_page, license: sample?.license, licenseURL: sample?.license_url, imageId, width: result.width, height: result.height });
+      setPhoto({ name: file?.name || sample!.title, sampleId: sample?.communityId ? undefined : sample?.id, communityId: sample?.communityId, author: sample?.author, source: sample?.source_page, originalURL: sample ? `/${sample.original_file}` : undefined, notes: sample?.notes, license: sample?.license, licenseURL: sample?.license_url, imageId, width: result.width, height: result.height });
       setSettings(initial?.settings || DEFAULTS); setRegion(initial?.region || null); setRendered({key: "", fit: null}); setSplit(50);
     } catch (reason) {
       if (mounted.current && imageId === loadSequence.current) setError(errorText(reason));
@@ -128,14 +136,26 @@ export default function ColorStudy() {
           pending.current.clear(); setError(reason.message); setLoading(false); setExporting(false);
         };
         const hash = window.location.hash.slice(1);
-        if (hash === "targets" || hash === "method") setTab(hash);
+        if (["targets", "method", "community", "lab"].includes(hash)) setTab(hash);
+        if (hash === "community") setCommunityOpened(true);
         const params = new URLSearchParams(hash);
-        const sample = sourceData.find(item => item.id === params.get("sample")) || sourceData.find(item => item.id === "bhimbetka-paintings")!;
+        const sample = sourceData.find(item => item.id === params.get("sample")) || sourceData.find(item => item.id === "cueva-hands")!;
         const strength = Number(params.get("strength") || 42), gain = Number(params.get("gain") || 12);
         const initialSettings = { targetStd: Number.isFinite(strength) ? Math.max(12, Math.min(65, strength)) : 42, maxGain: Number.isFinite(gain) ? Math.max(3, Math.min(24, gain)) : 12 };
         const values = params.get("area")?.split(",").map(Number);
         const initialRegion = values?.length === 4 && values.every(value => Number.isFinite(value) && value >= 0 && value <= 1) && values[2] > values[0] && values[3] > values[1] ? values as Region : null;
-        void loadPhoto(sample, undefined, { settings: initialSettings, region: initialRegion });
+        if (params.has("community")) {
+          setTab("lab"); setLoading(true);
+          const id = params.get("community")!;
+          const controller = new AbortController(); fetchController.current = controller;
+          void fetch(`/api/community/${encodeURIComponent(id)}`, {signal: controller.signal}).then(async response => {
+            const result = await response.json();
+            if (!response.ok) throw new Error(result.error || "This contribution could not be opened.");
+            if (mounted.current && fetchController.current === controller) await loadPhoto(asCommunitySample(result.photo), undefined, {settings: initialSettings, region: initialRegion});
+          }).catch(reason => {if (mounted.current && !controller.signal.aborted) {setError(errorText(reason)); setLoading(false);}});
+        } else if (params.has("sample") || hash === "lab") {
+          setTab("lab"); void loadPhoto(sample, undefined, { settings: initialSettings, region: initialRegion });
+        }
       } catch (reason) { setError(errorText(reason)); setLoading(false); }
     }, 0);
     return () => {
@@ -172,8 +192,10 @@ export default function ColorStudy() {
     return () => observer.disconnect();
   }, [photo, tab]);
 
-  function switchTab(next: string) { setTab(next); setShareURL(""); window.history.replaceState(null, "", next === "lab" ? window.location.pathname : `#${next}`); }
-  function pickFile(file?: File) { if (file && !exporting) { switchTab("lab"); void loadPhoto(undefined, file); } }
+  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
+  function pickFile(file?: File) { if (file && !exporting) { switchTab("lab", false); void loadPhoto(undefined, file); } }
+  function openStudy(id: string) {const sample = sourceData.find(item => item.id === id); if (sample) {switchTab("lab", false); void loadPhoto(sample, undefined, {settings: {targetStd: 34, maxGain: 12}, region: sample.focus_box_fraction as Region});}}
+  function openCommunity(photo: CommunityPhoto) {switchTab("lab", false); void loadPhoto(asCommunitySample(photo));}
   function point(event: PointerEvent<HTMLDivElement>): [number, number] {
     const rect = frameRef.current!.getBoundingClientRect();
     return [Math.max(0, Math.min(1, (event.clientX - rect.left) / rect.width)), Math.max(0, Math.min(1, (event.clientY - rect.top) / rect.height))];
@@ -202,13 +224,17 @@ export default function ColorStudy() {
   function saveRecipe() { if (fit) download(new Blob([JSON.stringify(recipe(), null, 2)], { type: "application/json" }), "color-study-processing.json"); }
   async function share() {
     const url = new URL(window.location.origin + window.location.pathname);
-    if (tab !== "lab") url.hash = tab;
-    else if (photo?.sampleId) {
-      const params = new URLSearchParams({ sample: photo.sampleId, strength: String(settings.targetStd), gain: String(settings.maxGain) });
+    if (tab !== "lab" && tab !== "showcase") url.hash = tab;
+    else if (tab === "lab" && (photo?.sampleId || photo?.communityId)) {
+      const params = new URLSearchParams({ [photo.communityId ? "community" : "sample"]: photo.communityId || photo.sampleId!, strength: String(settings.targetStd), gain: String(settings.maxGain) });
       if (region) params.set("area", region.map(value => value.toFixed(5)).join(","));
       url.hash = params.toString();
     }
-    try { await navigator.clipboard.writeText(url.href); setNotice(photo?.sampleId || tab !== "lab" ? "Link copied. It includes the selected example and settings when sharing the image lab." : "App link copied. Your imported photo is not included."); }
+    if (navigator.share) {
+      try { await navigator.share({title: "Color Study", text: "Look a little closer. Explore surviving paint, try your own photograph, and help grow an open photo collection.", url: url.href}); return; }
+      catch (reason) {if (reason instanceof Error && reason.name === "AbortError") return;}
+    }
+    try { await navigator.clipboard.writeText(url.href); setNotice(photo?.sampleId || photo?.communityId || tab !== "lab" ? "Link copied. Invite someone to explore the photographs or add one of their own." : "App link copied. Your imported photo is not included."); }
     catch { setShareURL(url.href); }
   }
   function saveTargets() {
@@ -221,15 +247,17 @@ export default function ColorStudy() {
 
   return <div className="app-shell">
     <header className="app-header">
-      <button className="brand" onClick={() => switchTab("lab")} aria-label="Color Study image lab"><span className="brand-mark" aria-hidden="true"><i /><i /><i /></span><span>Color Study<small>LOOK A LITTLE CLOSER</small></span></button>
-      <nav aria-label="Main navigation">{[["lab", "Image lab"], ["targets", "Target guide"], ["method", "The technique"]].map(([key, label]) => <button key={key} className={tab === key ? "active" : ""} aria-current={tab === key ? "page" : undefined} onClick={() => switchTab(key)}>{label}{key === "targets" && <span className="nav-count">{targets.length}</span>}</button>)}</nav>
-      <button className="button ghost share-button" onClick={share}>Share app <span aria-hidden="true">&#8599;</span></button>
+      <button className="brand" onClick={() => switchTab("showcase")} aria-label="Color Study home"><span className="brand-mark" aria-hidden="true"><i /><i /><i /></span><span>Color Study<small>LOOK A LITTLE CLOSER</small></span></button>
+      <nav aria-label="Main navigation">{[["showcase", "Discover"], ["lab", "Image lab"], ["community", "Contribute"], ["targets", "Field guide"]].map(([key, label]) => <button key={key} className={tab === key ? "active" : ""} aria-current={tab === key ? "page" : undefined} onClick={() => switchTab(key)}>{label}</button>)}</nav>
+      <div className="header-links"><a className="header-nasa" href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">NASA article ↗</a><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">GitHub ↗</a><button className="button ghost share-button" onClick={share}>Share <span aria-hidden="true">↗</span></button></div>
     </header>
     <input ref={inputRef} type="file" accept=".jpg,.jpeg,.png,.webp,.avif" className="sr-only" tabIndex={-1} aria-label="Choose a photo" onChange={event => { pickFile(event.target.files?.[0]); event.target.value = ""; }} />
     {shareURL && <div className="message share-fallback"><label>Copy this app link<input readOnly value={shareURL} onFocus={event => event.target.select()} /></label><button className="text-button" onClick={() => setShareURL("")}>Close</button></div>}
     {error && <div className="message error" role="alert">{error}<button onClick={() => setError("")} aria-label="Dismiss error">&#215;</button></div>}
     {notice && <div className="message notice" role="status">{notice}<button onClick={() => setNotice("")} aria-label="Dismiss notice">&#215;</button></div>}
     <main>
+      {tab === "showcase" && <Showcase onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
+      {communityOpened && <div hidden={tab !== "community"}><Community onPhoto={openCommunity} onShare={share} /></div>}
       {tab === "lab" && <div className="lab" onDragOver={event => { if (event.dataTransfer.types.includes("Files")) { event.preventDefault(); setDragging(true); } }} onDragLeave={event => { if (!event.currentTarget.contains(event.relatedTarget as Node)) setDragging(false); }} onDrop={event => { event.preventDefault(); setDragging(false); pickFile(event.dataTransfer.files[0]); }}>
         {dragging && <div className="drop-overlay">Drop a photograph to begin.</div>}
         <aside className="sidebar" aria-label="Photo and enhancement controls">
@@ -251,7 +279,7 @@ export default function ColorStudy() {
           <div className="sidebar-bottom"><button className="text-button" disabled={busy} onClick={() => { setSettings(DEFAULTS); setRegion(null); setSelecting(false); setSplit(50); }}>Reset adjustments</button><button className="text-button" disabled={!fit || busy || processing} onClick={saveRecipe}>Save record</button></div>
         </aside>
         <section className="workspace" aria-label="Before and after image comparison">
-          <div className="workspace-heading"><div><p className="eyebrow">{photo?.sampleId ? "FROM THE STUDY COLLECTION" : "YOUR PHOTOGRAPH"}</p><h2>{photo ? photo.sampleId ? labels[photo.sampleId] : photo.name : "Preparing the image lab"}</h2></div><button className="button export-button" onClick={exportImage} disabled={!fit || busy || processing}>{exporting ? `Exporting ${progress}%` : "Export PNG"}<span aria-hidden="true">&#8595;</span></button></div>
+          <div className="workspace-heading"><div><p className="eyebrow">{photo?.communityId ? "FROM THE COMMUNITY COLLECTION" : photo?.sampleId ? "FROM THE STUDY COLLECTION" : "YOUR PHOTOGRAPH"}</p><h2>{photo ? photo.sampleId ? labels[photo.sampleId] : photo.name : "Preparing the image lab"}</h2></div><button className="button export-button" onClick={exportImage} disabled={!fit || busy || processing}>{exporting ? `Exporting ${progress}%` : "Export PNG"}<span aria-hidden="true">&#8595;</span></button></div>
           <div className="viewer-toolbar"><div className="comparison-modes" role="group" aria-label="Comparison mode">{[[100, "Original"], [50, "Compare"], [0, "Enhanced"]].map(([value, label]) => <button key={label} disabled={!after} aria-pressed={split === value} className={split === value ? "selected" : ""} onClick={() => { setSplit(Number(value)); setSelecting(false); }}>{label}</button>)}</div><span className="false-color-badge"><span /> False-color enhancement</span></div>
           <div className="stage" ref={stageRef}>
             {before && <div className="image-frame" ref={frameRef} style={{ width: frameSize.width || "100%", height: frameSize.height || "100%", "--split": `${split}%` } as CSSProperties}>
@@ -265,7 +293,7 @@ export default function ColorStudy() {
             {(loading || processing || exporting) && <div className="processing-status" role="status"><span className="spinner" />{loading ? "Opening original photo..." : exporting ? `Rendering full resolution: ${progress}%` : "Calculating color separation..."}</div>}
           </div>
           <div className="image-footer"><span>{photo ? `${photo.width.toLocaleString()} x ${photo.height.toLocaleString()} source pixels` : "Loading study"}</span><span>{selecting ? "Draw on the image to choose a surface" : "Drag the divider to compare"}</span><span>{photo ? `${(photo.width * photo.height / 1000000).toFixed(1)} MP / native export` : "Native-size export"}</span></div>
-          {photo && <div className="source-caption"><p>{photo.sampleId ? sourceData.find(item => item.id === photo.sampleId)?.notes : "Imported photos are processed locally in this tab. They are not uploaded or included in shared links."}</p><div>{photo.author && <>Photo: {photo.author}<br /><a href={photo.source} target="_blank" rel="noopener noreferrer">Original source</a><span> / </span><a href={photo.licenseURL} target="_blank" rel="noopener noreferrer">{photo.license}</a></>}{photo.sampleId && <><br /><a href={`/${sourceData.find(item => item.id === photo.sampleId)?.original_file}`} download>Download original photo</a><br />Enhancements change color; keep this credit and license with shared images.</>}{!photo.author && "Your original file remains unchanged."}</div></div>}
+          {photo && <div className="source-caption"><p>{photo.notes || "Imported photos are processed locally in this tab. They are not uploaded or included in shared links."}</p><div>{photo.author && <>Photo: {photo.author}<br /><a href={photo.source} target="_blank" rel="noopener noreferrer">Original source</a><span> / </span><a href={photo.licenseURL} target="_blank" rel="noopener noreferrer">{photo.license}</a></>}{photo.originalURL && <><br /><a href={photo.originalURL} download>Download source photo</a><br />Enhancements change color; keep this credit and license with shared images.</>}{!photo.author && "Your original file remains unchanged."}</div></div>}
           {fit && <div className="analysis-foot"><span><i /> {fit.sampleCount.toLocaleString()} color samples</span><span>{(fit.fitClippedFraction * 100).toFixed(1)}% of fitted samples reach a display limit</span>{fit.independentColorAxes < 2 && <span>Limited independent color information</span>}</div>}
         </section>
       </div>}
@@ -274,12 +302,12 @@ export default function ColorStudy() {
         <div className="evidence-key"><p><strong>Documented</strong> Published examples of decorrelation stretch.</p><p><strong>Candidate</strong> Suggested applications based on the material.</p><p><strong>Exploratory</strong> Lower-confidence uses that expose the limits.</p></div>
         <div className="guide-filters"><label className="search-field"><span className="sr-only">Search targets</span><input type="search" placeholder="Search a place, country or material..." value={query} onChange={event => setQuery(event.target.value)} /></label><div className="filter-buttons" role="group" aria-label="Evidence filter">{["All", "Documented", "Candidate", "Exploratory"].map(kind => <button key={kind} className={filter === kind ? "selected" : ""} aria-pressed={filter === kind} onClick={() => setFilter(kind)}>{kind}</button>)}</div></div>
         <p className="results-count" aria-live="polite">{visibleTargets.length} {visibleTargets.length === 1 ? "target" : "targets"}</p>
-        <div className="target-grid">{visibleTargets.map(item => <article className="target-card" key={item.name}><div className="target-card-top"><span className={`evidence-badge ${item.kind.toLowerCase()}`}>{item.kind}</span><span>{item.priority}</span></div><p className="eyebrow">{item.location}</p><h2>{item.name}</h2><p className="material">{item.material}</p><p>{item.why}</p><details><summary>What to photograph</summary><p>{item.photo}</p><p className="target-caveat">{item.caveat}</p></details><div className="target-links"><a href={item.source} target="_blank" rel="noopener noreferrer" title={item.sourceLabel}>Source &amp; evidence <span aria-hidden="true">&#8599;</span></a>{item.sample && <button disabled={busy} onClick={() => { switchTab("lab"); void loadPhoto(sourceData.find(sample => sample.id === item.sample)!); }}>Try study photo <span aria-hidden="true">&#8594;</span></button>}</div></article>)}</div>
+        <div className="target-grid">{visibleTargets.map(item => <article className="target-card" key={item.name}><div className="target-card-top"><span className={`evidence-badge ${item.kind.toLowerCase()}`}>{item.kind}</span><span>{item.priority}</span></div><p className="eyebrow">{item.location}</p><h2>{item.name}</h2><p className="material">{item.material}</p><p>{item.why}</p><details><summary>What to photograph</summary><p>{item.photo}</p><p className="target-caveat">{item.caveat}</p></details><div className="target-links"><a href={item.source} target="_blank" rel="noopener noreferrer" title={item.sourceLabel}>Source &amp; evidence <span aria-hidden="true">&#8599;</span></a>{item.sample && <button disabled={busy} onClick={() => { switchTab("lab", false); void loadPhoto(sourceData.find(sample => sample.id === item.sample)!); }}>Try study photo <span aria-hidden="true">&#8594;</span></button>}</div></article>)}</div>
         {!visibleTargets.length && <p className="empty-results">No matching targets. Try a different place or material.</p>}
         <p className="guide-note">For damaged or overpainted works, compare dated photographs and conservation records. Enhancement alone cannot determine whether a loss was intentional or recover paint hidden by an opaque layer. Candidate ratings are suggestions, not confirmed uses at those sites or claims of undiscovered art. The sources support the site or material description. Use images whose licenses allow modification, and retain their credits when sharing an enhancement.</p>
       </section>}
-      {tab === "method" && <section className="method-page"><p className="eyebrow">THE TECHNIQUE</p><h1>A new view.<br /><em>The same pixels.</em></h1><div className="method-grid"><div><h2>Color carries clues.</h2><p>In many photographs, red, green and blue change together. Their shared brightness variation can hide much smaller differences in color. Decorrelation stretch separates those directions of variation, expands them, and maps the result back into RGB.</p><p>NASA’s <a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images" target="_blank" rel="noopener noreferrer">article about ancient images</a> describes the technique behind DStretch. This app implements its underlying principle independently, using regularized RGB covariance analysis. It does not reproduce DStretch’s custom color spaces.</p></div><div><h2>Make a useful comparison.</h2><ol><li>Open an original color photograph or a study example.</li><li>Adjust color separation gently. The amplification limit helps restrain weak signals.</li><li>Select a surface if unrelated colors dominate the full image.</li><li>Compare against the original and export a PNG with a separate processing record.</li></ol></div><div><h2>What the result means.</h2><p>The output is false color. It may clarify surviving pigment and faded outlines, and can also amplify lighting, surface staining and noise. Reconstructing original appearance requires separate evidence about pigments, conservation and missing areas. It does not identify pigments, date markings, see through walls or recover information absent from the original.</p><p>Grayscale images offer little independent color information. Engravings with no pigment may be better studied with controlled lighting or 3D methods.</p></div><div><h2>Your images stay with you.</h2><p>Imported files are decoded and processed in a browser worker. The app has no photo-upload endpoint and does not store your imported files on a server. Closing the tab clears the working image.</p><p>Previews are reduced for responsiveness. Exports apply the same fitted transform to every source pixel at its decoded native size, up to 64 MP and a 16,000-pixel edge, subject to browser memory. The record includes the file hash, matrix, sample region, settings and source credit.</p></div></div><details className="technical-details"><summary>The calculation and its limits</summary><p>For mean color mu and covariance C = V diag(lambda) V^T, the transform is A = V diag(gain) V^T, with gain = min(limit, strength / sqrt(max(lambda, 4))). Output color is A(x - mu) + (127.5, 127.5, 127.5), clipped and rounded to 8-bit RGB. A two-unit noise floor and the amplification limit regularize weak axes.</p><p>A nearest-neighbor grid with a longest edge of 720 pixels estimates the fitting colors. Nearly transparent pixels, deep shadows and near-clipped channels are excluded from fitting; the fitted transform is applied to the whole image. Display-limit statistics refer to retained fitting samples only. Browser decoding handles orientation and converts the working canvas to sRGB; results can differ slightly from other decoders or DStretch presets.</p><p><a href="https://www.dstretch.com/AlgorithmDescription.html" target="_blank" rel="noopener noreferrer">Read Jon Harman’s algorithm description</a> or <a href="/dcs-core.mjs" target="_blank" rel="noopener">inspect the app’s implementation</a>.</p></details></section>}
+      {tab === "method" && <section className="method-page"><p className="eyebrow">THE TECHNIQUE</p><h1>A new view.<br /><em>The same pixels.</em></h1><div className="method-grid"><div><h2>Color carries clues.</h2><p>In many photographs, red, green and blue change together. Their shared brightness variation can hide much smaller differences in color. Decorrelation stretch separates those directions of variation, expands them, and maps the result back into RGB.</p><p>NASA’s <a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images" target="_blank" rel="noopener noreferrer">article about ancient images</a> describes the technique behind DStretch. This app implements its underlying principle independently, using regularized RGB covariance analysis. It does not reproduce DStretch’s custom color spaces.</p></div><div><h2>Make a useful comparison.</h2><ol><li>Open an original color photograph or a study example.</li><li>Adjust color separation gently. The amplification limit helps restrain weak signals.</li><li>Select a surface if unrelated colors dominate the full image.</li><li>Compare against the original and export a PNG with a separate processing record.</li></ol></div><div><h2>What the result means.</h2><p>The output is false color. It may clarify surviving pigment and faded outlines, and can also amplify lighting, surface staining and noise. Reconstructing original appearance requires separate evidence about pigments, conservation and missing areas. It does not identify pigments, date markings, see through walls or recover information absent from the original.</p><p>Grayscale images offer little independent color information. Engravings with no pigment may be better studied with controlled lighting or 3D methods.</p></div><div><h2>Your images stay with you.</h2><p>In the image lab, imported files are decoded and processed locally in a browser worker. Closing the tab clears the working image. The separate contribution form publishes a JPEG copy only after you choose to share it and agree to its public reuse license.</p><p>Previews are reduced for responsiveness. Exports apply the same fitted transform to every source pixel at its decoded native size, up to 64 MP and a 16,000-pixel edge, subject to browser memory. The record includes the file hash, matrix, sample region, settings and source credit.</p></div></div><details className="technical-details"><summary>The calculation and its limits</summary><p>For mean color mu and covariance C = V diag(lambda) V^T, the transform is A = V diag(gain) V^T, with gain = min(limit, strength / sqrt(max(lambda, 4))). Output color is A(x - mu) + (127.5, 127.5, 127.5), clipped and rounded to 8-bit RGB. A two-unit noise floor and the amplification limit regularize weak axes.</p><p>A nearest-neighbor grid with a longest edge of 720 pixels estimates the fitting colors. Nearly transparent pixels, deep shadows and near-clipped channels are excluded from fitting; the fitted transform is applied to the whole image. Display-limit statistics refer to retained fitting samples only. Browser decoding handles orientation and converts the working canvas to sRGB; results can differ slightly from other decoders or DStretch presets.</p><p><a href="https://www.dstretch.com/AlgorithmDescription.html" target="_blank" rel="noopener noreferrer">Read Jon Harman’s algorithm description</a> or <a href="/dcs-core.mjs" target="_blank" rel="noopener">inspect the app’s implementation</a>.</p></details></section>}
     </main>
-    <footer className="app-footer"><span>Color Study <span className="footer-dot">/</span> A photo-enhancement lab</span><span>Existing pixels. Artificial colors. Careful interpretation.</span><button className="text-button" onClick={() => switchTab("method")}>How it works</button></footer>
+    <footer className="app-footer"><span>Color Study <span className="footer-dot">/</span> Look a little closer.</span><div className="footer-links"><button className="text-button" onClick={() => switchTab("method")}>How it works</button><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">NASA article ↗</a><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Open source on GitHub ↗</a><button className="text-button" onClick={share}>Share the link ↗</button></div></footer>
   </div>;
 }

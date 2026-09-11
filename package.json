@@ -11,12 +11,14 @@
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "test": "npm run build && node --test tests/*.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "test:engine": "node --test tests/engine.test.mjs tests/worker.test.mjs"
+    "test:engine": "node --test tests/engine.test.mjs tests/worker.test.mjs",
+    "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
     "next": "16.2.6",
     "react": "19.2.6",
-    "react-dom": "19.2.6"
+    "react-dom": "19.2.6",
+    "drizzle-orm": "0.45.2"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "1.37.1",
@@ -33,7 +35,9 @@
     "typescript": "5.9.3",
     "vinext": "0.0.50",
     "vite": "8.0.13",
-    "wrangler": "4.92.0"
+    "wrangler": "4.92.0",
+    "drizzle-kit": "0.31.10",
+    "miniflare": "4.20260515.0"
   },
   "type": "module",
   "license": "MIT",

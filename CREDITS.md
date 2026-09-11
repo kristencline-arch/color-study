@@ -1,6 +1,6 @@
 # Image credits
 
-Original photographs are unchanged. Thumbnails are resized derivatives. Enhanced exports change the colors. The images retain the licenses below; the repository MIT license applies to code and original documentation.
+Original photographs are unchanged. Thumbnails and website previews are resized derivatives. The website comparison images also include clearly labelled mathematical color enhancements. Enhanced exports change the colors. The images retain the licenses below; the repository MIT license applies to code and original documentation.
 
 - **Bhimbetka, India** — Bernard Gagnon. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg).
 - **House of the Vettii** — Chappsnet. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg).

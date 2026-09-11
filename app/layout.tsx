@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 import "./globals.css";
+import "./showcase.css";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();
@@ -9,7 +10,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     metadataBase: new URL(origin),
     title: "Color Study | Look a little closer",
-    description: "Explore subtle color with a private, in-browser photo-enhancement lab. Compare images, select surfaces, export full-resolution results, and discover archaeological targets.",
+    description: "Look closer at cave paintings, faded murals and painted marble. Compare real photographs, try the open-source image lab, and contribute to an open photo collection.",
     icons: { icon: "/favicon.png" },
     openGraph: { title: "Color Study", description: "Look a little closer. A photo-enhancement lab.", type: "website", url: origin, images: [{ url: `${origin}/og.png`, width: 1536, height: 1024, alt: "Color Study. Look a little closer. A photo-enhancement lab." }] },
     twitter: { card: "summary_large_image", title: "Color Study", description: "Look a little closer. A photo-enhancement lab.", images: [`${origin}/og.png`] },

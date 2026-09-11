@@ -6,13 +6,28 @@ import { createHash } from 'node:crypto';
 const sources = JSON.parse(await readFile(new URL('../public/sources.json', import.meta.url)));
 const targets = JSON.parse(await readFile(new URL('../public/targets.json', import.meta.url)));
 
-test('production worker renders the image lab and host-specific sharing metadata', async () => {
+test('production worker renders the photographic showcase, public links and sharing metadata', async () => {
   const {default: worker} = await import('../dist/server/index.js');
   const response = await worker.fetch(new Request('https://color-study.example/', {headers: {accept: 'text/html', host: 'color-study.example'}}), {ASSETS: {fetch: async () => new Response('Not found', {status: 404})}}, {waitUntil() {}, passThroughOnException() {}});
   assert.equal(response.status, 200);
   const html = await response.text();
-  for (const label of ['Color Study', 'Open your photo', 'Export PNG', 'Target guide', 'Save record', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
+  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/cueva-hands-original.webp', '/showcase/cueva-hands-enhanced.webp', '/api/dataset', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
   assert.doesNotMatch(html, /Your site is taking shape|Starter Project|codex-preview|react-loading-skeleton/);
+});
+
+test('showcase comparisons retain source hashes, the fitted transform and packaged previews', async () => {
+  const records = JSON.parse(await readFile(new URL('../public/showcase.json', import.meta.url)));
+  assert.equal(records.length, sources.filter(source => source.study_type === 'paint').length);
+  for (const record of records) {
+    assert.equal(record.source_sha256, sources.find(source => source.id === record.id).sha256);
+    assert.equal(record.settings.targetStd, record.fit.target_std_in_8bit_units);
+    assert.equal(record.settings.maxGain, record.fit.max_gain);
+    for (const file of Object.values(record.files)) {
+      const bytes = await readFile(new URL('../public/' + file.path, import.meta.url));
+      assert.equal(createHash('sha256').update(bytes).digest('hex'), file.sha256);
+      await access(new URL('../dist/client/' + file.path, import.meta.url));
+    }
+  }
 });
 
 test('every study has packaged native originals, thumbnails, credit and source links', async () => {

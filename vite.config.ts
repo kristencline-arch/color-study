@@ -20,6 +20,8 @@ export default defineConfig(async () => {
           main: "./worker/index.ts",
           compatibility_date: "2026-09-10",
           compatibility_flags: ["nodejs_compat"],
+          d1_databases: [{binding: "DB", database_name: "color-study-local", database_id: "00000000-0000-4000-8000-000000000000"}],
+          r2_buckets: [{binding: "PHOTOS", bucket_name: "color-study-photos"}],
         },
       }),
     ],
