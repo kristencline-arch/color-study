@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bhimbetka-paintings",
+    "title": "Bhimbetka | rock-shelter paintings",
+    "short_title": "Bhimbetka, India",
+    "study_type": "paint",
+    "location": "India",
+    "material": "Painted rock shelter",
+    "original_file": "originals/bhimbetka-paintings.jpg",
+    "source_title": "Rock Shelter 8, Bhimbetka 03.jpg",
+    "author": "Bernard Gagnon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rock_Shelter_8%2C_Bhimbetka_03.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "photographed": "2013-12-04",
+    "expected_dimensions": [
+      5184,
+      3456
+    ],
+    "focus_box_fraction": [
+      0.2,
+      0.2,
+      0.85,
+      0.87
+    ],
+    "notes": "Red figures and paler traces in Rock Shelter 8. The paint is the subject; adjacent rock provides a comparison. Enhanced color does not date a figure or identify a pigment.",
+    "sha256": "5a96ea8102be999c29f8abc39d38ce0b6878d5369a49a0be3d67961f18b644ca"
+  },
+  {
+    "id": "pompeii-vettii",
+    "title": "Pompeii | faded Cyparissus fresco",
+    "short_title": "House of the Vettii",
+    "study_type": "paint",
+    "location": "Italy",
+    "material": "Faded wall painting",
+    "original_file": "originals/pompeii-vettii.jpg",
+    "source_title": "Fresco depicting the metamorphosis of Cyparissus, House of the Vettii, Pompeii.jpg",
+    "author": "Chappsnet",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Fresco_depicting_the_metamorphosis_of_Cyparissus%2C_House_of_the_Vettii%2C_Pompeii.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "photographed": "2024-05-02 13:07:08",
+    "expected_dimensions": [
+      2766,
+      3688
+    ],
+    "focus_box_fraction": [
+      0.18,
+      0.2,
+      0.81,
+      0.76
+    ],
+    "notes": "A close view of a worn figurative fresco in the House of the Vettii. Pale contours and surviving paint are promising subjects; missing plaster contains no recoverable pixels.",
+    "sha256": "e64f9f49f47060285c07b9e21801d029cef92ce172d25fcbc5ba6a0040c313c2"
+  },
+  {
+    "id": "cappadocia-fresco",
+    "title": "Cappadocia | surviving red painted decoration",
+    "short_title": "Cappadocia, Turkey",
+    "study_type": "paint",
+    "location": "Türkiye",
+    "material": "Medieval painted church surface",
+    "original_file": "originals/cappadocia-fresco.jpg",
+    "source_title": "Fresco at the Dark Church, in Goreme (6).JPG",
+    "author": "José Luiz",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_at_the_Dark_Church,_in_Goreme_(6).JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Fresco_at_the_Dark_Church%2C_in_Goreme_%286%29.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "photographed": "2011-09-18",
+    "expected_dimensions": [
+      3456,
+      2304
+    ],
+    "focus_box_fraction": [
+      0.15,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "notes": "This photograph records worn red painted motifs at Göreme. Fit to the surviving motif and adjacent surface. The source labels it Karanlık Kilise; no cause of pigment loss is inferred from the image.",
+    "sha256": "05fc57e229c603a31d1fd5a308bec163b9a9617af014f73e89500c0752f28e90"
+  },
+  {
+    "id": "marble-sphinx",
+    "title": "Greek marble sphinx | surviving polychromy",
+    "short_title": "Painted marble sphinx",
+    "study_type": "paint",
+    "location": "Greece / The Met",
+    "material": "Polychrome marble sculpture",
+    "original_file": "originals/marble-sphinx.jpg",
+    "source_title": "Marble capital and finial in the form of a sphinx",
+    "author": "The Metropolitan Museum of Art",
+    "source_page": "https://www.metmuseum.org/art/collection/search/248501",
+    "download_url": "https://images.metmuseum.org/CRDImages/gr/original/DP-19517-001.jpg",
+    "license": "CC0 / Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "photographed": "Date not supplied by source",
+    "expected_dimensions": [
+      1893,
+      4000
+    ],
+    "focus_box_fraction": [
+      0.18,
+      0.09,
+      0.77,
+      0.48
+    ],
+    "notes": "The Met documents red, black and blue pigment on this original marble sphinx, ca. 530 BCE. Fit to the wing or face, excluding the gray backdrop. False-color output is not a reconstruction of its original palette.",
+    "sha256": "58a4384548febc601266be28d06065ddeffb5a5ce0d4acf8848916441f09db32"
+  },
+  {
+    "id": "unas-pyramid",
+    "title": "Pyramid of Unas | interior inscriptions",
+    "original_file": "originals/unas-pyramid.jpg",
+    "source_title": "Pyramid Texts in Unas’ Pyramid 2017.jpg",
+    "author": "Aidan McRae Thomson",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "photographed": "2017-10-13",
+    "expected_dimensions": [
+      2560,
+      1920
+    ],
+    "focus_box_fraction": [
+      0.15,
+      0.2,
+      0.85,
+      0.8
+    ],
+    "notes": "The hieroglyphs are already visible in the original. Enhancement explores differences between inscriptions and stone; it does not authenticate pigment or discover new writing.",
+    "short_title": "Pyramid of Unas",
+    "study_type": "paint",
+    "sha256": "d7de00b899214a7fbd570048a895bc10c75c2c99f95b7d9e7cd06e530d22d307"
+  },
+  {
+    "id": "iran-chehel-sotoun",
+    "title": "Chehel Sotoun | palace mural and worn border",
+    "short_title": "Chehel Sotoun, Iran",
+    "study_type": "paint",
+    "location": "Iran",
+    "material": "Historic palace wall painting",
+    "original_file": "originals/iran-chehel-sotoun.jpg",
+    "source_title": "A painting in Chehel Sotoun2.jpg",
+    "author": "Amir Pashaei",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/A_painting_in_Chehel_Sotoun2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "photographed": "2019-09-29",
+    "expected_dimensions": [
+      4108,
+      3604
+    ],
+    "focus_box_fraction": [
+      0.025,
+      0.18,
+      0.19,
+      0.8
+    ],
+    "notes": "A detailed view of the Battle of Karnal mural and visibly worn decorative border. This is a historic palace painting, not a prehistoric example. The central scene is already vivid; try the worn border and keep conservation or later repainting in mind.",
+    "sha256": "a0de27850c92a8327a9685fe2b761df4a5c2f1547eabcb998f0d2ba203d7f0bb"
+  },
+  {
+    "id": "cueva-hands",
+    "title": "Cueva de las Manos | hand stencils",
+    "short_title": "Cueva de las Manos",
+    "study_type": "paint",
+    "location": "Argentina",
+    "material": "Painted hand stencils",
+    "original_file": "originals/cueva-hands.jpg",
+    "source_title": "Cueva de las Manos (6811931046).jpg",
+    "author": "Pablo A. Gimenez from Buenos Aires, Argentina",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cueva_de_las_Manos_(6811931046).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cueva_de_las_Manos_%286811931046%29.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "photographed": "2012-01-17 13:23",
+    "expected_dimensions": [
+      4000,
+      2248
+    ],
+    "focus_box_fraction": [
+      0.1,
+      0.12,
+      0.91,
+      0.89
+    ],
+    "notes": "Overlapping hand stencils in surviving pigments. Compare faint margins with nearby surface; weathering and natural stone colors can also be amplified.",
+    "sha256": "9f8b8b804ad26f72d3b5f3489b3e78c2ecb830415989ae6ec6952488c136171e"
+  },
+  {
+    "id": "pompeii-mysteries",
+    "title": "Pompeii | Villa of the Mysteries fresco",
+    "short_title": "Villa of the Mysteries",
+    "study_type": "paint",
+    "location": "Italy",
+    "material": "Painted plaster",
+    "original_file": "originals/pompeii-mysteries.jpg",
+    "source_title": "Pompeii Ruins Scenes of a Dionysiac Mystery Cult, Villa of the Mysteries Fresco, c. 50 BC (48445609592).jpg",
+    "author": "Gary Todd from Xinzheng, China",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult%2C_Villa_of_the_Mysteries_Fresco%2C_c._50_BC_%2848445609592%29.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "photographed": "2019-08-02 20:22",
+    "expected_dimensions": [
+      6000,
+      4000
+    ],
+    "focus_box_fraction": [
+      0.1,
+      0.15,
+      0.75,
+      0.88
+    ],
+    "notes": "A 24-megapixel color view of the existing painted scene. Use a small surface fit for worn passages; known figures and restoration are not new discoveries.",
+    "sha256": "00f571b66c06213e9e83c4a309e7d579525967e0bb78c01cc496a1d7ce22c510"
+  },
+  {
+    "id": "pompeii-menander",
+    "title": "Pompeii | House of Menander interior",
+    "original_file": "originals/pompeii-menander.jpg",
+    "source_title": "Casa del Menandro, Interior, Pompeii (4979).jpg",
+    "author": "Marco Ober",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Casa_del_Menandro%2C_Interior%2C_Pompeii_%284979%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "photographed": "2020-08-12",
+    "expected_dimensions": [
+      5427,
+      3613
+    ],
+    "focus_box_fraction": [
+      0.86,
+      0.24,
+      1.0,
+      0.66
+    ],
+    "notes": "The focused fit uses the painted/plastered wall at the right. Illumination, aged plaster, existing decoration and prior conservation may all contribute to color differences.",
+    "short_title": "House of Menander",
+    "study_type": "paint",
+    "sha256": "3404fda38c8d32d1cd8dfd184bf27e191c408c62ab713e762af10460ba7e5b19"
+  },
+  {
+    "id": "great-pyramid",
+    "title": "Great Pyramid | interior stonework",
+    "original_file": "originals/great-pyramid.jpg",
+    "source_title": "By ovedc - Interior of the Great Pyramid - 02.jpg",
+    "author": "Ovedc",
+    "source_page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "photographed": "2017-10-05",
+    "expected_dimensions": [
+      2988,
+      5312
+    ],
+    "focus_box_fraction": [
+      0.33,
+      0.26,
+      0.89,
+      0.48
+    ],
+    "notes": "Mixed artificial lighting and mineral or surface variation can dominate the enhanced colors. No new inscription is identified.",
+    "short_title": "Great Pyramid (limits)",
+    "study_type": "limits",
+    "sha256": "aed2477da7e5da668d772af467480e4d997d5606a90ad5785f912507712f170b"
+  },
+  {
+    "id": "titanic-bathroom",
+    "title": "Titanic wreck | Captain Smith's bathroom",
+    "original_file": "originals/titanic-bathroom.jpg",
+    "source_title": "R.M.S. Titanic Bathtub",
+    "author": "Lori Johnston / RMS Titanic Expedition 2003 / NOAA Ocean Exploration",
+    "source_page": "https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/",
+    "download_url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2023/01/multimedia-titanic-bathtub-hires.jpg",
+    "license": "Public domain (NOAA; attribution retained)",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Captain_Smith%27s_bathroom.jpg",
+    "photographed": "Credited to the RMS Titanic Expedition 2003; Commons lists June 2004. Date discrepancy retained.",
+    "expected_dimensions": [
+      2250,
+      2250
+    ],
+    "focus_box_fraction": [
+      0.03,
+      0.16,
+      0.76,
+      0.63
+    ],
+    "notes": "This is NOAA's largest linked download, not an 8K source. Underwater lighting, water absorption, corrosion, JPEG artifacts and dark-region noise limit interpretation.",
+    "short_title": "Titanic (limits)",
+    "study_type": "limits",
+    "sha256": "3f94a0d3d3c63b7a42e7709b3bb8ea9974cd3be90a25a7012887a77e8018684f"
+  }
+]
