@@ -3,7 +3,7 @@
 /* eslint-disable @next/next/no-img-element -- Credited, pre-sized photographic derivatives; no image proxy. */
 import { useState, type CSSProperties } from "react";
 import sources from "../public/sources.json";
-import { NASA_ARTICLE, REPOSITORY } from "./links";
+import { NASA_ARTICLE, REPOSITORY, BUY_ME_A_COFFEE } from "./links";
 
 const demonstrations = [
   {id: "cma-294034", label: "Painted cotton", place: "Chavín-style textile · 800–500 BCE", detail: "A figure, held in the weave.", note: "A painted figure survives on ancient cotton. Compare its faint outlines with the weave and stains. The enhanced colors are a study of the photograph, not its original palette."},
@@ -75,6 +75,6 @@ export default function Showcase({onStudy, onLab, onCommunity, onGuide, onCollec
       <article><p className="eyebrow">THE ORIGINAL STORY</p><h2>From satellites<br /><em>to surviving paint.</em></h2><p>NASA Spinoff tells how decorrelation stretch moved from satellite imagery into archaeology, including the faded paintings of Angkor Wat. That story inspired this independent image lab.</p><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">Read the original NASA article <span aria-hidden="true">↗</span></a></article>
       <article><p className="eyebrow">OPEN SOURCE / OPEN EXPLORATION</p><h2>The files.<br /><em>Yours to explore.</em></h2><p>The engine, website, Python processor and research guide are on GitHub. Download the photographs, inspect how the color changes, or build something of your own.</p><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Browse the GitHub repository <span aria-hidden="true">↗</span></a><a className="dataset-link" href="/api/dataset?download=all">Download the photo database <span aria-hidden="true">↓</span></a></article>
     </section>
-    <section className="share-invitation"><div><p className="eyebrow">A SHARED COLLECTION. A SHARED CURIOSITY.</p><h2>Bring a photograph.<br /><em>Pass it on.</em></h2><p>Have a photograph of a textile or surviving paint? Add it to the open collection with your credit. Know someone who would enjoy looking closer? Send them the link.</p></div><div className="invitation-actions"><button className="button" onClick={onCommunity}>Add your photograph <span aria-hidden="true">+</span></button><button className="button ghost" onClick={onShare}>Share Color Study <span aria-hidden="true">↗</span></button></div></section>
+    <section className="share-invitation"><div><p className="eyebrow">A SHARED COLLECTION. A SHARED CURIOSITY.</p><h2>Bring a photograph.<br /><em>Pass it on.</em></h2><p>Have a photograph of a textile or surviving paint? Add it to the open collection with your credit. Know someone who would enjoy looking closer? Send them the link.</p></div><div className="invitation-actions"><button className="button" onClick={onCommunity}>Add your photograph <span aria-hidden="true">+</span></button><button className="button ghost" onClick={onShare}>Share Color Study <span aria-hidden="true">↗</span></button><a className="button ghost" href={BUY_ME_A_COFFEE} target="_blank" rel="noopener noreferrer">Buy me a coffee <span aria-hidden="true">↗</span></a></div></section>
   </div>;
 }
