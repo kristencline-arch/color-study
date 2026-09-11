@@ -28982,7 +28982,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 518
+    "catalog_order": 518,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-fontein-4",
@@ -29036,7 +29039,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 519
+    "catalog_order": 519,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-fontein-5",
@@ -29090,7 +29096,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 520
+    "catalog_order": 520,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-fontein-6",
@@ -29144,7 +29153,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 3
+    "catalog_order": 3,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-fontein-7",
@@ -29198,7 +29210,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 521
+    "catalog_order": 521,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-maravillas-1",
@@ -29252,7 +29267,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 522
+    "catalog_order": 522,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-maravillas-2",
@@ -29306,7 +29324,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 8
+    "catalog_order": 8,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-pomier-pictograph",
@@ -29359,7 +29380,10 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 523
+    "catalog_order": 523,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-mangaia-poncho",
@@ -29413,7 +29437,10 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 11
+    "catalog_order": 11,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-mangaia-mask",
@@ -29467,7 +29494,10 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 524
+    "catalog_order": 524,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-tonga-ngatu",
@@ -29522,7 +29552,10 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 5
+    "catalog_order": 5,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-ambrym-mask",
@@ -29575,7 +29608,10 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 525
+    "catalog_order": 525,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-malakula-mask",
@@ -29628,7 +29664,10 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 526
+    "catalog_order": 526,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-pedret-01",
@@ -29682,7 +29721,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 527
+    "catalog_order": 527,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-pedret-03",
@@ -29736,7 +29778,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 528
+    "catalog_order": 528,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-pedret-07",
@@ -29790,7 +29835,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 529
+    "catalog_order": 529,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-taull-01",
@@ -29852,7 +29900,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 2
+    "catalog_order": 2,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-taull-03",
@@ -29914,7 +29965,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 530
+    "catalog_order": 530,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-taull-07",
@@ -29976,7 +30030,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 531
+    "catalog_order": 531,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-taull-10",
@@ -30038,7 +30095,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 532
+    "catalog_order": 532,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-tarquinia-banquet",
@@ -30091,7 +30151,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 533
+    "catalog_order": 533,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-tarquinia-dolphins",
@@ -30144,7 +30207,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 534
+    "catalog_order": 534,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-tarquinia-discus",
@@ -30197,7 +30263,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 535
+    "catalog_order": 535,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-tarquinia-chariots",
@@ -30250,7 +30319,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 536
+    "catalog_order": 536,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-akrotiri-fisherman",
@@ -30305,7 +30377,10 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 537
+    "catalog_order": 537,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-akrotiri-spring",
@@ -30360,7 +30435,10 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 7
+    "catalog_order": 7,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-akrotiri-ships-1",
@@ -30415,7 +30493,10 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 538
+    "catalog_order": 538,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-akrotiri-ships-3",
@@ -30470,7 +30551,10 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 539
+    "catalog_order": 539,
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0
   },
   {
     "id": "commons-keldby-3",
@@ -30524,7 +30608,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 540
+    "catalog_order": 540,
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0
   },
   {
     "id": "commons-keldby-6",
@@ -30578,7 +30665,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 541
+    "catalog_order": 541,
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0
   },
   {
     "id": "commons-keldby-8",
@@ -30632,7 +30722,10 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 542
+    "catalog_order": 542,
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0
   },
   {
     "id": "commons-keldby-10",
@@ -30686,6 +30779,9 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 543
+    "catalog_order": 543,
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0
   }
 ]

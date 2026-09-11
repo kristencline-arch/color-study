@@ -75,6 +75,17 @@ def photo_license_evidence(spec, refresh):
             "revision_id": revision, "evidence_url": f"https://commons.wikimedia.org/w/index.php?oldid={revision}"}
 
 
+def validate_original(content, key):
+    # MPO is a JPEG container with auxiliary images. Pillow and the study use
+    # frame zero; preserve every original byte, including the auxiliary image.
+    assert content.startswith(b"\xff\xd8"), f"Expected JPEG original: {key}"
+    with ImageOpen(content) as decoded:
+        assert decoded.format in {"JPEG", "MPO"}, key
+        details = {"encoded_format": decoded.format, "frame_count": getattr(decoded, "n_frames", 1), "study_frame": 0}
+        decoded.verify()
+    return details
+
+
 def main():
     if not __debug__:
         raise RuntimeError("Run without Python -O: import validation must remain enabled.")
@@ -123,11 +134,10 @@ def main():
         path = ROOT / "public/originals" / (key + ".jpg")
         if not path.exists():
             content = fetch(original_url)
-            with ImageOpen(content) as decoded:
-                assert decoded.format == "JPEG", key
-                decoded.verify()
+            validate_original(content, key)
             path.write_bytes(content)
         content = path.read_bytes()
+        image_details = validate_original(content, key)
         digest = hashlib.sha256(content).hexdigest()
         if key in prior:
             assert digest == prior[key]["sha256"], f"Original bytes changed: {key}"
@@ -152,6 +162,7 @@ def main():
                   "encoded_dimensions": encoded_dimensions,
                   "size_bytes": len(content), "sha256": digest,
                   "focus_box_fraction": spec.get("focus_box_fraction", [0.15, 0.15, 0.85, 0.85])}
+        source.update(image_details)
         if photograph_evidence:
             source["rights_evidence"]["photograph_license"] = photograph_evidence
         museum.thumbnail(source)

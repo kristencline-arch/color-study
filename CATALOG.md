@@ -9,7 +9,7 @@ This is a curated starting collection, not a comprehensive inventory of ancient 
 ## Files and licenses
 
 - `public/sources.json` is the complete curated catalog. Stable IDs keep existing study links working.
-- `public/originals/` holds unmodified museum or source JPEGs. The 544 originals total approximately 2,238 MiB. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
+- `public/originals/` holds unmodified museum or source JPEGs. The 544 originals total approximately 2,238 MiB. Four Keldby originals use the JPEG-based MPO container: their auxiliary images are preserved, and the study uses the first image (`study_frame: 0`). The importer validates cached files as well as new downloads. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
 - `public/thumbnails/` contains resized, orientation-corrected sRGB derivatives. Original bytes are unchanged.
 - `data/museum-selection.json` records the explicit selection, categories and study guidance.
 - `data/museum-records/` contains museum API snapshots, including image-rights flags, dates and accession numbers. Chicago image-service snapshots retain the advertised native dimensions.

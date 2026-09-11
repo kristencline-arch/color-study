@@ -67,7 +67,10 @@ for source in json.loads((root / 'public/sources.json').read_text()):
     if not source['id'].startswith('commons-'):
         continue
     with Image.open(root / 'public' / source['original_file']) as image:
-        assert image.format == 'JPEG', source['id']
+        assert image.format in ('JPEG', 'MPO'), source['id']
+        if image.format == 'MPO':
+            assert source['encoded_format'] == 'MPO' and source['frame_count'] == image.n_frames
+            assert source['study_frame'] == image.tell() == 0
         assert list(image.size) == source['encoded_dimensions'], source['id']
         displayed = ImageOps.exif_transpose(image)
         assert list(displayed.size) == source['expected_dimensions'], source['id']
@@ -82,4 +85,22 @@ print(json.dumps(dict(count=count, rotated=rotated)))
   const value = JSON.parse(result);
   assert.equal(value.count, selection.length);
   assert.ok(value.rotated > 0, 'exercise original images with a rotated EXIF orientation');
+});
+
+test('downloaded and cached originals accept native JPEG containers and reject other image formats', () => {
+  execFileSync('python3', ['-c', `
+import importlib.util
+from pathlib import Path
+module = importlib.util.spec_from_file_location('commons', Path('scripts/import-commons.py'))
+commons = importlib.util.module_from_spec(module)
+module.loader.exec_module(commons)
+for filename, expected in [('commons-fontein-6.jpg', 'JPEG'), ('commons-keldby-3.jpg', 'MPO')]:
+    data = Path('public/originals', filename).read_bytes()
+    result = commons.validate_original(data, filename)
+    assert result['encoded_format'] == expected and result['study_frame'] == 0
+    assert result['frame_count'] >= 1
+try: commons.validate_original(Path('public/og.png').read_bytes(), 'mislabeled.jpg')
+except AssertionError: pass
+else: raise AssertionError('Accepted a PNG with a JPEG filename')
+`], {cwd: new URL('../', import.meta.url), encoding: 'utf8', timeout: 10000});
 });
