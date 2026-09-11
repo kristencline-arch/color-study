@@ -1,0 +1,411 @@
+{
+  "id": 163082,
+  "accession_number": "2003.90",
+  "share_license_status": "CC0",
+  "tombstone": "Woman's overskirt (ncaka), late 1800s–early 1900s. Africa, Democratic Republic of the Congo, Kuba makers. Raffia, cloth, thread, and dye; overall: 413.2 x 63.6 cm (162 11/16 x 25 1/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2003.90",
+  "current_location": null,
+  "title": "Woman's overskirt (ncaka)",
+  "creation_date": "late 1800s–early 1900s",
+  "creation_date_earliest": 1895,
+  "creation_date_latest": 1905,
+  "artists_tags": [],
+  "culture": [
+    "Africa, Democratic Republic of the Congo, Kuba makers"
+  ],
+  "technique": "Raffia, cloth, thread, and dye",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Garment",
+  "measurements": "Overall: 413.2 x 63.6 cm (162 11/16 x 25 1/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 4.132,
+      "height_inch": 162,
+      "height_inch_fraction": 0.6875,
+      "width": 0.636,
+      "width_inch": 25,
+      "width_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 232668,
+        "title": "Kuba Textiles: Geometry in Form, Space, and Time",
+        "description": "<i>Kuba Textiles: Geometry in Form, Space, and Time</i>. Neuberger Museum of Art, Purchase, NY (organizer) (March 1-June 14, 2015).",
+        "opening_date": "2015-03-01T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "African Gallery textile rotation. The Cleveland Museum of Art, Cleveland, OH (August 5, 2004-September 8, 2005).",
+        "opening_date": "2004-08-05T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Dr. Austin Newton, Princeton University; Pierre Loos, Brussels, mid 1980s; [Andres Moraga, 2003]",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79988551"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2003.90-woman-s-overskirt-nc"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Brincard, Marie-Thérèse, and Patricia Darish. Kuba Textiles: Geometry in Form, Space, and Time. 2015.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Moraga, Vanessa Drake. \"Patterns of Change.\" HALI; the international journal of Oriental carpets and textiles 184 (Summer 2015): 70-77.",
+      "page_number": "76",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2003.90",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_web.jpg",
+      "width": "1263",
+      "height": "223",
+      "filesize": "199383",
+      "filename": "2003.90_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_print.jpg",
+      "width": "3400",
+      "height": "599",
+      "filesize": "1449443",
+      "filename": "2003.90_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_full.tif",
+      "width": "5000",
+      "height": "881",
+      "filesize": "13225440",
+      "filename": "2003.90_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt0_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "782348"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt0_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7637239"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt0_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35116824"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt1_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "735841"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt1_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7571856"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt1_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114976"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt2_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "738496"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt2_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7614324"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt2_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114932"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt3_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "759982"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt3_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7574577"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt3_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35117252"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt4_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "735475"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt4_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7558640"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt4_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35115420"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt5_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "906711"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt5_print.jpg",
+        "width": "3072",
+        "height": "2048",
+        "filesize": "6061504"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt5_full.tif",
+        "width": "3072",
+        "height": "2048",
+        "filesize": "18893980"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt6_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "475355"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt6_print.jpg",
+        "width": "2048",
+        "height": "3072",
+        "filesize": "6231751"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt6_full.tif",
+        "width": "2048",
+        "height": "3072",
+        "filesize": "18893484"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt7_web.jpg",
+        "width": "1263",
+        "height": "221",
+        "filesize": "177147"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt7_print.jpg",
+        "width": "3400",
+        "height": "596",
+        "filesize": "1323973"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt7_full.tif",
+        "width": "5000",
+        "height": "876",
+        "filesize": "13149856"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt8_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "712849"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt8_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7398629"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt8_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114984"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt9_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "703340"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt9_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7416419"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt9_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114056"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt10_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "707658"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt10_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7449294"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt10_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114272"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt11_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "706014"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt11_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7430471"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt11_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114340"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt12_web.jpg",
+        "width": "1161",
+        "height": "893",
+        "filesize": "714957"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt12_print.jpg",
+        "width": "3400",
+        "height": "2615",
+        "filesize": "7485237"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.90/2003.90_alt12_full.tif",
+        "width": "3900",
+        "height": "3000",
+        "filesize": "35114864"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 163082,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2003-09-02T00:00:00",
+  "sortable_date": 1895,
+  "date_added_to_oa": null,
+  "date_text": "late 1800s–early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:28:51.832000"
+}

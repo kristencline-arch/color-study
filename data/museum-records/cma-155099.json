@@ -1,0 +1,225 @@
+{
+  "id": 155099,
+  "accession_number": "1989.89",
+  "share_license_status": "CC0",
+  "tombstone": "Totem Pole, c. 1880. Northwest Coast, Tlingit, 19th century. Carved and painted wood; overall: 189.2 x 8.8 cm (74 1/2 x 3 7/16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1989.89",
+  "current_location": null,
+  "title": "Totem Pole",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": 1875,
+  "creation_date_latest": 1885,
+  "artists_tags": [],
+  "culture": [
+    "Northwest Coast, Tlingit, 19th century"
+  ],
+  "technique": "carved and painted wood",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Native North America",
+  "type": "Sculpture",
+  "measurements": "Overall: 189.2 x 8.8 cm (74 1/2 x 3 7/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.892,
+      "height_inch": 74,
+      "height_inch_fraction": 0.5,
+      "width": 0.088,
+      "width_inch": 3,
+      "width_inch_fraction": 0.4375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 310333,
+        "title": "The Year in Review for 1989",
+        "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+        "opening_date": "1990-02-06T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA 1990:  \"Year in Review:  Selections 1989,\" Bull., 77 (Feb. 1990) p. 77, no. 203, repr.",
+        "opening_date": "1990-02-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Dr. Wallace A. Martin",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Native American villages of the Pacific Northwest were marked by great totem poles that proclaimed the rank and ancestry of their owners. This small model pole was once owned by a Tlingit storyteller, a member of the coho salmon clan, of the raven tribe. Because the pole has been stored indoors, its carving and bright, original colors are undamaged by the elements. Reportedly, this totem pole illustrates several stories. Kushda-Kaw, the land-otter, is the pole's lowermost figure; above him is his wife. The wife transforms herself into an owl (the third figure from the bottom) and flies into the trees to keep watch. Kushda-Kaw then lies in wait to frighten and harass unwary passers-by. Above the owl is a finback whale carrying a friend out to sea for fishing. Near the top of the pole is a whale with red lips who has swallowed his enemy, the raven. The tiny figure at the pole's summit is a spirit-woman, the raven's lover. She will cut the whale open to rescue him.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79943132"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1989.89-totem-pole"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "E. H. T. “The Year in Review: Selections 1989.” <em>The Bulletin of the Cleveland Museum of Art</em> 77, no. 2 (February 1990): 38–78.",
+      "page_number": "Mentioned and reproduced: p. 77, no. 203",
+      "url": "http://www.jstor.org/stable/25160106http://www.jstor.org/stable/25160106"
+    },
+    {
+      "citation": "Fortenberry, Diane, ed.<em> The Art Museum.</em> London; New York: Phaidon Press, 2017.",
+      "page_number": "Reproduced: P. 228, no. 1",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1989.89",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_web.jpg",
+      "width": "109",
+      "height": "893",
+      "filesize": "90547",
+      "filename": "1989.89_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_print.jpg",
+      "width": "414",
+      "height": "3400",
+      "filesize": "1182718",
+      "filename": "1989.89_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_full.tif",
+      "width": "1828",
+      "height": "15000",
+      "filesize": "82337820",
+      "filename": "1989.89_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt0_web.jpg",
+        "width": "613",
+        "height": "893",
+        "filesize": "188164"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt0_print.jpg",
+        "width": "2335",
+        "height": "3400",
+        "filesize": "4419657"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt0_full.tif",
+        "width": "4537",
+        "height": "6605",
+        "filesize": "89975500"
+      },
+      "date_created": "2011-02-01T16:23:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt1_web.jpg",
+        "width": "627",
+        "height": "900",
+        "filesize": ""
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt1_print.jpg",
+        "width": "2369",
+        "height": "3400",
+        "filesize": ""
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt1_full.tif",
+        "width": "4563",
+        "height": "6548",
+        "filesize": ""
+      },
+      "date_created": "2011-02-01T19:22:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt2_web.jpg",
+        "width": "304",
+        "height": "893",
+        "filesize": "238627"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt2_print.jpg",
+        "width": "1159",
+        "height": "3400",
+        "filesize": "2701586"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt2_full.tif",
+        "width": "3069",
+        "height": "9000",
+        "filesize": "82902136"
+      },
+      "date_created": "2008-02-12T19:08:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt3_web.jpg",
+        "width": "312",
+        "height": "893",
+        "filesize": "164505"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt3_print.jpg",
+        "width": "715",
+        "height": "2048",
+        "filesize": "884485"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.89/1989.89_alt3_full.tif",
+        "width": "715",
+        "height": "2048",
+        "filesize": "4394636"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Andrew R. and Martha Holden Jennings Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 155099,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1989-12-04T00:00:00",
+  "sortable_date": 1875,
+  "date_added_to_oa": null,
+  "date_text": "c. 1880",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:01:49.422000"
+}

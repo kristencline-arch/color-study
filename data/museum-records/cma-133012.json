@@ -1,0 +1,431 @@
+{
+  "id": 133012,
+  "accession_number": "1955.44",
+  "share_license_status": "CC0",
+  "tombstone": "The White Path Between Two Rivers (二河白道図), 1200s. Japan, Kamakura period (1185–1333). Hanging scroll; ink, color, gold, silver, and cut gold on silk; painting: 124.7 x 50.8 cm (49 1/8 x 20 in.); mounted: 215.1 x 67.7 cm (84 11/16 x 26 5/8 in.). The Cleveland Museum of Art, Gift of The Norweb Foundation, 1955.44",
+  "current_location": "235B Japanese",
+  "title": "The White Path Between Two Rivers",
+  "title_in_original_language": "二河白道図",
+  "creation_date": "1200s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1299,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Kamakura period (1185–1333)"
+  ],
+  "technique": "hanging scroll; ink, color, gold, silver, and cut gold on silk",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "ASIAN - Hanging scroll",
+  "type": "Painting",
+  "measurements": "Painting: 124.7 x 50.8 cm (49 1/8 x 20 in.); Mounted: 215.1 x 67.7 cm (84 11/16 x 26 5/8 in.)",
+  "dimensions": {
+    "painting": {
+      "height": 1.247,
+      "height_inch": 49,
+      "height_inch_fraction": 0.125,
+      "width": 0.508,
+      "width_inch": 20,
+      "width_inch_fraction": 0.0
+    },
+    "mounted": {
+      "height": 2.151,
+      "height_inch": 84,
+      "height_inch_fraction": 0.6875,
+      "width": 0.677,
+      "width_inch": 26,
+      "width_inch_fraction": 0.625
+    },
+    "mounted with knobs": {
+      "height": 2.151,
+      "height_inch": 84,
+      "height_inch_fraction": 0.6875,
+      "width": 0.733,
+      "width_inch": 28,
+      "width_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "inscription of four characters at lower right with names Jō-shin and Kyō-shin.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": 1
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302033,
+        "title": "Japanese Decorative Style",
+        "description": "<i>Japanese Decorative Style</i>. The Cleveland Museum of Art (August 30-October 15, 1961); The Art Institute of Chicago, Chicago, IL (November 9-December 17, 1961).",
+        "opening_date": "1961-08-30T04:00:00"
+      },
+      {
+        "id": 442415,
+        "title": "Journey of the Three Jewels: Japanese Buddhist Paintings in Western Collections",
+        "description": "<i>Journey of the Three Jewels: Japanese Buddhist Paintings in Western Collections</i>. Asia House Galleries, New York City, NY (organizer) (October 11-December 9, 1979); Denver Art Museum, Denver, CO (March 27-May 11, 1980).",
+        "opening_date": "1979-10-11T04:00:00"
+      },
+      {
+        "id": 615873,
+        "title": "One Thousand Years of Japanese Art [Japan House, New York]",
+        "description": "<i>One Thousand Years of Japanese Art [Japan House, New York]</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-May 1, 1981).",
+        "opening_date": "1981-03-01T00:00:00"
+      },
+      {
+        "id": 309646,
+        "title": "Reflections of Reality in Japanese Art",
+        "description": "<i>Reflections of Reality in Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 16-May 1, 1983).",
+        "opening_date": "1983-03-16T04:00:00"
+      },
+      {
+        "id": 310042,
+        "title": "Images of the Mind",
+        "description": "<i>Images of the Mind</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 7-August 30, 1987).",
+        "opening_date": "1987-07-07T04:00:00"
+      },
+      {
+        "id": 211775,
+        "title": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+        "description": "<i>Highlights of Asian Paintings from The Cleveland Museum of Art</i>. Nara National Museum (organizer) (February 21-March 29, 1998); Suntory Museum of Art (April 28-June 21, 1998).",
+        "opening_date": "1998-02-21T00:00:00"
+      },
+      {
+        "id": 214158,
+        "title": "The Cooperative Program of the Conservation of Japanese Art Objects in the Collection of the Cleveland Museum of Art",
+        "description": "<i>The Cooperative Program of the Conservation of Japanese Art Objects in the Collection of the Cleveland Museum of Art</i>. Tokyo National Research Institute of Cultural Properties (organizer).",
+        "opening_date": "2001-05-24T00:00:00"
+      },
+      {
+        "id": 196054,
+        "title": "Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art",
+        "description": "<i>Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 27-August 23, 2009).",
+        "opening_date": "2009-06-27T04:00:00"
+      },
+      {
+        "id": 202129,
+        "title": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+        "description": "<i>Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art</i>. Tokyo National Museum, Tokyo, Japan (January 15-February 23, 2014); Kyushu National Museum, Fukuoka, Japan (July 8-August 31, 2014).",
+        "opening_date": "2014-01-15T00:00:00"
+      },
+      {
+        "id": 284248,
+        "title": "Heaven and Hell: Salvation and Retribution in Pure Land Buddhism",
+        "description": "<i>Heaven and Hell: Salvation and Retribution in Pure Land Buddhism</i>. San Antonio Museum of Art, San Antonio, TX (organizer) (June 16-September 10, 2017).",
+        "opening_date": "2017-06-16T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 119)</em>. The Cleveland Museum of Art, Cleveland, OH (March 12-July 16, 2003).",
+        "opening_date": "2003-03-12T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Howard Hollis and Co., Cleveland, OH, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1955",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1955–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The Six Realms of Transmigration are the: heavenly realm, hells, human realm, animal realm, realm of hungry ghosts, and realm of fierce beings.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This painting is a visual presentation of a teaching ascribed to the Chinese Buddhist monk Shandao (善導) (613–681). It describes a challenging journey to the land of the Buddha Amida along a narrow path between a river of fire and a river of water. The story is about escaping the six paths of reincarnation—the heavens and hells, as well as the realms of humans, animals, hungry ghosts, and fierce beings. The Buddha Amida appears at the top in his Pure Land, or Western Paradise.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60516934"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1955.44-the-white-path-betwe"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 910",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n160"
+    },
+    {
+      "citation": "Lee, Sherman E. <em>Japanese Decorative Style</em>. [Cleveland]: Cleveland Museum of Art, 1961.",
+      "page_number": "Mentioned and Reproduced: pp. 19–20; cat. no. 19",
+      "url": "https://archive.org/details/JapaneseDecorativeStyle/page/n35"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 276",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n300"
+    },
+    {
+      "citation": "Mayuyama, Junkichi 繭山順吉, ed. <em>Japanese Art in the West</em>. Tokyo: Mayuyama &amp; Co., 1966.",
+      "page_number": "Mentioned: p. 345; Reproduced: p. 79, pl. 91",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 276",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n300"
+    },
+    {
+      "citation": "Shūjirō Shimada 島田修二郎. <em>Zaigai hihō: Ōbei shūzō nihon kaiga shūsei </em>在外秘宝 : 欧米收蔵日本絵画集成 [Japanese Paintings in Western Collections]. Tōkyō: Gakushū Kenkyūsha, 1969.",
+      "page_number": "Mentioned: vol. 2, pt. 1, p. 39; Reproduced: vol. 2, pt. 2, pl. 25",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 374",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n394"
+    },
+    {
+      "citation": "Rosenfield, John M. and Elizabeth Ten Grotenhuis. <em>Journey of the Three Jewels: Japanese Buddhist Paintings from Western Collections</em>. New York: Asia Society, 1979.",
+      "page_number": "no. 37",
+      "url": ""
+    },
+    {
+      "citation": "Hamada, Takashi 濱田隆 et al. <em>Zaigai bijutsu: Kaiga </em>在外美術 : 絵画.  Tōkyō: Shōgakkan, 1980.",
+      "page_number": "Reproduced: vol 27, color pl. 15",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E., Michael R. Cunningham, and Ursula Korneitchouk. <em>One Thousand Years of Japanese Art (650-1650): From the Cleveland Museum of Art: Catalogue</em>. New York: Japan Society, 1981.",
+      "page_number": "Mentioned and Reproduced: pp. 34–35, no. 14",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Images of the Mind.</em> Cleveland, OH: The Cleveland Museum of Art, 1987.",
+      "page_number": "Reproduced: [p. 21]",
+      "url": ""
+    },
+    {
+      "citation": "Grotennuis, Elizabeth Ten. \"Visions of a Transcendent Realm: Pure Land Images in the Cleveland Museum of Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 7 (1991): 274–300.",
+      "page_number": "Mentioned and Reproduced: pp. 292–297",
+      "url": "https://www.jstor.org/stable/25161334"
+    },
+    {
+      "citation": "Yamane, Yūzō 山根有三, Takashi Hamada 濱田隆, et al. <em>Zaigai bijutsu</em> [在外美術 = Selections of Japanese Art from Western Collections]. Tōkyō: Shōgakukan, 1994.",
+      "page_number": "Mentioned: pp. 23 and 242, no. 15",
+      "url": null
+    },
+    {
+      "citation": "Aoyagi, Masanori 青柳正規. <em>Nihon bijutsukan</em> [日本美術館 = The art museum of Japan. Tōkyō: Shōgakkan, 1997.",
+      "page_number": "Reproduced: p. 365",
+      "url": null
+    },
+    {
+      "citation": "<em>Tōyō kaiga no seika: tokubetsuten: Kurīvurando Bijutsukan no korekushon kara</em> [東洋絵画の精華 : 特别展 : クリーヴラント美術館のコレクションから = Highlights of Asian painting from the Cleveland Museum of Art]. Japan: Nara National Museum, 1998.",
+      "page_number": "Reproduced: p. 90, cat. no. 57",
+      "url": null
+    },
+    {
+      "citation": "Finkel, Irving L., and Colin Mackenzie. <em>Asian Games: The Art of Contest</em>. [New York]: Asia Society, 2004.",
+      "page_number": "Reproduced: p. 80, fig. 6:3",
+      "url": null
+    },
+    {
+      "citation": "Grossman, Nancy, James T. Ulak, Marjorie Williams, and Laurence Channing.<em> Art of Japan: Masterpieces from the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2005.",
+      "page_number": "Mentioned and Reproduced: p. 42",
+      "url": null
+    },
+    {
+      "citation": "Szostak, John D. “Two Paths to the Pure Land: The Niga-Byakudō Theme and the Modernist Buddhist Art of Hada Teruo.” <em>Archives of Asian Art</em>, vol. 57, 2007, pp. 121–150.",
+      "page_number": "Reproduced:  p. 123, fig. 2",
+      "url": "https://www.jstor.org/stable/20111349"
+    },
+    {
+      "citation": "Ulak, James T. \"The Alchemy of Selection: Lee and the Japanese Collection,\" <em>Orientations </em>vol. 40, no. 5 (June 2009), pp. 41–47.",
+      "page_number": "Reproduced: p. 43, fig. 4",
+      "url": null
+    },
+    {
+      "citation": "<em>Admired from afar: masterworks of Japanese painting from the Cleveland Museum of Art</em> [クリーブランド美術館展 : 名画でたどる日本の美 Kurīburando Bijutsukan ten: meiga de tadoru Nihon no bi ]. Tokyo: Tōkyō Kokuritsu Hakubutsukan, 2014.",
+      "page_number": "Reproduced: cat. no. 5, pp. 32–34",
+      "url": null
+    },
+    {
+      "citation": "Sano, Emily J., Randall Laird Nadeau, and Alison J. Miller. <em>Heaven and Hell: Salvation and Retribution in Pure Land Buddhism.</em> San Antonio, TX: San Antonio Museum of Art, 2017.",
+      "page_number": "Reproduced: p. 112, pl. 59",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1955.44",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_web.jpg",
+      "width": "342",
+      "height": "893",
+      "filesize": "263652",
+      "filename": "1955.44_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_print.jpg",
+      "width": "1302",
+      "height": "3400",
+      "filesize": "3799382",
+      "filename": "1955.44_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_full.tif",
+      "width": "3790",
+      "height": "9900",
+      "filesize": "112584064",
+      "filename": "1955.44_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt0_web.jpg",
+        "width": "301",
+        "height": "893",
+        "filesize": "223191"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt0_print.jpg",
+        "width": "1146",
+        "height": "3400",
+        "filesize": "3396836"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt0_full.tif",
+        "width": "1582",
+        "height": "4692",
+        "filesize": "22289304"
+      },
+      "date_created": "2009-11-12T20:00:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt1_web.jpg",
+        "width": "705",
+        "height": "893",
+        "filesize": "550111"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt1_print.jpg",
+        "width": "2686",
+        "height": "3400",
+        "filesize": "7875446"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt1_full.tif",
+        "width": "3768",
+        "height": "4770",
+        "filesize": "53941152"
+      },
+      "date_created": "2009-11-12T20:00:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt2_web.jpg",
+        "width": "753",
+        "height": "893",
+        "filesize": "546435"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt2_print.jpg",
+        "width": "2867",
+        "height": "3400",
+        "filesize": "7972054"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt2_full.tif",
+        "width": "3903",
+        "height": "4628",
+        "filesize": "54210324"
+      },
+      "date_created": "2009-11-12T20:00:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt3_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "946166"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt3_print.jpg",
+        "width": "3400",
+        "height": "2267",
+        "filesize": "7358102"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt3_full.tif",
+        "width": "6144",
+        "height": "4096",
+        "filesize": "75518544"
+      },
+      "date_created": "2009-11-12T20:00:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt4_web.jpg",
+        "width": "344",
+        "height": "893",
+        "filesize": "48709"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt4_print.jpg",
+        "width": "790",
+        "height": "2048",
+        "filesize": "275962"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.44/1955.44_alt4_full.tif",
+        "width": "790",
+        "height": "2048",
+        "filesize": "282956"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of The Norweb Foundation",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 133012,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1955-03-10T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "1200s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Niga Byakudo: The White Path to the Western Paradise across Two Rivers",
+    "Nika Byakudo: The White Path to the Western Paradise Across Two Rivers",
+    "The White Path to the Western Paradise across Two Rivers (Niga Byakudō)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-18 11:14:35.129000"
+}

@@ -43,10 +43,10 @@ test('material, region, date and multiword search combine without treating SQL o
   for (const query of ["' OR 1=1 --", '_', 'DROP TABLE catalog_photos']) {
     assert.equal((await page('/api/catalog?q=' + encodeURIComponent(query))).total, 0);
   }
-  // Two radiocarbon date labels actually contain "95% probability". A percent
-  // sign must match those literal records rather than act as a SQL wildcard.
+  // Four radiocarbon date labels contain a literal percent sign. It must match
+  // those records rather than act as a SQL wildcard.
   const percent = await page('/api/catalog?q=%25&download=all');
-  assert.deepEqual(new Set(percent.photos.map(photo => photo.id)), new Set(['cma-165257', 'met-444355']));
+  assert.deepEqual(new Set(percent.photos.map(photo => photo.id)), new Set(['cma-165257', 'met-444355', 'cma-119693', 'cma-163708']));
   assert.equal((await page('/api/catalog?before=500&download=all')).total, sources.filter(source => source.year_end !== null && source.year_end < 500).length);
   const counts = Object.fromEntries(textiles.filters.category.map(item => [item.value, item.count]));
   assert.equal(counts.Textiles, textiles.total);

@@ -1,0 +1,152 @@
+{
+  "id": 145730,
+  "accession_number": "1971.127.b",
+  "share_license_status": "CC0",
+  "tombstone": "Monk Holding a Flower Venerated by a Lay Disciple: Folio 141 (verso), from a Kalpa-sutra and Story of Kalakacharya, 1287. Devachandra (Indian). Gum tempera and ink on palm leaf; overall: 5.6 x 33 cm (2 3/16 x 13 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.127.b",
+  "current_location": null,
+  "title": "Monk Holding a Flower Venerated by a Lay Disciple: Folio 141 (verso), from a Kalpa-sutra and Story of Kalakacharya",
+  "creation_date": "1287",
+  "creation_date_earliest": 1286,
+  "creation_date_latest": 1288,
+  "artists_tags": [
+    "gender unknown"
+  ],
+  "culture": [
+    "Western India, Gujarat"
+  ],
+  "technique": "Gum tempera and ink on palm leaf",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Painting",
+  "measurements": "Overall: 5.6 x 33 cm (2 3/16 x 13 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.056,
+      "height_inch": 2,
+      "height_inch_fraction": 0.1875,
+      "width": 0.33,
+      "width_inch": 13,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1971.127",
+    "1971.118.8.b"
+  ],
+  "did_you_know": "The colophon begins on this page; the next page contains the date when the manuscript was written.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Palm leaf was the preferred material for sacred texts before the 1400s in India. The text here was often appended to the Kalpa-sutra, the most sacred book of Jainism. This story concerns the life of a Jain teacher named Kalaka, a prince who developed the ability to work magic after he become a monk, inspired by the teachings of a holy man.<br><br>The painting on this page shows a monk clad in white, indicating his affiliation with the Shvetambara (“white clad”) branch of Jainism. It is the second to the last page of the manuscript and includes the beginning of the colophon, which contains information about when and where this manuscript was produced.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60471577",
+      "https://www.wikidata.org/wiki/Q117054241"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.118.8.b-jain-monk-holding-a",
+      "https://archive.org/details/clevelandart-1971.127.b-monk-holding-a-flowe"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1971.127.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_web.jpg",
+      "width": "900",
+      "height": "197",
+      "filesize": "175924",
+      "filename": "1971.127.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_print.jpg",
+      "width": "3400",
+      "height": "744",
+      "filesize": "952907",
+      "filename": "1971.127.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_full.tif",
+      "width": "8586",
+      "height": "1878",
+      "filesize": "48410688",
+      "filename": "1971.127.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_alt0_web.jpg",
+        "width": "900",
+        "height": "179",
+        "filesize": "164391"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_alt0_print.jpg",
+        "width": "3400",
+        "height": "675",
+        "filesize": "795000"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.127.b/1971.127.b_alt0_full.tif",
+        "width": "7316",
+        "height": "1452",
+        "filesize": "31897348"
+      },
+      "date_created": "2014-03-14T14:00:29",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145730,
+  "creators": [
+    {
+      "id": 64988,
+      "description": "Devachandra (Indian)",
+      "extent": null,
+      "qualifier": null,
+      "role": "book authored by",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1971-09-08T00:00:00",
+  "sortable_date": 1286,
+  "date_added_to_oa": null,
+  "date_text": "1287",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1971.127",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Jain Monk with a Layman; Page from a Kalpa Sutra",
+    "Leaf from a Jain Manuscript: The Story of Kalakacharya: Colophon Page, Monk Holding a Flower Venerated by a Royal Follower (verso)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:28:39.208000"
+}

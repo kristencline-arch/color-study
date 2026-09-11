@@ -1,0 +1,124 @@
+{
+  "id": 680888,
+  "accession_number": "1945.172.15.b",
+  "share_license_status": "CC0",
+  "tombstone": "Text and illumination, folio 15 (verso) from a Kammavacha: Buddhist ordination text, 1800s. Myanmar (Burma). Leaf: lacquer and gilding on cloth; leaf: 12.8 x 56.1 cm (5 1/16 x 22 1/16 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1945.172.15.b",
+  "current_location": null,
+  "title": "Text and illumination, folio 15 (verso) from a Kammavacha: Buddhist ordination text",
+  "creation_date": "1800s",
+  "creation_date_earliest": 1800,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Myanmar (Burma)"
+  ],
+  "technique": "Leaf: lacquer and gilding on cloth",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Burmese Art",
+  "type": "Manuscript",
+  "measurements": "Leaf: 12.8 x 56.1 cm (5 1/16 x 22 1/16 in.)",
+  "dimensions": {
+    "leaf": {
+      "height": 0.128,
+      "height_inch": 5,
+      "height_inch_fraction": 0.0625,
+      "width": 0.561,
+      "width_inch": 22,
+      "width_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Grace M. Beaven [1889–1982], Cleveland Heights, OH, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1945",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1945–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The Pali text of this manuscript is written in Burmese square script, which is also known as \"tamarind seed script.\"",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In premodern Burma, lay people commissioned lavishly ornamented manuscripts for ceremonial occasions, when officiants would read aloud from the text. Written in black lacquer, the text is in the language of Pali written in a Burmese script. It contains ordination rites and procedures for monastic ceremonies.<br> <br>The second to last page is covered with intricately drawn, winged celestial beings (<em>nats</em>) in gestures of praise. They fly amid intertwining vegetation—denoting bounty—that grows from serpentine forms that refer to rain clouds. Lionlike forms inhabit the space with them. The top and bottom covers are equally ornamented with jeweled floral patterning.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q127783970"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1945.172.15.b-text-and-illuminatio"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1945.172.15.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1945.172.15.b/1945.172.15.b_web.jpg",
+      "width": "900",
+      "height": "243",
+      "filesize": "177381",
+      "filename": "1945.172.15.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1945.172.15.b/1945.172.15.b_print.jpg",
+      "width": "3400",
+      "height": "919",
+      "filesize": "1656704",
+      "filename": "1945.172.15.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1945.172.15.b/1945.172.15.b_full.tif",
+      "width": "12685",
+      "height": "3427",
+      "filesize": "130448461",
+      "filename": "1945.172.15.b_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Edward L. Whittemore Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 680888,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1945-08-16T00:00:00",
+  "sortable_date": 1800,
+  "date_added_to_oa": null,
+  "date_text": "1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1945.172",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Kammavacany, a Buddhist Manual",
+    "Kammavaca: Buddhist Ordination Text"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 09:17:43.939000"
+}

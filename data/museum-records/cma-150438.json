@@ -1,0 +1,118 @@
+{
+  "id": 150438,
+  "accession_number": "1981.216",
+  "share_license_status": "CC0",
+  "tombstone": "Selimut (Man's Textile), 1900s. Indonesia, Savu, 20th century. Cotton, ikat dyed; overall: 189.2 x 61 cm (74 1/2 x 24 in.). The Cleveland Museum of Art, Gift of Mrs. Edward Altmann, 1981.216",
+  "current_location": null,
+  "title": "Selimut (Man's Textile)",
+  "creation_date": "1900s",
+  "creation_date_earliest": 1900,
+  "creation_date_latest": 1980,
+  "artists_tags": [],
+  "culture": [
+    "Indonesia, Savu, 20th century"
+  ],
+  "technique": "cotton, ikat dyed",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 189.2 x 61 cm (74 1/2 x 24 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.892,
+      "height_inch": 74,
+      "height_inch_fraction": 0.5,
+      "width": 0.61,
+      "width_inch": 24,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 304599,
+        "title": "The Year in Review for 1981",
+        "description": "<i>The Year in Review for 1981</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+        "opening_date": "1982-02-17T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Indonesian Textiles. Textile corridor, The Cleveland Museum of Art, Cleveland, OH (June 1983-May 1984).",
+        "opening_date": "1983-06-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The design of this <em>selimut</em> designates its owner as a member of the Lesser Blossom, one of two Savunese matriarchal groups that controlled life-crisis rituals. Membership in the Lesser or Greater Blossoms was never discussed verbally but only indicated through textile design. Textiles like this, with a very pure form of Lesser (or Greater) Blossom design, were reserved for ceremonial use.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79932873"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1981.216-selimut-man-s-textil"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1981.216",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1981.216/1981.216_web.jpg",
+      "width": "333",
+      "height": "893",
+      "filesize": "307297",
+      "filename": "1981.216_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1981.216/1981.216_print.jpg",
+      "width": "1266",
+      "height": "3400",
+      "filesize": "4422956",
+      "filename": "1981.216_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1981.216/1981.216_full.tif",
+      "width": "2152",
+      "height": "5778",
+      "filesize": "37335492",
+      "filename": "1981.216_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Mrs. Edward Altmann",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 150438,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1982-03-08T00:00:00",
+  "sortable_date": 1900,
+  "date_added_to_oa": null,
+  "date_text": "1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:45:38.693000"
+}

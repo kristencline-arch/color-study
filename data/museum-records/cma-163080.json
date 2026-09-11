@@ -1,0 +1,268 @@
+{
+  "id": 163080,
+  "accession_number": "2003.89",
+  "share_license_status": "CC0",
+  "tombstone": "Man's Garment, possibly early 1900s. Africa, West Africa, Côte d'Ivoire, Dida-style weavers and dyers. Raffia palm fiber (Raphia ruffia or R. vinifera) and dye; overall: 169.8 x 211.5 cm (66 7/8 x 83 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2003.89",
+  "current_location": null,
+  "title": "Man's Garment",
+  "creation_date": "possibly early 1900s",
+  "creation_date_earliest": 1895,
+  "creation_date_latest": 1905,
+  "artists_tags": [],
+  "culture": [
+    "Africa, West Africa, Côte d'Ivoire, Dida-style weavers and dyers"
+  ],
+  "technique": "Raffia palm fiber (Raphia ruffia or R. vinifera) and dye",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 169.8 x 211.5 cm (66 7/8 x 83 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.698,
+      "height_inch": 66,
+      "height_inch_fraction": 0.875,
+      "width": 2.115,
+      "width_inch": 83,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(David Lantz, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "2003",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2003-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The tying of fabric during the making of this garment gives its surface a distinctively \"crinkled\" texture.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Displayed flat to highlight its designs and preserve its delicate fibers, this wrapper was meant to drape around the body. An elite man wore it with one corner over a shoulder, the knotted fringe skimming his ankles. The garment gained its earth-toned geometric patterns through <em>plangi, </em>a knot-and-twist resist dyeing technique; each color is applied in a different dye bath, from lightest to darkest. While their patterns are unique, these garments reflect regional influence: Dida women likely learned hand interlacing from Liberian Kpelle weavers. Such garments were given as gifts or worn on special occasions, at least into the 1990s.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79988546"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2003.89-man-s-garment"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Adams, Monni, and T. Rose Holdcraft. 1992. “Dida Woven Raffia Cloth from Côte D'ivoire.” <em>African Arts</em> 25 (3): 42–101.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Gillow, John. African Textiles: Colour and Creativity Across a Continent. London: Thames &amp; Hudson, 2003.",
+      "page_number": "p. 66-7",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2003.89",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_web.jpg",
+      "width": "900",
+      "height": "716",
+      "filesize": "385813",
+      "filename": "2003.89_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_print.jpg",
+      "width": "3400",
+      "height": "2705",
+      "filesize": "3735152",
+      "filename": "2003.89_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_full.tif",
+      "width": "12765",
+      "height": "10155",
+      "filesize": "388915060",
+      "filename": "2003.89_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt0_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "434576"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt0_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "5501663"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt0_full.tif",
+        "width": "14204",
+        "height": "10652",
+        "filesize": "453932352"
+      },
+      "date_created": "2021-01-13T16:08:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt1_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "435771"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt1_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "5790382"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt1_full.tif",
+        "width": "14204",
+        "height": "10652",
+        "filesize": "453931868"
+      },
+      "date_created": "2021-01-13T16:10:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt2_web.jpg",
+        "width": "1160",
+        "height": "893",
+        "filesize": "953404"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt2_print.jpg",
+        "width": "3400",
+        "height": "2617",
+        "filesize": "6092763"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt2_full.tif",
+        "width": "3854",
+        "height": "2967",
+        "filesize": "34333732"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt3_web.jpg",
+        "width": "1145",
+        "height": "893",
+        "filesize": "920793"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt3_print.jpg",
+        "width": "3400",
+        "height": "2652",
+        "filesize": "5996914"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt3_full.tif",
+        "width": "3828",
+        "height": "2986",
+        "filesize": "34320296"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt4_web.jpg",
+        "width": "627",
+        "height": "893",
+        "filesize": "538887"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt4_print.jpg",
+        "width": "2386",
+        "height": "3400",
+        "filesize": "7498328"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt4_full.tif",
+        "width": "3509",
+        "height": "5000",
+        "filesize": "52656560"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt5_web.jpg",
+        "width": "623",
+        "height": "893",
+        "filesize": "537387"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt5_print.jpg",
+        "width": "2373",
+        "height": "3400",
+        "filesize": "7454032"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.89/2003.89_alt5_full.tif",
+        "width": "3490",
+        "height": "5000",
+        "filesize": "52371852"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 163080,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2003-09-02T00:00:00",
+  "sortable_date": 1895,
+  "date_added_to_oa": null,
+  "date_text": "possibly early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:28:43.486000"
+}

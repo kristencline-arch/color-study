@@ -1,0 +1,356 @@
+{
+  "id": 95502,
+  "accession_number": "1916.1237",
+  "share_license_status": "CC0",
+  "tombstone": "Headkerchief (tensifa), 1700s. Africa, North Africa, Algeria, Algerian embroiderer. Linen, silk, gold, silver, dye; overall: 260.4 x 40.6 cm (102 1/2 x 16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1237",
+  "current_location": null,
+  "title": "Headkerchief (tensifa)",
+  "creation_date": "1700s",
+  "creation_date_earliest": 1700,
+  "creation_date_latest": 1799,
+  "artists_tags": [],
+  "culture": [
+    "Africa, North Africa, Algeria, Algerian embroiderer"
+  ],
+  "technique": "Linen, silk, gold, silver, dye",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Islamic",
+  "type": "Embroidery",
+  "measurements": "Overall: 260.4 x 40.6 cm (102 1/2 x 16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.604,
+      "height_inch": 102,
+      "height_inch_fraction": 0.5,
+      "width": 0.406,
+      "width_inch": 16,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 381119,
+        "title": "Islamic art rotation",
+        "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 16, 2015-December 19, 2016).",
+        "opening_date": "2015-12-16T05:00:00"
+      },
+      {
+        "id": 669620,
+        "title": "Arts of the Maghreb: North African Textiles and Jewelry",
+        "description": "<i>Arts of the Maghreb: North African Textiles and Jewelry</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 3, 2024-October 12, 2025).",
+        "opening_date": "2024-11-03T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This textile was displayed in the CMA’s first exhibition in 1916. While it is from North Africa, it was displayed in the \"Nearer East\" gallery.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This beautiful kerchief, worn wrapped around the head, was part of elegant bathing equipment that well-to-do women wore while relaxing in a hammam after bathing. The floral and foliate embroidery reflect a fashion that lasted for more than a century. This example is dominated by brilliant crimson and blue silk stitches.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79477078"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1916.1237-headkerchief",
+      "https://archive.org/details/clevelandart-1916.1237-headkerchief-tensifa"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Inaugural Exhibition. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916)",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Victoria and Albert Museum, and A. J. B. Wace. <em>Catalogue of Algerian Embroideries</em>. London: Published under the authority of the Board of Education, 1935.",
+      "page_number": "plate 6, no. 15",
+      "url": ""
+    },
+    {
+      "citation": "Windmuller-Luna, Kristen. \"Textile stories from North Africa.\" <em>HALI </em>224 (Summer 2025): 54-61.",
+      "page_number": "Mentioned: p. 60; Reproduced: p. 54, 58, fig. 1, fig. 8",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1916.1237",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_web.jpg",
+      "width": "900",
+      "height": "175",
+      "filesize": "190118",
+      "filename": "1916.1237_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_print.jpg",
+      "width": "3400",
+      "height": "662",
+      "filesize": "1266032",
+      "filename": "1916.1237_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_full.tif",
+      "width": "30508",
+      "height": "5940",
+      "filesize": "543677736",
+      "filename": "1916.1237_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt0_web.jpg",
+        "width": "900",
+        "height": "373",
+        "filesize": "297932"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt0_print.jpg",
+        "width": "3400",
+        "height": "1408",
+        "filesize": "2781154"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt0_full.tif",
+        "width": "13757",
+        "height": "5699",
+        "filesize": "235234548"
+      },
+      "date_created": "2024-01-22T16:38:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt1_web.jpg",
+        "width": "900",
+        "height": "346",
+        "filesize": "289405"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt1_print.jpg",
+        "width": "3400",
+        "height": "1308",
+        "filesize": "2695972"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt1_full.tif",
+        "width": "14204",
+        "height": "5463",
+        "filesize": "232820164"
+      },
+      "date_created": "2024-01-22T16:35:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt2_web.jpg",
+        "width": "900",
+        "height": "399",
+        "filesize": "293007"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt2_print.jpg",
+        "width": "3400",
+        "height": "1506",
+        "filesize": "2779480"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt2_full.tif",
+        "width": "13519",
+        "height": "5989",
+        "filesize": "242926616"
+      },
+      "date_created": "2024-01-22T16:32:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt3_web.jpg",
+        "width": "900",
+        "height": "351",
+        "filesize": "283689"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt3_print.jpg",
+        "width": "3400",
+        "height": "1327",
+        "filesize": "2754660"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt3_full.tif",
+        "width": "14101",
+        "height": "5504",
+        "filesize": "232866104"
+      },
+      "date_created": "2024-01-22T16:53:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt4_web.jpg",
+        "width": "900",
+        "height": "348",
+        "filesize": "281426"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt4_print.jpg",
+        "width": "3400",
+        "height": "1316",
+        "filesize": "2740192"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt4_full.tif",
+        "width": "14204",
+        "height": "5496",
+        "filesize": "234226156"
+      },
+      "date_created": "2024-01-22T16:55:35",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt5_web.jpg",
+        "width": "900",
+        "height": "346",
+        "filesize": "278771"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt5_print.jpg",
+        "width": "3400",
+        "height": "1306",
+        "filesize": "2667173"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt5_full.tif",
+        "width": "13777",
+        "height": "5291",
+        "filesize": "218712704"
+      },
+      "date_created": "2024-01-22T16:57:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt6_web.jpg",
+        "width": "1263",
+        "height": "281",
+        "filesize": "341858"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt6_print.jpg",
+        "width": "3400",
+        "height": "756",
+        "filesize": "2599664"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt6_full.tif",
+        "width": "6524",
+        "height": "1451",
+        "filesize": "28426040"
+      },
+      "date_created": "2010-08-11T14:49:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt7_web.jpg",
+        "width": "480",
+        "height": "900",
+        "filesize": "352552"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt7_print.jpg",
+        "width": "1814",
+        "height": "3400",
+        "filesize": "3655991"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt7_full.tif",
+        "width": "3472",
+        "height": "6508",
+        "filesize": "67816344"
+      },
+      "date_created": "2010-08-11T15:07:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt8_web.jpg",
+        "width": "227",
+        "height": "893",
+        "filesize": "184926"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt8_print.jpg",
+        "width": "864",
+        "height": "3400",
+        "filesize": "2746836"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt8_full.tif",
+        "width": "1383",
+        "height": "5440",
+        "filesize": "45302888"
+      },
+      "date_created": "2007-07-11T18:14:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt9_web.jpg",
+        "width": "900",
+        "height": "156",
+        "filesize": "181819"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt9_print.jpg",
+        "width": "3400",
+        "height": "590",
+        "filesize": "1224392"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1237/1916.1237_alt9_full.tif",
+        "width": "30891",
+        "height": "5364",
+        "filesize": "497122832"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Mr. and Mrs. J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 95502,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1916-05-26T00:00:00",
+  "sortable_date": 1700,
+  "date_added_to_oa": null,
+  "date_text": "1700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-11 15:25:26.591000"
+}

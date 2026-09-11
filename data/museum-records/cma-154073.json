@@ -1,0 +1,223 @@
+{
+  "id": 154073,
+  "accession_number": "1988.19",
+  "share_license_status": "CC0",
+  "tombstone": "Kasuga Deer Mandala (春日鹿曼荼羅図), mid-1300s–1400s. Japan, Nanbokuchō period (1333–92) to Muromachi period (1392–1573). Hanging scroll; ink, color and gold on silk; image: 95.6 x 39.1 cm (37 5/8 x 15 3/8 in.); mounted: 184.2 x 63.8 cm (72 1/2 x 25 1/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1988.19",
+  "current_location": null,
+  "title": "Kasuga Deer Mandala",
+  "title_in_original_language": "春日鹿曼荼羅図",
+  "creation_date": "mid-1300s–1400s",
+  "creation_date_earliest": 1336,
+  "creation_date_latest": 1499,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Nanbokuchō period (1333–92) to Muromachi period (1392–1573)"
+  ],
+  "technique": "hanging scroll; ink, color and gold on silk",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "ASIAN - Hanging scroll",
+  "type": "Painting",
+  "measurements": "Image: 95.6 x 39.1 cm (37 5/8 x 15 3/8 in.); Mounted: 184.2 x 63.8 cm (72 1/2 x 25 1/8 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.956,
+      "height_inch": 37,
+      "height_inch_fraction": 0.625,
+      "width": 0.391,
+      "width_inch": 15,
+      "width_inch_fraction": 0.375
+    },
+    "mounted": {
+      "height": 1.842,
+      "height_inch": 72,
+      "height_inch_fraction": 0.5,
+      "width": 0.638,
+      "width_inch": 25,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 310246,
+        "title": "The Year in Review for 1988",
+        "description": "<i>The Year in Review for 1988</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-May 14, 1989).",
+        "opening_date": "1989-03-01T05:00:00"
+      },
+      {
+        "id": 311446,
+        "title": "Asian Autumn: Masterpieces from the Collection",
+        "description": "<i>Asian Autumn: Masterpieces from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17, 1991-January 5, 1992).",
+        "opening_date": "1991-09-17T04:00:00"
+      },
+      {
+        "id": 224471,
+        "title": "The Legacy of Japanese Art",
+        "description": "<i>The Legacy of Japanese Art</i>. Chiba City Museum of Art (organizer) (October 1-November 10, 1996).",
+        "opening_date": "1996-10-01T00:00:00"
+      },
+      {
+        "id": 309312,
+        "title": "Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見",
+        "description": "<i>Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 9-June 30, 2019).",
+        "opening_date": "2019-04-09T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 237)</em>. The Cleveland Museum of Art, Cleveland, OH (May 29-December 23, 2013).",
+        "opening_date": "2013-05-29T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Hinohara collection",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "(Heisando Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1973",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1973-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The deity Takemikazuchi no Mikoto is shown as the Buddha Shakyamuni with a red robe.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Riding on a rolling cloud, a spotted deer wears a brightly colored saddle. The saddle supports a branch of the evergreen Sakaki tree, trailing wisteria vines that cradle a large golden mirror. Within the mirror sit the five Buddhist manifestations (<em>honjibutsu</em>) of the deities (<em>kami</em>) of the Kasuga Grand Shrine in Nara. The presence of the deer—the vehicle of the deity Takemikazuchi no Mikoto of the first of the five halls of the shrine—and the characteristics of the mountain range at the top of the painting make clear the association with the sacred site of Kasuga. The painting was likely created for an individual’s personal devotions to the Kasuga deities",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60476289"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1988.19-kasuga-deer-mandala"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "“The Year in Review for 1988.” <em>The Bulletin of the Cleveland Museum of Art</em> 76, no. 2 (February 1989): 30–75.",
+      "page_number": "Reproduced: p. 55; Mentioned: p. 75, no. 221",
+      "url": "http://www.jstor.org/stable/25160061"
+    },
+    {
+      "citation": "<em>Shugyoku no Nihon bijutsu: Hosomi korekushon no zenbō to Bosuton, Kurīburando, Sakkurā no wadaisaku : kaikan isshūnen kinen </em>[珠玉の日本美術 : 細見コレクションの全貌と、 ボストン、クリ－ブランド、 サックラ－ の話題作 : 開館一周年記念 = The Legacy of Japanese art]]. Chiba City, Japan: Chiba-shi Bijutsukan, 1996.",
+      "page_number": "Mentioned and Reproduced: p. 51, cat. no. 34",
+      "url": null
+    },
+    {
+      "citation": "Grossman, Nancy, James T. Ulak, Marjorie Williams, and Laurence Channing. <em>Art of Japan: Masterpieces from the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2005.",
+      "page_number": "Mentioned and Reproduced: p. 52",
+      "url": ""
+    },
+    {
+      "citation": "編集・発行奈良国立博物館., and hakkō Nara Kokuritsu Hakubutsukan henshū. <em>春日信仰を中心とした南都における神祇信仰の展開とその遺品に関する総合的研究</em>. Edited by 奈良国立博物館 and Nara Kokuritsu Hakubutsukan. Nara-shi Noboriōji-chō: 奈良国立博物館, 2017.",
+      "page_number": "Reproduced: pp. 74–75, fig. 11",
+      "url": ""
+    },
+    {
+      "citation": "Vilbar, Sinéad, and Kevin Gray Carr. <em>Shinto: Discovery of the Divine in Japanese Art</em>. Cleveland, OH: Cleveland Museum of Art, 2019.",
+      "page_number": "Mentioned and Reproduced: pp. 86–87, no. 31",
+      "url": null
+    },
+    {
+      "citation": "Koyama-Richard, Brigitte. <em>Animaux Dans La Peinture Japonaise</em>. Lyon: Nouvelles éditions Scala, 2020.",
+      "page_number": "Mentioned and reproduced: pp. 14–15",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1988.19",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_web.jpg",
+      "width": "401",
+      "height": "893",
+      "filesize": "76627",
+      "filename": "1988.19_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_print.jpg",
+      "width": "1526",
+      "height": "3400",
+      "filesize": "1122788",
+      "filename": "1988.19_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_full.tif",
+      "width": "2993",
+      "height": "6668",
+      "filesize": "59895328",
+      "filename": "1988.19_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_alt0_web.jpg",
+        "width": "329",
+        "height": "893",
+        "filesize": "52553"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_alt0_print.jpg",
+        "width": "1254",
+        "height": "3400",
+        "filesize": "772605"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1988.19/1988.19_alt0_full.tif",
+        "width": "2394",
+        "height": "6490",
+        "filesize": "46640196"
+      },
+      "date_created": "2012-05-11T12:05:45",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 154073,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1988-04-07T00:00:00",
+  "sortable_date": 1336,
+  "date_added_to_oa": null,
+  "date_text": "mid-1300s–1400s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Kasuga Mandala"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:21:43.912000"
+}

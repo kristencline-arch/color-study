@@ -1,0 +1,205 @@
+{
+  "id": 145857,
+  "accession_number": "1971.129.a",
+  "share_license_status": "CC0",
+  "tombstone": "Jain monk with disciple and two laymen, two nuns, and a laywoman, folio 22 (recto) from a Yoga-shastra of Hemachandra, c. 1275. Western India, Gujarat. Gum tempera and ink on palm leaf; overall: 7.5 x 31.1 cm (2 15/16 x 12 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.129.a",
+  "current_location": null,
+  "title": "Jain monk with disciple and two laymen, two nuns, and a laywoman, folio 22 (recto) from a Yoga-shastra of Hemachandra",
+  "creation_date": "c. 1275",
+  "creation_date_earliest": 1250,
+  "creation_date_latest": 1299,
+  "artists_tags": [],
+  "culture": [
+    "Western India, Gujarat"
+  ],
+  "technique": "Gum tempera and ink on palm leaf",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Painting",
+  "measurements": "Overall: 7.5 x 31.1 cm (2 15/16 x 12 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.075,
+      "height_inch": 2,
+      "height_inch_fraction": 0.9375,
+      "width": 0.311,
+      "width_inch": 12,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 370719,
+        "title": "Krishna and the Path of Grace – Indian Gallery 242 Rotation",
+        "description": "<i>Krishna and the Path of Grace – Indian Gallery 242 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 14, 2020-March 7, 2021).",
+        "opening_date": "2020-08-14T04:00:00"
+      },
+      {
+        "id": 449919,
+        "title": "Text and Image in Southern Asia",
+        "description": "<i>Text and Image in Southern Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26, 2022-March 5, 2023).",
+        "opening_date": "2022-08-26T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Main Asian Rotation (Gallery 245); July 2, 2014 - January 5, 2015.",
+        "opening_date": "2014-07-02T00:00:00"
+      },
+      {
+        "description": "<em>Indian Gallery 242b Rotation – November 2017-April 2018</em>. The Cleveland Museum of Art (organizer) (November 10, 2017-April 16, 2018).",
+        "opening_date": "2017-11-10T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Sander L. Feldman, Washington, DC, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1971",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1971–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1971.129",
+    "1971.128.2.a"
+  ],
+  "did_you_know": "The nuns at the bottom cover their breasts by wearing the white robe over both shoulders.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60471751",
+      "https://www.wikidata.org/wiki/Q117054250"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.128.2.a-seated-rishabha-enth",
+      "https://archive.org/details/clevelandart-1971.129.a-jain-monk-with-disci"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Leach, Linda York. <em>Indian Miniature Paintings and Drawings</em>. Cleveland, OH: Cleveland Museum of Art in cooperation with Indiana University Press, 1986.",
+      "page_number": "Mentioned: cat. no. 1ix, p. 8.",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1971.129.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_web.jpg",
+      "width": "900",
+      "height": "210",
+      "filesize": "107607",
+      "filename": "1971.129.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_print.jpg",
+      "width": "3400",
+      "height": "793",
+      "filesize": "1136178",
+      "filename": "1971.129.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_full.tif",
+      "width": "13063",
+      "height": "3045",
+      "filesize": "119357502",
+      "filename": "1971.129.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt0_web.jpg",
+        "width": "900",
+        "height": "862",
+        "filesize": "484630"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt0_print.jpg",
+        "width": "3400",
+        "height": "3258",
+        "filesize": "5873145"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt0_full.tif",
+        "width": "8494",
+        "height": "8139",
+        "filesize": "207433470"
+      },
+      "date_created": "2026-02-19T13:25:58",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt1_web.jpg",
+        "width": "900",
+        "height": "188",
+        "filesize": "168691"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt1_print.jpg",
+        "width": "3400",
+        "height": "711",
+        "filesize": "848207"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.129.a/1971.129.a_alt1_full.tif",
+        "width": "7464",
+        "height": "1560",
+        "filesize": "34960376"
+      },
+      "date_created": "2014-04-03T15:05:01",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145857,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-09-08T00:00:00",
+  "sortable_date": 1250,
+  "date_added_to_oa": null,
+  "date_text": "c. 1275",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1971.129",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Leaf from a Jain Manuscript: Yogashastra (recto)",
+    "Mahavira (?) in heaven seated in 'padma asana'. from a work on yoga",
+    "Leaf from a Jain Manuscript: Yoga-shastra: Seated Yellow Jina Shantinatha Enshrined (recto)",
+    "Seated Rishabha Enthroned, Folio 1 verso of a Yoga-shastra of Hemachandra",
+    "Jain Monk with Disciple and Two Laymen, Two Nuns, and a Lay Woman: Folio 22 (recto), from a Yoga-shastra of Hemachandra"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-06-01 11:05:54.575000"
+}

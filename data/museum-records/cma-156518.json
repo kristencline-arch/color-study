@@ -1,0 +1,247 @@
+{
+  "id": 156518,
+  "accession_number": "1992.231",
+  "share_license_status": "CC0",
+  "tombstone": "Vessel in the Shape of a Figure, 1000–1460s. Peru, Central Coast, Chancay sytle, 12th-15th century. Earthenware with painted slip; overall: 63.5 cm (25 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust, 1992.231",
+  "current_location": "232 Andean",
+  "title": "Vessel in the Shape of a Figure",
+  "creation_date": "1000–1460s",
+  "creation_date_earliest": 1000,
+  "creation_date_latest": 1469,
+  "artists_tags": [],
+  "culture": [
+    "Peru, Central Coast, Chancay sytle, 12th-15th century"
+  ],
+  "technique": "earthenware with painted slip",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Andes",
+  "type": "Ceramic",
+  "measurements": "Overall: 63.5 cm (25 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.635,
+      "height_inch": 25,
+      "height_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311552,
+        "title": "Selected Acquisitions",
+        "description": "<i>Selected Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 11, 1993).",
+        "opening_date": "1993-02-09T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "New York, NY: The Brooklyn Museum; November 22, 1966- March 5, 1967. \"Ancient Art of Latin American From the Collection of Jay C. Leff.\" exh. cat. no. 533 (unillustrated in catalogue).",
+        "opening_date": "1966-11-22T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Jay C. Leff, Pittsburgh, PA (Sold: Sotheby's, NY, Oct. 10, 1975, sale #3792, lot #252)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Jay C. Leff, Pittsburgh, PA (Sold: Sotheby's, NY, Oct. 10, 1975, sale #3792, lot #252",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This seated figure carries a stag over his shoulders, its antlers now missing and its tongue lolling out in death. That the stag is destined for more than dinner is suggested by the human's pursed lips--perhaps the kiss-like expression of reverence that the later Inka made when approaching a sacred shrine. The animal, then, may be an offering. The two bags painted on the figure's back may be for coca leaves, also very important for rituals. In comparison to earlier ceramics, the Chancay style seems less fine both artistically and technically. yet as this vessel proves, the best Chancay ceramics have appealing charm, in part because of their bold brown-on-white color scheme.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757049"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1992.231-vessel-in-the-shape"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Turner, Evan H. \"The Year in Review for 1992.\" <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (1993): 38-79.",
+      "page_number": "Reproduced: p. 52; Mentioned: p. 72",
+      "url": "https://www.jstor.org/stable/25161388"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1992.231",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_web.jpg",
+      "width": "757",
+      "height": "893",
+      "filesize": "340302",
+      "filename": "1992.231_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_print.jpg",
+      "width": "2881",
+      "height": "3400",
+      "filesize": "6169183",
+      "filename": "1992.231_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_full.tif",
+      "width": "4912",
+      "height": "5796",
+      "filesize": "85435800",
+      "filename": "1992.231_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt0_web.jpg",
+        "width": "746",
+        "height": "893",
+        "filesize": "333679"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt0_print.jpg",
+        "width": "2841",
+        "height": "3400",
+        "filesize": "6112311"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt0_full.tif",
+        "width": "4846",
+        "height": "5798",
+        "filesize": "84316972"
+      },
+      "date_created": "2010-08-12T17:51:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt1_web.jpg",
+        "width": "733",
+        "height": "893",
+        "filesize": "348026"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt1_print.jpg",
+        "width": "2791",
+        "height": "3400",
+        "filesize": "6143805"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt1_full.tif",
+        "width": "4669",
+        "height": "5686",
+        "filesize": "79669848"
+      },
+      "date_created": "2010-08-12T18:33:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt2_web.jpg",
+        "width": "724",
+        "height": "893",
+        "filesize": "339049"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt2_print.jpg",
+        "width": "2755",
+        "height": "3400",
+        "filesize": "5990021"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt2_full.tif",
+        "width": "4834",
+        "height": "5964",
+        "filesize": "86516200"
+      },
+      "date_created": "2010-08-12T18:05:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt3_web.jpg",
+        "width": "963",
+        "height": "893",
+        "filesize": "460983"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt3_print.jpg",
+        "width": "3400",
+        "height": "3153",
+        "filesize": "6720105"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt3_full.tif",
+        "width": "4992",
+        "height": "4630",
+        "filesize": "69365748"
+      },
+      "date_created": "2010-08-12T18:53:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt4_web.jpg",
+        "width": "851",
+        "height": "893",
+        "filesize": "416455"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt4_print.jpg",
+        "width": "3240",
+        "height": "3400",
+        "filesize": "7064708"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1992.231/1992.231_alt4_full.tif",
+        "width": "4992",
+        "height": "5238",
+        "filesize": "78470276"
+      },
+      "date_created": "2010-08-12T19:23:40",
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 156518,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1992-12-07T00:00:00",
+  "sortable_date": 1000,
+  "date_added_to_oa": null,
+  "date_text": "1000–1460s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:08:17.587000"
+}

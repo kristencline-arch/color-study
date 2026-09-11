@@ -1,0 +1,914 @@
+{
+  "id": 149119,
+  "accession_number": "1977.5",
+  "share_license_status": "CC0",
+  "tombstone": "Sericulture (The Process of Making Silk) (耕織圖), early 1200s. Attributed to Liang Kai (Chinese, mid-1100s–early 1200s). Handscroll; ink and color on silk; first section: 26.7 x 98.6 cm (10 1/2 x 38 13/16 in.); second section: 27.6 x 92.3 cm (10 7/8 x 36 5/16 in.); third section: 27.6 x 92.3 cm (10 7/8 x 36 5/16 in.). The Cleveland Museum of Art, John L. Severance Collection, 1977.5",
+  "current_location": null,
+  "title": "Sericulture (The Process of Making Silk)",
+  "title_in_original_language": "耕織圖",
+  "creation_date": "early 1200s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1225,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "China, Southern Song dynasty (1127-1279)"
+  ],
+  "technique": "Handscroll; ink and color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "First Section: 26.7 x 98.6 cm (10 1/2 x 38 13/16 in.); Second Section: 27.6 x 92.3 cm (10 7/8 x 36 5/16 in.); Third Section: 27.6 x 92.3 cm (10 7/8 x 36 5/16 in.)",
+  "dimensions": {
+    "third section": {
+      "height": 0.276,
+      "height_inch": 10,
+      "height_inch_fraction": 0.875,
+      "width": 0.923,
+      "width_inch": 36,
+      "width_inch_fraction": 0.3125
+    },
+    "second section": {
+      "height": 0.276,
+      "height_inch": 10,
+      "height_inch_fraction": 0.875,
+      "width": 0.923,
+      "width_inch": 36,
+      "width_inch_fraction": 0.3125
+    },
+    "first section": {
+      "height": 0.267,
+      "height_inch": 10,
+      "height_inch_fraction": 0.5,
+      "width": 0.986,
+      "width_inch": 38,
+      "width_inch_fraction": 0.8125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "3 colophons and 7 seals of Cheng Qi 程琦 (1911–1988)",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": 1
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302666,
+        "title": "Year in Review: 1977",
+        "description": "<i>Year in Review: 1977</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1977-January 22, 1978).",
+        "opening_date": "1977-12-28T05:00:00"
+      },
+      {
+        "id": 304517,
+        "title": "Eight Dynasties of Chinese Painting",
+        "description": "<i>Eight Dynasties of Chinese Painting</i>. The Nelson-Atkins Museum of Art (November 7, 1980-January 4, 1981); The Cleveland Museum of Art (February 11-March 29, 1981); Tokyo National Museum (October 4-November 17, 1982).",
+        "opening_date": "1981-02-11T05:00:00"
+      },
+      {
+        "id": 299396,
+        "title": "The Splendor of Chinese Silk – Chinese Gallery Rotation 240a, 241c",
+        "description": "<i>The Splendor of Chinese Silk – Chinese Gallery Rotation 240a, 241c</i>. The Cleveland Museum of Art (organizer) (February 5-August 12, 2018).",
+        "opening_date": "2018-02-05T05:00:00"
+      },
+      {
+        "id": 395234,
+        "title": "China’s Southern Paradise: Treasures from the Lower Yangzi Delta",
+        "description": "<i>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 10, 2023-January 7, 2024).",
+        "opening_date": "2023-09-10T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 120)</em>. The Cleveland Museum of Art, Cleveland, OH (October 26, 2003-March 11, 2004).",
+        "opening_date": "2003-10-26T04:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Cheng Qi 程琦 [1911–1988], sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1977",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1977–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The painting is attributed to Liang Kai, a court artist active from about 1201 to 1204 at the Imperial Painting Academy in the city of Hangzhou, a major silk weaving center from that time to the present day.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "By the Southern Song period, the economic center of the silk industry had shifted to the lower Yangzi delta, while the north continued to be troubled by wars. <br><br>Divided into three sections, the handscroll illustrates 14 steps in the process of making silk, from the raising of silkworms to the weaving of silk cloth. The scroll’s scenes follow the illustrations of Lou Shou’s (1090–1162) <em>Pictures of Tilling and Weaving </em>(gengzhi tu), the first recorded painting of this genre, which was conceived in Hangzhou around 1145. However, in the Cleveland painting the artist groups several scenes of sericulture together under the roof of an open structure.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60473396"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1977.5-sericulture-the-proc"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+      "page_number": "Mentioned and Reproduced: cat. no. 61, pp. 78–80",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. “Listening to the Ch’in by Liu Sung-Nien.” <em>The Bulletin of the Cleveland Museum of Art</em> 73, no. 9 (November 1986): 372–387.",
+      "page_number": "Mentioned and Reproduced: pp. 382–383, figs. 9–10",
+      "url": "http://www.jstor.org/stable/25159962"
+    },
+    {
+      "citation": "Chen, Juanjuan, Nengfu Huang, Wenying Li, and Hao Peng. <em>Chinese Silks</em>. Edited by Dieter Kuhn and Feng Zhao. New Haven, CT: Yale University Press, 2012.",
+      "page_number": "Reproduced: figs. 6.2–6.4, p. 263",
+      "url": ""
+    },
+    {
+      "citation": "Smith, Bonnie G., et.al. <em>World in the Making: A Global History</em>. New York; Oxford: Oxford University Press, 2018.",
+      "page_number": "Reproduced: p. 387",
+      "url": null
+    },
+    {
+      "citation": "Zhao, Feng. “Silk Production in the Lower Yangzi Delta: Formation, Flourishing, and Later Developments.” In <em>China’s Southern Paradise: Treasures from the Lower Yangzi Delta, </em>edited by Clarissa Von Spee, 52–58. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 54–55, figs. 18a and 18b, no. 49",
+      "url": ""
+    },
+    {
+      "citation": "Itakura, Masaaki. “Jiangnan’s Beauty: Song and Yuan Paintings Prized in Medieval and Early Modern Japan.” In <em>China’s Southern Paradise: Treasures from the Lower Yangzi Delta, </em>edited by Clarissa Von Spee, 64–71. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 66–67, fig. 34, no. 49",
+      "url": ""
+    },
+    {
+      "citation": "Griswold, William, Xiaofei Tian, Richard Von Glahn, Feng Zhao, S. J. Vainker, Masaaki Itakura, Jiang Wu, et al. <em>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</em>. Edited by Clarissa Von Spee. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 158–161, no. 49",
+      "url": ""
+    },
+    {
+      "citation": "Chuanxi, Chen. “Liang Kai, a Zen Painter Skilled in Both Landscape and Figure Painting.” <em>Yi shu jia</em>, i. 611 (April 2026): 260–281.",
+      "page_number": "Reproduced: pp. 272–275",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1977.5",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_web.jpg",
+      "width": "1263",
+      "height": "111",
+      "filesize": "20754",
+      "filename": "1977.5_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_print.jpg",
+      "width": "3400",
+      "height": "299",
+      "filesize": "125958",
+      "filename": "1977.5_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_full.tif",
+      "width": "25776",
+      "height": "2266",
+      "filesize": "6448924",
+      "filename": "1977.5_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt0_web.jpg",
+        "width": "1263",
+        "height": "55",
+        "filesize": "13247"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt0_print.jpg",
+        "width": "3400",
+        "height": "147",
+        "filesize": "82602"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt0_full.tif",
+        "width": "114410",
+        "height": "4980",
+        "filesize": "1709350396"
+      },
+      "date_created": "2012-02-09T17:49:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt1_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "282485"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt1_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2469992"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt1_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881328"
+      },
+      "date_created": "2012-02-09T13:24:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt2_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "263418"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt2_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2425053"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt2_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:49:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt3_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "283785"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt3_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2711009"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt3_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:04:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt4_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "190538"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt4_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2261122"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt4_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:08:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt5_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "88424"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt5_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1295590"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt5_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:12:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt6_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "89186"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt6_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1293680"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt6_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99882028"
+      },
+      "date_created": "2012-02-09T17:22:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt7_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "148771"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt7_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2140946"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt7_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:25:58",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt8_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "184983"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt8_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2685052"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt8_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:31:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt9_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "208551"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt9_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2796745"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt9_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T17:35:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt10_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "222755"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt10_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2808986"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt10_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T18:06:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt11_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "204140"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt11_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2755566"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt11_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T18:15:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt12_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "227315"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt12_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2869665"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt12_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99882028"
+      },
+      "date_created": "2012-02-09T18:25:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt13_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "236880"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt13_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2898275"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt13_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T18:29:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt14_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "229100"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt14_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2884720"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt14_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T18:32:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt15_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "206613"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt15_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2829912"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt15_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:18:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt16_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "224141"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt16_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2877541"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt16_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:22:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt17_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "226248"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt17_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2805921"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt17_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:25:28",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt18_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "207822"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt18_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "2289492"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt18_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99882028"
+      },
+      "date_created": "2012-02-09T20:32:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt19_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "199611"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt19_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1489176"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt19_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99882092"
+      },
+      "date_created": "2012-02-09T20:35:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt20_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "195004"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt20_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1478266"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt20_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:40:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt21_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "113353"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt21_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1196785"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt21_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:46:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt22_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "70003"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt22_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1097926"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt22_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:49:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt23_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "68305"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt23_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1096591"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt23_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:52:42",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt24_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "68758"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt24_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1095627"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt24_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T20:56:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt25_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "97903"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt25_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "1150283"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt25_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99881660"
+      },
+      "date_created": "2012-02-09T21:01:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt26_web.jpg",
+        "width": "561",
+        "height": "893",
+        "filesize": "294642"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt26_print.jpg",
+        "width": "2136",
+        "height": "3400",
+        "filesize": "4144866"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt26_full.tif",
+        "width": "3830",
+        "height": "6096",
+        "filesize": "70064112"
+      },
+      "date_created": "2009-11-12T21:25:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt27_web.jpg",
+        "width": "1263",
+        "height": "266",
+        "filesize": "232938"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt27_print.jpg",
+        "width": "3400",
+        "height": "716",
+        "filesize": "1679509"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt27_full.tif",
+        "width": "9900",
+        "height": "2086",
+        "filesize": "61975272"
+      },
+      "date_created": "2009-11-12T21:25:16",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt28_web.jpg",
+        "width": "1263",
+        "height": "267",
+        "filesize": "239131"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt28_print.jpg",
+        "width": "3400",
+        "height": "719",
+        "filesize": "1734755"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt28_full.tif",
+        "width": "9900",
+        "height": "2094",
+        "filesize": "62212872"
+      },
+      "date_created": "2009-11-12T21:25:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt29_web.jpg",
+        "width": "1263",
+        "height": "270",
+        "filesize": "241238"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt29_print.jpg",
+        "width": "3400",
+        "height": "728",
+        "filesize": "1657168"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt29_full.tif",
+        "width": "9897",
+        "height": "2118",
+        "filesize": "62906608"
+      },
+      "date_created": "2009-11-12T21:25:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt30_web.jpg",
+        "width": "1263",
+        "height": "274",
+        "filesize": "215144"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt30_print.jpg",
+        "width": "3400",
+        "height": "738",
+        "filesize": "1431458"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.5/1977.5_alt30_full.tif",
+        "width": "9646",
+        "height": "2094",
+        "filesize": "60617244"
+      },
+      "date_created": "2009-11-12T21:25:59",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 149119,
+  "creators": [
+    {
+      "id": 31474,
+      "description": "Liang Kai (Chinese, mid-1100s–early 1200s)",
+      "extent": null,
+      "qualifier": "attributed to",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": "梁楷",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1977-02-23T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "early 1200s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-07-28 15:33:40.561000"
+}

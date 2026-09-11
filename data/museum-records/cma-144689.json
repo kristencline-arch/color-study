@@ -1,0 +1,917 @@
+{
+  "id": 144689,
+  "accession_number": "1969.31",
+  "share_license_status": "CC0",
+  "tombstone": "Portraits of the Qianlong Emperor and His Twelve Consorts (乾隆帝及后妃圖卷), 1736–70s. Giuseppe Castiglione (Italian, 1688–1766), and others (Chinese). Handscroll; ink and color on silk; overall: 53.8 x 1154.5 cm (21 3/16 x 454 1/2 in.); painting only: 53 x 688.3 cm (20 7/8 x 271 in.). The Cleveland Museum of Art, John L. Severance Fund, 1969.31",
+  "current_location": null,
+  "title": "Portraits of the Qianlong Emperor and His Twelve Consorts",
+  "title_in_original_language": "乾隆帝及后妃圖卷",
+  "creation_date": "1736–70s",
+  "creation_date_earliest": 1736,
+  "creation_date_latest": 1779,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "China, Qing dynasty (1644–1911), Qianlong reign (1736–95)"
+  ],
+  "technique": "Handscroll; ink and color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "Overall: 53.8 x 1154.5 cm (21 3/16 x 454 1/2 in.); Painting only: 53 x 688.3 cm (20 7/8 x 271 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.538,
+      "height_inch": 21,
+      "height_inch_fraction": 0.1875,
+      "width": 11.545,
+      "width_inch": 454,
+      "width_inch_fraction": 0.5
+    },
+    "painting only": {
+      "height": 0.53,
+      "height_inch": 20,
+      "height_inch_fraction": 0.875,
+      "width": 6.883,
+      "width_inch": 271,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "9 seals of the Qianlong emperor (r. 1736–95).",
+      "inscription_translation": null,
+      "inscription_remark": "The Qianlong emperor had unrolled and viewed the scroll in his old age, as indicated by the impression of the seals he used after abdicating in 1796.",
+      "sortorder": 1
+    },
+    {
+      "inscription": "The eighth month, first year of Qianlong [1736] 乾隆元年八月吉日.\nThe Empress (Xiaoxian) 皇后 (1712–1748), \nThe Guifei (Huixian) 貴妃 (?-–1745), \nChunfei 純妃 (1713–1760), \nJiafei 嘉妃 (?–1755), \nLingfei 令妃 (1727–1775), \nShufei 舒妃 (1728–1777), \nQingbin 慶嬪 (1724–1774), \nYingbin 穎嬪 (1731–1800), \nXinbin 忻嬪 (?–1764), \nDunfei 惇妃 (1746–1806), \nXunfei 順妃 (1749–1788), \nShunbin 循嬪 (?–1797).",
+      "inscription_translation": null,
+      "inscription_remark": "The inscription dates Qianlong’s portrait to an auspicious day in the eight month, the first year of Qianlong (1736). He was twenty-six years old and had ascended the throne only a year earlier, following the death of his father the Yongzheng Emperor. \nNone of the wives was older than 20 at the time she was painted.",
+      "sortorder": 2
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301313,
+        "title": "Year in Review: 1969",
+        "description": "<i>Year in Review: 1969</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 27-February 22, 1970).",
+        "opening_date": "1970-01-27T05:00:00"
+      },
+      {
+        "id": 304517,
+        "title": "Eight Dynasties of Chinese Painting",
+        "description": "<i>Eight Dynasties of Chinese Painting</i>. The Cleveland Museum of Art (February 11-March 29, 1981).",
+        "opening_date": "1981-02-11T05:00:00"
+      },
+      {
+        "id": 309658,
+        "title": "Portraiture: The Image of the Individual",
+        "description": "<i>Portraiture: The Image of the Individual</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 1983-January 22, 1984).",
+        "opening_date": "1983-11-22T05:00:00"
+      },
+      {
+        "id": 309887,
+        "title": "The Twain Shall Meet",
+        "description": "<i>The Twain Shall Meet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 1985-January 5, 1986).",
+        "opening_date": "1985-10-30T05:00:00"
+      },
+      {
+        "id": 310291,
+        "title": "Powerful Form and Potent Symbol: The Dragon in Asia",
+        "description": "<i>Powerful Form and Potent Symbol: The Dragon in Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 24-November 25, 1990).",
+        "opening_date": "1990-07-24T04:00:00"
+      },
+      {
+        "id": 211775,
+        "title": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+        "description": "<i>Highlights of Asian Paintings from The Cleveland Museum of Art</i>. Nara National Museum (organizer) (February 21-March 29, 1998); Suntory Museum of Art (April 28-June 21, 1998).",
+        "opening_date": "1998-02-21T00:00:00"
+      },
+      {
+        "id": 227385,
+        "title": "Art Under Emperor Ch'ien-lung",
+        "description": "<i>Art Under Emperor Ch'ien-lung</i>. National Palace Museum, Taipei, Taiwan R.O.C. (October 5-December 20, 2002).",
+        "opening_date": "2002-10-05T00:00:00"
+      },
+      {
+        "id": 202572,
+        "title": "Silent Poetry: Masterworks of Chinese Painting",
+        "description": "<i>Silent Poetry: Masterworks of Chinese Painting</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 14, 2015-April 24, 2016).",
+        "opening_date": "2015-11-14T00:00:00"
+      },
+      {
+        "id": 395234,
+        "title": "China’s Southern Paradise: Treasures from the Lower Yangzi Delta",
+        "description": "<i>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 10, 2023-January 7, 2024).",
+        "opening_date": "2023-09-10T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 242)</em>. The Cleveland Museum of Art, Cleveland, OH (November 21, 2013-July 28, 2014).",
+        "opening_date": "2013-11-21T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Qing imperial collection (seals of Emperor Qianlong, r. 1736–1795)",
+      "citations": [],
+      "footnotes": [],
+      "date": "1736–?",
+      "sortorder": 1
+    },
+    {
+      "description": "(Hôtel Drouot, Paris, France. December 17–18, 1928 sale. Lot 329)",
+      "citations": [],
+      "footnotes": null,
+      "date": "December 17–18, 1928",
+      "sortorder": 2
+    },
+    {
+      "description": "(Spink & Son, Ltd., London, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "by 1966–1969",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1969–",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 144690,
+      "description": "Carved Lacquer Scroll Box (雕龍漆匣), 1736–95. China, Qing dynasty (1644–1911), Qianlong reign (1736–95). Red carved lacquer on wood; overall: 14 x 14.7 x 59 cm (5 1/2 x 5 13/16 x 23 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1969.32",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "Lingfei 令妃 (1727–1775), the first consort depicted in the maroon or “incense-colored\" 香色 robe, was the mother of six of Qianlong’s children, including the future Emperor Jiaqing.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This portrait shows the Qianlong emperor at 26, in the first year of his reign. His likeness is followed by portraits of the empress and eleven consorts. Their portraits document the appearances of the court women around the time when they received their respective imperial titles, which occurred at different stages of the emperor's life. The first three portraits were done by the Jesuit (Roman Catholic) missionary artist Giuseppe Castiglione, whereas the later ones were by Chinese court painters. <br><br>Formal portraiture contributed to the affirmation of status and construction of role and identity. This scroll served as both familial documentation and a \"mind picture\" of the Qianlong emperor, suggesting that his constructed image of emperorship was inseparable from concepts of self and family. It was stored in a carved red lacquer box bearing the original painting title <em>Mind Picture of a Well-Governed and Tranquil Reign</em> (see CMA <a href=\"https://www.clevelandart.org/art/1969.32\"><u>1969.32</u></a>).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60470589"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1969.31-portraits-of-the-qia"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "<em>I° Collection de M. J. Poberejsky (Première Vente), Importante Suite de Pierres Dures de La Chine ..., II° Appartenant À Divers Amateurs, Céramique de La Chine, Laques de Pékin, Sculptures Cambodgiennes et Siamoises, Importants Brule-Parfums et Paravent En Émaux Cloisonnés ..., Belle Suite de Peintures Provenant Du Palais Impérial (XVIIIe Siècle) ...</em> 17 and 18 December 1928 sale. Hôtel Drouot, Paris, France.",
+      "page_number": "Mentioned and Reproduced; lot no. 329, pp. 34 and pl. XIV (between p. 32 and 33)",
+      "url": ""
+    },
+    {
+      "citation": "<em> Octagon </em>III, No. 4 (Winter 1966). London: Spink &amp; Son, pp. 12–13",
+      "page_number": "pp. 12, 13",
+      "url": null
+    },
+    {
+      "citation": "“Art of Asia Recently Acquired by American Museums, 1969.” <em>Archives of Asian Art</em>, vol. 24, 1970, pp. 86–117.",
+      "page_number": "Mentioned: p. 127",
+      "url": "www.jstor.org/stable/20111025"
+    },
+    {
+      "citation": "Beurdeley, Cécile, and Michel Beurdeley. <em>Giuseppe Castiglione, a Jesuit Painter at the Court of the Chinese Emperors</em>. Rutland, Vt: C.E. Tuttle Co, 1971.",
+      "page_number": "Mentioned and Reproduced: pp. 41, 43, 98–100, 178",
+      "url": null
+    },
+    {
+      "citation": "Beurdeley, Cécile, and Michel Beurdeley. \"Le frère Castiglione.\" <em>Connaissance des arts</em>, 1971, 235, pp. 72–79.",
+      "page_number": "Reproduced: p. 75",
+      "url": null
+    },
+    {
+      "citation": "Toynbee, Arnold, and Elsé Glahn. <em>Half the World: The History and Culture of China and Japan</em>. New York: Holt, Rinehart and Winston, 1973.",
+      "page_number": "Reproduced: p. 268",
+      "url": null
+    },
+    {
+      "citation": "Sung, Yu. \"A Comparison of Two Versions of the <em>Chü jui t'u</em> 聚瑞圖 by Giuseppe Castiglione.\" <em>National Palace Museum Bulletin</em> 故宮通訊, XI, no. 3 (July-August 1976).",
+      "page_number": "Reproduced: fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. “Varieties of Portraiture in Chinese and Japanese Art.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 64, no. 4, 1977, pp. 118–136.",
+      "page_number": "Mentioned and Reproduced: pp. 119–122, cover pls., figs. 1, 2",
+      "url": "www.jstor.org/stable/25159523"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 358",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n378"
+    },
+    {
+      "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+      "page_number": "Mentioned and Reproduced: pp. 355–357, cat. no. 262",
+      "url": null
+    },
+    {
+      "citation": "Bunker, Emma C., Dieter Kuhn and Ronald Y. Otsuka. <em>Secret Splendors of the Chinese Court: Qing Dynasty Costume from the Charlotte Hill Grant Collection, Denver Art Museum, Stanton Gallery, December 30, 1981-March 21, 1982</em>. Denver, CO: The Denver Art Museum, 1981.",
+      "page_number": "Reproduced: p. 26",
+      "url": ""
+    },
+    {
+      "citation": "Neils, Jenifer. “The Twain Shall Meet.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 72, no. 6, 1985, pp. 326–359.",
+      "page_number": "Reproduced: p. 355, fig. 60",
+      "url": "https://www.jstor.org/stable/25159914"
+    },
+    {
+      "citation": "Wilson, J. Keith. \"Powerful Form and Potent Symbol: The Dragon in Asia.\" <em>The Bulletin of the Cleveland Museum of Art</em> 77, no. 8 (1990): 286–323.",
+      "page_number": "Reproduced: cat. no. 35, p. 322",
+      "url": "https://www.jstor.org/stable/25161297"
+    },
+    {
+      "citation": "Garrett, Valery M. <em>A Collector's Guide to Chinese Dress Accessories</em>. Singapore: Times Editions, 1997.",
+      "page_number": "Reproduced",
+      "url": ""
+    },
+    {
+      "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1998.",
+      "page_number": "Mentioned and Reproduced:  pp. 100–101",
+      "url": null
+    },
+    {
+      "citation": "Paludan, Ann. <em>Chronicle of the Chinese Emperors: The Reign-by-Reign Record of the Rulers of Imperial China</em>. New York: Thames and Hudson, 1998.",
+      "page_number": "Mentioned and Reproduced: pp. 159 and 196",
+      "url": null
+    },
+    {
+      "citation": "<em>Tōyō kaiga no seika: tokubetsuten: Kurīvurando Bijutsukan no korekushon kara</em> [東洋絵画の精華: 特别展: クリーヴラント美術館のコレクションから= Highlights of Asian painting from the Cleveland Museum of Art]. Nara, Japan: Nara National Museum, 1998.",
+      "page_number": "Reproduced: p. 73, cat. no. 45",
+      "url": null
+    },
+    {
+      "citation": "Spence, Jonathan D. <em>The search for modern China</em>. New York/London: W. W. Norton, 1999.",
+      "page_number": "Reproduced",
+      "url": ""
+    },
+    {
+      "citation": "Vollmer, John E. \"Clothed to Rule the Universe: Ming and Qing Dynasty Textiles at The Art Institute of Chicago.\" <em>The Art Institute of Chicago Museum Studies</em>, vol. 26, no. 2, 2000, pp. 13–105.",
+      "page_number": "Reproduced: p. 27, fig. 3",
+      "url": "www.jstor.org/stable/4104402"
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland, OH: The Cleveland Museum of Art, 2001.",
+      "page_number": "Reproduced: cat. no. 83, pp. 78-9; Mentioned: p. 119",
+      "url": null
+    },
+    {
+      "citation": "Chan Tat Chuen, William. <em>A la table de l'empereur de Chine</em>. Arles: Éditions Philippe Picquier, 2002.",
+      "page_number": "Mentioned and Reproduced: pp. 8–9",
+      "url": null
+    },
+    {
+      "citation": "Berriedale-Johnson, Michelle. <em>The British Museum Festive Feasts Cookbook</em>. London: British Museum, 2003.",
+      "page_number": "Reproduced: p. 106",
+      "url": null
+    },
+    {
+      "citation": "Sale, Giovanni and Gauvin A Bailey. <em>Ignazio e l'arte dei gesuiti</em>. Milano: Jaca Book, 2003.",
+      "page_number": "Reproduced: fig. 276",
+      "url": null
+    },
+    {
+      "citation": "Ho, Chuimei, and Bennet Bronson. <em>Splendors of China's Forbidden City: The Glorious Reign of Emperor Qianlong</em>. London: Merrell, 2004.",
+      "page_number": "Mentioned and Reproduced: fig. 203, p. 294",
+      "url": null
+    },
+    {
+      "citation": "Ho, Chuimei. \"The Relations between Qianlong and His Consorts: Stories of a Man with Forty Wives.\" <em>Orientations</em> 35, no. 2 (March 2004): pp. 66–73.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Ho, Chuimei . \"Building a Cultural Great Wall.\" <em>Calliope</em>, December 2004, Vol. 15 Issue 4, pp. 30–32.",
+      "page_number": "Reproduced:  pp. 30–31",
+      "url": "http://search.ebscohost.com.ingallslibrary.idm.oclc.org/login.aspx?direct=true&db=hsi&AN=15325579&site=ehost-live."
+    },
+    {
+      "citation": "Pirazzoli-t'Serstevens, Michèle. “Giuseppe Castiglione Et Le Renouveau Du Portrait Impérial Au XVIII e. <em>Arts Asiatiques</em>, vol. 60, 2005, pp. 22–30.",
+      "page_number": "Mentioned and Reproduced: p. 24. fig. 3",
+      "url": "https://www-jstor-org.ingallslibrary.idm.oclc.org/stable/43484209"
+    },
+    {
+      "citation": "Elliott, Jeannette Shambaugh, and David L. Shambaugh. <em>The odyssey of China's Imperial art treasures</em>. Seattle: University of Washington Press, 2005.",
+      "page_number": "Mentioned and Reproduced: p. 52",
+      "url": ""
+    },
+    {
+      "citation": "Brummett, Palmira Johnson et al, eds. <em>Civilization Past &amp; Present</em>, 11th edition, Volume B: 500-1815. New York: Pearson Longman, 2006.",
+      "page_number": "Reproduced: p. 602",
+      "url": null
+    },
+    {
+      "citation": "Schoppa, R. Keith. <em>Revolution and Its Past: Identities and Change in Modern Chinese History</em>, 2nd edition. Upper Saddle River, NJ: Pearson Prentice Hall, 2006.",
+      "page_number": "Reproduced: p. 39",
+      "url": null
+    },
+    {
+      "citation": "Hsia, Ronnie Po-chia. <em>Noble patronage and Jesuit missions: Maria Theresia von Fugger-Wellenburg (1690-1762) and Jesuit missionaries in China and Vietnam</em>. Rome: Institutum Historicum Societatis Iesu, 2006.",
+      "page_number": "Reproduced",
+      "url": ""
+    },
+    {
+      "citation": "Chen, Pao-chen 陳葆真. \"A Study of the Portraits of Emperor Qianlong and His Consorts and Its Related Problems 《心寫治平》— 乾隆帝后妃嬪圖卷和相關議題的探討.\" <em>Mei shu shi yan jiu ji kan </em>(Taida Journal of Art History = 美術史研究集刊), no. 21 (September 2006): pp. 89–150.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Schoppa, R. Keith. <em>East Asia: Identities and Change in the Modern World, 1700-Present</em>. Upper Saddle River, NJ: Pearson/Prentice Hall, 2008.",
+      "page_number": "Reproduced",
+      "url": ""
+    },
+    {
+      "citation": "Elliott, Mark C. <em>Emperor Qianlong: Son of Heaven, Man of the World</em>. New York: Pearson Longman, 2009.",
+      "page_number": "Reproduced: cover",
+      "url": ""
+    },
+    {
+      "citation": "Fong, Wen, and Jerome Silbergeld, editor. <em>Bridges to Heaven: Essays on East Asian Art in Honor of Professor Wen C. Fong</em>. Princeton, NJ: P.Y. and Kinmay W. Tang Center for East Asian Art, Dept. of Art and Archaeology, Princeton University, 2011.",
+      "page_number": "Mentioned and Reproduced: pp. 336–337, 344, figs 1 & 13",
+      "url": null
+    },
+    {
+      "citation": "Kleutghen, Kristina. \"Contemplating Eternity: An Illusionistic Portrait of the Qianlong Emperor's Heir.\" <em>Orientations</em>, 42, Number 4 (May 2011).",
+      "page_number": "Mentioned and Reproduced: p. 77, fig. 3",
+      "url": null
+    },
+    {
+      "citation": "Franklin, David and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2012.",
+      "page_number": "Mentioned and Reproduced: cover and pp. 216–217",
+      "url": null
+    },
+    {
+      "citation": "Chung, Anita. <em>Ai Weiwei: Circle of Animals/Zodiac Heads: July 27, 2013-January 26, 2014, the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2013.",
+      "page_number": "Reproduced: p. 18, fig. 3 (detail); pp. 26–27, fig. 8",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 53 no. 05, September/October 2013.",
+      "page_number": "Mentioned and Reproduced: pp. 14–15",
+      "url": "https://archive.org/details/CMAMM2013-05/page/14"
+    },
+    {
+      "citation": "Chou, Ju-hsi and Anita Chung. <em>Silent poetry: Chinese paintings from the collection of the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 2015.",
+      "page_number": "Reproduced: pp. 434–439",
+      "url": null
+    },
+    {
+      "citation": "Xu, Jay and Li He, eds. <em>Emperors' Treasures: Chinese Art from the National Palace Museum, Taipei</em>. San Francisco: Asian Art Museum, 2016.",
+      "page_number": "Reproduced: p. 138, fig. 3",
+      "url": null
+    },
+    {
+      "citation": "Clunas, Craig. <em>Chinese Painting and Its Audiences.</em> Princeton, New Jersey: Princeton University Press, 2017.",
+      "page_number": "Reproduced: pp. 218–219, fig. 6.30",
+      "url": null
+    },
+    {
+      "citation": "von Spee, Clarissa. “The Power of Writing: A new display in the Chinese galleries focuses on inscriptions.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>58, no. 5 (September/October 2018): 12–13.",
+      "page_number": "Reproduced and Mentioned: p. 12",
+      "url": "https://archive.org/details/CMAMM2018-05/page/n5/mode/2up"
+    },
+    {
+      "citation": "Wang, Daisy Yiyou. \"Deciphering Portraits of Qing Empresses.\" In <em>Empresses of China's Forbidden City: 1644-1912.</em> Daisy Yiyou Wang, and Jan Stuart, eds., 88–109. Salem, Massachusetts: Peabody Essex Museum; Washington, DC: Freer/Sackler, Smithsonian Institution, 2018.",
+      "page_number": "Mentioned: pp. 101, 144; Reproduced: p. 103, fig. 18",
+      "url": null
+    },
+    {
+      "citation": "Wang, Daisy Yiyou. \"Family, Gender and Power: Portraying Qing Imperial Women.\" <em>Arts of Asia,</em> vol. 49, no. 1 (January-February 2019): pp. 20–33.",
+      "page_number": "Reproduced: fig. 1, pp. 20–21",
+      "url": null
+    },
+    {
+      "citation": "Vinograd, Richard Ellis. <em>Facing China: Truth and Memory in Portraiture</em>. London: Reaktion Books, 2022.",
+      "page_number": "Mentioned and Reproduced: pp. 28–29, fig. 7",
+      "url": ""
+    },
+    {
+      "citation": "Wang, Liangming. \"A World Dotted with Kingfisher Blue: Feather Tributes and the Qing Court.\" in <em>Social Lives of Chinese Objects, </em>edited by Alice Bianchi and Lyce Jankowski, 228–267. Leiden; Boston: Brill, 2023.",
+      "page_number": "Mentioned and Reproduced: p. 264, fig. 7.20",
+      "url": ""
+    },
+    {
+      "citation": "Xiaofei Tian, Richard von Glahn, Feng Zhao, S. J. Vainker, Masaaki Itakura, Jiang Wu, et al. <em>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</em>. Edited by Clarissa von Spee. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: p. 366, no. 200",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1969.31",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_web.jpg",
+      "width": "1263",
+      "height": "854",
+      "filesize": "666671",
+      "filename": "1969.31_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_print.jpg",
+      "width": "3400",
+      "height": "2300",
+      "filesize": "4896460",
+      "filename": "1969.31_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_full.tif",
+      "width": "6668",
+      "height": "4511",
+      "filesize": "90272568",
+      "filename": "1969.31_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt0_web.jpg",
+        "width": "837",
+        "height": "893",
+        "filesize": "502124"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt0_print.jpg",
+        "width": "3187",
+        "height": "3400",
+        "filesize": "8265407"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt0_full.tif",
+        "width": "4992",
+        "height": "5326",
+        "filesize": "79794844"
+      },
+      "date_created": "2008-03-04T15:16:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt1_web.jpg",
+        "width": "837",
+        "height": "893",
+        "filesize": "507346"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt1_print.jpg",
+        "width": "3187",
+        "height": "3400",
+        "filesize": "7516366"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt1_full.tif",
+        "width": "4992",
+        "height": "5326",
+        "filesize": "79797572"
+      },
+      "date_created": "2008-03-04T15:17:42",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt2_web.jpg",
+        "width": "836",
+        "height": "893",
+        "filesize": "467129"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt2_print.jpg",
+        "width": "3182",
+        "height": "3400",
+        "filesize": "7301601"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt2_full.tif",
+        "width": "4992",
+        "height": "5334",
+        "filesize": "79915596"
+      },
+      "date_created": "2008-03-04T15:18:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt3_web.jpg",
+        "width": "834",
+        "height": "893",
+        "filesize": "497764"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt3_print.jpg",
+        "width": "3177",
+        "height": "3400",
+        "filesize": "7475185"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt3_full.tif",
+        "width": "4992",
+        "height": "5342",
+        "filesize": "80036048"
+      },
+      "date_created": "2008-03-04T15:15:29",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt4_web.jpg",
+        "width": "1263",
+        "height": "441",
+        "filesize": "379201"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt4_print.jpg",
+        "width": "3400",
+        "height": "1186",
+        "filesize": "2730976"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt4_full.tif",
+        "width": "8500",
+        "height": "2964",
+        "filesize": "75617576"
+      },
+      "date_created": "2008-03-04T15:30:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt5_web.jpg",
+        "width": "1263",
+        "height": "94",
+        "filesize": "100451"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt5_print.jpg",
+        "width": "3400",
+        "height": "253",
+        "filesize": "682391"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt5_full.tif",
+        "width": "18000",
+        "height": "1342",
+        "filesize": "72523744"
+      },
+      "date_created": "2008-03-03T20:04:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt6_web.jpg",
+        "width": "1263",
+        "height": "852",
+        "filesize": "778891"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt6_print.jpg",
+        "width": "3400",
+        "height": "2294",
+        "filesize": "5891617"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt6_full.tif",
+        "width": "6668",
+        "height": "4498",
+        "filesize": "90011308"
+      },
+      "date_created": "2008-03-03T18:29:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt7_web.jpg",
+        "width": "1263",
+        "height": "858",
+        "filesize": "668902"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt7_print.jpg",
+        "width": "3400",
+        "height": "2309",
+        "filesize": "4937430"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt7_full.tif",
+        "width": "6668",
+        "height": "4528",
+        "filesize": "90612160"
+      },
+      "date_created": "2008-03-03T18:49:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt8_web.jpg",
+        "width": "1263",
+        "height": "853",
+        "filesize": "673634"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt8_print.jpg",
+        "width": "3400",
+        "height": "2296",
+        "filesize": "4944228"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt8_full.tif",
+        "width": "6668",
+        "height": "4503",
+        "filesize": "90110832"
+      },
+      "date_created": "2008-03-03T18:52:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt9_web.jpg",
+        "width": "1263",
+        "height": "857",
+        "filesize": "682383"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt9_print.jpg",
+        "width": "3400",
+        "height": "2307",
+        "filesize": "4987982"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt9_full.tif",
+        "width": "6668",
+        "height": "4524",
+        "filesize": "90531012"
+      },
+      "date_created": "2008-03-03T19:04:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt10_web.jpg",
+        "width": "1263",
+        "height": "857",
+        "filesize": "690077"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt10_print.jpg",
+        "width": "3400",
+        "height": "2307",
+        "filesize": "5056455"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt10_full.tif",
+        "width": "6668",
+        "height": "4524",
+        "filesize": "90531220"
+      },
+      "date_created": "2008-03-03T19:09:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt11_web.jpg",
+        "width": "1263",
+        "height": "855",
+        "filesize": "687575"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt11_print.jpg",
+        "width": "3400",
+        "height": "2301",
+        "filesize": "5123091"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt11_full.tif",
+        "width": "6668",
+        "height": "4512",
+        "filesize": "90291144"
+      },
+      "date_created": "2008-03-03T19:24:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt12_web.jpg",
+        "width": "1263",
+        "height": "855",
+        "filesize": "693311"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt12_print.jpg",
+        "width": "3400",
+        "height": "2301",
+        "filesize": "5315072"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt12_full.tif",
+        "width": "6668",
+        "height": "4512",
+        "filesize": "90291272"
+      },
+      "date_created": "2008-03-03T19:28:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt13_web.jpg",
+        "width": "1263",
+        "height": "856",
+        "filesize": "686976"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt13_print.jpg",
+        "width": "3400",
+        "height": "2304",
+        "filesize": "5389308"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt13_full.tif",
+        "width": "6668",
+        "height": "4518",
+        "filesize": "90411276"
+      },
+      "date_created": "2008-03-03T19:31:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt14_web.jpg",
+        "width": "1263",
+        "height": "854",
+        "filesize": "691672"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt14_print.jpg",
+        "width": "3400",
+        "height": "2298",
+        "filesize": "5435339"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt14_full.tif",
+        "width": "6668",
+        "height": "4506",
+        "filesize": "90171236"
+      },
+      "date_created": "2008-03-03T19:35:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt15_web.jpg",
+        "width": "1263",
+        "height": "854",
+        "filesize": "714418"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt15_print.jpg",
+        "width": "3400",
+        "height": "2298",
+        "filesize": "5556126"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt15_full.tif",
+        "width": "6668",
+        "height": "4506",
+        "filesize": "90171804"
+      },
+      "date_created": "2008-03-03T19:39:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt16_web.jpg",
+        "width": "1263",
+        "height": "854",
+        "filesize": "738010"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt16_print.jpg",
+        "width": "3400",
+        "height": "2298",
+        "filesize": "5630968"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt16_full.tif",
+        "width": "6668",
+        "height": "4506",
+        "filesize": "90171952"
+      },
+      "date_created": "2008-03-03T19:42:29",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt17_web.jpg",
+        "width": "1263",
+        "height": "854",
+        "filesize": "731383"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt17_print.jpg",
+        "width": "3400",
+        "height": "2298",
+        "filesize": "5678637"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt17_full.tif",
+        "width": "6668",
+        "height": "4506",
+        "filesize": "90171560"
+      },
+      "date_created": "2008-03-03T19:45:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt18_web.jpg",
+        "width": "1263",
+        "height": "853",
+        "filesize": "716486"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt18_print.jpg",
+        "width": "3400",
+        "height": "2295",
+        "filesize": "5577456"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_alt18_full.tif",
+        "width": "6668",
+        "height": "4500",
+        "filesize": "90051208"
+      },
+      "date_created": "2008-03-03T19:49:21",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 144689,
+  "creators": [
+    {
+      "id": 27841,
+      "description": "Giuseppe Castiglione (Italian, 1688–1766)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "Italian Jesuit missionary and painter, who worked in China. He served as an artist at the imperial court of three emperors: the Kangzi, Yongzheng, and Qianlong emperors. He painted in a style that is a fusion of European and Chinese traditions.",
+      "name_in_original_language": "郎世寧",
+      "birth_year": "1688",
+      "death_year": "1766",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 64411,
+      "description": "others (Chinese)",
+      "extent": null,
+      "qualifier": "and",
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 2
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1969-01-22T00:00:00",
+  "sortable_date": 1736,
+  "date_added_to_oa": null,
+  "date_text": "1736–70s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Portraits of Emperor Qianlong, the Empress, and Eleven Imperial Consorts",
+    "Portraits of Emperor Qianlong and His Twelve Consorts 乾隆帝及后妃圖卷",
+    "Portraits of Emperor Qianlong and His Twelve Consorts",
+    "Inauguration Portraits of Emperor Ch'ien-lung, the Empress, and the Eleven Imperial Consorts"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:44.266000"
+}

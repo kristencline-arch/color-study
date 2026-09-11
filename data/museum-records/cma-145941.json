@@ -1,0 +1,227 @@
+{
+  "id": 145941,
+  "accession_number": "1971.149",
+  "share_license_status": "CC0",
+  "tombstone": "Malagan Memorial Festival Pole, 1800s. Melanesia, New Ireland, 19th century. Painted wood, sea snail opercula; overall: 92.7 cm (36 1/2 in.). The Cleveland Museum of Art, Gift of Dr. and Mrs. Thomas Munro, 1971.149",
+  "current_location": null,
+  "title": "Malagan Memorial Festival Pole",
+  "creation_date": "1800s",
+  "creation_date_earliest": 1800,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Melanesia, New Ireland, 19th century"
+  ],
+  "technique": "painted wood, sea snail opercula",
+  "support_materials": [],
+  "department": "Oceania",
+  "collection": "Oceanic Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 92.7 cm (36 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.927,
+      "height_inch": 36,
+      "height_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301427,
+        "title": "Year in Review: 1971",
+        "description": "<i>Year in Review: 1971</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1971-February 6, 1972).",
+        "opening_date": "1971-12-28T05:00:00"
+      },
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "At the death of an important individual in New Ireland society, villagers begin preparations for an elaborate funeral (malagan) ceremony.  Food is collected for feasts, and artists are commissioned to carve elaborate sculptures and masks.  Neighboring groups are invited to the ceremonies, which last for days and include speeches, dancing, music, feasts, and exchanges of goods.  The ceremonies climax in the display of the elaborately carved, brightly painted art works.  After the guests' departure, the malagan sculptures and masks are discarded, or sometimes stored.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79923836"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.149-malagan-memorial-fes"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1971.149",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_web.jpg",
+      "width": "418",
+      "height": "900",
+      "filesize": "173285",
+      "filename": "1971.149_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_print.jpg",
+      "width": "1580",
+      "height": "3400",
+      "filesize": "1099877",
+      "filename": "1971.149_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_full.tif",
+      "width": "5879",
+      "height": "12654",
+      "filesize": "297596524",
+      "filename": "1971.149_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt0_web.jpg",
+        "width": "426",
+        "height": "900",
+        "filesize": "172459"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt0_print.jpg",
+        "width": "1609",
+        "height": "3400",
+        "filesize": "1131571"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt0_full.tif",
+        "width": "6269",
+        "height": "13246",
+        "filesize": "332181684"
+      },
+      "date_created": "2021-03-31T13:47:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt1_web.jpg",
+        "width": "403",
+        "height": "900",
+        "filesize": "176176"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt1_print.jpg",
+        "width": "1524",
+        "height": "3400",
+        "filesize": "1167643"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt1_full.tif",
+        "width": "5758",
+        "height": "12842",
+        "filesize": "295802004"
+      },
+      "date_created": "2021-03-31T14:18:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt2_web.jpg",
+        "width": "441",
+        "height": "900",
+        "filesize": "175121"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt2_print.jpg",
+        "width": "1665",
+        "height": "3400",
+        "filesize": "1193963"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt2_full.tif",
+        "width": "6407",
+        "height": "13080",
+        "filesize": "335239140"
+      },
+      "date_created": "2021-03-31T14:28:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt3_web.jpg",
+        "width": "424",
+        "height": "900",
+        "filesize": "176579"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt3_print.jpg",
+        "width": "1600",
+        "height": "3400",
+        "filesize": "1199537"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt3_full.tif",
+        "width": "6176",
+        "height": "13120",
+        "filesize": "324141424"
+      },
+      "date_created": "2021-03-31T14:39:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt4_web.jpg",
+        "width": "452",
+        "height": "900",
+        "filesize": "175484"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt4_print.jpg",
+        "width": "1709",
+        "height": "3400",
+        "filesize": "1223714"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.149/1971.149_alt4_full.tif",
+        "width": "6452",
+        "height": "12834",
+        "filesize": "331244784"
+      },
+      "date_created": "2021-03-31T14:48:11",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Dr. and Mrs. Thomas Munro",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145941,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-12-11T00:00:00",
+  "sortable_date": 1800,
+  "date_added_to_oa": null,
+  "date_text": "1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:44.374000"
+}

@@ -1,0 +1,166 @@
+{
+  "id": 145725,
+  "accession_number": "1971.124",
+  "share_license_status": "CC0",
+  "tombstone": "Monk Teaching Lay Disciple: Colophon page from a Kalpa-sutra and Story of Kalakacharya of Devachandra, 1279. Western India, Gujarat, Patan (Anahillapura), reign of King Sarangadeva of the Vaghela dynasty (1275-1297). Gum tempera and ink on palm leaf; overall: 4.7 x 35.6 cm (1 7/8 x 14 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.124",
+  "current_location": null,
+  "title": "Monk Teaching Lay Disciple: Colophon page from a Kalpa-sutra and Story of Kalakacharya of Devachandra",
+  "creation_date": "1279",
+  "creation_date_earliest": 1279,
+  "creation_date_latest": 1279,
+  "artists_tags": [],
+  "culture": [
+    "Western India, Gujarat, Patan (Anahillapura), reign of King Sarangadeva of the Vaghela dynasty (1275-1297)"
+  ],
+  "technique": "Gum tempera and ink on palm leaf",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Painting",
+  "measurements": "Overall: 4.7 x 35.6 cm (1 7/8 x 14 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.047,
+      "height_inch": 1,
+      "height_inch_fraction": 0.875,
+      "width": 0.356,
+      "width_inch": 14,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Sri Anahillapure Maharajadhiraja Sri Sarangadevasya Vijayarajye Likhitam on the fifth day of the bright half of Jyestha, Samvat 1336\" (AD1279)",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 350154,
+        "title": "Paintings of Bikaner – Indian Gallery 242 Rotation",
+        "description": "<i>Paintings of Bikaner – Indian Gallery 242 Rotation</i>. The Cleveland Museum of Art (organizer) (November 7, 2019-April 5, 2020).",
+        "opening_date": "2019-11-07T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 245)</em>. The Cleveland Museum of Art, Cleveland, OH",
+        "opening_date": null
+      },
+      {
+        "description": "(December 31, 2013–June 30, 2014). (1971.118.7.a)",
+        "opening_date": "2013-12-31T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 145722,
+      "description": "Folio 2, from a Kalpa-sutra and Story of Kalakacharya of Devachandra: Enthroned Monk Gautama (recto); Text (verso), 1279. Western India, Gujarat, Patan (Anahillapura), reign of King Sarangadeva of the Vaghela dynasty (1275-1297). Gum tempera and ink on palm leaf; overall: 4.4 x 35.2 cm (1 3/4 x 13 7/8 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.123",
+      "relationship": "related series"
+    }
+  ],
+  "former_accession_numbers": [
+    "1971.124",
+    "1971.118.7"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Before the use of paper, Indian books were written on palm leaves, bound by a string passed through the hole in the middle of the pages, which were turned horizontally. Often the paintings do not reference the story of the text because they may have functioned as adornments rather than illustrations. Virtuous scenes, such as a layman venerating a Jain monk, as seen on this page, were apparently thought to beautify a sacred text and made it more costly and visually appealing. By adding painted adornments, a donor can accrue greater religious merit.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q115785371"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.124-monk-teaching-lay-di"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1971.124",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_web.jpg",
+      "width": "900",
+      "height": "164",
+      "filesize": "146044",
+      "filename": "1971.124_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_print.jpg",
+      "width": "3400",
+      "height": "621",
+      "filesize": "731762",
+      "filename": "1971.124_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_full.tif",
+      "width": "7816",
+      "height": "1428",
+      "filesize": "33512696",
+      "filename": "1971.124_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_alt0_web.jpg",
+        "width": "900",
+        "height": "174",
+        "filesize": "119581"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_alt0_print.jpg",
+        "width": "3400",
+        "height": "659",
+        "filesize": "629131"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.124/1971.124_alt0_full.tif",
+        "width": "7818",
+        "height": "1516",
+        "filesize": "35584880"
+      },
+      "date_created": "2014-10-30T11:22:35",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145725,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-09-08T00:00:00",
+  "sortable_date": 1279,
+  "date_added_to_oa": null,
+  "date_text": "1279",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Jain Monk Teaching, from \"The Story of Shalibhadra\"",
+    "Leaf from a Jain Manuscript: The Story of Kalakacharya",
+    "Mahavira Preaching to a Kneeling Woman; Page from a Kalpa Sutra",
+    "Leaf from a Jain Manuscript: Colophon page, Kalpa-sutra and The Story of Kalakacharya of Devachandra: Monk Teaching Lay Disciple"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:28:38.562000"
+}

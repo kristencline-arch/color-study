@@ -1,0 +1,238 @@
+{
+  "id": 159839,
+  "accession_number": "1997.150",
+  "share_license_status": "CC0",
+  "tombstone": "Four-Cornered Hat, c. 400–1000. Peru, South Andes or Chile, Northern Andes, Tiwanaku style, 5th-10th Century. Alpaca; overall: 14.6 x 16 x 20 cm (5 3/4 x 6 5/16 x 7 7/8 in.). The Cleveland Museum of Art, James Albert and Mary Gardiner Ford Memorial Fund, 1997.150",
+  "current_location": null,
+  "title": "Four-Cornered Hat",
+  "creation_date": "c. 400–1000",
+  "creation_date_earliest": 400,
+  "creation_date_latest": 1000,
+  "artists_tags": [],
+  "culture": [
+    "Peru, South Andes or Chile, Northern Andes, Tiwanaku style, 5th-10th Century"
+  ],
+  "technique": "alpaca",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Pre-Columbian",
+  "type": "Textile",
+  "measurements": "Overall: 14.6 x 16 x 20 cm (5 3/4 x 6 5/16 x 7 7/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.146,
+      "height_inch": 5,
+      "height_inch_fraction": 0.75,
+      "width": 0.16,
+      "width_inch": 6,
+      "width_inch_fraction": 0.3125,
+      "depth": 0.2,
+      "depth_inch": 7,
+      "depth_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 227450,
+        "title": "Tiwanaku: Ancestors of the Inca",
+        "description": "<i>Tiwanaku: Ancestors of the Inca</i>. Denver Art Museum, Denver, CO (organizer) (October 16, 2004-January 23, 2005).",
+        "opening_date": "2004-10-16T00:00:00"
+      },
+      {
+        "id": 348277,
+        "title": "Gallery 232- Andean Textile Rotation",
+        "description": "<i>Gallery 232- Andean Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 5, 2015-August 29, 2016).",
+        "opening_date": "2015-08-05T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "A distinctive type of Tiwanaku and Wari headgear was a hat with four ear-like peaks rising from the corners. Depicted on warriors and other men who wear prestigious clothing and ornaments, the hats were made with knots, visible on all sides of this handsome Tiwanaku example. The hat is decorated with a pattern that includes a profile bird head.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79980092"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1997.150-four-cornered-hat"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Young-Sánchez, Margaret. Tiwanaku: Ancestors of the Inca. Denver, CO: Denver Art Museum, 2004.",
+      "page_number": "p. 173, Cat. No. 6.24",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1997.150",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_web.jpg",
+      "width": "1006",
+      "height": "893",
+      "filesize": "111914",
+      "filename": "1997.150_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_print.jpg",
+      "width": "3400",
+      "height": "3017",
+      "filesize": "1022757",
+      "filename": "1997.150_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_full.tif",
+      "width": "6162",
+      "height": "5468",
+      "filesize": "101111892",
+      "filename": "1997.150_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt0_web.jpg",
+        "width": "798",
+        "height": "893",
+        "filesize": "102979"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt0_print.jpg",
+        "width": "3038",
+        "height": "3400",
+        "filesize": "1138233"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt0_full.tif",
+        "width": "4782",
+        "height": "5351",
+        "filesize": "76792488"
+      },
+      "date_created": "2013-02-13T16:15:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt1_web.jpg",
+        "width": "857",
+        "height": "893",
+        "filesize": "105147"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt1_print.jpg",
+        "width": "3263",
+        "height": "3400",
+        "filesize": "1222065"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt1_full.tif",
+        "width": "5136",
+        "height": "5351",
+        "filesize": "82474736"
+      },
+      "date_created": "2013-02-13T16:24:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt2_web.jpg",
+        "width": "822",
+        "height": "893",
+        "filesize": "102474"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt2_print.jpg",
+        "width": "3131",
+        "height": "3400",
+        "filesize": "1203463"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt2_full.tif",
+        "width": "4973",
+        "height": "5400",
+        "filesize": "80587428"
+      },
+      "date_created": "2013-02-13T16:31:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt3_web.jpg",
+        "width": "800",
+        "height": "893",
+        "filesize": "120334"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt3_print.jpg",
+        "width": "3045",
+        "height": "3400",
+        "filesize": "1432480"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt3_full.tif",
+        "width": "5188",
+        "height": "5791",
+        "filesize": "90158088"
+      },
+      "date_created": "2013-02-13T16:42:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt4_web.jpg",
+        "width": "720",
+        "height": "893",
+        "filesize": "464276"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt4_print.jpg",
+        "width": "1536",
+        "height": "1905",
+        "filesize": "2177682"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1997.150/1997.150_alt4_full.tif",
+        "width": "1536",
+        "height": "1905",
+        "filesize": "8781468"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "James Albert and Mary Gardiner Ford Memorial Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159839,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1997-09-15T00:00:00",
+  "sortable_date": 400,
+  "date_added_to_oa": null,
+  "date_text": "c. 400–1000",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:17:35.515000"
+}

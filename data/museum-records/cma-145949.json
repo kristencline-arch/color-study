@@ -1,0 +1,113 @@
+{
+  "id": 145949,
+  "accession_number": "1971.156",
+  "share_license_status": "CC0",
+  "tombstone": "Tapa Cloth, before 1930. Oceania, Polynesia, Hawaii, 20th century. Probably mulberry bark (Broussonetia papyrifera); overall: 106.4 x 18.5 cm (41 7/8 x 7 5/16 in.). The Cleveland Museum of Art, Gift of Dr. and Mrs. Thomas Munro, 1971.156",
+  "current_location": null,
+  "title": "Tapa Cloth",
+  "creation_date": "before 1930",
+  "creation_date_earliest": 1900,
+  "creation_date_latest": 1929,
+  "artists_tags": [],
+  "culture": [
+    "Oceania, Polynesia, Hawaii, 20th century"
+  ],
+  "technique": "probably mulberry bark (Broussonetia papyrifera)",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 106.4 x 18.5 cm (41 7/8 x 7 5/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.064,
+      "height_inch": 41,
+      "height_inch_fraction": 0.875,
+      "width": 0.185,
+      "width_inch": 7,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301427,
+        "title": "Year in Review: 1971",
+        "description": "<i>Year in Review: 1971</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1971-February 6, 1972).",
+        "opening_date": "1971-12-28T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79923861"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.156-tapa-cloth"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1971.156",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.156/1971.156_web.jpg",
+      "width": "900",
+      "height": "209",
+      "filesize": "60183",
+      "filename": "1971.156_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.156/1971.156_print.jpg",
+      "width": "3400",
+      "height": "791",
+      "filesize": "550918",
+      "filename": "1971.156_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.156/1971.156_full.tif",
+      "width": "7643",
+      "height": "1778",
+      "filesize": "40796736",
+      "filename": "1971.156_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Dr. and Mrs. Thomas Munro",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145949,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-12-11T00:00:00",
+  "sortable_date": 1900,
+  "date_added_to_oa": null,
+  "date_text": "before 1930",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:18:21.478000"
+}

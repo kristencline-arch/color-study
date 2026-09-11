@@ -1,0 +1,298 @@
+{
+  "id": 155100,
+  "accession_number": "1989.90",
+  "share_license_status": "CC0",
+  "tombstone": "Warrior Vessel, c. 50–200 CE. Peru, North Coast, Moche, Moche style (50-800). Earthenware with colored slips; overall: 21.6 x 11.3 x 14.9 cm (8 1/2 x 4 7/16 x 5 7/8 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1989.90",
+  "current_location": "232 Andean",
+  "title": "Warrior Vessel",
+  "creation_date": "c. 50–200 CE",
+  "creation_date_earliest": 50,
+  "creation_date_latest": 200,
+  "artists_tags": [],
+  "culture": [
+    "Peru, North Coast, Moche, Moche style (50-800)"
+  ],
+  "technique": "earthenware with colored slips",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Andes",
+  "type": "Ceramic",
+  "measurements": "Overall: 21.6 x 11.3 x 14.9 cm (8 1/2 x 4 7/16 x 5 7/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.216,
+      "height_inch": 8,
+      "height_inch_fraction": 0.5,
+      "width": 0.113,
+      "width_inch": 4,
+      "width_inch_fraction": 0.4375,
+      "depth": 0.149,
+      "depth_inch": 5,
+      "depth_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 310333,
+        "title": "The Year in Review for 1989",
+        "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+        "opening_date": "1990-02-06T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This vessel's exquisite, crisp detail rewards careful viewing. The modeling of the feline pelt on the back is especially delicate and sharp, and each of the squares on the tunic carries a tiny dot in the upper corners, as though the squares represent plates of metal or shell attached to fabric. The face is decorated with paint or tattooing, and the headdress supports a curved, blade-shaped form.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60760815"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1989.90-warrior-vessel"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "E. H. T. “The Year in Review: Selections 1989.” <em>The Bulletin of the Cleveland Museum of Art</em> 77, no. 2 (February 1990): 38–78.",
+      "page_number": "Reproduced: p. 53; Mentioned: p. 77, no. 201",
+      "url": "http://www.jstor.org/stable/25160106"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1989.90",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_web.jpg",
+      "width": "773",
+      "height": "893",
+      "filesize": "348834",
+      "filename": "1989.90_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_print.jpg",
+      "width": "2943",
+      "height": "3400",
+      "filesize": "6306401",
+      "filename": "1989.90_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_full.tif",
+      "width": "4252",
+      "height": "4911",
+      "filesize": "62675724",
+      "filename": "1989.90_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt0_web.jpg",
+        "width": "899",
+        "height": "893",
+        "filesize": "60583"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt0_print.jpg",
+        "width": "3400",
+        "height": "3377",
+        "filesize": "845746"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt0_full.tif",
+        "width": "4658",
+        "height": "4627",
+        "filesize": "64688184"
+      },
+      "date_created": "2012-01-04T15:28:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt1_web.jpg",
+        "width": "933",
+        "height": "893",
+        "filesize": "62949"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt1_print.jpg",
+        "width": "3400",
+        "height": "3255",
+        "filesize": "784233"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt1_full.tif",
+        "width": "4841",
+        "height": "4635",
+        "filesize": "67345980"
+      },
+      "date_created": "2012-01-04T15:47:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt2_web.jpg",
+        "width": "872",
+        "height": "893",
+        "filesize": "366401"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt2_print.jpg",
+        "width": "3321",
+        "height": "3400",
+        "filesize": "6769511"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt2_full.tif",
+        "width": "4877",
+        "height": "4992",
+        "filesize": "73067768"
+      },
+      "date_created": "2011-02-07T13:39:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt3_web.jpg",
+        "width": "825",
+        "height": "893",
+        "filesize": "357901"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt3_print.jpg",
+        "width": "3141",
+        "height": "3400",
+        "filesize": "6496581"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt3_full.tif",
+        "width": "4612",
+        "height": "4992",
+        "filesize": "69098552"
+      },
+      "date_created": "2011-02-07T13:49:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt4_web.jpg",
+        "width": "819",
+        "height": "893",
+        "filesize": "353390"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt4_print.jpg",
+        "width": "3117",
+        "height": "3400",
+        "filesize": "6336109"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt4_full.tif",
+        "width": "4579",
+        "height": "4994",
+        "filesize": "68632932"
+      },
+      "date_created": "2011-02-07T14:00:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt5_web.jpg",
+        "width": "1071",
+        "height": "893",
+        "filesize": "428259"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt5_print.jpg",
+        "width": "3400",
+        "height": "2834",
+        "filesize": "5379910"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt5_full.tif",
+        "width": "4461",
+        "height": "3719",
+        "filesize": "49800940"
+      },
+      "date_created": "2011-02-07T14:08:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt6_web.jpg",
+        "width": "980",
+        "height": "893",
+        "filesize": "429657"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt6_print.jpg",
+        "width": "3400",
+        "height": "3097",
+        "filesize": "6591590"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt6_full.tif",
+        "width": "3808",
+        "height": "3469",
+        "filesize": "39657876"
+      },
+      "date_created": "2011-02-07T14:14:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt7_web.jpg",
+        "width": "707",
+        "height": "893",
+        "filesize": "326051"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt7_print.jpg",
+        "width": "1536",
+        "height": "1940",
+        "filesize": "1636952"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.90/1989.90_alt7_full.tif",
+        "width": "1536",
+        "height": "1940",
+        "filesize": "8942804"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Andrew R. and Martha Holden Jennings Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 155100,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1989-12-04T00:00:00",
+  "sortable_date": 50,
+  "date_added_to_oa": null,
+  "date_text": "c. 50–200 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:01:55.925000"
+}

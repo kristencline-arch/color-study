@@ -1,0 +1,147 @@
+{
+  "id": 97991,
+  "accession_number": "1917.62",
+  "share_license_status": "CC0",
+  "tombstone": "Hubbell Revival-Style Rug with Moki (Moqui) Stripes, c. 1890–1910. America, Native North American, Southwest, Navajo (Dine), female artist. Wool (Germantown): tapestry weave; overall: 194.8 x 138.4 cm (76 11/16 x 54 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. L. E. Holden, 1917.62",
+  "current_location": null,
+  "title": "Hubbell Revival-Style Rug with Moki (Moqui) Stripes",
+  "creation_date": "c. 1890–1910",
+  "creation_date_earliest": 1890,
+  "creation_date_latest": 1910,
+  "artists_tags": [],
+  "culture": [
+    "America, Native North American, Southwest, Navajo (Dine), female artist"
+  ],
+  "technique": "Wool (Germantown): tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Native North American",
+  "type": "Textile",
+  "measurements": "Overall: 194.8 x 138.4 cm (76 11/16 x 54 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.948,
+      "height_inch": 76,
+      "height_inch_fraction": 0.6875,
+      "width": 1.384,
+      "width_inch": 54,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 437331,
+        "title": "Native North American Gallery 108 Rotation",
+        "description": "<i>Native North American Gallery 108 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 9, 2004-May 26, 2005).",
+        "opening_date": "2004-07-09T04:00:00"
+      },
+      {
+        "id": 181802,
+        "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+        "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+        "opening_date": "2006-06-09T00:00:00"
+      },
+      {
+        "id": 296751,
+        "title": "Gallery 231 - Native North American Textile Rotation",
+        "description": "<i>Gallery 231 - Native North American Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 21, 2017-August 27, 2018).",
+        "opening_date": "2017-08-21T04:00:00"
+      },
+      {
+        "id": 540089,
+        "title": "Native North American Textiles and Works on Paper",
+        "description": "<i>Native North American Textiles and Works on Paper</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 8, 2023-December 8, 2024).",
+        "opening_date": "2023-12-08T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Native North American textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (July 9, 2004-May 26, 2005).",
+        "opening_date": "2004-07-09T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Navajo blankets are splendid microcosms of the Southwest’s cultural richness. This example has two old Navajo designs: the terraced diamond and the striped moki pattern. Moki’s origin is unclear. It may have come from Pueblo peoples, from whom the Navajo learned weaving after migrating to the Southwest from Canada. Or it could have come from the Spaniards, who arrived in the Southwest in 1540, not long after the Navajo. Though the patterns are old, the blanket was created around 1900 when Navajo weavers began to innovate for the Anglo market, and wearing-blankets, which were worn around the shoulders, became rugs sold to outsiders. In Navajo legend, weaving is connected to the mythic Spider-Woman, who on her loom wove the universe from cosmic materials. Weaving, then, is an activity charged with meaning. The Navajo place emphasis not so much on the final product but on the process, which they regard as a means of creating beauty and projecting it onto the world.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79482934"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1917.62-hubbell-revival-styl"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Accessions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 4 (1917): 64-67.",
+      "page_number": "Mentioned: p. 64",
+      "url": "http://www.jstor.org/stable/25136092"
+    },
+    {
+      "citation": "Sims, Lowery Stokes. The persistence of geometry: form, content, and culture in the collection of the Cleveland Museum of Art. Cleveland: Cleveland Museum of Art, 2006.",
+      "page_number": "p. 88 & 118, No. 62",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1917.62",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.62/1917.62_web.jpg",
+      "width": "1198",
+      "height": "893",
+      "filesize": "749898",
+      "filename": "1917.62_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.62/1917.62_print.jpg",
+      "width": "3400",
+      "height": "2535",
+      "filesize": "5965211",
+      "filename": "1917.62_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.62/1917.62_full.tif",
+      "width": "5064",
+      "height": "3775",
+      "filesize": "57383148",
+      "filename": "1917.62_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Mrs. L. E. Holden",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 97991,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1917-02-14T00:00:00",
+  "sortable_date": 1890,
+  "date_added_to_oa": null,
+  "date_text": "c. 1890–1910",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:17:21.945000"
+}

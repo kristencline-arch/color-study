@@ -1,0 +1,220 @@
+{
+  "id": 160711,
+  "accession_number": "1998.70",
+  "share_license_status": "CC0",
+  "tombstone": "Vessel with Oculate Being, 300 BCE–1 CE. Peru, South Coast, Paracas (Cavernas) style (700 BCE–1 CE). Earthenware with resin-based paint; overall: 40.8 cm (16 1/16 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 1998.70",
+  "current_location": "232 Andean",
+  "title": "Vessel with Oculate Being",
+  "creation_date": "300 BCE–1 CE",
+  "creation_date_earliest": -300,
+  "creation_date_latest": 1,
+  "artists_tags": [],
+  "culture": [
+    "Peru, South Coast, Paracas (Cavernas) style (700 BCE–1 CE)"
+  ],
+  "technique": "earthenware with resin-based paint",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Andes",
+  "type": "Ceramic",
+  "measurements": "Overall: 40.8 cm (16 1/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.408,
+      "height_inch": 16,
+      "height_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "A supernatural creature known today as the Oculate Being, after its huge eyes, became prominent late in Paracas times. The Paracas left no written records and this creature's meaning is poorly apprehended, but it clutches a severed human head by the hair. A hint of the head's significance comes from the Oculate Being itself, whose head sprouts streamers that may represent abstract energy or force. The severed head cult, then, may have aimed at capturing and redirecting this energy. (Other Paracas objects appear nearby.)",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757446"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1998.70-vessel-with-oculate"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Bergh, Susan E., \"Ancient Eyes\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 44 no. 06, Summer 2004",
+      "page_number": "Mentioned & reproduced: p. 8-9",
+      "url": "https://archive.org/details/CMAMM2004-06/page/n7"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1998.70",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_web.jpg",
+      "width": "1021",
+      "height": "893",
+      "filesize": "103180",
+      "filename": "1998.70_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_print.jpg",
+      "width": "1536",
+      "height": "1933",
+      "filesize": "1993925",
+      "filename": "1998.70_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_full.tif",
+      "width": "1536",
+      "height": "1933",
+      "filesize": "8910540",
+      "filename": "1998.70_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt0_web.jpg",
+        "width": "1060",
+        "height": "893",
+        "filesize": "97277"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt0_print.jpg",
+        "width": "3400",
+        "height": "2863",
+        "filesize": "1081358"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt0_full.tif",
+        "width": "5860",
+        "height": "4935",
+        "filesize": "86786620"
+      },
+      "date_created": "2011-02-16T14:51:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt1_web.jpg",
+        "width": "1035",
+        "height": "893",
+        "filesize": "99729"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt1_print.jpg",
+        "width": "3400",
+        "height": "2934",
+        "filesize": "1142352"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt1_full.tif",
+        "width": "5672",
+        "height": "4896",
+        "filesize": "83341100"
+      },
+      "date_created": "2011-02-16T14:54:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt2_web.jpg",
+        "width": "1044",
+        "height": "893",
+        "filesize": "105104"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt2_print.jpg",
+        "width": "3400",
+        "height": "2908",
+        "filesize": "1161723"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt2_full.tif",
+        "width": "5787",
+        "height": "4950",
+        "filesize": "85965852"
+      },
+      "date_created": "2011-02-16T14:56:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt3_web.jpg",
+        "width": "953",
+        "height": "893",
+        "filesize": "133071"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt3_print.jpg",
+        "width": "3400",
+        "height": "3186",
+        "filesize": "1733379"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt3_full.tif",
+        "width": "5167",
+        "height": "4843",
+        "filesize": "75094660"
+      },
+      "date_created": "2011-02-16T15:01:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt4_web.jpg",
+        "width": "959",
+        "height": "893",
+        "filesize": "76928"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt4_print.jpg",
+        "width": "3400",
+        "height": "3167",
+        "filesize": "1214711"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.70/1998.70_alt4_full.tif",
+        "width": "5010",
+        "height": "4667",
+        "filesize": "70169744"
+      },
+      "date_created": "2011-02-16T15:04:31",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 160711,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1998-06-01T00:00:00",
+  "sortable_date": -300,
+  "date_added_to_oa": null,
+  "date_text": "300 BCE–1 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:20:58.860000"
+}

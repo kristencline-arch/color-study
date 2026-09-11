@@ -1,0 +1,133 @@
+{
+  "id": 156262,
+  "accession_number": "1992.106",
+  "share_license_status": "CC0",
+  "tombstone": "Ceremonial Cloth, early 1900s. Indonesia, Bali, Tengann Pageringsingan, early 20th century. Double ikat, tabby weave; cotton; overall: 250 x 49.5 cm (98 7/16 x 19 1/2 in.). The Cleveland Museum of Art, Seventy-fifth anniversary gift of the Textile Art Alliance in memory of Dorothy G. Shepherd, 1992.106",
+  "current_location": null,
+  "title": "Ceremonial Cloth",
+  "creation_date": "early 1900s",
+  "creation_date_earliest": 1900,
+  "creation_date_latest": 1920,
+  "artists_tags": [],
+  "culture": [
+    "Indonesia, Bali, Tengann Pageringsingan, early 20th century"
+  ],
+  "technique": "double ikat, tabby weave; cotton",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 250 x 49.5 cm (98 7/16 x 19 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.5,
+      "height_inch": 98,
+      "height_inch_fraction": 0.4375,
+      "width": 0.495,
+      "width_inch": 19,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311486,
+        "title": "Signs of Affection: Gifts Honoring the Museum's 75th Anniversary",
+        "description": "<i>Signs of Affection: Gifts Honoring the Museum's 75th Anniversary</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27, 1992-January 3, 1993).",
+        "opening_date": "1992-10-27T05:00:00"
+      },
+      {
+        "id": 311528,
+        "title": "Resist Dyed Textiles from India, Indonesia and Cambodia",
+        "description": "<i>Resist Dyed Textiles from India, Indonesia and Cambodia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 22, 1993-March 27, 1995).",
+        "opening_date": "1993-06-22T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Rhoda Levinsohn, Cleveland Heights, Ohio.",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79945337"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1992.106-ceremonial-cloth"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Turner, Evan H. “The Year in Review for 1992.” <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (February 1993): 38–79.",
+      "page_number": "Mentioned: p. 77",
+      "url": "http://www.jstor.org/stable/25161388"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1992.106",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.106/1992.106_web.jpg",
+      "width": "224",
+      "height": "893",
+      "filesize": "203484",
+      "filename": "1992.106_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.106/1992.106_print.jpg",
+      "width": "852",
+      "height": "3400",
+      "filesize": "2767862",
+      "filename": "1992.106_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1992.106/1992.106_full.tif",
+      "width": "1632",
+      "height": "6516",
+      "filesize": "31933008",
+      "filename": "1992.106_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Seventy-fifth anniversary gift of the Textile Art Alliance in memory of Dorothy G. Shepherd",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 156262,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1992-05-18T00:00:00",
+  "sortable_date": 1900,
+  "date_added_to_oa": null,
+  "date_text": "early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:22:30.738000"
+}

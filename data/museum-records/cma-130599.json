@@ -1,0 +1,152 @@
+{
+  "id": 130599,
+  "accession_number": "1953.321",
+  "share_license_status": "CC0",
+  "tombstone": "Furnishing textile, 1600s–1700s. Africa, North Africa, Morocco, Moroccan weaver(s). Silk, dye; average: 151.5 x 78.8 cm (59 5/8 x 31 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1953.321",
+  "current_location": null,
+  "title": "Furnishing textile",
+  "creation_date": "1600s–1700s",
+  "creation_date_earliest": 1600,
+  "creation_date_latest": 1799,
+  "artists_tags": [],
+  "culture": [
+    "Africa, North Africa, Morocco, Moroccan weaver(s)"
+  ],
+  "technique": "Silk, dye",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Islamic",
+  "type": "Textile",
+  "measurements": "Average: 151.5 x 78.8 cm (59 5/8 x 31 in.)",
+  "dimensions": {
+    "average": {
+      "height": 1.515,
+      "height_inch": 59,
+      "height_inch_fraction": 0.625,
+      "width": 0.788,
+      "width_inch": 31,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This large, woven silk panel was woven by men in a workshop. It is a furnishing textile, used in the home as a wall hanging or perhaps as a curtain over a doorway or entrance.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79912526"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1953.321-length-of-textile",
+      "https://archive.org/details/clevelandart-1953.321-furnishing-textile"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1953.321",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_web.jpg",
+      "width": "900",
+      "height": "490",
+      "filesize": "265209",
+      "filename": "1953.321_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_print.jpg",
+      "width": "3400",
+      "height": "1850",
+      "filesize": "4356691",
+      "filename": "1953.321_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_full.tif",
+      "width": "12644",
+      "height": "6878",
+      "filesize": "260925668",
+      "filename": "1953.321_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt0_web.jpg",
+        "width": "900",
+        "height": "488",
+        "filesize": "263258"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt0_print.jpg",
+        "width": "3400",
+        "height": "1842",
+        "filesize": "4248270"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt0_full.tif",
+        "width": "12654",
+        "height": "6856",
+        "filesize": "260296880"
+      },
+      "date_created": "2024-10-10T18:34:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt1_web.jpg",
+        "width": "493",
+        "height": "893",
+        "filesize": "359722"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt1_print.jpg",
+        "width": "1876",
+        "height": "3400",
+        "filesize": "5845988"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.321/1953.321_alt1_full.tif",
+        "width": "2860",
+        "height": "5182",
+        "filesize": "44493420"
+      },
+      "date_created": "2007-07-11T18:19:49",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 130599,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1953-07-17T00:00:00",
+  "sortable_date": 1600,
+  "date_added_to_oa": null,
+  "date_text": "1600s–1700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:45:17.340000"
+}

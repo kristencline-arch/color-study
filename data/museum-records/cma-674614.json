@@ -1,0 +1,154 @@
+{
+  "id": 674614,
+  "accession_number": "2024.73",
+  "share_license_status": "CC0",
+  "tombstone": "Woman's Shawl or Head Covering, 1900–1925. Africa, West Africa, Côte d’Ivoire, Hausa or Dyula-style, unknown makers. Cotton, silk, indigo and other natural dyes; overall: 150.5 x 120.7 cm (59 1/4 x 47 1/2 in.). The Cleveland Museum of Art, Alma Kroeger Fund, 2024.73",
+  "current_location": null,
+  "title": "Woman's Shawl or Head Covering",
+  "creation_date": "1900–1925",
+  "creation_date_earliest": 1900,
+  "creation_date_latest": 1925,
+  "artists_tags": [],
+  "culture": [
+    "Africa, West Africa, Côte d’Ivoire, Hausa or Dyula-style, unknown makers"
+  ],
+  "technique": "Cotton, silk, indigo and other natural dyes",
+  "support_materials": [],
+  "department": "African Art",
+  "collection": "African Art",
+  "type": "Textile",
+  "measurements": "Overall: 150.5 x 120.7 cm (59 1/4 x 47 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.505,
+      "height_inch": 59,
+      "height_inch_fraction": 0.25,
+      "width": 1.207,
+      "width_inch": 47,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Gustave Maignan, Rennes, France",
+      "citations": [],
+      "footnotes": null,
+      "date": "c. 1925-27 or 1910-40",
+      "sortorder": 1
+    },
+    {
+      "description": "Alain Gateaux, Paris, France",
+      "citations": [],
+      "footnotes": null,
+      "date": "",
+      "sortorder": 2
+    },
+    {
+      "description": "Andres Moraga, Berkeley, CA",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–2024",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art by purchase",
+      "citations": [],
+      "footnotes": null,
+      "date": "2024–",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Only six examples of this rare textile are known.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "A woman would have worn this embroidered textile on her head or her shoulders, with the motifs on her back. It was likely adorned by itinerant Hausa embroiderers, whose knowledge as Koranic scholars inflected their work with a symbolic and calligraphic style. The large, almond-shaped forms may represent lotus leaves or may have links to Islamic talismanic motifs or amulets (<em>hatumere). </em>",
+  "external_resources": {
+    "wikidata": [],
+    "internet_archive": []
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/2024.73",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_web.jpg",
+      "width": "707",
+      "height": "900",
+      "filesize": "312583",
+      "filename": "2024.73_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_print.jpg",
+      "width": "2669",
+      "height": "3400",
+      "filesize": "4678562",
+      "filename": "2024.73_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_full.tif",
+      "width": "9223",
+      "height": "11750",
+      "filesize": "325141624",
+      "filename": "2024.73_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_alt0_web.jpg",
+        "width": "722",
+        "height": "900",
+        "filesize": "334883"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_alt0_print.jpg",
+        "width": "2726",
+        "height": "3400",
+        "filesize": "5124529"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.73/2024.73_alt0_full.tif",
+        "width": "9332",
+        "height": "11640",
+        "filesize": "434528652"
+      },
+      "date_created": "2024-08-13T10:52:44",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Alma Kroeger Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 674614,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2024-09-09T04:00:00Z",
+  "sortable_date": 1900,
+  "date_added_to_oa": null,
+  "date_text": "1900–1925",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": true,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 09:14:33.202000"
+}

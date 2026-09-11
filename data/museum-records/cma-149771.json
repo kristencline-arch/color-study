@@ -1,0 +1,190 @@
+{
+  "id": 149771,
+  "accession_number": "1979.83",
+  "share_license_status": "CC0",
+  "tombstone": "Mask, late 1800s–early 1900s. Native North America, Northwest Coast, Alaska, Tlingit. Wood (alder), pigment; overall: 21.4 x 17.2 x 8.9 cm (8 7/16 x 6 3/4 x 3 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1979.83",
+  "current_location": "231 Native North American",
+  "title": "Mask",
+  "creation_date": "late 1800s–early 1900s",
+  "creation_date_earliest": 1850,
+  "creation_date_latest": 1950,
+  "artists_tags": [],
+  "culture": [
+    "Native North America, Northwest Coast, Alaska, Tlingit"
+  ],
+  "technique": "wood (alder), pigment",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Native North America",
+  "type": "Sculpture",
+  "measurements": "Overall: 21.4 x 17.2 x 8.9 cm (8 7/16 x 6 3/4 x 3 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.214,
+      "height_inch": 8,
+      "height_inch_fraction": 0.4375,
+      "width": 0.172,
+      "width_inch": 6,
+      "width_inch_fraction": 0.75,
+      "depth": 0.089,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 304412,
+        "title": "Year in Review: 1979",
+        "description": "<i>Year in Review: 1979</i>. The Cleveland Museum of Art (organizer) (February 13-March 9, 1980).",
+        "opening_date": "1980-02-13T05:00:00"
+      },
+      {
+        "id": 181802,
+        "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+        "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+        "opening_date": "2006-06-09T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA 1980:  \"Year in Review 1979,\" Bull., LXVII (March, 1980), p. 96, cat. #43, repr. p. 94",
+        "opening_date": "1980-03-01T00:00:00"
+      },
+      {
+        "description": "MOCA Cleveland (6/9/2006 - 8/20/2006):  \"The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art\", no. 48, p. 118.",
+        "opening_date": "2006-06-09T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "de Menil, Houston; (Sotheby Parke Bernet, Inc., sale #4291, lot #348)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In 1998, Robert Joseph, a Northwest Coast chief, recalled that when he donned ceremonial dance masks as a youth, \"all the world is somewhere else . . . I am the mask . . . the bird . . . the animal . . . the spirit. I transcend into the being of the mask.\" Although this mask's identity is lost, it may represent a mythic ancestor of a Tlingit family and perhaps was worn during a winter ceremony.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60778370"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1979.83-face-mask",
+      "https://archive.org/details/clevelandart-1979.83-mask"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman E. \"The Year in Review for 1979.\" <em>The Bulletin of the Cleveland Museum of Art</em> 67, no. 3 (1980): 58-99.",
+      "page_number": "Reproduced: cat. no. 43, p. 94; Mentioned: p. 62",
+      "url": "https://www.jstor.org/stable/25159667"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1979.83",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_web.jpg",
+      "width": "718",
+      "height": "893",
+      "filesize": "275418",
+      "filename": "1979.83_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_print.jpg",
+      "width": "2735",
+      "height": "3400",
+      "filesize": "5401390",
+      "filename": "1979.83_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_full.tif",
+      "width": "4817",
+      "height": "5988",
+      "filesize": "86558624",
+      "filename": "1979.83_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt0_web.jpg",
+        "width": "678",
+        "height": "893",
+        "filesize": "278920"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt0_print.jpg",
+        "width": "2582",
+        "height": "3400",
+        "filesize": "5051020"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt0_full.tif",
+        "width": "4713",
+        "height": "6205",
+        "filesize": "87758608"
+      },
+      "date_created": "2010-12-15T19:09:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt1_web.jpg",
+        "width": "765",
+        "height": "893",
+        "filesize": "491935"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt1_print.jpg",
+        "width": "1536",
+        "height": "1792",
+        "filesize": "2064268"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1979.83/1979.83_alt1_full.tif",
+        "width": "1536",
+        "height": "1792",
+        "filesize": "8260588"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 149771,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1979-11-14T00:00:00",
+  "sortable_date": 1850,
+  "date_added_to_oa": null,
+  "date_text": "late 1800s–early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:43:29.758000"
+}

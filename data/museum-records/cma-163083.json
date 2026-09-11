@@ -1,0 +1,180 @@
+{
+  "id": 163083,
+  "accession_number": "2003.91",
+  "share_license_status": "CC0",
+  "tombstone": "Fragment of Woman's overskirt (ncaka), late 1800s–early 1900s. Africa, Democratic Republic of the Congo, Kuba makers. Raffia and tukula; overall: 121.4 x 33.3 cm (47 13/16 x 13 1/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 2003.91",
+  "current_location": null,
+  "title": "Fragment of Woman's overskirt (ncaka)",
+  "creation_date": "late 1800s–early 1900s",
+  "creation_date_earliest": 1895,
+  "creation_date_latest": 1905,
+  "artists_tags": [],
+  "culture": [
+    "Africa, Democratic Republic of the Congo, Kuba makers"
+  ],
+  "technique": "Raffia and tukula",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Garment",
+  "measurements": "Overall: 121.4 x 33.3 cm (47 13/16 x 13 1/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.214,
+      "height_inch": 47,
+      "height_inch_fraction": 0.8125,
+      "width": 0.333,
+      "width_inch": 13,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 232668,
+        "title": "Kuba Textiles: Geometry in Form, Space, and Time",
+        "description": "<i>Kuba Textiles: Geometry in Form, Space, and Time</i>. Neuberger Museum of Art, Purchase, NY (organizer) (March 1-June 14, 2015).",
+        "opening_date": "2015-03-01T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "African Gallery textile rotation. The Cleveland Museum of Art, Cleveland, OH (August 5, 2004-September 8, 2005).",
+        "opening_date": "2004-08-05T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Dr. Austin Newton, Princeton University; Pierre Loos, Brussels, mid 1980s; [Andres Moraga, 2003]",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79988554"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2003.91-fragment-of-woman-s"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Philips, Tom. Africa: The Art of a Continent. Munich: Prestel, 1995.",
+      "page_number": "p.. 276-77, 4.48b",
+      "url": null
+    },
+    {
+      "citation": "Brincard, Marie-Thérèse, and Patricia Darish. Kuba Textiles: Geometry in Form, Space, and Time. 2015.",
+      "page_number": null,
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2003.91",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_web.jpg",
+      "width": "1263",
+      "height": "379",
+      "filesize": "349606",
+      "filename": "2003.91_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_print.jpg",
+      "width": "3400",
+      "height": "1021",
+      "filesize": "2870078",
+      "filename": "2003.91_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_full.tif",
+      "width": "5000",
+      "height": "1502",
+      "filesize": "22540780",
+      "filename": "2003.91_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt0_web.jpg",
+        "width": "1263",
+        "height": "372",
+        "filesize": "312844"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt0_print.jpg",
+        "width": "3400",
+        "height": "1002",
+        "filesize": "2619939"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt0_full.tif",
+        "width": "5000",
+        "height": "1474",
+        "filesize": "22120424"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt1_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "942943"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt1_print.jpg",
+        "width": "3400",
+        "height": "2266",
+        "filesize": "6718791"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2003.91/2003.91_alt1_full.tif",
+        "width": "5000",
+        "height": "3333",
+        "filesize": "50011024"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 163083,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2003-09-02T00:00:00",
+  "sortable_date": 1895,
+  "date_added_to_oa": null,
+  "date_text": "late 1800s–early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:24:08.953000"
+}

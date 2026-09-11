@@ -1,0 +1,364 @@
+{
+  "id": 539040,
+  "accession_number": "1938.301.b",
+  "share_license_status": "CC0",
+  "tombstone": "Ratnasambhava, Akshobhya, Vairochana with attendants, Amitabha, and Amoghasiddhi, Top cover, from a Manuscript of the Perfection of Wisdom in Eight Thousand Lines (Ashtasahasrika Prajnaparamita-sutra), Sunday, September 14, 1119 (year 239 of the Newar Samvat in the month of Ashvina). Eastern India, Bihar, Vikramashila Monastery. Paintings: Nepal, Kathmandu. Covers: Gum tempera, colors, and paper on wood; pages: gum tempera and ink on palm leaves; covers overall: 6.5 x 57 x 1.5 cm (2 9/16 x 22 7/16 x 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1938.301.b",
+  "current_location": null,
+  "title": "Ratnasambhava, Akshobhya, Vairochana with attendants, Amitabha, and Amoghasiddhi, Top cover, from a Manuscript of the Perfection of Wisdom in Eight Thousand Lines (Ashtasahasrika Prajnaparamita-sutra)",
+  "creation_date": "Sunday, September 14, 1119 (year 239 of the Newar Samvat in the month of Ashvina)",
+  "creation_date_earliest": 1119,
+  "creation_date_latest": 1119,
+  "artists_tags": [],
+  "culture": [
+    "Eastern India, Bihar, Vikramashila Monastery. Paintings: Nepal, Kathmandu"
+  ],
+  "technique": "Covers: Gum tempera, colors, and paper on wood; pages: gum tempera and ink on palm leaves",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art - Medieval",
+  "type": "Painting",
+  "measurements": "Covers overall: 6.5 x 57 x 1.5 cm (2 9/16 x 22 7/16 x 9/16 in.)",
+  "dimensions": {
+    "covers overall": {
+      "height": 0.065,
+      "height_inch": 2,
+      "height_inch_fraction": 0.5625,
+      "width": 0.57,
+      "width_inch": 22,
+      "width_inch_fraction": 0.4375,
+      "depth": 0.015,
+      "depth_inch": 0,
+      "depth_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": [
+      {
+        "description": "<em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Institute of Arts, Detroit, MI (October 1942).",
+        "opening_date": "1942-10-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1938",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1938–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The Five Tathagatas could be the source of visions that would help Buddhist practitioners on the path to enlightenment.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The inner side of the top cover is fully painted with images of the Five Cosmic Buddhas of Esoteric Buddhism. Each one has a different color, meaningful hand gesture, and is associated with a spatial direction. In the center is the white Vairochana holding his hands in the enlightenment mudra. On either side of the binding holes are the other four Cosmic Buddhas Akshobyha (blue, earth-touching mudra, east) and Amitabha (red, meditation mudra, west), and on the ends are Ratnasambhava (gold, gift-giving mudra, south) and Amoghasiddhi (green, fear-not mudra, north). The top side is covered with ritual materials indicating that this book was once an object of worship.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q117248323"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1938.301.b-ratnasambhava-akshob"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Kramrisch, Stella. <em>The Art of Nepal.</em> New York: The Asia Society/Abrams, 1964.",
+      "page_number": "Reproduced: Figure 77, p. 103; mentioned: cat. no. 77a and 77b, pp. 43 and 144.",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. <em>A History of Far Eastern Art. </em>New York: H. N. Abrams, 1994. 5th edition.",
+      "page_number": "Reproduced: color plate 10, p. 202; mentioned: p.134.",
+      "url": null
+    },
+    {
+      "citation": "Hickmann, Regina, Heinz Mode, and Siegfried Mahn. <em>Miniaturen, Volks- und Gegenwartskunst Indiens</em>. Leipzig: E.A. Seemann Buch und Kunstverlag, 1975.",
+      "page_number": "Reproduced: Figure 1; mentioned: p.14.",
+      "url": null
+    },
+    {
+      "citation": "Pal, Pratapaditya. <em>The Arts of Nepal, Part II: Painting.</em> Leiden: E.J. Brill, 1978.",
+      "page_number": "Mentioned: p. 32, reproduced: fig. 11.",
+      "url": null
+    },
+    {
+      "citation": "Meahl, Katherine. 2004. “Influence néware dans la peinture tibétaine entre le XIe et le XIVe siècle.” <em>Dossiers d’Archéologie</em> 293 (2004): 86–91.",
+      "page_number": "Reproduced: 87; mentioned: p. 86.",
+      "url": null
+    },
+    {
+      "citation": "Kim, Jinah. <em>Garland of Visions: Color, Tantra, and a Material History of Indian Painting. </em>Oakland, University of California Press, 2021.",
+      "page_number": "Reproduced: Figure 2.3, p. 66; Mentioned: pp. 64-65.",
+      "url": null
+    },
+    {
+      "citation": "Hollis, Howard. \"A Nepalese Manuscript.\" <em>The Bulletin of the Cleveland Museum of Art</em> 26, no. 3 (1939): 31-33.",
+      "page_number": "Mentioned: pp. 31–33.",
+      "url": "http://www.jstor.org/stable/25137997"
+    },
+    {
+      "citation": "Lee, Sherman E. <em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Detroit: Detroit Institute of Arts, 1942.",
+      "page_number": "Mentioned: cat. no. 24, p. 24; Reproduced: cat. no. 24, p. 47.",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 754.",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n136"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 233.",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n257"
+    },
+    {
+      "citation": "Marcus, Margaret F. “Sculptures from Bihar and Bengal.” <em>The Bulletin of the Cleveland Museum of Art</em> 54, no. 8 (1967): pp. 240–262.",
+      "page_number": "Mentioned: p. 253, fig. 11; Reproduced: p. 252.",
+      "url": "www.jstor.org/stable/25152173"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 233.",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n257"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 296.",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n316"
+    },
+    {
+      "citation": "Kim, Jinah. \"Painted Palm-Leaf Manuscripts and the Art of the Book in Medieval South Asia.\" <em>Archives of Asian Art</em> 65, no. 1 &amp; 2 (2015).",
+      "page_number": "Mentioned: pp. 57-86; Reproduced: p. 62, fig.5; p. 63, fig. 6 & 7.",
+      "url": null
+    },
+    {
+      "citation": "O’Mara, Reed. “‘On Golden Tablets’: The Cleveland Museum of Art’s Aṣṭasāhasrikā Prajñāpāramitā Manuscript as a Self-Referential Icon.” <em>Religions </em>11, no. 274 (2020): 1-19.",
+      "page_number": "Reproduced: Figures 11, 12, and 15, p. 9 and 14.",
+      "url": "https://www.mdpi.com/2077-1444/11/6/274"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1938.301.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_web.jpg",
+      "width": "900",
+      "height": "134",
+      "filesize": "146899",
+      "filename": "1938.301.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_print.jpg",
+      "width": "3400",
+      "height": "508",
+      "filesize": "788843",
+      "filename": "1938.301.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_full.tif",
+      "width": "13844",
+      "height": "2070",
+      "filesize": "85999854",
+      "filename": "1938.301.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt0_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "295518"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt0_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "2669918"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt0_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136178"
+      },
+      "date_created": "2022-08-08T16:19:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt1_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "313114"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt1_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "2898709"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt1_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136046"
+      },
+      "date_created": "2022-08-08T16:19:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt2_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "320059"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt2_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "3006724"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt2_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136598"
+      },
+      "date_created": "2022-08-08T16:19:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt3_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "318361"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt3_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "3030293"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt3_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136558"
+      },
+      "date_created": "2022-08-08T16:19:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt4_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "319906"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt4_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "3083930"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt4_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136590"
+      },
+      "date_created": "2022-08-08T16:20:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt5_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "311466"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt5_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "2922932"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt5_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136506"
+      },
+      "date_created": "2022-08-08T16:20:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt6_web.jpg",
+        "width": "900",
+        "height": "571",
+        "filesize": "291145"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt6_print.jpg",
+        "width": "3400",
+        "height": "2158",
+        "filesize": "2733532"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.301.b/1938.301.b_alt6_full.tif",
+        "width": "14204",
+        "height": "9014",
+        "filesize": "384136194"
+      },
+      "date_created": "2022-08-08T16:23:44",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 539040,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1938-06-03T00:00:00",
+  "sortable_date": 1119,
+  "date_added_to_oa": null,
+  "date_text": "Sunday, September 14, 1119 (year 239 of the Newar Samvat in the month of Ashvina)",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1938.301",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Book of Transcendental Wisdom:  Astasahasrika Prajnaparamita",
+    "Perfection of Wisdom in Eight Thousand Lines: Ashtasahasrika Prajnaparamita",
+    "Manuscript of the Perfection of Wisdom in Eight Thousand Lines (Ashta-sahasrika Prajnaparamita-Shastra)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 09:10:30.111000"
+}

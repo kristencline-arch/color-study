@@ -1,0 +1,376 @@
+{
+  "id": 387502,
+  "accession_number": "2020.222",
+  "share_license_status": "CC0",
+  "tombstone": "Architectural Vessel, 1–700 CE. Central Andes (Peru), Recuay people. Ceramic, slip, resist painting; overall: 24.3 x 19.4 x 16 cm (9 9/16 x 7 5/8 x 6 5/16 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2020.222",
+  "current_location": "232 Andean",
+  "title": "Architectural Vessel",
+  "creation_date": "1–700 CE",
+  "creation_date_earliest": 1,
+  "creation_date_latest": 700,
+  "artists_tags": [],
+  "culture": [
+    "Central Andes (Peru), Recuay people"
+  ],
+  "technique": "ceramic, slip, resist painting",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Andes",
+  "type": "Ceramic",
+  "measurements": "Overall: 24.3 x 19.4 x 16 cm (9 9/16 x 7 5/8 x 6 5/16 in.)",
+  "dimensions": {
+    "height": {
+      "height": 0.254,
+      "height_inch": 10,
+      "height_inch_fraction": 0.0
+    },
+    "overall": {
+      "height": 0.243,
+      "height_inch": 9,
+      "height_inch_fraction": 0.5625,
+      "width": 0.194,
+      "width_inch": 7,
+      "width_inch_fraction": 0.625,
+      "depth": 0.16,
+      "depth_inch": 6,
+      "depth_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": [
+      {
+        "description": "<em>The Collector’s Eye, </em>The Lawrenceville School, New Jersey <em>(</em>May 3 to May 17, 1996).",
+        "opening_date": "1996-05-03T00:00:00"
+      },
+      {
+        "description": "<em>Design for Eternity: Architectural Models from the Ancient Americas</em>, Metropolitan Museum of Art, New York (October 26, 2015 to September 18, 2016).",
+        "opening_date": "2015-10-26T00:00:00"
+      },
+      {
+        "description": "<em>Permanent Collection Galleries</em>, The Metropolitan Museum of Art, New York, NY (August 14, 1997—April 9, 2018).",
+        "opening_date": "1997-08-14T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Acquired in Peru by Mr. and Mrs. Brenner, eventually Zurich, Switzerland, sold to Private Collector",
+      "citations": [],
+      "footnotes": null,
+      "date": "mid 1900s-By 1996",
+      "sortorder": 1
+    },
+    {
+      "description": "(Private Collector, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "By 1996-2020",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2020-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This vessel may represent the home of an elite family of the Recuay culture of Peru’s northern highlands.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This vessel may represent the home of an elite family of the Recuay culture of Peru’s northern highlands. Inside are two groups of humans who presumably represent a ceremonial gathering—three carry cups, perhaps for libations. On the exterior are the heads of mythical or supernatural creatures painted in dramatic red, white, and black color contrasts.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q117244804"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2020.222-architectural-vessel"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Pillsbury, Joanne, Patricia Joan Sarro, James A. Doyle, and Juliet B. Wiersema.<em> Design for Eternity: Architectural Models from the Ancient Americas</em>. 2015.",
+      "page_number": "figs. 74-75",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2020.222",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_web.jpg",
+      "width": "791",
+      "height": "900",
+      "filesize": "261067",
+      "filename": "2020.222_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_print.jpg",
+      "width": "2990",
+      "height": "3400",
+      "filesize": "2529447",
+      "filename": "2020.222_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_full.tif",
+      "width": "6277",
+      "height": "7137",
+      "filesize": "134423984",
+      "filename": "2020.222_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt0_web.jpg",
+        "width": "744",
+        "height": "900",
+        "filesize": "282245"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt0_print.jpg",
+        "width": "2811",
+        "height": "3400",
+        "filesize": "2781858"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt0_full.tif",
+        "width": "6539",
+        "height": "7909",
+        "filesize": "155178248"
+      },
+      "date_created": "2020-08-25T16:21:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt1_web.jpg",
+        "width": "819",
+        "height": "900",
+        "filesize": "278170"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt1_print.jpg",
+        "width": "3094",
+        "height": "3400",
+        "filesize": "2703034"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt1_full.tif",
+        "width": "6658",
+        "height": "7316",
+        "filesize": "146157468"
+      },
+      "date_created": "2020-08-25T14:00:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt2_web.jpg",
+        "width": "851",
+        "height": "900",
+        "filesize": "271132"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt2_print.jpg",
+        "width": "3214",
+        "height": "3400",
+        "filesize": "2685525"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt2_full.tif",
+        "width": "6737",
+        "height": "7127",
+        "filesize": "144071380"
+      },
+      "date_created": "2020-08-25T14:01:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt3_web.jpg",
+        "width": "814",
+        "height": "900",
+        "filesize": "274796"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt3_print.jpg",
+        "width": "3074",
+        "height": "3400",
+        "filesize": "2704245"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt3_full.tif",
+        "width": "6494",
+        "height": "7182",
+        "filesize": "139947468"
+      },
+      "date_created": "2020-08-25T14:02:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt4_web.jpg",
+        "width": "866",
+        "height": "900",
+        "filesize": "252639"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt4_print.jpg",
+        "width": "3273",
+        "height": "3400",
+        "filesize": "2555508"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt4_full.tif",
+        "width": "6885",
+        "height": "7153",
+        "filesize": "147772312"
+      },
+      "date_created": "2020-08-25T14:02:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt5_web.jpg",
+        "width": "852",
+        "height": "900",
+        "filesize": "270491"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt5_print.jpg",
+        "width": "3217",
+        "height": "3400",
+        "filesize": "2661134"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt5_full.tif",
+        "width": "6713",
+        "height": "7094",
+        "filesize": "142893648"
+      },
+      "date_created": "2020-08-25T14:03:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt6_web.jpg",
+        "width": "817",
+        "height": "900",
+        "filesize": "355657"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt6_print.jpg",
+        "width": "3087",
+        "height": "3400",
+        "filesize": "2638857"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt6_full.tif",
+        "width": "7032",
+        "height": "7745",
+        "filesize": "163419252"
+      },
+      "date_created": "2020-08-25T14:06:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt7_web.jpg",
+        "width": "900",
+        "height": "725",
+        "filesize": "309833"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt7_print.jpg",
+        "width": "3400",
+        "height": "2740",
+        "filesize": "2384425"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt7_full.tif",
+        "width": "7352",
+        "height": "5925",
+        "filesize": "130710732"
+      },
+      "date_created": "2020-08-25T14:10:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt8_web.jpg",
+        "width": "900",
+        "height": "795",
+        "filesize": "308773"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt8_print.jpg",
+        "width": "3400",
+        "height": "3004",
+        "filesize": "2752680"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt8_full.tif",
+        "width": "6780",
+        "height": "5990",
+        "filesize": "121864360"
+      },
+      "date_created": "2020-08-25T14:17:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt9_web.jpg",
+        "width": "900",
+        "height": "871",
+        "filesize": "367749"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt9_print.jpg",
+        "width": "3400",
+        "height": "3292",
+        "filesize": "3723970"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.222/2020.222_alt9_full.tif",
+        "width": "5460",
+        "height": "5286",
+        "filesize": "86612748"
+      },
+      "date_created": "2020-08-25T14:18:39",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Severance and Greta Millikin Purchase Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 387502,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2020-09-14T00:00:00-04:00",
+  "sortable_date": 1,
+  "date_added_to_oa": null,
+  "date_text": "1–700 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:58:50.080000"
+}

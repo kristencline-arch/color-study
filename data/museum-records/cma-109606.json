@@ -1,0 +1,114 @@
+{
+  "id": 109606,
+  "accession_number": "1928.231.b",
+  "share_license_status": "CC0",
+  "tombstone": "\"Hopi Brocade\" Style Dance Sash, c. 1880–1900. America, Native North American, Southwest, Pueblo (Hopi), Post-Contact, Transitional Period. Plain weave with supplementary weft wrap; wool (homespun and Germantown); overall: 119 x 25 cm (46 7/8 x 9 13/16 in.). The Cleveland Museum of Art, Educational Purchase Fund, 1928.231.b",
+  "current_location": null,
+  "title": "\"Hopi Brocade\" Style Dance Sash",
+  "creation_date": "c. 1880–1900",
+  "creation_date_earliest": 1870,
+  "creation_date_latest": 1910,
+  "artists_tags": [],
+  "culture": [
+    "America, Native North American, Southwest, Pueblo (Hopi), Post-Contact, Transitional Period"
+  ],
+  "technique": "plain weave with supplementary weft wrap; wool (homespun and Germantown)",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Native North American",
+  "type": "Textile",
+  "measurements": "Overall: 119 x 25 cm (46 7/8 x 9 13/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.19,
+      "height_inch": 46,
+      "height_inch_fraction": 0.875,
+      "width": 0.25,
+      "width_inch": 9,
+      "width_inch_fraction": 0.8125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "purchased from The Ishauu Co., New York",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80002089"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1928.231.b-hopi-brocade-style-d"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1928.231.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.231.b/1928.231.b_web.jpg",
+      "width": "257",
+      "height": "893",
+      "filesize": "172097",
+      "filename": "1928.231.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.231.b/1928.231.b_print.jpg",
+      "width": "979",
+      "height": "3400",
+      "filesize": "2634376",
+      "filename": "1928.231.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1928.231.b/1928.231.b_full.tif",
+      "width": "1439",
+      "height": "5000",
+      "filesize": "21604804",
+      "filename": "1928.231.b_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Educational Purchase Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 109606,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1928-05-31T00:00:00",
+  "sortable_date": 1870,
+  "date_added_to_oa": null,
+  "date_text": "c. 1880–1900",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1928.231",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:51:19.213000"
+}

@@ -1,0 +1,305 @@
+{
+  "id": 161005,
+  "accession_number": "1999.253",
+  "share_license_status": "CC0",
+  "tombstone": "Belt (Hizam), 1800s. Africa, North Africa, Morocco, Fes, Moroccan weaver. Silk, dye, metal; overall: 396.8 x 38 cm (156 1/4 x 14 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.253",
+  "current_location": null,
+  "title": "Belt (Hizam)",
+  "creation_date": "1800s",
+  "creation_date_earliest": 1800,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Africa, North Africa, Morocco, Fes, Moroccan weaver"
+  ],
+  "technique": "Silk, dye, metal",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Islamic",
+  "type": "Textile",
+  "measurements": "Overall: 396.8 x 38 cm (156 1/4 x 14 15/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 3.968,
+      "height_inch": 156,
+      "height_inch_fraction": 0.25,
+      "width": 0.38,
+      "width_inch": 14,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 381119,
+        "title": "Islamic art rotation",
+        "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 16, 2015-December 19, 2016).",
+        "opening_date": "2015-12-16T05:00:00"
+      },
+      {
+        "id": 669620,
+        "title": "Arts of the Maghreb: North African Textiles and Jewelry",
+        "description": "<i>Arts of the Maghreb: North African Textiles and Jewelry</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 3, 2024-October 12, 2025).",
+        "opening_date": "2024-11-03T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Women sometimes added starch to stiffen these belts.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Elaborate wedding sashes woven in Fez, Morocco, are distinctive for their multiple colors, designs, and uses. Folded lengthwise, they are wrapped around the waist so that the colors and designs coordinate with the attire worn during and after a wedding. Typically, the colors vary on each half although the designs are the same. Luxury textiles with elaborate patterns were woven on large looms called drawlooms that automatically repeated designs. The weaver operated the structure, inserting horizontal wefts, while the drawboy activated the programmed pattern. However, this wedding sash has ten programmed designs, which required considerable expertise.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79983165"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1999.253-bridal-wedding-sash",
+      "https://archive.org/details/clevelandart-1999.253-belt-hizam"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Gebremedhen, Helina. “Arts of the Maghreb: North African Textiles and Jewelry – Curatorial Reflections.” <em>Journal 18</em>, Issue #19 (Spring 2025).",
+      "page_number": "",
+      "url": "https://www.journal18.org/19-africa/arts-of-the-maghreb-north-african-textiles-and-jewelry-curatorial-reflections/"
+    },
+    {
+      "citation": "Paydar, Niloo Imami, and Ivo Grammet. <em>The Fabric of Moroccan Life</em>. Indianapolis, Ind: Indianapolis Museum of Art, 2002.",
+      "page_number": "p. 110-117",
+      "url": ""
+    },
+    {
+      "citation": "Alaoui, Rachida. <em>Florilège de la broderie marocaine</em>. [Milan]: Skira, 2011.",
+      "page_number": "p. 35-37",
+      "url": ""
+    },
+    {
+      "citation": "Mackie, Louise W. <em>Symbols of Power: Luxury Textiles from Islamic Lands, 7th-21st Century</em>. Cleveland; New Haven: Cleveland Museum of Art; Yale University Press, 2015.",
+      "page_number": "Reproduced: P. 40-41, fig. 1.24; Mentioned: P. 40",
+      "url": null
+    },
+    {
+      "citation": "Windmuller-Luna, Kristen. \"Textile stories from North Africa.\" <em>HALI </em>224 (Summer 2025): 54-61.",
+      "page_number": "Mentioned: p. 58; Reproduced: p. 60-61, fig. 11",
+      "url": ""
+    },
+    {
+      "citation": "“Compass: Common Thread.” <em>Hali</em>, i. 228 (Summer 2026): 36-39.",
+      "page_number": "Mentioned and reproduced: p. 37, fig. 5",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1999.253",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_web.jpg",
+      "width": "900",
+      "height": "114",
+      "filesize": "74242",
+      "filename": "1999.253_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_print.jpg",
+      "width": "3400",
+      "height": "430",
+      "filesize": "644581",
+      "filename": "1999.253_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_full.tif",
+      "width": "40183",
+      "height": "5086",
+      "filesize": "613144616",
+      "filename": "1999.253_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt0_web.jpg",
+        "width": "900",
+        "height": "516",
+        "filesize": "142072"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt0_print.jpg",
+        "width": "3400",
+        "height": "1949",
+        "filesize": "1621998"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt0_full.tif",
+        "width": "8000",
+        "height": "4585",
+        "filesize": "110071392"
+      },
+      "date_created": "2014-09-02T13:07:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt1_web.jpg",
+        "width": "900",
+        "height": "531",
+        "filesize": "283879"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt1_print.jpg",
+        "width": "3400",
+        "height": "2005",
+        "filesize": "3770557"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt1_full.tif",
+        "width": "8000",
+        "height": "4718",
+        "filesize": "113265300"
+      },
+      "date_created": "2014-09-02T13:10:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt2_web.jpg",
+        "width": "900",
+        "height": "505",
+        "filesize": "306257"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt2_print.jpg",
+        "width": "3400",
+        "height": "1909",
+        "filesize": "4030796"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt2_full.tif",
+        "width": "8000",
+        "height": "4491",
+        "filesize": "107817448"
+      },
+      "date_created": "2014-09-02T13:13:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt3_web.jpg",
+        "width": "900",
+        "height": "501",
+        "filesize": "318688"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt3_print.jpg",
+        "width": "3400",
+        "height": "1893",
+        "filesize": "3633150"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt3_full.tif",
+        "width": "8000",
+        "height": "4454",
+        "filesize": "106931428"
+      },
+      "date_created": "2014-09-02T13:14:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt4_web.jpg",
+        "width": "900",
+        "height": "549",
+        "filesize": "292483"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt4_print.jpg",
+        "width": "3400",
+        "height": "2074",
+        "filesize": "3758238"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt4_full.tif",
+        "width": "8000",
+        "height": "4881",
+        "filesize": "117177756"
+      },
+      "date_created": "2014-09-02T13:17:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt5_web.jpg",
+        "width": "900",
+        "height": "531",
+        "filesize": "122154"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt5_print.jpg",
+        "width": "3400",
+        "height": "2005",
+        "filesize": "1327324"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt5_full.tif",
+        "width": "7826",
+        "height": "4615",
+        "filesize": "108381220"
+      },
+      "date_created": "2014-09-02T13:19:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt6_web.jpg",
+        "width": "1263",
+        "height": "291",
+        "filesize": "393736"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt6_print.jpg",
+        "width": "2048",
+        "height": "472",
+        "filesize": "1083079"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.253/1999.253_alt6_full.tif",
+        "width": "2048",
+        "height": "472",
+        "filesize": "2901092"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 161005,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1999-12-06T00:00:00",
+  "sortable_date": 1800,
+  "date_added_to_oa": null,
+  "date_text": "1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-22 11:53:17.248000"
+}

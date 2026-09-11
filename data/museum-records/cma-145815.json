@@ -1,0 +1,168 @@
+{
+  "id": 145815,
+  "accession_number": "1971.125.a",
+  "share_license_status": "CC0",
+  "tombstone": "Monk preaching to a disciple with a lay audience, folio 2 (recto) from a Parshvanatha Charitra (Life and Stories of Lord Parshva) of Bhavadeva-suri, c. 1275–1300. Western India, Gujarat. Gum tempera and ink on palm leaf; overall: 6.7 x 32.4 cm (2 5/8 x 12 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.125.a",
+  "current_location": null,
+  "title": "Monk preaching to a disciple with a lay audience, folio 2 (recto) from a Parshvanatha Charitra (Life and Stories of Lord Parshva) of Bhavadeva-suri",
+  "creation_date": "c. 1275–1300",
+  "creation_date_earliest": 1270,
+  "creation_date_latest": 1305,
+  "artists_tags": [],
+  "culture": [
+    "Western India, Gujarat"
+  ],
+  "technique": "Gum tempera and ink on palm leaf",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Painting",
+  "measurements": "Overall: 6.7 x 32.4 cm (2 5/8 x 12 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.067,
+      "height_inch": 2,
+      "height_inch_fraction": 0.625,
+      "width": 0.324,
+      "width_inch": 12,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 449919,
+        "title": "Text and Image in Southern Asia",
+        "description": "<i>Text and Image in Southern Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26, 2022-March 5, 2023).",
+        "opening_date": "2022-08-26T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Sander L. Feldman, Washington, DC, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1971",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1971–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The book on the stand is called \"substitute teacher\" and refers to the monk's legitimate lineage of knowledge.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The scene of a senior monk teaching his disciple emphasizes the importance of oral transmission of stories and knowledge. Both wear the white robes of the Shvetambara sect, have whisk brooms for clearing the ground of living things, and hold shields in front of their mouths to prevent harm to insects that might fly in while they speak. Between them, on a tripod, rests a sacred manuscript with letters written on the side and flowers placed on top. Below, two women and two men, possibly the donors who paid for the production of the manuscript, press their hands together in veneration.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60471606"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.125.a-monk-preaching-to-a"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Leach, Linda York. <em>Indian Miniature Paintings and Drawings</em>. Cleveland, OH: Cleveland Museum of Art in cooperation with Indiana University Press, 1986.",
+      "page_number": "Reproduced and mentioned: cat. no. 1, Figure 1xii, pp. 6-7.",
+      "url": ""
+    },
+    {
+      "citation": "Coomaraswamy, Ananda K., and Richard J. Cohen. <em>Essays on Jaina Art</em>. New Delhi: Indira Gandhi National Centre for the Arts in association with Manohar Publishers &amp; Distributors, 2003.",
+      "page_number": "p. 49",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1971.125.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_web.jpg",
+      "width": "900",
+      "height": "242",
+      "filesize": "172798",
+      "filename": "1971.125.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_print.jpg",
+      "width": "3400",
+      "height": "916",
+      "filesize": "1141527",
+      "filename": "1971.125.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_full.tif",
+      "width": "13388",
+      "height": "3605",
+      "filesize": "144817292",
+      "filename": "1971.125.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_alt0_web.jpg",
+        "width": "900",
+        "height": "217",
+        "filesize": "176375"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_alt0_print.jpg",
+        "width": "3400",
+        "height": "821",
+        "filesize": "941179"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.125.a/1971.125.a_alt0_full.tif",
+        "width": "8000",
+        "height": "1932",
+        "filesize": "46397096"
+      },
+      "date_created": "2014-04-03T14:41:26",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 145815,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-09-08T00:00:00",
+  "sortable_date": 1270,
+  "date_added_to_oa": null,
+  "date_text": "c. 1275–1300",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1971.125",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Leaf from a Jain Manuscript: Shalibhadra (recto)",
+    "Mahavira Preaching to a Monk, with a row of two small laymen and two laywomen below",
+    "Leaf from a Jain Manuscript: Shalibhadra: Jain Monk Teaching with a Manuscript Page a Disciple and Two Laywomen and Two Laymen Below (recto)",
+    "Monk Preaching to a Disciple with a Lay Audience, folio 2 (recto) from a Story of Shalibhadra of Pradyumna-suri (Indian, active about 1270s–1300)",
+    "Monk preaching to a disciple with a lay audience, folio 2 (recto) from a Life of Parshvanatha of Bhavadevasuri"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:28:40.198000"
+}

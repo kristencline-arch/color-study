@@ -1,0 +1,220 @@
+{
+  "id": 164429,
+  "accession_number": "2005.53.a",
+  "share_license_status": "CC0",
+  "tombstone": "Half of a Sleeved Tunic, c. 500–1000. Central Andes, Middle Horizon, Wari, 6th-11th century. Camelid fiber, cotton: tapestry weave; overall: 88.6 x 101.9 cm (34 7/8 x 40 1/8 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2005.53.a",
+  "current_location": null,
+  "title": "Half of a Sleeved Tunic",
+  "creation_date": "c. 500–1000",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 1000,
+  "artists_tags": [],
+  "culture": [
+    "Central Andes, Middle Horizon, Wari, 6th-11th century"
+  ],
+  "technique": "camelid fiber, cotton: tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Pre-Columbian",
+  "type": "Textile",
+  "measurements": "Overall: 88.6 x 101.9 cm (34 7/8 x 40 1/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.886,
+      "height_inch": 34,
+      "height_inch_fraction": 0.875,
+      "width": 1.019,
+      "width_inch": 40,
+      "width_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 198695,
+        "title": "Wari: Lords of the Ancient Andes",
+        "description": "<i>Wari: Lords of the Ancient Andes</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 28, 2012-January 6, 2013); Ft. Lauderdale Museum of Art (February 10-May 19, 2013); Kimbell Art Museum, Fort Worth, TX (June 16-September 8, 2013).",
+        "opening_date": "2012-10-28T00:00:00"
+      },
+      {
+        "id": 348277,
+        "title": "Gallery 232- Andean Textile Rotation",
+        "description": "<i>Gallery 232- Andean Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 5, 2015-August 29, 2016).",
+        "opening_date": "2015-08-05T04:00:00"
+      },
+      {
+        "id": 374833,
+        "title": "Gallery 232- Andean Textile Rotation",
+        "description": "<i>Gallery 232- Andean Textile Rotation</i>. The Cleveland Museum of Art (organizer) (November 10, 2020-August 19, 2021).",
+        "opening_date": "2020-11-14T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The bird-headed creature in profile that repeats in each of this tunic's design fields gazes upward, holds a staff of authority in front of its body, and wears an ornate headdress behind which a three-feathered wing can be seen. The extremely high technical quality of such tunics suggests that the Wari reserved bird imagery for their most exalted rulers. Here, the original incorporated more than twice as much yarn as the routine--some 19 miles, all handmade and much dyed an inky, dark blue, the most prestigious of Wari colors.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79992011"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2005.53.a-half-of-a-sleeved-tu"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Bergh, Susan E., Luis Guillermo Lumbreras, and Luis Jaime Castillo. Wari: Lords of the Ancient Andes. [New York]: Thames &amp; Hudson, 2012.",
+      "page_number": "p.166,  272",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2005.53.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_web.jpg",
+      "width": "539",
+      "height": "900",
+      "filesize": "",
+      "filename": "2005.53.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_print.jpg",
+      "width": "2035",
+      "height": "3400",
+      "filesize": "",
+      "filename": "2005.53.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_full.tif",
+      "width": "2914",
+      "height": "4869",
+      "filesize": "",
+      "filename": "2005.53.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt0_web.jpg",
+        "width": "792",
+        "height": "900",
+        "filesize": "493106"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt0_print.jpg",
+        "width": "2993",
+        "height": "3400",
+        "filesize": "5421650"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt0_full.tif",
+        "width": "3374",
+        "height": "3833",
+        "filesize": "38821100"
+      },
+      "date_created": "2012-03-14T16:07:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt1_web.jpg",
+        "width": "859",
+        "height": "900",
+        "filesize": "562011"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt1_print.jpg",
+        "width": "3246",
+        "height": "3400",
+        "filesize": "5735175"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt1_full.tif",
+        "width": "3425",
+        "height": "3587",
+        "filesize": "36880032"
+      },
+      "date_created": "2012-03-14T17:37:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt2_web.jpg",
+        "width": "896",
+        "height": "900",
+        "filesize": "530238"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt2_print.jpg",
+        "width": "3383",
+        "height": "3400",
+        "filesize": "5596736"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt2_full.tif",
+        "width": "4076",
+        "height": "4096",
+        "filesize": "50119344"
+      },
+      "date_created": "2005-02-23T14:50:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt3_web.jpg",
+        "width": "900",
+        "height": "880",
+        "filesize": "532825"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt3_print.jpg",
+        "width": "3400",
+        "height": "3324",
+        "filesize": "5570524"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2005.53.a/2005.53.a_alt3_full.tif",
+        "width": "4100",
+        "height": "4008",
+        "filesize": "49332636"
+      },
+      "date_created": "2005-02-23T14:55:46",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 164429,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2005-06-06T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "c. 500–1000",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "2005.53",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-04 11:08:46.700000"
+}

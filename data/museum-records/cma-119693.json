@@ -1,0 +1,525 @@
+{
+  "id": 119693,
+  "accession_number": "1940.530",
+  "share_license_status": "CC0",
+  "tombstone": "Cloth with Procession of Figures, 170 BCE–70 CE (radiocarbon date, 95% probability). Central Andes, South Coast, Nasca people. Cotton and pigment (field); camelid fiber (borders and fringe); overall: 69.8 x 280.7 cm (27 1/2 x 110 1/2 in.); mounted: 78.7 x 290.2 cm (31 x 114 1/4 in.). The Cleveland Museum of Art, The Norweb Collection, 1940.530",
+  "current_location": null,
+  "title": "Cloth with Procession of Figures",
+  "creation_date": "170 BCE–70 CE (radiocarbon date, 95% probability)",
+  "creation_date_earliest": -170,
+  "creation_date_latest": 70,
+  "artists_tags": [],
+  "culture": [
+    "Central Andes, South Coast, Nasca people"
+  ],
+  "technique": "cotton and pigment (field); camelid fiber (borders and fringe)",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Pre-Columbian",
+  "type": "Textile",
+  "measurements": "Overall: 69.8 x 280.7 cm (27 1/2 x 110 1/2 in.); Mounted: 78.7 x 290.2 cm (31 x 114 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.698,
+      "height_inch": 27,
+      "height_inch_fraction": 0.5,
+      "width": 2.807,
+      "width_inch": 110,
+      "width_inch_fraction": 0.5
+    },
+    "mounted": {
+      "height": 0.787,
+      "height_inch": 31,
+      "height_inch_fraction": 0.0,
+      "width": 2.902,
+      "width_inch": 114,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312131,
+        "title": "Art of the Americas",
+        "description": "<i>Art of the Americas</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 9, 1945-January 6, 1946).",
+        "opening_date": "1945-11-09T05:00:00"
+      },
+      {
+        "id": 300804,
+        "title": "Treasures of Peruvian Gold",
+        "description": "<i>Treasures of Peruvian Gold</i>. The Cleveland Museum of Art, Cleveland, OH (February 23-April 3, 1966).",
+        "opening_date": "1966-02-23T05:00:00"
+      },
+      {
+        "id": 437332,
+        "title": "Andean Gallery 107 Rotation",
+        "description": "<i>Andean Gallery 107 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 21, 2001-November 18, 2002).",
+        "opening_date": "2001-11-21T05:00:00"
+      },
+      {
+        "id": 287197,
+        "title": "Gallery 232- Andean Textile Rotation",
+        "description": "<i>Gallery 232- Andean Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 30, 2016-August 21, 2017).",
+        "opening_date": "2016-08-30T04:00:00"
+      },
+      {
+        "id": 446349,
+        "title": "Ancient Andean Textiles",
+        "description": "<i>Ancient Andean Textiles</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 4, 2021-December 4, 2022).",
+        "opening_date": "2021-12-04T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Ancient Arts of the Andes</em>, The Museum of Modern Art, New York, NY (January 26- March 26, 1954).",
+        "opening_date": "1954-01-26T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Emery May Holden Norweb (1895-1984) and Raymond Henry Norweb (1894-1983), Cleveland OH, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1940",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1940-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": "Said to have been excavated from the necropolis at Cerro Colorado on the Paracas Peninsula, Peru",
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Characteristics of the pampas cat and the emperor tamarin monkey are visible in the marching figures.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Experts agree that this cloth is one of the greatest paintings to survive from Andean antiquity due to the realism, complexity, large size, and refined execution of its figures. All but one of the figures wear the whiskered mouth mask of Nasca supernatural beings and several carry or wear severed human heads, which the Nasca linked to nature’s fruitfulness. Thus, the figures seem to represent supernatural forces or humans personifying such forces during a ritual devoted to agricultural fertility. Originally, the panel was attached along its upper edge to a dark blue cloth of equal size. The complete textile may have served as a mantle (a shawl-like garment), a hanging, or a funerary offering.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60740770"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1940.530-cloth-with-processio"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Milliken, William M. \"Exhibition of the \"Art of the Americas\".\" <em>The Bulletin of the Cleveland Museum of Art</em> 32, no. 9 (1945)",
+      "page_number": "cat. no. 10",
+      "url": "https://www.jstor.org/stable/25141236"
+    },
+    {
+      "citation": "Art of the Americas: Picture Book No. 2. (Cleveland, OH: The Cleveland Museum of Art,1946.)",
+      "page_number": "pl. 10",
+      "url": null
+    },
+    {
+      "citation": "The Tiger's Eye. 1, no.5 (October, 1948)",
+      "page_number": "83, fig.76",
+      "url": null
+    },
+    {
+      "citation": "Bennett, Wendell C. and Bird, Junius Bouton. Andean Culture History. American Museum of Natural History, Handbook Series 15. (New York, NY: American Museum of Natural History, 1949.)",
+      "page_number": "p.287, fig. 57",
+      "url": null
+    },
+    {
+      "citation": "Foote, Helen. \"Early Peruvian Pottery.\" <em>The Bulletin of the Cleveland Museum of Art </em>37, no. 3 (March 1950): 54-56.",
+      "page_number": "Mentioned: p. 56",
+      "url": "https://www.jstor.org/stable/25141621"
+    },
+    {
+      "citation": "\"Art and Archaeology at the Cleveland Museum of Art.\" <em>Archaeology</em> 6, no. 4 (1953)",
+      "page_number": "p. 201",
+      "url": "https://www.jstor.org/stable/41663172"
+    },
+    {
+      "citation": "Bennett, Wendell Clark. <em>Ancient Arts of the Andes. </em>New York: Museum of Modern Art, 1954.",
+      "page_number": "p. 56, figs. 58, 60",
+      "url": null
+    },
+    {
+      "citation": "Museum of Modern Art (New York, N.Y.), and Wendell Clark Bennett. <em>32 Masterworks of Andean Art from the Exhibition Ancient Arts of the Andes</em>. 1955.",
+      "page_number": "p. 59, Cat. No. 56, Fig. 58, Pl. 2, Fig. 60",
+      "url": null
+    },
+    {
+      "citation": "\"The Cleveland Museum of Art.\" <em>Arts</em> 30, no. 2 (November, 1955).",
+      "page_number": "p. 42",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 343",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n66"
+    },
+    {
+      "citation": "Hissink, Karin and Hahn, Albert. Die Tacana, I Erzahlungsgut. Universitat Frankfurt am Main. Frobenius-Institut Veroffentlichungen. (Stuttgart: Kohlhammer, 1961.)",
+      "page_number": "p. 549",
+      "url": null
+    },
+    {
+      "citation": "Dockstader, Frederick J. \"Indian Art of the Americas Before and After Columbus.\" Art in America. XLIX, no. 3 (1961.)",
+      "page_number": "p. 24",
+      "url": null
+    },
+    {
+      "citation": "Kubler, George. The Art and Architecture of Ancient America: The Mexican, Maya, and Andean Peoples. (Baltimore, MD: Penguin Books, 1962.)",
+      "page_number": "p. 296, pl. 172a",
+      "url": null
+    },
+    {
+      "citation": "Hawley, Henry. \"Pre-Columbian Art at Cleveland.\" <em>Apollo</em>. LXVIII (December, 1963).",
+      "page_number": "p. 491, pl. XVI",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 296",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n320"
+    },
+    {
+      "citation": "Glubok, Shirley. The Art of Ancient Peru. (New York: Harper &amp; Row, 1966.)",
+      "page_number": "p. 28",
+      "url": null
+    },
+    {
+      "citation": "Grieder, Terrance, \"Demons and Discipline in Ancient Peru.\" Art News LXVII (October 1968)",
+      "page_number": "p. 42 fig. 43",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 296",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n320"
+    },
+    {
+      "citation": "<em>The Little Art Book Series</em>. Introduction by Sherman E. Lee; texts for the reproductions by the curators of the departments of the museum. Ed. Berthold Fricke. (Hannover, Germany: Knorr &amp; Hirth, 1970)",
+      "page_number": "p. 85",
+      "url": null
+    },
+    {
+      "citation": "Meggers, Betty Jane. <em>Prehistoric America. </em>Chicago: Aldine·Atherton, 1972.",
+      "page_number": "p. 81, fig. 51",
+      "url": null
+    },
+    {
+      "citation": "Rowe, Ann P. \"Interlocking Warp and Weft in the Nasca 2 Style.\" <em>Textile Museum Journal</em> III, no. 3 (December, 1972).",
+      "page_number": "p. 74, fig. 10",
+      "url": null
+    },
+    {
+      "citation": "Junius B. Bird Pre-Columbian Textile Conference, Junius Bouton Bird, Ann Pollard Rowe, Elizabeth P. Benson, and Anne-Louise Schaffer. <em>The Junius B. Bird Pre-Columbian Textile Conference, May 19th and 20th, 1973</em>. 1979.",
+      "page_number": "p. 131, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 400",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n420"
+    },
+    {
+      "citation": "Méry, Fernand, and Emma Street. The Life, History and Magic of the Cat. 1978.",
+      "page_number": "p. 26",
+      "url": null
+    },
+    {
+      "citation": "Wilson, Kax. A History of Textiles. Boulder, Colo: Westview Press, 1979.",
+      "page_number": "plate 108",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Adele Z. Silver. <em>Guide to the Galleries</em>. Cleveland, Ohio: Cleveland Museum of Art, 1981.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Benson, Elizabeth P., and William J. Conklin. <em>Museums of the Andes.</em> New York, N.Y.: Newsweek, 1981.",
+      "page_number": "p. 29",
+      "url": null
+    },
+    {
+      "citation": "Kajitani, Nobuko. <em>Andesu no senshoku. </em>Kyoto: Kyoto Shoin, 1982.",
+      "page_number": "p. 37, plate 40",
+      "url": null
+    },
+    {
+      "citation": "Saunders, Nicholas J. <em>People of the Jaguar: The Living Spirit of Ancient America.</em> 1989.",
+      "page_number": "p. 138",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 12",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n27"
+    },
+    {
+      "citation": "Turner, Evan H.<em> Object Lessons: Cleveland Creates an Art Museum. </em>Cleveland: Cleveland Museum of Art, 1991.",
+      "page_number": "p. 43",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Interpretations: Sixty-Five Works from the Cleveland Museum of Art. </em>1991.",
+      "page_number": "no. 43",
+      "url": null
+    },
+    {
+      "citation": "Konig, Viola. “Don Luys II” <em>Baessler-Archiv. Beitrage zur Volkerkunde</em> Bd. 41 (1993).",
+      "page_number": "p. 153, abb. 3",
+      "url": null
+    },
+    {
+      "citation": "Dumbarton Oaks, and Elizabeth Hill Boone. <em>Andean Art at Dumbarton Oaks</em>. Washington, D.C.: Dumbarton Oaks Research Library and Collection, 1996.",
+      "page_number": "pp. 344, 359-360, figs. 122, 127, pl. 99",
+      "url": null
+    },
+    {
+      "citation": "Lavalle de Cárdenas, Rosario de, and José Antonio de Lavalle. Tejidos <em>Milenarios Del Perú = Ancient Peruvian Textiles.</em> [Erscheinungsort nicht ermittelbar]: Integra AFP, 1999.",
+      "page_number": "p. 182-3, pl. 30",
+      "url": null
+    },
+    {
+      "citation": "Silverman, Helaine, and William Harris Isbell. <em>Andean Archaeology II: Art, Landscape, and Society</em>. New York: Kluwer Academic/Plenum Publishers, 2002.",
+      "page_number": "p. 93, fig. 3.8",
+      "url": null
+    },
+    {
+      "citation": "Cáceres Macedo, Justo, and Justo Cáceres Macedo. <em>Tejidos del Perú prehispánico = Textiles of the prehispanic Peru</em>. Lima, Peru: Justo Cáceres Macedo, 2005.",
+      "page_number": "p. 376",
+      "url": null
+    },
+    {
+      "citation": "Fagan, Brian M., and Christopher R. DeCorse. <em>In the Beginning: An Introduction to Archaeology. </em>Upper Saddle River, N.J.: Pearson Prentice Hall, 2005.",
+      "page_number": "p. 278, fig. 11.18",
+      "url": null
+    },
+    {
+      "citation": "Palmero, Paola Buratti. <em>Mantas di Jasimaná: l'abilità tessile di un'antica etnia delle Ande Argentine.</em> [Biella]: Progetto Ermanno, 2006.",
+      "page_number": "p. 40, fig. 6",
+      "url": null
+    },
+    {
+      "citation": "Frame, Mary. “Cronología de los fardos funerarios de Wari Kayan, Paracas Necrópolis.” <em>Hilos del pasado: el aporte francés al legado Paracas</em>. Lima: Instituto Nacional de Cultura, 2007.",
+      "page_number": "p. 35, 43-44, 46",
+      "url": null
+    },
+    {
+      "citation": "Frame, Mary. “Cronología de los fardos funerarios de Wari Kayan, Paracas Necrópolis.” Hilos del pasado: el aporte francés al legado Paracas. Lima: Instituto Nacional de Cultura, 2007.",
+      "page_number": "35, 43-44, 46",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2012.",
+      "page_number": "pp. 42-3",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 341",
+      "url": ""
+    },
+    {
+      "citation": "Boucherie, Nathalie, Witold Nowik, Dominique Cardon, \"Etude de Colorants d'une Offrande textile (Y16) Exceptionnelle, decouverte dur le Site de Cahuachi (Culture Nasca),\" <em>Techne </em>No. 41 (2015).",
+      "page_number": "pp. 47-54",
+      "url": null
+    },
+    {
+      "citation": "Fagan, Brian M. <em>Ancient Lives: An Introduction to Archaeology and Prehistory</em>. 2017.",
+      "page_number": "p. 418",
+      "url": null
+    },
+    {
+      "citation": "\"New in the Galleries.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 57, no. 1 (January/February 2017): Back cover.",
+      "page_number": "Reproduced and Mentioned: Back cover",
+      "url": "https://archive.org/details/CMAMM2017-01/page/n13/mode/2up"
+    },
+    {
+      "citation": "Fagan, Brian M., and Nadia Durrani. <em>World Prehistory: A Brief Introduction</em>. 2020.",
+      "page_number": "p. 329",
+      "url": null
+    },
+    {
+      "citation": "Bergh, Susan E. \"'The Art of Those Who Lived Here Before the White Man Came': Collecting the Ancient Americas at the Cleveland Museum of Art.\" In <em>Collecting the “Other Americas”: Ancient Americas Collections in American Art Museums, </em>edited by Victoria I. Lyall, and Ellen Hoobler, 67- 82. Denver, Colorado: Mayer Center for Ancient and Latin American Art at the Denver Art Museum, 2025.",
+      "page_number": "Mentioned and reproduced: p. 70-71, fig. 5",
+      "url": ""
+    },
+    {
+      "citation": "Carmichael, Elizabeth A., and Patrick H. Carmichael. \"Proto-Nasca Iconography: The Harris Drum and the Gothenburg Ceremonial Staff.\" <em>Nawpa Pacha </em>45, no. 1 (2025): 105-139.",
+      "page_number": "Mentioned: p. 112, 134, 137; Reproduced: p. 135 (fig. 24)",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1940.530",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_web.jpg",
+      "width": "1263",
+      "height": "344",
+      "filesize": "92070",
+      "filename": "1940.530_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_print.jpg",
+      "width": "3400",
+      "height": "927",
+      "filesize": "551041",
+      "filename": "1940.530_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_full.tif",
+      "width": "17615",
+      "height": "4805",
+      "filesize": "254358076",
+      "filename": "1940.530_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt0_web.jpg",
+        "width": "1215",
+        "height": "893",
+        "filesize": "912005"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt0_print.jpg",
+        "width": "3400",
+        "height": "2499",
+        "filesize": "9959737"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt0_full.tif",
+        "width": "6251",
+        "height": "4596",
+        "filesize": "86220608"
+      },
+      "date_created": "2011-07-14T13:31:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt1_web.jpg",
+        "width": "1263",
+        "height": "860",
+        "filesize": "910382"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt1_print.jpg",
+        "width": "3400",
+        "height": "2315",
+        "filesize": "9130758"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt1_full.tif",
+        "width": "6668",
+        "height": "4542",
+        "filesize": "90892428"
+      },
+      "date_created": "2011-07-14T13:27:51",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt2_web.jpg",
+        "width": "1263",
+        "height": "877",
+        "filesize": "894928"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt2_print.jpg",
+        "width": "3400",
+        "height": "2361",
+        "filesize": "9191014"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt2_full.tif",
+        "width": "6668",
+        "height": "4632",
+        "filesize": "92689144"
+      },
+      "date_created": "2011-07-14T13:23:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt3_web.jpg",
+        "width": "1230",
+        "height": "893",
+        "filesize": "924777"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt3_print.jpg",
+        "width": "3400",
+        "height": "2469",
+        "filesize": "9756824"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt3_full.tif",
+        "width": "6327",
+        "height": "4595",
+        "filesize": "87252796"
+      },
+      "date_created": "2011-07-14T13:18:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt4_web.jpg",
+        "width": "1263",
+        "height": "340",
+        "filesize": "104974"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt4_print.jpg",
+        "width": "3400",
+        "height": "914",
+        "filesize": "747315"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.530/1940.530_alt4_full.tif",
+        "width": "17484",
+        "height": "4704",
+        "filesize": "246774832"
+      },
+      "date_created": "2011-07-14T13:31:57",
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Norweb Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 119693,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1940-10-30T00:00:00",
+  "sortable_date": -170,
+  "date_added_to_oa": null,
+  "date_text": "170 BCE–70 CE (radiocarbon date, 95% probability)",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Border of a Mantle",
+    "Ceremonial Cloth"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 06:10:53.018000"
+}

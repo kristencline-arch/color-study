@@ -1,0 +1,234 @@
+{
+  "id": 98261,
+  "accession_number": "1917.94",
+  "share_license_status": "CC0",
+  "tombstone": "Landscape (山水圖), 1368–1644. China, Ming dynasty (1368–1644). Handscroll; ink and slight color on silk; overall: 32.4 x 282.1 cm (12 3/4 x 111 1/16 in.). The Cleveland Museum of Art, Worcester R. Warner Collection, 1917.94",
+  "current_location": null,
+  "title": "Landscape",
+  "title_in_original_language": "山水圖",
+  "creation_date": "1368–1644",
+  "creation_date_earliest": 1368,
+  "creation_date_latest": 1644,
+  "artists_tags": [],
+  "culture": [
+    "China, Ming dynasty (1368–1644)"
+  ],
+  "technique": "handscroll; ink and slight color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "Overall: 32.4 x 282.1 cm (12 3/4 x 111 1/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.324,
+      "height_inch": 12,
+      "height_inch_fraction": 0.75,
+      "width": 2.821,
+      "width_inch": 111,
+      "width_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Acquired in China by Langdon Warner [1881–1955] for the Cleveland Museum of Art with funds from Worcester R. Warner [1846–1929] and Cornelia Blakemore Warner [1858–1947]",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1917",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1917–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This handscroll by an unnamed painter rewards close looking. Among water-washed rocks, reeds are drawn so gracefully and true that they rustle across the silk surface of this painting. Beyond are empty spaces where sky and water meet without horizon. Then distant mountains rise, bristling with stunted growth, and at their feet is a farmstead with its homely barnyard. A woman with a bucket in one hand leads a little child down to the rickety landing where the ducks begin swimming toward her. From a gateway, a small dog charges out in fury. A boy has let his fishing line down from an overhanging willow. Two men stand by a purse-net dropped from an upright stake. Another net is being pulled aboard a boat in mid-stream. None of these figures is more than three-quarters of an inch high, and yet each has its poise and its individuality as clear as if it were colossal bronze. <br><br>If one fords the river, there are cliffs and sloping flat rocks, and then, perhaps best of all, waterfalls spurting down clefts in the mountain wall to join and flow in a turbulent brook below the bridge where the farmer boys are crossing. More trees and then an inlet, perhaps an arm of some great lake, along whose shore the farms dwindle until a point of land becomes a cloud.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60503035"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1917.94-landscape"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Warner, Langdon. “A Landscape Scroll Painting.” <em>The Bulletin of the Cleveland Museum of Art</em> 4, no. 5 (June/July 1917): 70–73.",
+      "page_number": "Mentioned and Reproduced: pp. 70–73",
+      "url": "http://www.jstor.org/stable/25136096"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1917.94",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_web.jpg",
+      "width": "1263",
+      "height": "116",
+      "filesize": "120880",
+      "filename": "1917.94_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_print.jpg",
+      "width": "3400",
+      "height": "311",
+      "filesize": "804267",
+      "filename": "1917.94_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_full.tif",
+      "width": "12000",
+      "height": "1099",
+      "filesize": "39587352",
+      "filename": "1917.94_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt0_web.jpg",
+        "width": "1263",
+        "height": "510",
+        "filesize": "449550"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt0_print.jpg",
+        "width": "3400",
+        "height": "1373",
+        "filesize": "3394396"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt0_full.tif",
+        "width": "5000",
+        "height": "2019",
+        "filesize": "30307020"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt1_web.jpg",
+        "width": "1263",
+        "height": "491",
+        "filesize": "459598"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt1_print.jpg",
+        "width": "3400",
+        "height": "1321",
+        "filesize": "3394613"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt1_full.tif",
+        "width": "5000",
+        "height": "1942",
+        "filesize": "29152216"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt2_web.jpg",
+        "width": "1263",
+        "height": "489",
+        "filesize": "470902"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt2_print.jpg",
+        "width": "3400",
+        "height": "1317",
+        "filesize": "3437196"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt2_full.tif",
+        "width": "5000",
+        "height": "1937",
+        "filesize": "29077724"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt3_web.jpg",
+        "width": "1263",
+        "height": "494",
+        "filesize": "449407"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt3_print.jpg",
+        "width": "3400",
+        "height": "1331",
+        "filesize": "3372015"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt3_full.tif",
+        "width": "5000",
+        "height": "1957",
+        "filesize": "29377176"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt4_web.jpg",
+        "width": "1263",
+        "height": "489",
+        "filesize": "463818"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt4_print.jpg",
+        "width": "3400",
+        "height": "1317",
+        "filesize": "3301666"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_alt4_full.tif",
+        "width": "5000",
+        "height": "1937",
+        "filesize": "29079060"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Worcester R. Warner Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 98261,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1917-01-01T00:00:00",
+  "sortable_date": 1368,
+  "date_added_to_oa": null,
+  "date_text": "1368–1644",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-07-30 11:10:47.668000"
+}

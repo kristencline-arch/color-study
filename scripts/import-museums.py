@@ -132,13 +132,19 @@ def thumbnail(source):
 
 
 def main():
+    if not __debug__:
+        raise RuntimeError("Run without Python -O: import validation must remain enabled.")
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--refresh", action="store_true", help="Refetch museum records and recheck image rights")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--refresh", action="store_true", help="Refetch museum records and recheck image rights")
+    mode.add_argument("--only-new", action="store_true", help="Import newly selected records without rewriting existing catalog entries or previews")
     args = parser.parse_args()
     sources_path = ROOT / "public/sources.json"
     existing = json.loads(sources_path.read_text())
     by_id = {item["id"]: item for item in existing}
     selection = json.loads((ROOT / "data/museum-selection.json").read_text())
+    if args.only_new:
+        selection = [spec for spec in selection if f"{spec['provider']}-{spec['object_id']}" not in by_id]
 
     def ingest(spec):
         source = source_record(spec, args.refresh)
@@ -179,13 +185,15 @@ def main():
     imported_ids = {item["id"] for item in imported}
     preserved = [item for item in existing if item["id"] not in imported_ids]
     for item in preserved:
-        thumbnail(item)
+        if not args.only_new:
+            thumbnail(item)
     # Preserve original study IDs and order for existing links and lab defaults.
     result = preserved + imported
     for index, item in enumerate(imported):
         item["catalog_order"] = index
-    for index, item in enumerate(preserved):
-        item["catalog_order"] = len(imported) + index
+    if not args.only_new:
+        for index, item in enumerate(preserved):
+            item["catalog_order"] = len(imported) + index
     write_json(sources_path, result)
     print(f"Saved {len(result)} catalog records ({len(imported)} museum imports).")
 

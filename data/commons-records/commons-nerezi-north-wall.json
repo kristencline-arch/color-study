@@ -1,0 +1,105 @@
+{
+  "pageid": 179064830,
+  "ns": 6,
+  "title": "File:Gorno Nerezi, Saint Panteleimon church - Frescoes of the north wall.jpg",
+  "index": 6,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1812231,
+      "width": 5224,
+      "height": 3483,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gorno_Nerezi%2C_Saint_Panteleimon_church_-_Frescoes_of_the_north_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gorno_Nerezi,_Saint_Panteleimon_church_-_Frescoes_of_the_north_wall.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179064830",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-11-28 08:45:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Gorno Nerezi, Saint Panteleimon church - Frescoes of the north wall",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "St. Pantaleon's Church (Gorno Nerezi)|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "41.976996",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "21.374394",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Byzantine church of St. Panteleimon at Gorno Nerezi (Skopje)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-04-30 19:51:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/139456657@N07/48617476162/\">https://www.flickr.com/photos/139456657@N07/48617476162/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "zavar_vera",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

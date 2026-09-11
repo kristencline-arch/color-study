@@ -1,0 +1,1119 @@
+{
+  "id": 149956,
+  "accession_number": "1980.187",
+  "share_license_status": "CC0",
+  "tombstone": "\"Seventh Month\" from the Odes of Bin (豳風，七月), 1200s. China, Southern Song dynasty (1127-1279). Handscroll; ink and color on silk; image: 22.5 x 687.2 cm (8 7/8 x 270 9/16 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1980.187",
+  "current_location": null,
+  "title": "\"Seventh Month\" from the Odes of Bin",
+  "title_in_original_language": "豳風，七月",
+  "creation_date": "1200s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1299,
+  "artists_tags": [],
+  "culture": [
+    "China, Southern Song dynasty (1127-1279)"
+  ],
+  "technique": "Handscroll; ink and color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "Image: 22.5 x 687.2 cm (8 7/8 x 270 9/16 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.225,
+      "height_inch": 8,
+      "height_inch_fraction": 0.875,
+      "width": 6.872,
+      "width_inch": 270,
+      "width_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Colophons:  1. [on the frontispiece] by the Qianlong emperor (dated 1741).\n                    2. by Lu Wan (dated Zhengde dingchou, 1517).\n                    2. by the Jiaqing emperor (dated 1807).",
+      "inscription_translation": null,
+      "inscription_remark": "The Qianlong emperor's colophon is dated to a month in the spring of 1741, several years before the emperor order the compilation of the imperial catalogue Shiqu baoji, which appeared in 1745, and in which the painting is recorded as a work by the Southern Song court painter Ma Yuan (early 13th century).  In 1741, the Qianlong emperor was 29 years old; therefore this is a relatively early example of his calligraphy.",
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 304517,
+        "title": "Eight Dynasties of Chinese Painting",
+        "description": "<i>Eight Dynasties of Chinese Painting</i>. The Cleveland Museum of Art (February 11-March 29, 1981).",
+        "opening_date": "1981-02-11T05:00:00"
+      },
+      {
+        "id": 304521,
+        "title": "Year in Review: 1980",
+        "description": "<i>Year in Review: 1980</i>. The Cleveland Museum of Art (organizer) (June 24-July 19, 1981).",
+        "opening_date": "1981-06-24T04:00:00"
+      },
+      {
+        "id": 395234,
+        "title": "China’s Southern Paradise: Treasures from the Lower Yangzi Delta",
+        "description": "<i>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 10, 2023-January 7, 2024).",
+        "opening_date": "2023-09-10T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>The Flowering of Southern Sung and its Legacy</em>. Ackland Art Museum, The University of North Carolina at Chapel Hill, NC (March 15-April 29, 1985).",
+        "opening_date": "1985-03-15T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Liang Qingbiao 梁清標 [1620–1691]",
+      "citations": [],
+      "footnotes": [],
+      "date": "1600s",
+      "sortorder": 1
+    },
+    {
+      "description": "(Mrs. Ya-yen Yu sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1980",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1980–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The <em>Odes of Bin </em>appears in the classic <em>Shijing </em>(Book of Poetry), an anthology of more than 300 poems, folk songs, and ceremonial hymns that were originally chanted to music.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "According to Confucian thought, the ruler looks after the well-being of his people which involves agricultural activities. <em>Seventh Month</em> from the ancient <em>Odes of Bin </em>in the <em>Shijing</em> (Book of Poetry) describes occupations throughout the year, including plowing, harvesting, hunting, making clothes, and observing rituals. <br><br>The earliest illustrations of these <em>Odes </em>accompanied by text were commissioned by Southern Song emperor Gaozong (reigned 1127–1162). As the lower Yangzi delta had become the new seat of government, Gaozong had sets of these illustrations produced by court artists to revive the dynasty and convince the Confucian officialelite of his legitimacy to rule.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60474356"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1980.187-seventh-month-from-t"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Chen, Rentao 陳仁濤 [J.D. Chen]. <em>Gu gong yi yi shu hua mu jiao zhu </em>故宮已佚書畫目校注. Hong Kong: Dongnan shu ju, 1956.",
+      "page_number": "p. 9a",
+      "url": null
+    },
+    {
+      "citation": "Zhang Zhao 張照, ed. <em>Mi dian zhulin shiqu baoji </em>秘殿珠林 石渠寶笈. Taipei: Guoli gugong bowuyuan 國立故宮博物院, 1745, Taipei reprint 1971.",
+      "page_number": "pp. 977-978",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E., and Wai-kam Ho. <em>The Nature and Significance of the Collection of Liang Ch'ing-Piao</em>. Taipei, Taiwan: Chung-hua ming-kuo, 1981.",
+      "page_number": "Mentioned: p. 126, no. 97",
+      "url": null
+    },
+    {
+      "citation": "Murray, Julia K. <em>Ma Hezhi and the Illustration of the Book of Odes</em>. Cambridge [England]: Cambridge University Press, 1993.",
+      "page_number": "Reproduced: Fig. 74, p. 147",
+      "url": null
+    },
+    {
+      "citation": "Liu, Cary Y., and Dora C. Y. Ching. <em>Arts of the Sung and Yüan: Ritual, Ethnicity, and Style in Painting</em>. Princeton, N.J.: The Art Museum, Princeton University, 1999.",
+      "page_number": "Reproduced:  p. 131, figs. 4-5; p. 133, fig. 8",
+      "url": null
+    },
+    {
+      "citation": "Griswold, William, Xiaofei Tian, Richard Von Glahn, Feng Zhao, S. J. Vainker, Masaaki Itakura, Jiang Wu, et al. <em>China’s Southern Paradise: Treasures from the Lower Yangzi Delta</em>. Edited by Clarissa Von Spee. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 155–157, no. 48",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1980.187",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_web.jpg",
+      "width": "1263",
+      "height": "224",
+      "filesize": "29739",
+      "filename": "1980.187_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_print.jpg",
+      "width": "2048",
+      "height": "363",
+      "filesize": "82657",
+      "filename": "1980.187_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_full.tif",
+      "width": "2048",
+      "height": "363",
+      "filesize": "87572",
+      "filename": "1980.187_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt0_web.jpg",
+        "width": "1263",
+        "height": "178",
+        "filesize": "95630"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt0_print.jpg",
+        "width": "3400",
+        "height": "479",
+        "filesize": "815405"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt0_full.tif",
+        "width": "90000",
+        "height": "3447",
+        "filesize": "1240945996"
+      },
+      "date_created": "2010-07-08T20:55:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt1_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "810357"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt1_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "8078819"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt1_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887708"
+      },
+      "date_created": "2010-07-08T12:29:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt2_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "783272"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt2_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7812068"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt2_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887352"
+      },
+      "date_created": "2010-07-08T17:56:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt3_web.jpg",
+        "width": "1263",
+        "height": "861",
+        "filesize": "854097"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt3_print.jpg",
+        "width": "3400",
+        "height": "2317",
+        "filesize": "7153673"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt3_full.tif",
+        "width": "6668",
+        "height": "4546",
+        "filesize": "90965432"
+      },
+      "date_created": "2010-07-07T12:38:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt4_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "854745"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt4_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "8470087"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt4_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887436"
+      },
+      "date_created": "2010-07-07T13:16:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt5_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "869530"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt5_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7366516"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt5_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99890712"
+      },
+      "date_created": "2010-07-07T13:24:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt6_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "826610"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt6_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6170546"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt6_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99894096"
+      },
+      "date_created": "2010-07-07T13:31:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt7_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "848314"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt7_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "8058612"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt7_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99889316"
+      },
+      "date_created": "2010-07-07T13:35:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt8_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "807186"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt8_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7996144"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt8_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887744"
+      },
+      "date_created": "2010-07-07T13:40:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt9_web.jpg",
+        "width": "1263",
+        "height": "871",
+        "filesize": "829271"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt9_print.jpg",
+        "width": "3400",
+        "height": "2344",
+        "filesize": "7343153"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt9_full.tif",
+        "width": "6668",
+        "height": "4598",
+        "filesize": "92005748"
+      },
+      "date_created": "2010-07-07T14:21:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt10_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "818300"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt10_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7927880"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt10_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887964"
+      },
+      "date_created": "2010-07-07T14:24:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt11_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "781485"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt11_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7882776"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt11_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887328"
+      },
+      "date_created": "2010-07-07T14:28:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt12_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "779683"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt12_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7889626"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt12_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887336"
+      },
+      "date_created": "2010-07-07T14:30:29",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt13_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "807280"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt13_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7831794"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt13_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887900"
+      },
+      "date_created": "2010-07-07T14:38:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt14_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "794009"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt14_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7936625"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt14_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887596"
+      },
+      "date_created": "2010-07-07T14:41:28",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt15_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "764914"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt15_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7784554"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt15_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887192"
+      },
+      "date_created": "2010-07-07T14:54:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt16_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "808784"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt16_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7949561"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt16_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887588"
+      },
+      "date_created": "2010-07-07T14:57:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt17_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "793650"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt17_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7652904"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt17_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887556"
+      },
+      "date_created": "2010-07-07T14:59:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt18_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "804796"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt18_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7884282"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt18_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887784"
+      },
+      "date_created": "2010-07-07T15:02:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt19_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "786824"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt19_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7919234"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt19_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887524"
+      },
+      "date_created": "2010-07-07T15:04:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt20_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "795839"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt20_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7909688"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt20_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887776"
+      },
+      "date_created": "2010-07-07T15:07:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt21_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "762291"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt21_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7850201"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt21_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887104"
+      },
+      "date_created": "2010-07-07T15:11:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt22_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "800000"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt22_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7945569"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt22_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887988"
+      },
+      "date_created": "2010-07-07T15:13:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt23_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "783633"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt23_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7836628"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt23_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887808"
+      },
+      "date_created": "2010-07-07T15:15:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt24_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "765978"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt24_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7635309"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt24_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887372"
+      },
+      "date_created": "2010-07-07T15:19:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt25_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "747015"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt25_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7524004"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt25_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887404"
+      },
+      "date_created": "2010-07-07T15:24:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt26_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "779455"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt26_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7827865"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt26_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99887736"
+      },
+      "date_created": "2010-07-07T15:26:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt27_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "793738"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt27_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7896643"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt27_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99888132"
+      },
+      "date_created": "2010-07-07T15:32:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt28_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "803464"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt28_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7901792"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt28_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99888432"
+      },
+      "date_created": "2010-07-07T15:36:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt29_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "799689"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt29_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7379873"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt29_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99888036"
+      },
+      "date_created": "2010-07-07T15:38:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt30_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "836917"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt30_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6600437"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt30_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99892104"
+      },
+      "date_created": "2010-07-07T15:41:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt31_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "954562"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt31_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6820761"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt31_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893736"
+      },
+      "date_created": "2010-07-07T15:45:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt32_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "785809"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt32_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6269452"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt32_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99889728"
+      },
+      "date_created": "2010-07-07T15:54:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt33_web.jpg",
+        "width": "1263",
+        "height": "41",
+        "filesize": "48116"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt33_print.jpg",
+        "width": "3400",
+        "height": "111",
+        "filesize": "311478"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt33_full.tif",
+        "width": "25600",
+        "height": "832",
+        "filesize": "63918664"
+      },
+      "date_created": "2009-11-12T20:11:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt34_web.jpg",
+        "width": "592",
+        "height": "893",
+        "filesize": "269950"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt34_print.jpg",
+        "width": "2254",
+        "height": "3400",
+        "filesize": "3902775"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt34_full.tif",
+        "width": "4042",
+        "height": "6096",
+        "filesize": "73941172"
+      },
+      "date_created": "2009-11-12T20:11:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt35_web.jpg",
+        "width": "1263",
+        "height": "236",
+        "filesize": "248080"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt35_print.jpg",
+        "width": "3400",
+        "height": "636",
+        "filesize": "1642838"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt35_full.tif",
+        "width": "9624",
+        "height": "1801",
+        "filesize": "52019548"
+      },
+      "date_created": "2009-11-12T20:11:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt36_web.jpg",
+        "width": "1263",
+        "height": "230",
+        "filesize": "204643"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt36_print.jpg",
+        "width": "3400",
+        "height": "618",
+        "filesize": "1447552"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt36_full.tif",
+        "width": "9900",
+        "height": "1799",
+        "filesize": "53451376"
+      },
+      "date_created": "2009-11-12T20:11:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt37_web.jpg",
+        "width": "1263",
+        "height": "230",
+        "filesize": "205872"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt37_print.jpg",
+        "width": "3400",
+        "height": "618",
+        "filesize": "1458044"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt37_full.tif",
+        "width": "9900",
+        "height": "1799",
+        "filesize": "53451376"
+      },
+      "date_created": "2009-11-12T20:11:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt38_web.jpg",
+        "width": "1263",
+        "height": "230",
+        "filesize": "205455"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt38_print.jpg",
+        "width": "3400",
+        "height": "619",
+        "filesize": "1455759"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt38_full.tif",
+        "width": "9900",
+        "height": "1802",
+        "filesize": "53540476"
+      },
+      "date_created": "2009-11-12T20:11:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt39_web.jpg",
+        "width": "1263",
+        "height": "226",
+        "filesize": "195823"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt39_print.jpg",
+        "width": "3400",
+        "height": "608",
+        "filesize": "1378319"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt39_full.tif",
+        "width": "9841",
+        "height": "1759",
+        "filesize": "51952032"
+      },
+      "date_created": "2009-11-12T20:12:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt40_web.jpg",
+        "width": "1263",
+        "height": "227",
+        "filesize": "199002"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt40_print.jpg",
+        "width": "3400",
+        "height": "610",
+        "filesize": "1390795"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt40_full.tif",
+        "width": "9840",
+        "height": "1764",
+        "filesize": "52094356"
+      },
+      "date_created": "2009-11-12T20:12:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt41_web.jpg",
+        "width": "1263",
+        "height": "224",
+        "filesize": "245879"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt41_print.jpg",
+        "width": "3400",
+        "height": "604",
+        "filesize": "1596434"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.187/1980.187_alt41_full.tif",
+        "width": "9876",
+        "height": "1755",
+        "filesize": "52018216"
+      },
+      "date_created": "2009-11-12T20:12:18",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 149956,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1980-12-19T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "1200s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Odes of Pin (Rural Occupations)",
+    "\"Seventh Month\" from the \"Odes of Bin\" (Binfeng)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:44:57.596000"
+}

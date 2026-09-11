@@ -1,6 +1,6 @@
 # Color Study: painted surfaces and textiles to explore
 
-50 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
+62 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
 
 ## 1. Angkor Wat (Cambodia)
 
@@ -12,7 +12,7 @@ Published research used decorrelation stretch to clarify faint paintings of boat
 
 **Interpretation:** A carved relief and a surviving paint trace are different kinds of evidence. Match any interpretation to the original photograph.
 
-[Tan et al., The hidden paintings of Angkor Wat, Antiquity (2014)](https://researchportalplus.anu.edu.au/en/publications/the-hidden-paintings-of-angkor-wat/)
+[Tan et al., The hidden paintings of Angkor Wat, Antiquity (2014)](<https://researchportalplus.anu.edu.au/en/publications/the-hidden-paintings-of-angkor-wat/>)
 
 ## 2. Göreme / Cappadocia (Türkiye)
 
@@ -24,9 +24,9 @@ Surviving red motifs and figurative frescoes in rock-hewn churches offer color i
 
 **Interpretation:** Surface damage alone does not identify who caused it or why. The photograph may include conservation work.
 
-[UNESCO, Göreme National Park and the Rock Sites of Cappadocia](https://whc.unesco.org/en/list/357)
+[UNESCO, Göreme National Park and the Rock Sites of Cappadocia](<https://whc.unesco.org/en/list/357>)
 
-Included photograph: [Cappadocia, Turkey](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cappadocia-fresco) — 3,456 × 2,304 px. [Source](https://commons.wikimedia.org/wiki/File:Fresco_at_the_Dark_Church,_in_Goreme_(6).JPG).
+Included photograph: [Cappadocia, Turkey](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cappadocia-fresco) — 3,456 × 2,304 px. [Source](<https://commons.wikimedia.org/wiki/File:Fresco_at_the_Dark_Church,_in_Goreme_(6).JPG>).
 
 ## 3. Chehel Sotoun (Isfahan, Iran)
 
@@ -38,9 +38,9 @@ The featured high-resolution photograph includes a painted narrative scene and w
 
 **Interpretation:** The painting is historic, not prehistoric. Brilliant areas may offer little hidden detail. Do not infer intentional erasure or original hues from false colors.
 
-[Amir Pashaei, original photograph and metadata](https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg)
+[Amir Pashaei, original photograph and metadata](<https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg>)
 
-Included photograph: [Chehel Sotoun, Iran](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=iran-chehel-sotoun) — 4,108 × 3,604 px. [Source](https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg).
+Included photograph: [Chehel Sotoun, Iran](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=iran-chehel-sotoun) — 4,108 × 3,604 px. [Source](<https://commons.wikimedia.org/wiki/File:A_painting_in_Chehel_Sotoun2.jpg>).
 
 ## 4. Bhimbetka (Madhya Pradesh, India)
 
@@ -52,9 +52,9 @@ Surviving painted figures and faint neighboring traces make this a strong materi
 
 **Interpretation:** Different paint layers, weathering and mineral staining can separate in similar ways. The app cannot date overlapping figures.
 
-[UNESCO, Rock Shelters of Bhimbetka](https://whc.unesco.org/en/list/925/)
+[UNESCO, Rock Shelters of Bhimbetka](<https://whc.unesco.org/en/list/925/>)
 
-Included photograph: [Bhimbetka, India](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=bhimbetka-paintings) — 5,184 × 3,456 px. [Source](https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg).
+Included photograph: [Bhimbetka, India](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=bhimbetka-paintings) — 5,184 × 3,456 px. [Source](<https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg>).
 
 ## 5. Greek marble sphinx (Attica, Greece / The Met)
 
@@ -66,9 +66,9 @@ The museum records surviving red, black and blue pigment on this original sphinx
 
 **Interpretation:** Documented pigment is not a published test of this app. False colors do not reproduce the ancient palette. Avoid painted modern reconstructions as input.
 
-[The Met, marble capital and finial in the form of a sphinx](https://www.metmuseum.org/art/collection/search/248501)
+[The Met, marble capital and finial in the form of a sphinx](<https://www.metmuseum.org/art/collection/search/248501>)
 
-Included photograph: [Painted marble sphinx](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=marble-sphinx) — 1,893 × 4,000 px. [Source](https://www.metmuseum.org/art/collection/search/248501).
+Included photograph: [Painted marble sphinx](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=marble-sphinx) — 1,893 × 4,000 px. [Source](<https://www.metmuseum.org/art/collection/search/248501>).
 
 ## 6. Pompeii / House of the Vettii (Italy)
 
@@ -80,9 +80,9 @@ The included Cyparissus image shows worn pigment and pale contours, providing a 
 
 **Interpretation:** Missing plaster cannot be recovered by color enhancement. Check conservation records before interpreting unusual boundaries.
 
-[Original Cyparissus fresco photograph and metadata](https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg)
+[Original Cyparissus fresco photograph and metadata](<https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg>)
 
-Included photograph: [House of the Vettii](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-vettii) — 2,766 × 3,688 px. [Source](https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg).
+Included photograph: [House of the Vettii](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-vettii) — 2,766 × 3,688 px. [Source](<https://commons.wikimedia.org/wiki/File:Fresco_depicting_the_metamorphosis_of_Cyparissus,_House_of_the_Vettii,_Pompeii.jpg>).
 
 ## 7. Beni Hasan (Egypt)
 
@@ -94,7 +94,7 @@ A published DStretch study clarified obscure animal details in Egyptian tomb pai
 
 **Interpretation:** Compare with epigraphic records and conservation history before interpreting an unusual shape.
 
-[Evans and Mourad, DStretch and Egyptian tomb paintings (2018)](https://www.sciencedirect.com/science/article/abs/pii/S2352409X17305977)
+[Evans and Mourad, DStretch and Egyptian tomb paintings (2018)](<https://www.sciencedirect.com/science/article/abs/pii/S2352409X17305977>)
 
 ## 8. Cueva San Borjitas (Baja California Sur, Mexico)
 
@@ -106,7 +106,7 @@ Jon Harman's algorithm description demonstrates enhanced pictographs here, inclu
 
 **Interpretation:** This app uses regularized RGB stretching; it does not reproduce DStretch's custom YDS or YBK presets.
 
-[Jon Harman, DStretch algorithm description and examples](https://www.dstretch.com/AlgorithmDescription.html)
+[Jon Harman, DStretch algorithm description and examples](<https://www.dstretch.com/AlgorithmDescription.html>)
 
 ## 9. Tule River Painted Rock (California, United States)
 
@@ -118,7 +118,7 @@ The technique's author includes Tule River Painted Rock among his before-and-aft
 
 **Interpretation:** Use community-approved imagery and interpretation. Custom DStretch color-space examples may differ from this RGB implementation.
 
-[Jon Harman, Tule River Painted Rock examples](https://www.dstretch.com/AlgorithmDescription.html)
+[Jon Harman, Tule River Painted Rock examples](<https://www.dstretch.com/AlgorithmDescription.html>)
 
 ## 10. Pyramid of Unas (Saqqara, Egypt)
 
@@ -130,9 +130,9 @@ The included image contains visibly colored inscriptions against stone. Their ph
 
 **Interpretation:** This study has not established new text or identified pigments. Shading in carved signs also changes color values.
 
-[Aidan McRae Thomson, source photograph and metadata](https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg)
+[Aidan McRae Thomson, source photograph and metadata](<https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg>)
 
-Included photograph: [Pyramid of Unas](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=unas-pyramid) — 2,560 × 1,920 px. [Source](https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg).
+Included photograph: [Pyramid of Unas](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=unas-pyramid) — 2,560 × 1,920 px. [Source](<https://commons.wikimedia.org/wiki/File:Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg>).
 
 ## 11. Pompeii (Italy)
 
@@ -144,9 +144,9 @@ The House of Menander example has faded wall decoration and surrounding plaster,
 
 **Interpretation:** Weathering, plaster patches and conservation work can all produce distinct false colors.
 
-[Marco Ober, House of Menander source photograph](https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg)
+[Marco Ober, House of Menander source photograph](<https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg>)
 
-Included photograph: [House of Menander](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-menander) — 5,427 × 3,613 px. [Source](https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg).
+Included photograph: [House of Menander](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-menander) — 5,427 × 3,613 px. [Source](<https://commons.wikimedia.org/wiki/File:Casa_del_Menandro,_Interior,_Pompeii_(4979).jpg>).
 
 ## 12. Mogao Caves (Dunhuang, China)
 
@@ -158,7 +158,7 @@ UNESCO documents an extensive collection of cave murals. Faded painted details a
 
 **Interpretation:** Check whether an image depicts an original surface, restoration, reconstruction or replica.
 
-[UNESCO, Mogao Caves](https://whc.unesco.org/en/list/440/)
+[UNESCO, Mogao Caves](<https://whc.unesco.org/en/list/440/>)
 
 ## 13. Ajanta Caves (Maharashtra, India)
 
@@ -170,9 +170,9 @@ The caves' surviving wall paintings make close photographs of faded pigment a pl
 
 **Interpretation:** Strong exposure differences and surface deterioration can overwhelm small pigment differences.
 
-[UNESCO, Ajanta Caves](https://whc.unesco.org/en/list/242/)
+[UNESCO, Ajanta Caves](<https://whc.unesco.org/en/list/242/>)
 
-Included photograph: [Ajanta: worn painted fragments](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ajanta-damaged) — 4,080 × 1,836 px. [Source](https://commons.wikimedia.org/wiki/File:Damaged_painting_in_Ajanta_caves.jpg).
+Included photograph: [Ajanta: worn painted fragments](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ajanta-damaged) — 4,080 × 1,836 px. [Source](<https://commons.wikimedia.org/wiki/File:Damaged_painting_in_Ajanta_caves.jpg>).
 
 ## 14. Bonampak (Chiapas, Mexico)
 
@@ -184,7 +184,7 @@ INAH documents richly painted interior rooms and a history of conservation. Phot
 
 **Interpretation:** Confirm that the photograph depicts the original wall, rather than a museum reproduction. One high-resolution candidate was held out because this could not be established confidently.
 
-[INAH, Bonampak archaeological site](https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak)
+[INAH, Bonampak archaeological site](<https://www.inah.gob.mx/zonas/zona-arqueologica-de-bonampak>)
 
 ## 15. Tassili n'Ajjer (Algeria)
 
@@ -196,9 +196,9 @@ UNESCO documents a major collection of rock paintings and engravings. Painted pa
 
 **Interpretation:** The recommendation concerns painted surfaces. Unpainted engraving geometry usually calls for lighting-based or 3D documentation instead.
 
-[UNESCO, Tassili n'Ajjer](https://whc.unesco.org/en/list/179/)
+[UNESCO, Tassili n'Ajjer](<https://whc.unesco.org/en/list/179/>)
 
-Included photograph: [Tassili: Tanzoumaitak painted panel](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-tassili-tanzoumaitak) — 5,163 × 2,904 px. [Source](https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n'ajjer.jpg).
+Included photograph: [Tassili: Tanzoumaitak painted panel](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-tassili-tanzoumaitak) — 5,163 × 2,904 px. [Source](<https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n'ajjer.jpg>).
 
 ## 16. Cueva de las Manos (Santa Cruz, Argentina)
 
@@ -210,9 +210,9 @@ Multiple surviving pigment colors and overlapping hand stencils make a useful co
 
 **Interpretation:** Color differences alone do not establish the sequence or dates of overlapping paintings.
 
-[UNESCO, Cueva de las Manos](https://whc.unesco.org/en/list/936/)
+[UNESCO, Cueva de las Manos](<https://whc.unesco.org/en/list/936/>)
 
-Included photograph: [Cueva de las Manos](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cueva-hands) — 4,000 × 2,248 px. [Source](https://commons.wikimedia.org/wiki/File:Cueva_de_las_Manos_(6811931046).jpg).
+Included photograph: [Cueva de las Manos](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cueva-hands) — 4,000 × 2,248 px. [Source](<https://commons.wikimedia.org/wiki/File:Cueva_de_las_Manos_(6811931046).jpg>).
 
 ## 17. Cliff Palace / Mesa Verde (Colorado, United States)
 
@@ -224,7 +224,7 @@ NPS documents colored plaster, red triangles and geometric motifs in a Cliff Pal
 
 **Interpretation:** No suitable high-resolution original was cleared in this pass. The small reference is not presented as a high-resolution study image.
 
-[National Park Service, wall-painting artifact record](https://www.nps.gov/meve/learn/education/artifactgallery_wallpainting.htm)
+[National Park Service, wall-painting artifact record](<https://www.nps.gov/meve/learn/education/artifactgallery_wallpainting.htm>)
 
 ## 18. Pompeii / Villa of the Mysteries (Italy)
 
@@ -236,9 +236,9 @@ A 24-megapixel example allows selected-area fitting on a richly painted wall and
 
 **Interpretation:** The scene is already visible. Enhancement explores surviving differences, not newly discovered figures or the original palette.
 
-[Original Villa of the Mysteries photograph and metadata](https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg)
+[Original Villa of the Mysteries photograph and metadata](<https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg>)
 
-Included photograph: [Villa of the Mysteries](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-mysteries) — 6,000 × 4,000 px. [Source](https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg).
+Included photograph: [Villa of the Mysteries](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=pompeii-mysteries) — 6,000 × 4,000 px. [Source](<https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Scenes_of_a_Dionysiac_Mystery_Cult,_Villa_of_the_Mysteries_Fresco,_c._50_BC_(48445609592).jpg>).
 
 ## 19. Great Pyramid interior (Giza, Egypt)
 
@@ -250,9 +250,9 @@ The included image demonstrates strong color differences under mixed artificial 
 
 **Interpretation:** Lighting and mineral variation dominate many views. Enhanced patches do not establish paint, writing, age or human intent.
 
-[Ovedc, Great Pyramid interior source photograph](https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg)
+[Ovedc, Great Pyramid interior source photograph](<https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg>)
 
-Included photograph: [Great Pyramid (limits)](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=great-pyramid) — 2,988 × 5,312 px. [Source](https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg).
+Included photograph: [Great Pyramid (limits)](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=great-pyramid) — 2,988 × 5,312 px. [Source](<https://commons.wikimedia.org/wiki/File:By_ovedc_-_Interior_of_the_Great_Pyramid_-_02.jpg>).
 
 ## 20. Titanic wreck interior (North Atlantic)
 
@@ -264,9 +264,9 @@ NOAA's bathroom photograph is useful for exploring how corrosion and surviving s
 
 **Interpretation:** Water absorption, illumination, compression and dark-region noise dominate. This is not underwater color recovery or a way to reveal covered rooms.
 
-[NOAA Ocean Exploration, Titanic bathtub photograph](https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/)
+[NOAA Ocean Exploration, Titanic bathtub photograph](<https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/>)
 
-Included photograph: [Titanic (limits)](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=titanic-bathroom) — 2,250 × 2,250 px. [Source](https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/).
+Included photograph: [Titanic (limits)](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=titanic-bathroom) — 2,250 × 2,250 px. [Source](<https://oceanexplorer.noaa.gov/multimedia/edu-themes-archaeology-media-multimedia-titanic-bathtub/>).
 
 ## 21. Tomb of Nefertari (Tomb of Nefertari (QV66), Valley of the Queens, Egypt)
 
@@ -278,9 +278,9 @@ Eleven views of the painted tomb include room context, figures, hieroglyphs and 
 
 **Interpretation:** The photographed condition includes conservation. Differences between paint, repairs and exposed plaster are not proof of an original palette.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Tomb_of_Nefertari_2022_68.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Tomb_of_Nefertari_2022_68.jpg>)
 
-Included photograph: [Nefertari: painted figures beneath the stars](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-nefertari-68) — 4,032 × 3,024 px. [Source](https://commons.wikimedia.org/wiki/File:Tomb_of_Nefertari_2022_68.jpg).
+Included photograph: [Nefertari: painted figures beneath the stars](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-nefertari-68) — 4,032 × 3,024 px. [Source](<https://commons.wikimedia.org/wiki/File:Tomb_of_Nefertari_2022_68.jpg>).
 
 ## 22. Tomb of Ramesses III (Valley of the Kings, Egypt)
 
@@ -292,9 +292,9 @@ Painted alcove and corridor views add more Egyptian interior surfaces to compare
 
 **Interpretation:** Mixed illumination and shadows can dominate a whole-room fit; select an evenly lit section.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:KV11_Tomb_of_Ramses_III_DSCF2984.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:KV11_Tomb_of_Ramses_III_DSCF2984.jpg>)
 
-Included photograph: [Ramesses III: painted side chamber](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ramesses-iii-alcove) — 3,000 × 2,250 px. [Source](https://commons.wikimedia.org/wiki/File:KV11_Tomb_of_Ramses_III_DSCF2984.jpg).
+Included photograph: [Ramesses III: painted side chamber](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ramesses-iii-alcove) — 3,000 × 2,250 px. [Source](<https://commons.wikimedia.org/wiki/File:KV11_Tomb_of_Ramses_III_DSCF2984.jpg>).
 
 ## 23. Tomb of Ramesses VI (Valley of the Kings, Egypt)
 
@@ -306,9 +306,9 @@ Chamber, ceiling and corridor photographs provide both context and dense survivi
 
 **Interpretation:** A high-resolution room photograph still has less detail per figure than a close-up. Enhancement does not replace a closer photograph.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2887.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2887.jpg>)
 
-Included photograph: [Ramesses VI: painted burial chamber](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ramesses-vi-chamber) — 4,000 × 3,000 px. [Source](https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2887.jpg).
+Included photograph: [Ramesses VI: painted burial chamber](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ramesses-vi-chamber) — 4,000 × 3,000 px. [Source](<https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2887.jpg>).
 
 ## 24. Nebamun tomb paintings (Thebes, Egypt / British Museum)
 
@@ -320,9 +320,9 @@ A close museum photograph preserves painted figures, birds and plants on an orig
 
 **Interpretation:** A museum fragment is separated from its architectural setting. Consult the source record for its original context.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Detail_of_paintings_from_the_Tomb_of_Nebamun_-_animals_from_the_hunting_scene.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Detail_of_paintings_from_the_Tomb_of_Nebamun_-_animals_from_the_hunting_scene.jpg>)
 
-Included photograph: [Nebamun: animals in the painted marsh](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-nebamun-hunting) — 3,376 × 5,984 px. [Source](https://commons.wikimedia.org/wiki/File:Detail_of_paintings_from_the_Tomb_of_Nebamun_-_animals_from_the_hunting_scene.jpg).
+Included photograph: [Nebamun: animals in the painted marsh](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-nebamun-hunting) — 3,376 × 5,984 px. [Source](<https://commons.wikimedia.org/wiki/File:Detail_of_paintings_from_the_Tomb_of_Nebamun_-_animals_from_the_hunting_scene.jpg>).
 
 ## 25. Painted Egyptian coffins (Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22)
 
@@ -334,9 +334,9 @@ Coffins, lids, cartonnage and decorated boxes add painted wood and prepared surf
 
 **Interpretation:** Some photographs show different parts or views of the same object. They are separate photographs, not a count of unique coffins.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1914.714)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1914.714>)
 
-Included photograph: [Painted coffin of Nesykhonsu](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-94188) — 2,887 × 3,400 px. [Source](https://clevelandart.org/art/1914.714).
+Included photograph: [Painted coffin of Nesykhonsu](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-94188) — 2,887 × 3,400 px. [Source](<https://clevelandart.org/art/1914.714>).
 
 ## 26. Egyptian garments and furnishing textiles (Egypt, Umayyad period (661–750))
 
@@ -348,9 +348,9 @@ Whole tunics, tapestry details, patterned pillows and fragmentary cloth make dye
 
 **Interpretation:** The collection spans ancient and later historic periods. Keep each museum date and technique with the image.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1972.46)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1972.46>)
 
-Included photograph: [Woolen tunic with decorated bands](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-147015) — 3,400 × 2,208 px. [Source](https://clevelandart.org/art/1972.46).
+Included photograph: [Woolen tunic with decorated bands](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-147015) — 3,400 × 2,208 px. [Source](<https://clevelandart.org/art/1972.46>).
 
 ## 27. Boscoreale / Villa of P. Fannius Synistor (Findspot not recorded in the API; see museum record)
 
@@ -362,9 +362,9 @@ Painted room panels and the reassembled bedroom offer Roman figures, ornament an
 
 **Interpretation:** Museum installations reconstruct the arrangement of surviving fragments. Seams and surrounding display surfaces are not ancient painted details.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/247010)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/247010>)
 
-Included photograph: [Boscoreale: Room H painted wall 0](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-247010) — 3,883 × 3,614 px. [Source](https://www.metmuseum.org/art/collection/search/247010).
+Included photograph: [Boscoreale: Room H painted wall 0](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-247010) — 3,883 × 3,614 px. [Source](<https://www.metmuseum.org/art/collection/search/247010>).
 
 ## 28. Boscotrecase / Villa of Agrippa Postumus (Findspot not recorded in the API; see museum record)
 
@@ -376,9 +376,9 @@ Faded landscapes and narrative panels add delicate Roman painting beyond Pompeii
 
 **Interpretation:** Preserve the museum attribution and distinguish original plaster from mounts and joins.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/250939)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/250939>)
 
-Included photograph: [Boscotrecase: landscape](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-250939) — 4,000 × 4,000 px. [Source](https://www.metmuseum.org/art/collection/search/250939).
+Included photograph: [Boscotrecase: landscape](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-250939) — 4,000 × 4,000 px. [Source](<https://www.metmuseum.org/art/collection/search/250939>).
 
 ## 29. Pompeii / House of Julia Felix (Pompeii, Italy)
 
@@ -390,9 +390,9 @@ Several native-resolution photographs provide close views of surviving wall deco
 
 **Interpretation:** Do not treat different views of a room as evidence of a change over time without checking capture dates and viewpoint.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Frescoes_from_the_Praedia_of_Julia_Felix_(48443418797).jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Frescoes_from_the_Praedia_of_Julia_Felix_(48443418797).jpg>)
 
-Included photograph: [Julia Felix: painted panel 2](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-pompeii-2) — 6,000 × 4,000 px. [Source](https://commons.wikimedia.org/wiki/File:Frescoes_from_the_Praedia_of_Julia_Felix_(48443418797).jpg).
+Included photograph: [Julia Felix: painted panel 2](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-pompeii-2) — 6,000 × 4,000 px. [Source](<https://commons.wikimedia.org/wiki/File:Frescoes_from_the_Praedia_of_Julia_Felix_(48443418797).jpg>).
 
 ## 30. Painted Greek funerary panels (Findspot not recorded in the API; see museum record)
 
@@ -404,9 +404,9 @@ Greek limestone steles preserve painted figures and inscriptions on pale stone.
 
 **Interpretation:** Carving shadows, losses and museum backdrops also separate into false colors; select the surviving painted panel.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/247107)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/247107>)
 
-Included photograph: [Painted limestone funerary stele with a seated man and two stand](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-247107) — 2,947 × 3,816 px. [Source](https://www.metmuseum.org/art/collection/search/247107).
+Included photograph: [Painted limestone funerary stele with a seated man and two stand](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-247107) — 2,947 × 3,816 px. [Source](<https://www.metmuseum.org/art/collection/search/247107>).
 
 ## 31. Greek painted terracotta (Greece, Boeotia)
 
@@ -418,9 +418,9 @@ Polychrome terracotta figures bring surviving paint on clay into the Greek colle
 
 **Interpretation:** Keep ceramic color, applied paint and accumulated surface changes distinct in interpretation.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1992.352)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1992.352>)
 
-Included photograph: [Greek dancing satyrs in terracotta](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-156754) — 3,400 × 1,006 px. [Source](https://clevelandart.org/art/1992.352).
+Included photograph: [Greek dancing satyrs in terracotta](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-156754) — 3,400 × 1,006 px. [Source](<https://clevelandart.org/art/1992.352>).
 
 ## 32. Kuh-e Khwaja wall paintings (Iran, Kuh-i Khwaja)
 
@@ -432,9 +432,9 @@ Two Sasanian fragments retain faces and clothing in faint painted passages.
 
 **Interpretation:** These fragments have their own dated museum records. They do not represent every period of Persian art.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/324017)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/324017>)
 
-Included photograph: [Sasanian wall painting: veiled woman](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-324017) — 4,000 × 3,506 px. [Source](https://www.metmuseum.org/art/collection/search/324017).
+Included photograph: [Sasanian wall painting: veiled woman](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-324017) — 4,000 × 3,506 px. [Source](<https://www.metmuseum.org/art/collection/search/324017>).
 
 ## 33. Susa / glazed archer friezes (Palace of Darius I, Susa, Iran / Louvre)
 
@@ -446,9 +446,9 @@ Large color photographs show the glazed surfaces and repeated figures of the Ach
 
 **Interpretation:** The color is ceramic glaze on brick, not a fresco. Glare, assembled joins and restoration affect a photograph.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Frieze_of_Archers_AOD_487_(31289617842).jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Frieze_of_Archers_AOD_487_(31289617842).jpg>)
 
-Included photograph: [Susa: glazed archers 1](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-susa-archers-1) — 5,119 × 3,404 px. [Source](https://commons.wikimedia.org/wiki/File:Frieze_of_Archers_AOD_487_(31289617842).jpg).
+Included photograph: [Susa: glazed archers 1](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-susa-archers-1) — 5,119 × 3,404 px. [Source](<https://commons.wikimedia.org/wiki/File:Frieze_of_Archers_AOD_487_(31289617842).jpg>).
 
 ## 34. Babylon / glazed lion (Mesopotamia, Babylon (modern Hillah))
 
@@ -460,9 +460,9 @@ A Babylonian lion panel supplies an original glazed-brick example with strong su
 
 **Interpretation:** This is a comparison of glaze and photographic surface variation. It is not a discovery of hidden paint.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/322585)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/322585>)
 
-Included photograph: [Babylon: lion in glazed brick](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-322585) — 3,811 × 1,652 px. [Source](https://www.metmuseum.org/art/collection/search/322585).
+Included photograph: [Babylon: lion in glazed brick](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-322585) — 3,811 × 1,652 px. [Source](<https://www.metmuseum.org/art/collection/search/322585>).
 
 ## 35. Eridu / Ubaid painted pottery (Mesopotamia, Eridu (modern Abu Shahrein))
 
@@ -474,9 +474,9 @@ Three painted Ubaid bowls add early geometric color patterns from Eridu.
 
 **Interpretation:** Ubaid objects predate Sumerian city-states. The broad Mesopotamia collection does not relabel them as Sumerian.
 
-[The Metropolitan Museum of Art, photograph and object record](https://www.metmuseum.org/art/collection/search/324087)
+[The Metropolitan Museum of Art, photograph and object record](<https://www.metmuseum.org/art/collection/search/324087>)
 
-Included photograph: [Eridu: Ubaid painted bowl 7](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-324087) — 1,993 × 1,993 px. [Source](https://www.metmuseum.org/art/collection/search/324087).
+Included photograph: [Eridu: Ubaid painted bowl 7](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=met-324087) — 1,993 × 1,993 px. [Source](<https://www.metmuseum.org/art/collection/search/324087>).
 
 ## 36. Diyala Valley / Scarlet Ware (Diyala Valley, Iraq / Iraq Museum, Baghdad)
 
@@ -488,9 +488,9 @@ Five Early Dynastic painted vessels show figures and geometric decoration from t
 
 **Interpretation:** Source captions differ in their precise date wording. This catalog retains a broad third-millennium BCE range rather than inventing precision.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg>)
 
-Included photograph: [Diyala: painted figures on Scarlet Ware](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-scarlet-ware-6) — 3,435 × 3,639 px. [Source](https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg).
+Included photograph: [Diyala: painted figures on Scarlet Ware](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-scarlet-ware-6) — 3,435 × 3,639 px. [Source](<https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg>).
 
 ## 37. Faras / Nubian wall painting (Faras, Sudan / National Museum in Warsaw)
 
@@ -502,9 +502,9 @@ The painted Saint Anne fragment adds a Nubian mural with faint facial details an
 
 **Interpretation:** The museum photograph shows a detached and conserved wall painting. Color alone cannot identify the origin of every patch.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg>)
 
-Included photograph: [Faras: Saint Anne in surviving paint](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-faras-saint-anne) — 3,958 × 2,768 px. [Source](https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg).
+Included photograph: [Faras: Saint Anne in surviving paint](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-faras-saint-anne) — 3,958 × 2,768 px. [Source](<https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg>).
 
 ## 38. Ethiopian painted books and panels (Ethiopia / Walters Art Museum)
 
@@ -516,9 +516,9 @@ Painted diptychs and manuscript pages broaden the African collection beyond Egyp
 
 **Interpretation:** These are dated medieval and later works, not ancient Egyptian paintings. Retain the specific support and museum date.
 
-[Walters Art Museum, photograph and object record](https://commons.wikimedia.org/wiki/File:Ethiopian_-_Diptych_Icon_with_Saint_George,_and_Mary_and_the_Infant_Christ_-_Walters_3616_-_Open.jpg)
+[Walters Art Museum, photograph and object record](<https://commons.wikimedia.org/wiki/File:Ethiopian_-_Diptych_Icon_with_Saint_George,_and_Mary_and_the_Infant_Christ_-_Walters_3616_-_Open.jpg>)
 
-Included photograph: [Ethiopian diptych: Saint George and Mary](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ethiopian-diptych) — 1,800 × 1,269 px. [Source](https://commons.wikimedia.org/wiki/File:Ethiopian_-_Diptych_Icon_with_Saint_George,_and_Mary_and_the_Infant_Christ_-_Walters_3616_-_Open.jpg).
+Included photograph: [Ethiopian diptych: Saint George and Mary](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-ethiopian-diptych) — 1,800 × 1,269 px. [Source](<https://commons.wikimedia.org/wiki/File:Ethiopian_-_Diptych_Icon_with_Saint_George,_and_Mary_and_the_Infant_Christ_-_Walters_3616_-_Open.jpg>).
 
 ## 39. Çatalhöyük / painted plaster (Çatalhöyük / Konya Archaeological Museum, Türkiye)
 
@@ -530,9 +530,9 @@ A museum photograph of a red-patterned plaster fragment adds a surviving painted
 
 **Interpretation:** Use the fragment record; do not assign the age of the entire site to this individual layer or substitute a reconstructed room.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Konya_Archaeological_Museum_Catalh%C3%B6y%C3%BCk_wall_painting_4612.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Konya_Archaeological_Museum_Catalh%C3%B6y%C3%BCk_wall_painting_4612.jpg>)
 
-Included photograph: [Çatalhöyük: surviving wall-painting fragment](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-catalhoyuk-fragment) — 3,196 × 2,772 px. [Source](https://commons.wikimedia.org/wiki/File:Konya_Archaeological_Museum_Catalh%C3%B6y%C3%BCk_wall_painting_4612.jpg).
+Included photograph: [Çatalhöyük: surviving wall-painting fragment](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-catalhoyuk-fragment) — 3,196 × 2,772 px. [Source](<https://commons.wikimedia.org/wiki/File:Konya_Archaeological_Museum_Catalh%C3%B6y%C3%BCk_wall_painting_4612.jpg>).
 
 ## 40. Eland Cave / San paintings (Eland Cave, Drakensberg, South Africa)
 
@@ -544,9 +544,9 @@ A dense field of painted antelope and faint neighboring forms provides a strong 
 
 **Interpretation:** The photograph does not establish the age or sequence of each figure. Retain the San cultural context.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:ELANDS_-_San_rock_paintings_at_Eland_Cave,_Cathedral_Peak,_South_Africa,_2017.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:ELANDS_-_San_rock_paintings_at_Eland_Cave,_Cathedral_Peak,_South_Africa,_2017.jpg>)
 
-Included photograph: [Eland Cave: painted animal panel](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-eland-panel) — 4,288 × 2,848 px. [Source](https://commons.wikimedia.org/wiki/File:ELANDS_-_San_rock_paintings_at_Eland_Cave,_Cathedral_Peak,_South_Africa,_2017.jpg).
+Included photograph: [Eland Cave: painted animal panel](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-eland-panel) — 4,288 × 2,848 px. [Source](<https://commons.wikimedia.org/wiki/File:ELANDS_-_San_rock_paintings_at_Eland_Cave,_Cathedral_Peak,_South_Africa,_2017.jpg>).
 
 ## 41. Burrungkuy / Kakadu (Burrungkuy (Nourlangie), Kakadu, Australia)
 
@@ -558,9 +558,9 @@ A photographed painted panel adds an Australian example with clear source and ph
 
 **Interpretation:** This is a living painting tradition. The age of the photographed panel is not established here; do not apply the age of the site to every figure.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Burrungkuy_(Nourlangie)_rock_art,_Northern_Territory,_15.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Burrungkuy_(Nourlangie)_rock_art,_Northern_Territory,_15.jpg>)
 
-Included photograph: [Burrungkuy: a painted shelter](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-burrungkuy) — 4,032 × 3,024 px. [Source](https://commons.wikimedia.org/wiki/File:Burrungkuy_(Nourlangie)_rock_art,_Northern_Territory,_15.jpg).
+Included photograph: [Burrungkuy: a painted shelter](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-burrungkuy) — 4,032 × 3,024 px. [Source](<https://commons.wikimedia.org/wiki/File:Burrungkuy_(Nourlangie)_rock_art,_Northern_Territory,_15.jpg>).
 
 ## 42. Samoan painted barkcloth (Samoa / Cooper Hewitt, Smithsonian Design Museum)
 
@@ -572,9 +572,9 @@ Painted barkcloth provides a different support from woven linen or cotton, with 
 
 **Interpretation:** The selected examples are nineteenth- and early twentieth-century works. Barkcloth is not woven cloth.
 
-[Cooper Hewitt, Smithsonian Design Museum, photograph and object record](https://commons.wikimedia.org/wiki/File:Tapa_Cloth_(Samoa),_1800%E2%80%931850_(CH_18563805).jpg)
+[Cooper Hewitt, Smithsonian Design Museum, photograph and object record](<https://commons.wikimedia.org/wiki/File:Tapa_Cloth_(Samoa),_1800%E2%80%931850_(CH_18563805).jpg>)
 
-Included photograph: [Samoan tapa: brown and white pattern](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-samoa-tapa) — 2,340 × 4,096 px. [Source](https://commons.wikimedia.org/wiki/File:Tapa_Cloth_(Samoa),_1800%E2%80%931850_(CH_18563805).jpg).
+Included photograph: [Samoan tapa: brown and white pattern](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-samoa-tapa) — 2,340 × 4,096 px. [Source](<https://commons.wikimedia.org/wiki/File:Tapa_Cloth_(Samoa),_1800%E2%80%931850_(CH_18563805).jpg>).
 
 ## 43. Gujarat / painted and resist-dyed cotton (India)
 
@@ -586,9 +586,9 @@ Painted, mordant-dyed and resist-dyed fragments add faint and intricate surface 
 
 **Interpretation:** Place of manufacture and place of discovery can differ. Preserve uncertainty and the museum’s technique wording.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1951.520)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1951.520>)
 
-Included photograph: [Medieval hand-painted cotton](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-128928) — 3,400 × 2,103 px. [Source](https://clevelandart.org/art/1951.520).
+Included photograph: [Medieval hand-painted cotton](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-128928) — 3,400 × 2,103 px. [Source](<https://clevelandart.org/art/1951.520>).
 
 ## 44. Yemen / early ikat (Yemen, San'a', Zaydi Imam period)
 
@@ -600,9 +600,9 @@ An early dyed textile offers pattern edges, fading and fiber variation for compa
 
 **Interpretation:** Ikat patterns arise from dyed yarns; enhancement does not turn a woven boundary into a painted outline.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1950.353)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1950.353>)
 
-Included photograph: [Tenth-century Yemeni ikat](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-127672) — 3,400 × 3,010 px. [Source](https://clevelandart.org/art/1950.353).
+Included photograph: [Tenth-century Yemeni ikat](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-127672) — 3,400 × 3,010 px. [Source](<https://clevelandart.org/art/1950.353>).
 
 ## 45. Japan / painted wooden masks (Japan, Nara period (710–94))
 
@@ -614,9 +614,9 @@ Historic masks preserve worn applied color on wood and shaped surfaces.
 
 **Interpretation:** Form, shadows and finish can dominate small color differences. Keep the individual mask’s museum date.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/1949.158)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/1949.158>)
 
-Included photograph: [Nara-period painted theatre mask](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-126730) — 2,884 × 3,400 px. [Source](https://clevelandart.org/art/1949.158).
+Included photograph: [Nara-period painted theatre mask](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-126730) — 2,884 × 3,400 px. [Source](<https://clevelandart.org/art/1949.158>).
 
 ## 46. Tibet / paintings on cloth (India, Western Himalayas, Lahul and Spiti, Tabo Monastery)
 
@@ -628,9 +628,9 @@ Worn devotional painting on cloth adds fine painted figures and a visibly aged s
 
 **Interpretation:** Distinguish original painted cloth from later mounts. A separate Green Tara record explicitly identifies a modern mount.
 
-[Cleveland Museum of Art, photograph and object record](https://clevelandart.org/art/2000.68)
+[Cleveland Museum of Art, photograph and object record](<https://clevelandart.org/art/2000.68>)
 
-Included photograph: [Tabo Amitabha on cloth](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-161704) — 2,704 × 3,400 px. [Source](https://clevelandart.org/art/2000.68).
+Included photograph: [Tabo Amitabha on cloth](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-161704) — 2,704 × 3,400 px. [Source](<https://clevelandart.org/art/2000.68>).
 
 ## 47. Bagan / Dhammayazika (Bagan, Myanmar)
 
@@ -642,9 +642,9 @@ A high-resolution mural photograph brings dense faded painted ornament into the 
 
 **Interpretation:** The photograph’s capture date is not the date of every painted layer. Work on an evenly lit area.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:2013_Myanmar_Luyten-De-Hauwere_Bagan_010_dhammayazika_mural.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:2013_Myanmar_Luyten-De-Hauwere_Bagan_010_dhammayazika_mural.jpg>)
 
-Included photograph: [Bagan: Dhammayazika mural](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-bagan-dhammayazika) — 3,008 × 2,000 px. [Source](https://commons.wikimedia.org/wiki/File:2013_Myanmar_Luyten-De-Hauwere_Bagan_010_dhammayazika_mural.jpg).
+Included photograph: [Bagan: Dhammayazika mural](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-bagan-dhammayazika) — 3,008 × 2,000 px. [Source](<https://commons.wikimedia.org/wiki/File:2013_Myanmar_Luyten-De-Hauwere_Bagan_010_dhammayazika_mural.jpg>).
 
 ## 48. Sigiriya painted figures (Sigiriya, Sri Lanka)
 
@@ -656,9 +656,9 @@ A large photograph of surviving painted figures adds a Sri Lankan wall-painting 
 
 **Interpretation:** Conservation, illumination and surface loss affect the visible colors; keep the original beside the enhancement.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg>)
 
-Included photograph: [Sigiriya: painted figures](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-sigiriya) — 5,610 × 3,631 px. [Source](https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg).
+Included photograph: [Sigiriya: painted figures](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-sigiriya) — 5,610 × 3,631 px. [Source](<https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg>).
 
 ## 49. Huaca de la Luna (Huaca de la Luna, Trujillo, Peru)
 
@@ -670,9 +670,9 @@ Painted Moche reliefs supply surviving applied color on an architectural surface
 
 **Interpretation:** Relief shadows and conservation treatments can separate alongside paint. Enhancement alone cannot distinguish them.
 
-[Wikimedia Commons, photograph and object record](https://commons.wikimedia.org/wiki/File:Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg)
+[Wikimedia Commons, photograph and object record](<https://commons.wikimedia.org/wiki/File:Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg>)
 
-Included photograph: [Huaca de la Luna: painted relief 1](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-huaca-luna-1) — 1,944 × 2,592 px. [Source](https://commons.wikimedia.org/wiki/File:Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg).
+Included photograph: [Huaca de la Luna: painted relief 1](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-huaca-luna-1) — 1,944 × 2,592 px. [Source](<https://commons.wikimedia.org/wiki/File:Huaca_de_la_Luna_Ao%C3%BBt_2007_-_Peintures_1.jpg>).
 
 ## 50. Kuaua painted kiva murals (Coronado Historic Site, New Mexico, United States)
 
@@ -684,4 +684,172 @@ Original painted kiva murals are a better material match than distant photograph
 
 **Interpretation:** The site prohibits visitor photography of the original murals and painted kiva interior. Seek an authorized archival source; no suitable photograph is included.
 
-[New Mexico Historic Sites, visit and photography information](https://nmhistoricsites.org/coronado/plan)
+[New Mexico Historic Sites, visit and photography information](<https://nmhistoricsites.org/coronado/plan>)
+
+## 51. Agios Athanasios / painted Macedonian tomb (Macedonia, Greece)
+
+Candidate | Painted tomb façade | Look closely
+
+The painted guards offer worn figures, clothing and nearby background to compare.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://visit-centralmacedonia.gr/en/what-to-do/64/culture/936/macedonian-tomb-in-agios-athanasios>)
+
+Included photograph: [Agios Athanasios: left guard detail](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-agios-left-detail) — 4,201 × 6,295 px. [Source](<https://commons.wikimedia.org/wiki/File:Agios_Athanasios,_Ancient_Macedonian_Tomb_-_VII_(36345370783).jpg>).
+
+## 52. Mieza / Tomb of the Palmettes (Macedonia, Greece)
+
+Candidate | Painted tomb vault | Look closely
+
+Flowers and curling tendrils remain across a painted ceiling, including areas of loss.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://odysseus.culture.gr/h/2/eh251.jsp?obj_id=874>)
+
+Included photograph: [Mieza: palmettes and water lilies](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-palmettes-flowers) — 3,142 × 4,288 px. [Source](<https://commons.wikimedia.org/wiki/File:Detail_of_the_decoration_of_the_ceiling_of_the_antechamber,_The_Tomb_of_the_Palmettes,_first_half_of_the_3rd_century_BC,_Ancient_Mieza_(7263612898).jpg>).
+
+## 53. Nerezi / Saint Panteleimon (North Macedonia)
+
+Candidate | Medieval and later church frescoes | Look closely
+
+Original painted passages coexist with later campaigns and repairs. Keep those dates distinct.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://smarthistory.org/byzantine-frescoes-nerezi/>)
+
+Included photograph: [Nerezi: north-wall paintings](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-nerezi-north-wall) — 5,224 × 3,483 px. [Source](<https://commons.wikimedia.org/wiki/File:Gorno_Nerezi,_Saint_Panteleimon_church_-_Frescoes_of_the_north_wall.jpg>).
+
+## 54. Kurbinovo / Saint George (North Macedonia)
+
+Candidate | Byzantine frescoes | Look closely
+
+The 1191 cycle offers faded figures and decorated garments for close comparison.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://whc.unesco.org/en/tentativelists/6492/>)
+
+Included photograph: [Kurbinovo: painted wall detail 020](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-kurbinovo-020) — 1,536 × 2,048 px. [Source](<https://commons.wikimedia.org/wiki/File:Freska_vo_Sv._Georgij_vo_Kurbinovo_020.JPG>).
+
+## 55. Chinese and Japanese painted scrolls (East Asia)
+
+Candidate | Ink and color on silk or paper | Look closely
+
+Small surviving color differences can be studied alongside browned silk and damaged passages.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1997.95>)
+
+Included photograph: [China: Mountains of the Immortals](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-160137) — 3,400 × 931 px. [Source](<https://clevelandart.org/art/1997.95>).
+
+## 56. Bihar and Nepal / palm-leaf manuscripts (India and Nepal)
+
+Candidate | Illuminated palm leaves and painted book covers | Look closely
+
+Figures and colored ornament survive on leaves and wooden covers. The record preserves the distinct places of writing and painting.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1938.301.b>)
+
+Included photograph: [Bihar and Nepal: a painted manuscript cover](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-539040) — 3,400 × 508 px. [Source](<https://clevelandart.org/art/1938.301.b>).
+
+## 57. Myanmar / Kammavacha (Myanmar)
+
+Candidate | Lacquered and gilded manuscript leaves | Look closely
+
+Lacquer, gilding and detailed ornament offer another kind of colored manuscript support.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1945.172.1.a>)
+
+Included photograph: [Myanmar: Kammavacha opening illumination](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-680859) — 3,400 × 919 px. [Source](<https://clevelandart.org/art/1945.172.1.a>).
+
+## 58. Gunda Gunde Gospel book (Northeastern Ethiopia)
+
+Candidate | Paint and ink on parchment | Look closely
+
+Geometric headpieces, figures and colored writing survive in a sixteenth-century Gospel book.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://art.thewalters.org/object/W.850.5R/>)
+
+Included photograph: [Gunda Gunde Gospels: painted leaf 5 recto](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-gunda-gunde-5r) — 1,402 × 1,799 px. [Source](<https://commons.wikimedia.org/wiki/File:Ethiopian_-_Leaf_from_Gunda_Gunde_Gospels_-_Walters_W8505R_-_Open_Obverse.jpg>).
+
+## 59. Tlingit and Haida painted works (Northwest Coast, North America)
+
+Candidate | Painted wood and woven garments | Look closely
+
+Surviving paint can be compared with wood, worn edges and later surface treatments. Keep the specific cultural attribution with each object.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1921.1577>)
+
+Included photograph: [Haida: a painted raven rattle](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-102957) — 3,400 × 2,037 px. [Source](<https://clevelandart.org/art/1921.1577>).
+
+## 60. Diné and Hopi textiles (Southwest, North America)
+
+Candidate | Dyed wool and woven pattern | Look closely
+
+Woven color and wear provide useful comparisons. These dated historic textiles are distinct from ancient Ancestral Pueblo ceramics.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1937.855>)
+
+Included photograph: [Diné (Navajo): Eyedazzler Style Rug](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-117289) — 2,449 × 3,400 px. [Source](<https://clevelandart.org/art/1937.855>).
+
+## 61. Pacific barkcloth and bark painting (Oceania)
+
+Candidate | Painted, printed and dyed bark | Look closely
+
+Patterned barkcloth and painted bark broaden the supports in the lab; individual island and community names stay attached to their records.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1971.160>)
+
+Included photograph: [Hawaiʻi: patterned barkcloth · 1971.160](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-145954) — 3,400 × 2,379 px. [Source](<https://clevelandart.org/art/1971.160>).
+
+## 62. Paracas, Nasca and Wari textiles (Central Andes, South America)
+
+Candidate | Painted cotton and dyed camelid fiber | Look closely
+
+Painted features, embroidery and woven figures remain on fragile cloth with uneven fading.
+
+**Photo to seek:** Close, evenly lit photographs of colored passages, including surrounding support and a documented capture date.
+
+**Interpretation:** False color also amplifies stains, lighting and repairs. It does not establish original hues, pigment identity, antiquity or the cause of damage.
+
+[Source record and historical context](<https://clevelandart.org/art/1940.523>)
+
+Included photograph: [Paracas: painted cotton bundle mask · 1940.523](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-119685) — 1,986 × 3,400 px. [Source](<https://clevelandart.org/art/1940.523>).

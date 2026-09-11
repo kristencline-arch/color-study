@@ -1,0 +1,119 @@
+{
+  "id": 107853,
+  "accession_number": "1925.483",
+  "share_license_status": "CC0",
+  "tombstone": "Infant's Carrying Cloth, or Man's Ceremonial Headgear, early 1900s. Indonesia, North Sumatra, Toba Batak People, early 20th century. Warp-faced tabby with areas of ikat; overall: 223.5 x 74.9 cm (88 x 29 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1925.483",
+  "current_location": null,
+  "title": "Infant's Carrying Cloth, or Man's Ceremonial Headgear",
+  "creation_date": "early 1900s",
+  "creation_date_earliest": 1900,
+  "creation_date_latest": 1920,
+  "artists_tags": [],
+  "culture": [
+    "Indonesia, North Sumatra, Toba Batak People, early 20th century"
+  ],
+  "technique": "warp-faced tabby with areas of ikat",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 223.5 x 74.9 cm (88 x 29 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.235,
+      "height_inch": 88,
+      "height_inch_fraction": 0.0,
+      "width": 0.749,
+      "width_inch": 29,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": [
+      {
+        "description": "Indonesian Textiles. Textile corridor, The Cleveland Museum of Art, Cleveland, OH (June 1983-May 1984).",
+        "opening_date": "1983-06-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(A. K. Coomaraswamy).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80055825"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1925.483-infant-s-carrying-cl"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1925.483",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.483/1925.483_web.jpg",
+      "width": "347",
+      "height": "893",
+      "filesize": "265287",
+      "filename": "1925.483_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.483/1925.483_print.jpg",
+      "width": "1321",
+      "height": "3400",
+      "filesize": "4277842",
+      "filename": "1925.483_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.483/1925.483_full.tif",
+      "width": "2480",
+      "height": "6382",
+      "filesize": "47512364",
+      "filename": "1925.483_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 107853,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1925-03-24T00:00:00",
+  "sortable_date": 1900,
+  "date_added_to_oa": null,
+  "date_text": "early 1900s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:08:30.998000"
+}

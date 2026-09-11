@@ -1,0 +1,329 @@
+{
+  "id": 160803,
+  "accession_number": "1999.119",
+  "share_license_status": "CC0",
+  "tombstone": "Buddhist Deities, 1700s–1800s. Korea, Joseon dynasty (1392–1910). Four-panel folding screen; ink and color on silk; painting only: 114 x 115.2 cm (44 7/8 x 45 3/8 in.); overall: 147.5 x 123.8 cm (58 1/16 x 48 3/4 in.). The Cleveland Museum of Art, Gift of Mitsuru Tajima in memory of Robert P. Bergman, 1999.119",
+  "current_location": null,
+  "title": "Buddhist Deities",
+  "creation_date": "1700s–1800s",
+  "creation_date_earliest": 1700,
+  "creation_date_latest": 1899,
+  "artists_tags": [],
+  "culture": [
+    "Korea, Joseon dynasty (1392–1910)"
+  ],
+  "technique": "Four-panel folding screen; ink and color on silk",
+  "support_materials": [],
+  "department": "Korean Art",
+  "collection": "ASIAN - Folding screen",
+  "type": "Painting",
+  "measurements": "Painting only: 114 x 115.2 cm (44 7/8 x 45 3/8 in.); Overall: 147.5 x 123.8 cm (58 1/16 x 48 3/4 in.)",
+  "dimensions": {
+    "painting only": {
+      "height": 1.14,
+      "height_inch": 44,
+      "height_inch_fraction": 0.875,
+      "width": 1.152,
+      "width_inch": 45,
+      "width_inch_fraction": 0.375
+    },
+    "overall": {
+      "height": 1.475,
+      "height_inch": 58,
+      "height_inch_fraction": 0.0625,
+      "width": 1.238,
+      "width_inch": 48,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 300680,
+        "title": "Japanese and Korean Gallery Rotation",
+        "description": "<i>Japanese and Korean Gallery Rotation</i>. The Cleveland Museum of Art (July 6, 2015-January 4, 2016).",
+        "opening_date": "2015-07-06T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Mitsuru Tajima, Tokyo, Japan, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1999",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1999–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This painting is a fragment of a much larger banner painting.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This painting is a fragment of a much larger banner painting, now preserved by mounting on a four-panel continuous folding screen. On the back are Buddhist sutra pages, with text written in gold ink on indigo dyed paper.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60477705"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1999.119-buddhist-deities"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, “Major Contemporary German Painting Acquired by CMA,” June 9, 1999, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr4262"
+    },
+    {
+      "citation": "Kim, Chang-kyun. \"Study on 17th and 18th-Century Large Buddhist Paintings of Buddha's Sermon on Vulture Peak [조선시대 17-8세기 靈山會掛佛圖 연구].\" <em>Kangjwa misulsa </em>(2009): 83–113.",
+      "page_number": null,
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09054232"
+    },
+    {
+      "citation": "Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, and 국외소재문화재재단. <em>The Korean Collection of the Cleveland Museum of Art</em>. Edited by An Min-hŭi. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+      "page_number": "Mentioned and Reproduced: pp. 166–169, no. 108",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1999.119",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_web.jpg",
+      "width": "778",
+      "height": "893",
+      "filesize": "140474",
+      "filename": "1999.119_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_print.jpg",
+      "width": "2961",
+      "height": "3400",
+      "filesize": "1721310",
+      "filename": "1999.119_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_full.tif",
+      "width": "5759",
+      "height": "6612",
+      "filesize": "114261960",
+      "filename": "1999.119_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt0_web.jpg",
+        "width": "790",
+        "height": "893",
+        "filesize": "156531"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt0_print.jpg",
+        "width": "3009",
+        "height": "3400",
+        "filesize": "1836130"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt0_full.tif",
+        "width": "5866",
+        "height": "6627",
+        "filesize": "116648352"
+      },
+      "date_created": "2012-05-15T14:20:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt1_web.jpg",
+        "width": "1242",
+        "height": "893",
+        "filesize": "253479"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt1_print.jpg",
+        "width": "3400",
+        "height": "2445",
+        "filesize": "1891465"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt1_full.tif",
+        "width": "9199",
+        "height": "6617",
+        "filesize": "182636364"
+      },
+      "date_created": "2012-05-15T14:45:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt2_web.jpg",
+        "width": "394",
+        "height": "893",
+        "filesize": "70599"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt2_print.jpg",
+        "width": "1500",
+        "height": "3400",
+        "filesize": "857898"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt2_full.tif",
+        "width": "2943",
+        "height": "6668",
+        "filesize": "58895284"
+      },
+      "date_created": "2012-05-15T14:09:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt3_web.jpg",
+        "width": "396",
+        "height": "893",
+        "filesize": "70702"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt3_print.jpg",
+        "width": "1506",
+        "height": "3400",
+        "filesize": "851881"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt3_full.tif",
+        "width": "2939",
+        "height": "6632",
+        "filesize": "58497712"
+      },
+      "date_created": "2012-05-15T14:14:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt4_web.jpg",
+        "width": "393",
+        "height": "893",
+        "filesize": "79147"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt4_print.jpg",
+        "width": "1498",
+        "height": "3400",
+        "filesize": "914259"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt4_full.tif",
+        "width": "2938",
+        "height": "6668",
+        "filesize": "58795116"
+      },
+      "date_created": "2012-05-15T14:17:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt5_web.jpg",
+        "width": "390",
+        "height": "893",
+        "filesize": "75476"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt5_print.jpg",
+        "width": "1484",
+        "height": "3400",
+        "filesize": "898560"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt5_full.tif",
+        "width": "2911",
+        "height": "6668",
+        "filesize": "58255008"
+      },
+      "date_created": "2012-05-15T14:20:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt6_web.jpg",
+        "width": "623",
+        "height": "893",
+        "filesize": "128841"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt6_print.jpg",
+        "width": "2371",
+        "height": "3400",
+        "filesize": "1868616"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt6_full.tif",
+        "width": "4650",
+        "height": "6668",
+        "filesize": "93041952"
+      },
+      "date_created": "2012-05-15T14:31:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt7_web.jpg",
+        "width": "634",
+        "height": "893",
+        "filesize": "130142"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt7_print.jpg",
+        "width": "2412",
+        "height": "3400",
+        "filesize": "1815883"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.119/1999.119_alt7_full.tif",
+        "width": "4732",
+        "height": "6668",
+        "filesize": "94682292"
+      },
+      "date_created": "2012-05-15T14:45:20",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Mitsuru Tajima in memory of Robert P. Bergman",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 160803,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1999-06-07T00:00:00",
+  "sortable_date": 1700,
+  "date_added_to_oa": null,
+  "date_text": "1700s–1800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:21:33.606000"
+}

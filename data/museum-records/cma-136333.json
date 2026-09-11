@@ -1,0 +1,258 @@
+{
+  "id": 136333,
+  "accession_number": "1960.209",
+  "share_license_status": "CC0",
+  "tombstone": "Four seated Masters, c. 1450. Central Tibet, Ngor monastery. Gum tempera and gold on cotton; overall: 57.7 x 52 cm (22 11/16 x 20 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1960.209",
+  "current_location": null,
+  "title": "Four seated Masters",
+  "creation_date": "c. 1450",
+  "creation_date_earliest": 1445,
+  "creation_date_latest": 1455,
+  "artists_tags": [],
+  "culture": [
+    "Central Tibet, Ngor monastery"
+  ],
+  "technique": "Gum tempera and gold on cotton",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Tibetan Art",
+  "type": "Painting",
+  "measurements": "Overall: 57.7 x 52 cm (22 11/16 x 20 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.577,
+      "height_inch": 22,
+      "height_inch_fraction": 0.6875,
+      "width": 0.52,
+      "width_inch": 20,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 370718,
+        "title": "Himalayan Gallery 237 Rotation: August 2020-March 2021",
+        "description": "<i>Himalayan Gallery 237 Rotation: August 2020-March 2021</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 14, 2020-March 7, 2021).",
+        "opening_date": "2020-08-14T04:00:00"
+      },
+      {
+        "id": 692605,
+        "title": "Himalayan Gallery Rotation",
+        "description": "<i>Himalayan Gallery Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 22-September 28, 2025).",
+        "opening_date": "2025-03-22T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 239)</em>. The Cleveland Museum of Art, Cleveland, OH (July 1–December 22, 2014).",
+        "opening_date": "2014-12-22T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1960–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 136332,
+      "description": "Vajradhara, Nairatmya, and mahasiddhas Virupa and Kanha, c. 1450. Central Tibet, Ngor monastery. Gum tempera and gold on cotton; framed: 74.8 x 59.8 cm (29 7/16 x 23 9/16 in.); overall: 57.5 x 50.2 cm (22 5/8 x 19 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1960.206",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Founders and prominent masters of the Sakya order of Buddhism in Tibet are featured in this painting as part of the lineage of teachers who transmitted knowledge of their fundamental text, the <em>Hevajra Tantra</em>. It is part of a series of paintings made at one of the main Sakya monastic centers, which had close ties with Nepal. This Tibetan artwork includes Nepalese features, such as the delicate, decorative quality of the painting, its two-dimensionality, the exaggerated curvature of the upper eyelid, and the filling of all spaces with scrollwork.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60465534"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1960.209-four-seated-masters"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n317"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1960.209",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_web.jpg",
+      "width": "782",
+      "height": "900",
+      "filesize": "363730",
+      "filename": "1960.209_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_print.jpg",
+      "width": "2954",
+      "height": "3400",
+      "filesize": "4819378",
+      "filename": "1960.209_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_full.tif",
+      "width": "9183",
+      "height": "10568",
+      "filesize": "291170370",
+      "filename": "1960.209_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt0_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "354023"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt0_print.jpg",
+        "width": "2947",
+        "height": "3400",
+        "filesize": "5013381"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt0_full.tif",
+        "width": "10129",
+        "height": "11687",
+        "filesize": "355164934"
+      },
+      "date_created": "2024-03-27T11:12:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt1_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "355879"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt1_print.jpg",
+        "width": "2947",
+        "height": "3400",
+        "filesize": "5024630"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt1_full.tif",
+        "width": "10129",
+        "height": "11686",
+        "filesize": "355134606"
+      },
+      "date_created": "2024-03-27T11:15:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt2_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "384973"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt2_print.jpg",
+        "width": "2947",
+        "height": "3400",
+        "filesize": "5301950"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt2_full.tif",
+        "width": "10129",
+        "height": "11686",
+        "filesize": "355134750"
+      },
+      "date_created": "2024-03-27T11:16:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt3_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "376277"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt3_print.jpg",
+        "width": "2947",
+        "height": "3400",
+        "filesize": "5138096"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt3_full.tif",
+        "width": "10129",
+        "height": "11686",
+        "filesize": "355134878"
+      },
+      "date_created": "2024-03-27T11:17:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt4_web.jpg",
+        "width": "778",
+        "height": "900",
+        "filesize": "319430"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt4_print.jpg",
+        "width": "2938",
+        "height": "3400",
+        "filesize": "3596350"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.209/1960.209_alt4_full.tif",
+        "width": "5463",
+        "height": "6322",
+        "filesize": "103646156"
+      },
+      "date_created": "2014-05-07T13:31:48",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 136333,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1960-11-12T00:00:00",
+  "sortable_date": 1445,
+  "date_added_to_oa": null,
+  "date_text": "c. 1450",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Pata: Four Seated Masters",
+    "Pata with Four Figures"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:57:33.714000"
+}

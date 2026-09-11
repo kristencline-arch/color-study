@@ -1,0 +1,211 @@
+{
+  "id": 119690,
+  "accession_number": "1940.528",
+  "share_license_status": "CC0",
+  "tombstone": "Fragment of Embroidered Cloth, c. 300–100 BCE. Peru, South Coast, Paracas, Late Period. Embroidery on plain wool ground; average: 100.3 x 139.1 cm (39 1/2 x 54 3/4 in.). The Cleveland Museum of Art, The Norweb Collection, 1940.528",
+  "current_location": null,
+  "title": "Fragment of Embroidered Cloth",
+  "creation_date": "c. 300–100 BCE",
+  "creation_date_earliest": -300,
+  "creation_date_latest": -100,
+  "artists_tags": [],
+  "culture": [
+    "Peru, South Coast, Paracas, Late Period"
+  ],
+  "technique": "embroidery on plain wool ground",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Pre-Columbian",
+  "type": "Textile",
+  "measurements": "Average: 100.3 x 139.1 cm (39 1/2 x 54 3/4 in.)",
+  "dimensions": {
+    "average": {
+      "height": 1.003,
+      "height_inch": 39,
+      "height_inch_fraction": 0.5,
+      "width": 1.391,
+      "width_inch": 54,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312180,
+        "title": "Art of the Americas",
+        "description": "<i>Art of the Americas</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 19-April 11, 1943).",
+        "opening_date": "1943-03-19T04:00:00"
+      },
+      {
+        "id": 312131,
+        "title": "Art of the Americas",
+        "description": "<i>Art of the Americas</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 9, 1945-January 6, 1946).",
+        "opening_date": "1945-11-09T05:00:00"
+      },
+      {
+        "id": 300804,
+        "title": "Treasures of Peruvian Gold",
+        "description": "<i>Treasures of Peruvian Gold</i>. The Cleveland Museum of Art, Cleveland, OH (February 23-April 3, 1966).",
+        "opening_date": "1966-02-23T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Emery May Holden Norweb [1895-1984] and Raymond Henry Norweb [1894-1983], Cleveland OH, 1940, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1940",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1940",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Extremely dry conditions on Peru's desert coast allow for the extraordinary preservation of textiles.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The repetition of a nonmythical figure, in this case a warrior holding spears and a trophy head, was one of the important innovations of Paracas textile design during the Late Paracas period. The trophy head cult was an essential aspect of crop fertility and was, therefore, a focal point of Paracas art in general.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80014860"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1940.528-fragment-of-embroide"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 342",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n66"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n321"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n321"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 401",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n421"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 8",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n23"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1940.528",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_web.jpg",
+      "width": "1188",
+      "height": "893",
+      "filesize": "812400",
+      "filename": "1940.528_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_print.jpg",
+      "width": "3400",
+      "height": "2556",
+      "filesize": "7043034",
+      "filename": "1940.528_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_full.tif",
+      "width": "5000",
+      "height": "3759",
+      "filesize": "56404072",
+      "filename": "1940.528_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt0_web.jpg",
+        "width": "694",
+        "height": "893",
+        "filesize": "592841"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt0_print.jpg",
+        "width": "2642",
+        "height": "3400",
+        "filesize": "8476927"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt0_full.tif",
+        "width": "3512",
+        "height": "4520",
+        "filesize": "47641460"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt1_web.jpg",
+        "width": "701",
+        "height": "893",
+        "filesize": "623845"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt1_print.jpg",
+        "width": "2668",
+        "height": "3400",
+        "filesize": "8670914"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1940.528/1940.528_alt1_full.tif",
+        "width": "3496",
+        "height": "4456",
+        "filesize": "46755132"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Norweb Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 119690,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1940-10-30T00:00:00",
+  "sortable_date": -300,
+  "date_added_to_oa": null,
+  "date_text": "c. 300–100 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Part of a Mantle"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:10:47.585000"
+}

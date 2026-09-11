@@ -49,12 +49,16 @@ def main():
     if not __debug__:
         raise RuntimeError("Run without Python -O: import validation must remain enabled.")
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--refresh", action="store_true")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--refresh", action="store_true")
+    mode.add_argument("--only-new", action="store_true", help="Import only newly selected photographs")
     args = parser.parse_args()
     sources_path = ROOT / "public/sources.json"
     existing = json.loads(sources_path.read_text())
     prior = {item["id"]: item for item in existing}
     selection = json.loads((ROOT / "data/commons-selection.json").read_text())
+    if args.only_new:
+        selection = [spec for spec in selection if spec["id"] not in prior]
     imported = []
     for spec in selection:
         key = spec["id"]

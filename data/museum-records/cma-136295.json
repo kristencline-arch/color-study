@@ -1,0 +1,1054 @@
+{
+  "id": 136295,
+  "accession_number": "1960.181",
+  "share_license_status": "CC0",
+  "tombstone": "Three Horses and Four Grooms (三駿圖), c. 1320s. Ren Renfa (Chinese, 1254–1328). Handscroll; ink and color on silk; painting: 28.5 x 137.5 cm (11 1/4 x 54 1/8 in.); overall: 29.2 x 556.4 cm (11 1/2 x 219 1/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1960.181",
+  "current_location": null,
+  "title": "Three Horses and Four Grooms",
+  "title_in_original_language": "三駿圖",
+  "creation_date": "c. 1320s",
+  "creation_date_earliest": 1310,
+  "creation_date_latest": 1327,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "China, Yuan dynasty (1271–1368)"
+  ],
+  "technique": "handscroll; ink and color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "Painting: 28.5 x 137.5 cm (11 1/4 x 54 1/8 in.); Overall: 29.2 x 556.4 cm (11 1/2 x 219 1/16 in.)",
+  "dimensions": {
+    "painting": {
+      "height": 0.285,
+      "height_inch": 11,
+      "height_inch_fraction": 0.25,
+      "width": 1.375,
+      "width_inch": 54,
+      "width_inch_fraction": 0.125
+    },
+    "roll": {
+      "depth": 0.051,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.0,
+      "length": 0.299,
+      "length_inch": 11,
+      "length_inch_fraction": 0.75
+    },
+    "overall": {
+      "height": 0.292,
+      "height_inch": 11,
+      "height_inch_fraction": 0.5,
+      "width": 5.564,
+      "width_inch": 219,
+      "width_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "月山道人. [印]  任氏子明",
+      "inscription_translation": "Artist's signature and seal: Yue shan dao ren. [seal] Ren shi zi ming.",
+      "inscription_remark": null,
+      "sortorder": 1
+    },
+    {
+      "inscription": "1 colophon and 16 additional seals: 1 poem, 1 colophon dated 1552 or 1612, and 3 seals of Wang Yiying 王一瀛 (1500s); 2 seals of Liang Qingbiao 梁清標 (1620–1691); 6 seals of the Qianlong 乾隆 Emperor (r. 1736–95); 3 seals of the Jiaqing 嘉慶 Emperor (r. 1796-1821); 1 seal of the Xuantong 宣統 Emperor (r. 1908–11); 1 seal of Yu Xiezhong 余協中 (1900s).",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": 2
+    },
+    {
+      "inscription": "Poem and colophon by Wang Yiying 王一瀛 (1500s):\n\nAs for painters of horses in the previous dynasty,\nSurely the name of Yueshan [Ren Renfa] must come first.\nUnder his brush and on his silk,\nThey seem to have just galloped out from the imperial stud.\nNow as the world overflows with inferiority,\nWho, from the stable, can recognize a dragon-horse amidst mediocrity.\n\nRen Yueshan [Ren Renfa] of the Yuan Dynasty was best in horse paintings. The three fine steeds he painted in this scroll are so dashing, so vigorous in spirit that they have indeed grasped some of the \"brush-idea\" of Han Gan. Not long ago this painting came into the possession of Mr. Gui Shanquan, who asked for my inscription. And I, while reading the old manuscripts of Hengshan [Wen Zhengming, 1470–1559], by accident, came cross the poem quoted above. As the ancients said \"in painting horses, Master Han was [inspired by and produced] real horses; in composing poems, Master Su [Su Dongpo, the leading Song poet] wrote as if a painting were before him.\" These are truly what should be considered the two excellences; indeed, they are to be treasured.\n\nIn the sixth month of the renzi year [either 1552 or 1612]. Jian feng shan ren [The Mountain Dweller of the Sword Peak], Wang Yiying, written in the Qu si ting Pavilion at Chiyang.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": 3
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302015,
+        "title": "Year in Review - Nineteen Hundred Sixty",
+        "description": "<i>Year in Review - Nineteen Hundred Sixty</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 30, 1960-January 1, 1961).",
+        "opening_date": "1960-11-30T05:00:00"
+      },
+      {
+        "id": 519277,
+        "title": "Chinese Art",
+        "description": "<i>Chinese Art</i>. Smith College Museum of Art, Northampton, MA (organizer) (January 8-26, 1962).",
+        "opening_date": "1962-01-08T05:00:00"
+      },
+      {
+        "id": 520067,
+        "title": "History of the Appaloosa Horse",
+        "description": "<i>History of the Appaloosa Horse</i>. Amon Carter Museum, Fort Worth, TX (organizer) (January 1-April 1, 1963).",
+        "opening_date": "1963-01-01T05:00:00"
+      },
+      {
+        "id": 304517,
+        "title": "Eight Dynasties of Chinese Painting",
+        "description": "<i>Eight Dynasties of Chinese Painting</i>. The Nelson-Atkins Museum of Art (November 7, 1980-January 4, 1981); The Cleveland Museum of Art (February 11-March 29, 1981); Tokyo National Museum (October 4-November 17, 1982).",
+        "opening_date": "1981-02-11T05:00:00"
+      },
+      {
+        "id": 213964,
+        "title": "Power and Virtue:  Images of Horses in Chinese Art",
+        "description": "<i>Power and Virtue:  Images of Horses in Chinese Art</i>. China Institute in America (organizer) (September 13-December 13, 1997).",
+        "opening_date": "1997-09-13T00:00:00"
+      },
+      {
+        "id": 202572,
+        "title": "Silent Poetry: Masterworks of Chinese Painting",
+        "description": "<i>Silent Poetry: Masterworks of Chinese Painting</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 14, 2015-April 24, 2016).",
+        "opening_date": "2015-11-14T00:00:00"
+      },
+      {
+        "id": 320503,
+        "title": "Galloping through Dynasties: Decoding Chinese Horse Painting",
+        "description": "<i>Galloping through Dynasties: Decoding Chinese Horse Painting</i>. The Cincinnati Art Museum, Cincinnati, OH (organizer) (October 7, 2022-January 1, 2023) https://www.cincinnatiartmuseum.org/art/exhibitions/upcoming-exhibitions/galloping-through-dynasties/.",
+        "opening_date": "2022-10-07T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Chinese Art Under the Mongols: The Yüan Dynasty, 1279-1368</em>. The Cleveland Museum of Art, Cleveland, OH (October 1-November 24, 1968)",
+        "opening_date": "1968-10-01T00:00:00"
+      },
+      {
+        "description": "<em>Main Asian Rotation (Gallery 120)</em>. The Cleveland Museum of Art, Cleveland, OH (March 11-July 13, 2004).",
+        "opening_date": "2004-03-11T00:00:00"
+      },
+      {
+        "description": "<em>Main Asian Rotation (Gallery 242)</em>. The Cleveland Museum of Art, Cleveland, OH (November 21, 2013-July 28, 2014).",
+        "opening_date": "2013-11-21T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Gui Shanquan 桂山泉 [1500s]",
+      "citations": [],
+      "footnotes": [],
+      "date": "1500s",
+      "sortorder": 1
+    },
+    {
+      "description": "Liang Qingbiao 梁清標 [1620–1691]",
+      "citations": [],
+      "footnotes": [],
+      "date": "second half of the 1600s",
+      "sortorder": 2
+    },
+    {
+      "description": "Qing imperial collection (seals of Emperors Qianlong, r. 1736–1795, Jiaqing, r. 1796–1820, and Xuantong, r. 1909–1911), Beijing, China",
+      "citations": [],
+      "footnotes": [],
+      "date": "after 1736–1911",
+      "sortorder": 3
+    },
+    {
+      "description": "Yu Xiezhong 余協中 [1900s]",
+      "citations": [],
+      "footnotes": [],
+      "date": "after 1911–before 1960",
+      "sortorder": 4
+    },
+    {
+      "description": "(Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1960",
+      "sortorder": 5
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1960–",
+      "sortorder": 6
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Only the elegant first horse with a white blaze is accompanied by two grooms, as if its lightning speed required extra supervision.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Ren Renfa's horse images are elegant in appearance and vigorous in spirit. His work attracted not only Chinese scholars but also the Mongols at the imperial court. Inspired by the contemporary scholarly interest in restoring a sense of antiquity in art—an artistic direction led by Zhao Mengfu that exerted a great impact in the Yuan art scene—Ren Renfa, like Zhao Mengfu, modeled his depictions of horses after the Song master Li Gonglin. Another key style component that Ren introduced to this genre was a revival of the Tang classical tradition. The refined color treatment of the horses as seen here was derived from the Tang master Han Gan.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60465376"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1960.181-three-horses-and-fou"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Ferguson, John C 福開森. <em>Li dai zhu lu hua mu </em>歷代著錄畵目. Nanjing: Chin-ling University, Zhong guo wen hua yan jiu suo 金陵大學中國文化硏究所, 1934.",
+      "page_number": "p. 81(b)",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. and Wai-Kam Ho. “Three Horses and Four Grooms.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 48, no. 4, 1961, pp. 66–71.",
+      "page_number": "Reproduced and Mentioned:  pp. 66-71",
+      "url": "https://www.jstor.org/stable/25142448"
+    },
+    {
+      "citation": "<em>Chinese Art: An Exhibition of Paintings, Jades, Bronzes and Ceramics: Being a Contribution Made by Smith College Museum of Art to the College Interim Session, 1962</em>. Northampton, MA: The Smith College Museum of Art, 1962.",
+      "page_number": "cat. no. 14",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. <em>A History of Far Eastern Art</em>. New York: H.N. Abrams, 1964.",
+      "page_number": "Reproduced: p. 405, fig. 536",
+      "url": null
+    },
+    {
+      "citation": "Sullivan, Michael. <em>Chinese and Japanese Art</em>. New York: Grolier, 1965.",
+      "page_number": "Reproduced: p. 66, fig. A",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 262",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n286"
+    },
+    {
+      "citation": "Lee, Sherman E., and Wai-kam Ho. <em>Chinese Art Under the Mongols: The Yüan Dynasty, 1279-1368</em>. Cleveland, OH: The Cleveland Museum of Art; [distributed by the Press of Case Western Reserve University], 1968.",
+      "page_number": "cat. no. 188",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 262",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n286"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 346",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n366"
+    },
+    {
+      "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+      "page_number": "Reproduced: cat. no. 94, p. 115",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E., and Wai-kam Ho. <em>The Nature and Significance of the Collection of Liang Ch'ing-Piao</em>. Taipei, Taiwan: Chung-hua ming-kuo, 1981.",
+      "page_number": "Mentioned: p. 138, no. 196",
+      "url": null
+    },
+    {
+      "citation": "Harrist, Robert E., and Virginia Bower. <em>Power and virtue: the horse in Chinese art</em>. New York: China Institute, 1997.",
+      "page_number": "Reproduced: cat. no. 21, p. 92",
+      "url": null
+    },
+    {
+      "citation": "Lazzari, Margaret R., and Dona Schlesier. <em>Exploring Art: A Global, Thematic Approach</em>. Belmont, CA: Thomson/Wadsworth, 2005.",
+      "page_number": "Reproduced: p. 442, fig. 15.9",
+      "url": null
+    },
+    {
+      "citation": "Sung, Hou-mei. <em>Decoded Messages: The Symbolic Language of Chinese Animal Painting</em>. New Haven: Yale University Press, 2009.",
+      "page_number": "Reproduced: p. 203, fig.102",
+      "url": null
+    },
+    {
+      "citation": "McCausland, Shane. <em>Zhao Mengfu: Calligraphy and Painting for Khubilai's China</em>. Hong Kong: Hong Kong University Press, 2011.",
+      "page_number": "Reproduced: pp. 152-153, fig 2.18",
+      "url": null
+    },
+    {
+      "citation": "\"Silent Poetry: A new book and focus exhibition celebrate Cleveland's outstanding collection of Chinese paintings.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 55, no. 6 (November/December 2015): 7.",
+      "page_number": "Reproduced and Mentioned: p. 3",
+      "url": "https://archive.org/details/CMAMM2015-06"
+    },
+    {
+      "citation": "Chou, Ju-hsi and Anita Chung. <em>Silent poetry: Chinese paintings from the collection of the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2015.",
+      "page_number": "Mentioned and Reproduced: pp. 117–121",
+      "url": null
+    },
+    {
+      "citation": "Clais, Jean-Baptiste, and Musée du Louvre. <em>Une Passion Chinoise: La Collection de Monsieur Thiers</em>. Paris: GrandPalaisRmn: Louvre Editions, 2025.",
+      "page_number": "Mentioned and Reproduced: p. 92, fig. 36",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1960.181",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_web.jpg",
+      "width": "900",
+      "height": "110",
+      "filesize": "58640",
+      "filename": "1960.181_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_print.jpg",
+      "width": "3400",
+      "height": "417",
+      "filesize": "417901",
+      "filename": "1960.181_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_full.tif",
+      "width": "60260",
+      "height": "7393",
+      "filesize": "1336533720",
+      "filename": "1960.181_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt0_web.jpg",
+        "width": "900",
+        "height": "487",
+        "filesize": "79375"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt0_print.jpg",
+        "width": "3400",
+        "height": "1840",
+        "filesize": "1279071"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt0_full.tif",
+        "width": "14204",
+        "height": "7686",
+        "filesize": "327542368"
+      },
+      "date_created": "2023-01-31T14:46:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt1_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "170966"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt1_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2903826"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt1_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397508"
+      },
+      "date_created": "2023-01-31T14:48:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt2_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "137896"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt2_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2255196"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt2_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397200"
+      },
+      "date_created": "2023-01-31T14:49:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt3_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "101233"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt3_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1510464"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt3_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345396940"
+      },
+      "date_created": "2023-01-31T14:55:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt4_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "128957"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt4_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2084685"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt4_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397460"
+      },
+      "date_created": "2023-01-31T14:57:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt5_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "139520"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt5_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2426152"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt5_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345398028"
+      },
+      "date_created": "2023-01-31T14:59:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt6_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "135802"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt6_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2397208"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt6_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397924"
+      },
+      "date_created": "2023-01-31T15:01:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt7_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "138770"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt7_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2438663"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt7_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345398072"
+      },
+      "date_created": "2023-01-31T15:03:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt8_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "161091"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt8_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2517695"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt8_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345398472"
+      },
+      "date_created": "2023-01-31T15:05:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt9_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "152658"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt9_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "2218638"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt9_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345398544"
+      },
+      "date_created": "2023-01-31T15:07:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt10_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "105770"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt10_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1848206"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt10_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345396920"
+      },
+      "date_created": "2023-01-31T15:09:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt11_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "80425"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt11_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1328395"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt11_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345396644"
+      },
+      "date_created": "2023-01-31T15:12:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt12_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "79436"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt12_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1323410"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt12_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345396796"
+      },
+      "date_created": "2023-01-31T15:14:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt13_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "82203"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt13_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1333476"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt13_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345396916"
+      },
+      "date_created": "2023-01-31T15:16:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt14_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "91100"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt14_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1390041"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt14_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397096"
+      },
+      "date_created": "2023-01-31T15:17:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt15_web.jpg",
+        "width": "900",
+        "height": "514",
+        "filesize": "90565"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt15_print.jpg",
+        "width": "3400",
+        "height": "1940",
+        "filesize": "1385674"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt15_full.tif",
+        "width": "14204",
+        "height": "8105",
+        "filesize": "345397040"
+      },
+      "date_created": "2023-01-31T15:17:35",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt16_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "898954"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt16_print.jpg",
+        "width": "3400",
+        "height": "385",
+        "filesize": "466650"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt16_full.tif",
+        "width": "41728",
+        "height": "4729",
+        "filesize": "789353036"
+      },
+      "date_created": "2010-05-13T18:11:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt17_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "843638"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt17_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7393546"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt17_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99891988"
+      },
+      "date_created": "2010-05-13T16:40:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt18_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "802631"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt18_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "6885280"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt18_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99892240"
+      },
+      "date_created": "2010-05-13T16:44:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt19_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "799005"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt19_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "8200057"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt19_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893452"
+      },
+      "date_created": "2010-05-13T16:51:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt20_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "766531"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt20_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7356186"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt20_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893248"
+      },
+      "date_created": "2010-05-13T16:57:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt21_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "779557"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt21_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7460667"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt21_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893504"
+      },
+      "date_created": "2010-05-13T17:03:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt22_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "773566"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt22_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7405664"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt22_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99893124"
+      },
+      "date_created": "2010-05-13T17:11:29",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt23_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "812689"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt23_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7660612"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt23_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99892692"
+      },
+      "date_created": "2010-05-13T17:16:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt24_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "827028"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt24_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7350524"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt24_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99895464"
+      },
+      "date_created": "2010-05-13T17:21:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt25_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "786297"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt25_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7184066"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt25_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99894096"
+      },
+      "date_created": "2010-05-13T17:24:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt26_web.jpg",
+        "width": "1193",
+        "height": "893",
+        "filesize": "738291"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt26_print.jpg",
+        "width": "3400",
+        "height": "2545",
+        "filesize": "7140264"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt26_full.tif",
+        "width": "6668",
+        "height": "4992",
+        "filesize": "99891732"
+      },
+      "date_created": "2010-05-13T17:26:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt27_web.jpg",
+        "width": "1263",
+        "height": "158",
+        "filesize": "137689"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt27_print.jpg",
+        "width": "3400",
+        "height": "424",
+        "filesize": "932282"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt27_full.tif",
+        "width": "15984",
+        "height": "1993",
+        "filesize": "95589404"
+      },
+      "date_created": "2009-11-13T13:52:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt28_web.jpg",
+        "width": "1263",
+        "height": "247",
+        "filesize": "193153"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt28_print.jpg",
+        "width": "3400",
+        "height": "664",
+        "filesize": "1397264"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt28_full.tif",
+        "width": "9900",
+        "height": "1934",
+        "filesize": "57460876"
+      },
+      "date_created": "2009-11-13T13:52:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt29_web.jpg",
+        "width": "1263",
+        "height": "263",
+        "filesize": "221160"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt29_print.jpg",
+        "width": "3400",
+        "height": "708",
+        "filesize": "1532051"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt29_full.tif",
+        "width": "9558",
+        "height": "1990",
+        "filesize": "57082336"
+      },
+      "date_created": "2009-11-13T13:53:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt30_web.jpg",
+        "width": "1263",
+        "height": "255",
+        "filesize": "29145"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt30_print.jpg",
+        "width": "2048",
+        "height": "414",
+        "filesize": "74626"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt30_full.tif",
+        "width": "2048",
+        "height": "414",
+        "filesize": "80569"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt31_web.jpg",
+        "width": "900",
+        "height": "50",
+        "filesize": "39401"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt31_print.jpg",
+        "width": "3400",
+        "height": "188",
+        "filesize": "164498"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.181/1960.181_alt31_full.tif",
+        "width": "111380",
+        "height": "6158",
+        "filesize": "2057660280"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 136295,
+  "creators": [
+    {
+      "id": 9013,
+      "description": "Ren Renfa (Chinese, 1254–1328)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": "任仁發",
+      "birth_year": "1254",
+      "death_year": "1328",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1960-11-12T00:00:00",
+  "sortable_date": 1310,
+  "date_added_to_oa": null,
+  "date_text": "c. 1320s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Three Horses and Four Grooms 三駿圖"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-15 11:17:58.352000"
+}

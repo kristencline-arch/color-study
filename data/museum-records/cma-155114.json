@@ -1,0 +1,268 @@
+{
+  "id": 155114,
+  "accession_number": "1990.10",
+  "share_license_status": "CC0",
+  "tombstone": "Jar, 1400–1600. Native North America, Southwest, Ancestral Pueblo, Sikyatki style. Ceramic, slip; overall: 21.2 x 38.8 cm (8 3/8 x 15 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1990.10",
+  "current_location": null,
+  "title": "Jar",
+  "creation_date": "1400–1600",
+  "creation_date_earliest": 1400,
+  "creation_date_latest": 1600,
+  "artists_tags": [],
+  "culture": [
+    "Native North America, Southwest, Ancestral Pueblo, Sikyatki style"
+  ],
+  "technique": "Ceramic, slip",
+  "support_materials": [],
+  "department": "Art of the Americas",
+  "collection": "AA - Native North America",
+  "type": "Ceramic",
+  "measurements": "Overall: 21.2 x 38.8 cm (8 3/8 x 15 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.212,
+      "height_inch": 8,
+      "height_inch_fraction": 0.375,
+      "width": 0.388,
+      "width_inch": 15,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311440,
+        "title": "Notable Acquisitions",
+        "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+        "opening_date": "1991-06-07T04:00:00"
+      },
+      {
+        "id": 219999,
+        "title": "Sacred Symbols:  Three Thousand Years of Native American Art [FRAME]",
+        "description": "<i>Sacred Symbols:  Three Thousand Years of Native American Art [FRAME]</i>. Musée Fabre, Montpellier, France (July 16-September 29, 2002); Musée des Beaux-Arts de Rouen, Rouen, France (October 24, 2002-January 13, 2003); Musée des Beaux-Arts de Lyon, 69001 Lyon, France (February 19-April 29, 2003); Musée des Beaux-Arts de Rennes, Rennes, France (May 27-August 18, 2003); Minneapolis Institute of Art, Minneapolis, MN (organizer) (October 26, 2003-January 11, 2004).",
+        "opening_date": "2002-07-16T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "CMA 1991:  \"Notable Acquisitions,\" Bull., 78, (June 1991), p. 117, repr.",
+        "opening_date": "1991-06-01T00:00:00"
+      },
+      {
+        "description": "Musee Fabre, Montpellier, France (7/16/2002 - 9/29/2002), Musee des Beaux-Arts, Rouen France (10/24/2002 - 1/13/2003), Musee des Beaux-Arts, Lyon, France (2/19/2003 - 4/28/2003), Musee des Beaux-Arts, Rennes, France (5/27/2003 - 8/18/2003), Minneapolis Institute of Arts (10/26/2003 - 1/11/2004):  FRAME exhibition -- \"Sacred Symbols:  Three Thousand Years of Native American Art\"",
+        "opening_date": "2002-07-16T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Dennis Lyon",
+      "citations": [],
+      "footnotes": null,
+      "date": "1979    ",
+      "sortorder": null
+    },
+    {
+      "description": "Burke Hudnell",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Dennis Lyon, 1979; Burke Hudnell",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Ancient Sikyatki ceramics are noted for their large, distinctive shapes, meticulously stone-polished surfaces, thin walls that “ring” when tapped, and wide variety of reds and oranges, a contrast to earlier preferences for black and white. These artistically and technically inventive vessels are ancestral to modern Hopi ceramics, having developed in the area where Hopi communities live today. The Hopi regard a mottled orange color as a sign that the pot emerged from firing with life and spirit; the vessel’s “voice” is a bell-like tone that tapping produces. Such concepts likely have roots in the ancient past.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60778811"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1990.10-vessel",
+      "https://archive.org/details/clevelandart-1990.10-jar"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Young-Sánchez, Margaret. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+      "page_number": "Reproduced and Mentioned: p. 117",
+      "url": "https://www.jstor.org/stable/25161319"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1990.10",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_web.jpg",
+      "width": "1263",
+      "height": "883",
+      "filesize": "573345",
+      "filename": "1990.10_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_print.jpg",
+      "width": "3400",
+      "height": "2377",
+      "filesize": "4729190",
+      "filename": "1990.10_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_full.tif",
+      "width": "5267",
+      "height": "3683",
+      "filesize": "58221696",
+      "filename": "1990.10_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt0_web.jpg",
+        "width": "1263",
+        "height": "848",
+        "filesize": "541168"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt0_print.jpg",
+        "width": "3400",
+        "height": "2282",
+        "filesize": "4537456"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt0_full.tif",
+        "width": "5294",
+        "height": "3554",
+        "filesize": "56470968"
+      },
+      "date_created": "2010-11-04T17:54:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt1_web.jpg",
+        "width": "1263",
+        "height": "857",
+        "filesize": "550809"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt1_print.jpg",
+        "width": "3400",
+        "height": "2306",
+        "filesize": "4556116"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt1_full.tif",
+        "width": "5390",
+        "height": "3657",
+        "filesize": "59160052"
+      },
+      "date_created": "2010-11-04T18:02:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt2_web.jpg",
+        "width": "1263",
+        "height": "860",
+        "filesize": "544899"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt2_print.jpg",
+        "width": "3400",
+        "height": "2314",
+        "filesize": "4515222"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt2_full.tif",
+        "width": "5511",
+        "height": "3752",
+        "filesize": "62058108"
+      },
+      "date_created": "2010-11-04T18:12:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt3_web.jpg",
+        "width": "926",
+        "height": "893",
+        "filesize": "487704"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt3_print.jpg",
+        "width": "3400",
+        "height": "3278",
+        "filesize": "6887072"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt3_full.tif",
+        "width": "5128",
+        "height": "4944",
+        "filesize": "76086976"
+      },
+      "date_created": "2010-11-04T18:29:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt4_web.jpg",
+        "width": "973",
+        "height": "893",
+        "filesize": "487451"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt4_print.jpg",
+        "width": "3400",
+        "height": "3121",
+        "filesize": "6962889"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1990.10/1990.10_alt4_full.tif",
+        "width": "5351",
+        "height": "4912",
+        "filesize": "78878340"
+      },
+      "date_created": "2010-11-04T18:38:00",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 155114,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1990-04-16T00:00:00",
+  "sortable_date": 1400,
+  "date_added_to_oa": null,
+  "date_text": "1400–1600",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:01:54.022000"
+}
