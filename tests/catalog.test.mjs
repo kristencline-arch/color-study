@@ -97,6 +97,19 @@ test('invalid filters fail clearly, unknown IDs stay missing and public catalog 
   assert.equal((await send('/api/catalog', undefined, {})).status, 503);
 });
 
+test('museum originals resolve to the exact archived image release without arbitrary redirects', async () => {
+  const release = JSON.parse(await readFile(new URL('../public/photo-release.json', import.meta.url)));
+  assert.match(release.commit, /^[a-f0-9]{40}$/);
+  for (const source of sources.filter(item => item.source_api)) {
+    const response = await send('/' + source.original_file + '?url=https://example.invalid/other.jpg');
+    assert.equal(response.status, 302);
+    assert.equal(response.headers.get('Location'), release.public_base_url + source.original_file);
+    assert.equal(response.headers.get('Access-Control-Allow-Origin'), '*');
+  }
+  assert.equal((await send('/originals/cma-294034.jpg', {method: 'HEAD'})).status, 302);
+  assert.equal((await send('/originals/cma-294034.jpg', {method: 'POST'})).status, 405);
+});
+
 test('every museum import has a reviewable rights snapshot, dated provenance and distinct original bytes', async () => {
   const selected = JSON.parse(await readFile(new URL('../data/museum-selection.json', import.meta.url)));
   const hashes = new Set();

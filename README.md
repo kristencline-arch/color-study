@@ -78,3 +78,5 @@ Code and original documentation: [MIT](LICENSE). Curated metadata and original c
 Run `python scripts/build-showcase.py` to regenerate the resized originals and enhanced website comparisons. Their original hashes, fitting regions, settings and exact matrices are recorded in `public/showcase.json`.
 
 Operators can set a server-only `COMMUNITY_ADMIN_TOKEN` of at least 32 characters and send `DELETE /api/community/{id}` with `Authorization: Bearer <token>` to remove a reported contribution. The token is never part of the public site, image records or database download. Keep it in the hosting service’s secret settings, not in Git.
+
+The production website loads museum JPEGs from the pinned GitHub image release in `public/photo-release.json`; all original files remain in this repository. Thumbnails, comparisons and the D1 catalog are hosted with the website. The build omits only generated museum JPEG copies from the deployment archive to respect its size limit.

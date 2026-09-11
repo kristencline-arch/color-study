@@ -44,7 +44,8 @@ test('every study has packaged native originals, thumbnails, credit and source l
     assert.ok(original.length < 25 * 1024 * 1024, 'individual hosting asset limit');
     if (source.sha256) assert.equal(createHash('sha256').update(original).digest('hex'), source.sha256);
     await access(new URL('../public/thumbnails/' + source.id + '.jpg', import.meta.url));
-    await access(new URL('../dist/client/' + source.original_file, import.meta.url));
+    if (source.source_api) await assert.rejects(access(new URL('../dist/client/' + source.original_file, import.meta.url)), {code: 'ENOENT'});
+    else await access(new URL('../dist/client/' + source.original_file, import.meta.url));
   }
 });
 

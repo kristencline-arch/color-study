@@ -26,6 +26,8 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
   const [sort, setSort] = useState("featured");
   const [page, setPage] = useState(1);
   const [retry, setRetry] = useState(0);
+  const [downloading, setDownloading] = useState("");
+  const [downloadNotice, setDownloadNotice] = useState("");
   const [result, setResult] = useState<{key: string; data?: CatalogPage; error?: string} | null>(null);
   const [facets, setFacets] = useState<CatalogPage["filters"] | null>(null);
   const params = new URLSearchParams();
@@ -53,6 +55,19 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
   }, [key, requestKey]);
 
   function clear() {setQuery(""); setCategory(""); setRegion(""); setProvider(""); setBefore(""); setSort("featured"); setPage(1);}
+  async function downloadPhoto(photo: CatalogPhoto) {
+    setDownloading(photo.id); setDownloadNotice("");
+    try {
+      const response = await fetch(photo.image_url);
+      if (!response.ok) throw new Error("The original could not be downloaded. Please try again.");
+      const url = URL.createObjectURL(await response.blob());
+      const link = document.createElement("a"); link.href = url; link.download = `${photo.id}.jpg`;
+      document.body.append(link); link.click(); link.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 60000);
+      setDownloadNotice(`${photo.short_title}: original JPEG ready to save. Keep the credit and license with shared copies.`);
+    } catch (error) {setDownloadNotice(error instanceof Error ? error.message : "The photograph could not be downloaded.");}
+    finally {setDownloading("");}
+  }
   const filtered = !!(query || category || region || provider || before);
   return <section className="catalog-page" aria-labelledby="catalog-title">
     <div className="catalog-heading"><div><p className="eyebrow">THE OPEN COLLECTION / PAINT, DYE &amp; TIME</p><h1 id="catalog-title">Color, carried<br /><em>through centuries.</em></h1><p>Painted cotton. Woven silk. A figure on worn plaster. Explore textiles and ancient art through photographs you can study, download and reuse.</p></div><div className="catalog-heading-aside"><p>Every photograph has a source and a license. Museum dates describe the object; the photograph shows its surviving condition.</p><a className="button ghost" href="/api/dataset?download=all">Download the full database ↓</a><a className="catalog-files" href={`${REPOSITORY}/tree/main/public/originals`} target="_blank" rel="noopener noreferrer">Image files on GitHub ↗</a></div></div>
@@ -67,6 +82,7 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
       <label>Sort<select value={sort} onChange={event => {setSort(event.target.value); setPage(1);}}><option value="featured">Selected first</option><option value="oldest">Oldest first</option><option value="newest">Newest first</option></select></label>
     </div>
     <div className="catalog-result-line"><p role="status">{loading ? "Opening the collection…" : data ? `${data.total} ${data.total === 1 ? "photograph" : "photographs"}${filtered ? ` from ${data.collection_total} in the collection` : " in the collection"}` : "Collection unavailable"}</p><a href={downloadURL}>Export these records ↓</a></div>
+    {downloadNotice && <p className="catalog-date-note" role="status">{downloadNotice}</p>}
     {before && <p className="catalog-date-note">Date filters use the latest year in the museum’s estimated range. Records without an object date are excluded.</p>}
     <div aria-busy={loading}>
       {current?.error && <div className="catalog-empty" role="alert"><p>{current.error}</p><button className="button ghost" onClick={() => setRetry(value => value + 1)}>Try again</button></div>}
@@ -75,7 +91,7 @@ export default function Catalog({onStudy, onContribute}: {onStudy: (id: string) 
       {data && data.photos.length > 0 && <div className="catalog-grid">{data.photos.map(photo => <article className="catalog-card" key={photo.id}>
         <button className="catalog-image" onClick={() => onStudy(photo.id)} aria-label={`Study ${photo.title}`}><img src={photo.thumbnail_url} alt={photo.title} width={photo.expected_dimensions[0]} height={photo.expected_dimensions[1]} loading="lazy" /><span className="catalog-open" aria-hidden="true">↗</span></button>
         <div className="catalog-card-copy"><p className="eyebrow">{photo.category} / {photo.region}</p><h2>{photo.short_title}</h2><p className="catalog-date">{photo.object_date === "Not recorded" ? "Object date not recorded" : photo.object_date}</p><p className="catalog-material">{photo.material}</p>
-          <div className="catalog-card-actions"><button onClick={() => onStudy(photo.id)}>Study photo →</button><a href={photo.image_url} download>JPEG ↓</a></div>
+          <div className="catalog-card-actions"><button onClick={() => onStudy(photo.id)}>Study photo →</button><button disabled={!!downloading} onClick={() => void downloadPhoto(photo)}>{downloading === photo.id ? "Downloading…" : "JPEG ↓"}</button></div>
           <p className="catalog-credit">{photo.provider}<br />{photo.expected_dimensions[0].toLocaleString()} × {photo.expected_dimensions[1].toLocaleString()} px · <a href={photo.license_url} target="_blank" rel="noopener noreferrer">{photo.license}</a></p>
           <details><summary>Source, context &amp; larger files</summary><p><strong>{photo.title}</strong></p><p>{photo.culture && photo.culture !== "Not recorded" ? `${photo.culture}. ` : ""}{photo.location}</p><p>{photo.notes}</p><p>Image credit: {photo.author}{photo.accession_number ? `. Accession ${photo.accession_number}` : ""}.{photo.credit_line ? ` ${photo.credit_line}.` : ""}</p><a href={photo.source_page} target="_blank" rel="noopener noreferrer">View the original source ↗</a>{photo.master_url && <p><a href={photo.master_url} target="_blank" rel="noopener noreferrer">Museum master · {photo.master_format} ↗</a><br />{photo.master_dimensions?.map(value => value.toLocaleString()).join(" × ")} px{photo.master_size_bytes ? ` · ${(photo.master_size_bytes / 1000000).toFixed(0)} MB` : ""}. This file may be larger than the lab can open.</p>}<p><a href={`${REPOSITORY}/issues/new?title=${encodeURIComponent(`Catalog correction: ${photo.id}`)}&body=${encodeURIComponent(`Record: ${photo.source_page}\n\nPlease describe the correction or rights concern:\n`)}`} target="_blank" rel="noopener noreferrer">Report a record or image</a></p></details>
         </div>
