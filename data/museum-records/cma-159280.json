@@ -1,0 +1,202 @@
+{
+  "id": 159280,
+  "accession_number": "1995.73",
+  "share_license_status": "CC0",
+  "tombstone": "Textile with Phoenixes and Dragons, 1279–1368. China, Yuan dynasty (1260-1368). Silk and gold thread; lampas; overall: 20.3 x 20 cm (8 x 7 7/8 in.); mounted: 31.4 x 31.1 cm (12 3/8 x 12 1/4 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1995.73",
+  "current_location": null,
+  "title": "Textile with Phoenixes and Dragons",
+  "creation_date": "1279–1368",
+  "creation_date_earliest": 1279,
+  "creation_date_latest": 1368,
+  "artists_tags": [],
+  "culture": [
+    "China, Yuan dynasty (1260-1368)"
+  ],
+  "technique": "Silk and gold thread; lampas",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 20.3 x 20 cm (8 x 7 7/8 in.); Mounted: 31.4 x 31.1 cm (12 3/8 x 12 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.203,
+      "height_inch": 8,
+      "height_inch_fraction": 0.0,
+      "width": 0.2,
+      "width_inch": 7,
+      "width_inch_fraction": 0.875
+    },
+    "mounted": {
+      "height": 0.314,
+      "height_inch": 12,
+      "height_inch_fraction": 0.375,
+      "width": 0.311,
+      "width_inch": 12,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 211548,
+        "title": "When Silk Was Gold: Central Asian & Chinese Textiles from the Cleveland and Metropolitan Museums of Art",
+        "description": "<i>When Silk Was Gold: Central Asian & Chinese Textiles from the Cleveland and Metropolitan Museums of Art</i>. The Cleveland Museum of Art, Cleveland, OH (October 26, 1997-January 4, 1998); The Metropolitan Museum of Art (organizer) (March 2-May 17, 1998).",
+        "opening_date": "1997-10-19T00:00:00"
+      },
+      {
+        "id": 206288,
+        "title": "The Legacy of Genghis Khan:  Courtly Art and Culture in Western Asia 1256-1353",
+        "description": "<i>The Legacy of Genghis Khan:  Courtly Art and Culture in Western Asia 1256-1353</i>. The Metropolitan Museum of Art, New York, NY (organizer) (October 28, 2002-February 16, 2003); Los Angeles County Museum of Art, Los Angeles, CA (April 13-July 27, 2003).",
+        "opening_date": "2002-10-28T00:00:00"
+      },
+      {
+        "id": 207337,
+        "title": "The World of Kubilai Khan: Chinese Art in the Yuan Dynasty",
+        "description": "<i>The World of Kubilai Khan: Chinese Art in the Yuan Dynasty</i>. The Metropolitan Museum of Art, New York, NY (organizer) (September 20, 2010-January 2, 2011).",
+        "opening_date": "2010-09-20T00:00:00"
+      },
+      {
+        "id": 673759,
+        "title": "Wonders of Creation: Art, Science, and Innovation in the Islamic World",
+        "description": "<i>Wonders of Creation: Art, Science, and Innovation in the Islamic World</i>. San Diego Museum of Art, San Diego, CA (organizer) (September 7, 2024-January 5, 2025) https://www.sdmart.org/exhibition/wonders-of-creation-art-science-and-innovation-in-the-islamic-world/; McMullen Museum of Art, Chestnut Hill, MA (February 1-June 1, 2025).",
+        "opening_date": "2024-09-07T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Alan Kennedy, Paris, France, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1995",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1995–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This is one of the very few northern Chinese silk and gold textiles to have survived from the Yuan dynasty. The curled dragons chasing pearls, the phoenixes, and the background of tiny hexagons are Chinese motifs, but the lobed roundels enclosing the dragons and phoenixes indicate the influence of eastern Iranian craftsmen who had been relocated to northern China. A red and gold silk woven with the same pattern is preserved in Beijing. The extraordinary survival of the two silks demonstrates that patterns were typically used over and over.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60759538"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1995.73-textile-with-phoenix"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Watt, James C. Y., Anne E. Wardwell, and Morris Rossabi. <em>When silk was gold: Central Asian and Chinese textiles</em>. New York: Metropolitan Museum of Art in cooperation with the Cleveland Museum of Art, 1997.",
+      "page_number": "Reproduced: pp. 127, 153, 161, cat. 42",
+      "url": null
+    },
+    {
+      "citation": "Komaroff, Linda, and Stefano Carboni. <em>The Legacy of Genghis Khan: Courtly Art and Culture in Western Asia</em>, <em>1256-1353</em>. New York : Metropolitan Museum of Art ; New Haven : Yale University Press: 2002.",
+      "page_number": "Mentioned: p. 176, cat. 183; Reproduced: p. 283, fig. 206",
+      "url": null
+    },
+    {
+      "citation": "Watt, James C. Y., and Maxwell K. Hearn. <em>The World of Khubilai Khan: Chinese Art in the Yuan Dynasty</em>. New York: Metropolitan Museum of Art, 2010.",
+      "page_number": "Reproduced and mentioned: p. 264, fig. 286",
+      "url": null
+    },
+    {
+      "citation": "Müller, Kathrin. <em>Musterhaft naturgetreu: Tiere in Seiden, Zeichnungen und Tapisserien des 14. und 15.</em> <em>Jahrhunderts.</em> Berlin: Gebr. Mann Verlag, 2020.",
+      "page_number": "Reproduced: P. 48, abb. 5",
+      "url": null
+    },
+    {
+      "citation": "Akbarnia, Ladan. \"Wonders of the Natural World.\" In <em>Wonders of Creation: Art, Science, and Innovation in the Islamic World</em>, edited by Ladan Akbarnia, 139-161. San Diego: The San Diego Museum of Art, 2025.",
+      "page_number": "Mentioned and reproduced: p. 139-140, cat. 72",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1995.73",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_web.jpg",
+      "width": "889",
+      "height": "893",
+      "filesize": "841563",
+      "filename": "1995.73_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_print.jpg",
+      "width": "3386",
+      "height": "3400",
+      "filesize": "12437772",
+      "filename": "1995.73_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_full.tif",
+      "width": "4563",
+      "height": "4582",
+      "filesize": "62765540",
+      "filename": "1995.73_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_alt0_web.jpg",
+        "width": "899",
+        "height": "893",
+        "filesize": "876520"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_alt0_print.jpg",
+        "width": "1536",
+        "height": "1526",
+        "filesize": "2696885"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_alt0_full.tif",
+        "width": "1536",
+        "height": "1526",
+        "filesize": "7034436"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Edward L. Whittemore Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 159280,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1995-12-04T00:00:00",
+  "sortable_date": 1279,
+  "date_added_to_oa": null,
+  "date_text": "1279–1368",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:15:33.022000"
+}

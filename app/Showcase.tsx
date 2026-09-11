@@ -6,6 +6,7 @@ import sources from "../public/sources.json";
 import { NASA_ARTICLE, REPOSITORY } from "./links";
 
 const demonstrations = [
+  {id: "cma-294034", label: "Painted cotton", place: "Chavín-style textile · 800–500 BCE", detail: "A figure, held in the weave.", note: "A painted figure survives on ancient cotton. Compare its faint outlines with the weave and stains. The enhanced colors are a study of the photograph, not its original palette."},
   {id: "cueva-hands", label: "Hand stencils", place: "Cueva de las Manos, Argentina", detail: "Hands, layered in color.", note: "Overlapping stencils survive in red, white and ochre. Move the line to explore their color relationships."},
   {id: "bhimbetka-paintings", label: "Cave paintings", place: "Bhimbetka, India", detail: "A wall full of movement.", note: "Painted figures cross the shelter wall. Color separation helps distinguish their red traces from the surrounding surface."},
   {id: "cappadocia-fresco", label: "Painted plaster", place: "Göreme, Turkey", detail: "A pattern still holding on.", note: "A surviving red motif contrasts with worn plaster. The enhancement also brings out variations in the surface."},
@@ -21,9 +22,9 @@ const selections = [
   {id: "marble-sphinx", title: "Beyond white marble.", place: "Greek sculpture · The Met", description: "A winged sphinx with surviving paint: an invitation to look closely at sculpture, too."},
 ];
 
-type Props = { onStudy: (id: string) => void; onLab: () => void; onCommunity: () => void; onGuide: () => void; onShare: () => void };
+type Props = { onStudy: (id: string) => void; onLab: () => void; onCommunity: () => void; onGuide: () => void; onCollection: () => void; onShare: () => void };
 
-export default function Showcase({onStudy, onLab, onCommunity, onGuide, onShare}: Props) {
+export default function Showcase({onStudy, onLab, onCommunity, onGuide, onCollection, onShare}: Props) {
   const [active, setActive] = useState(0);
   const [split, setSplit] = useState(50);
   const demo = demonstrations[active];
@@ -31,16 +32,16 @@ export default function Showcase({onStudy, onLab, onCommunity, onGuide, onShare}
   return <div className="showcase-page">
     <section className="showcase-hero" aria-labelledby="showcase-title">
       <div className="hero-copy">
-        <p className="eyebrow">SURVIVING PAINT / A DIFFERENT WAY TO SEE</p>
+        <p className="eyebrow">SURVIVING COLOR / A DIFFERENT WAY TO SEE</p>
         <h1 id="showcase-title">Look a little<br /><em>closer.</em></h1>
         <p className="hero-intro">Time fades the color.<br />A photograph can still hold its traces.</p>
-        <p className="hero-description">Explore cave paintings, worn murals and once-painted marble through color separation. Start with a remarkable photograph, or bring your own.</p>
+        <p className="hero-description">Explore ancient textiles, cave paintings, worn murals and once-painted marble through color separation. Start with a remarkable photograph, or bring your own.</p>
         <div className="hero-actions"><button className="button" onClick={onLab}>Try the image lab <span aria-hidden="true">↗</span></button><button className="text-button" onClick={onCommunity}>Contribute a photograph</button></div>
         <a className="hero-origin" href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">Inspired by the original NASA Spinoff article <span aria-hidden="true">↗</span></a>
       </div>
       <figure className="hero-study">
         <div className="hero-study-top"><span className="eyebrow">A CLOSER LOOK</span><span>Drag to compare <span aria-hidden="true">↔</span></span></div>
-        <div className={`hero-comparison ${demo.id === "marble-sphinx" ? "sculpture-comparison" : ""}`} style={{"--split": `${split}%`} as CSSProperties}>
+        <div className={`hero-comparison ${["marble-sphinx", "cma-294034"].includes(demo.id) ? "sculpture-comparison" : ""}`} style={{"--split": `${split}%`} as CSSProperties}>
           <img src={`/showcase/${demo.id}-original.webp`} alt={`Original photograph: ${demo.place}`} width={1600} height={1000} fetchPriority="high" draggable={false} />
           <img className="hero-enhanced" src={`/showcase/${demo.id}-enhanced.webp`} alt={`RGB decorrelation stretch of the same ${demo.place} photograph`} width={1600} height={1000} draggable={false} />
           <span className="image-badge original-badge">Original</span><span className="image-badge enhanced-badge">Color study</span>
@@ -54,6 +55,11 @@ export default function Showcase({onStudy, onLab, onCommunity, onGuide, onShare}
       </figure>
     </section>
     <div className="showcase-principle"><span className="eyebrow">THE SAME PHOTOGRAPH. A DIFFERENT VIEW.</span><p>These are real photographs and mathematical color enhancements. The new colors make differences easier to see; they don’t tell us what the original palette looked like.</p></div>
+    <section className="textile-discovery" aria-labelledby="textile-heading">
+      <div className="section-heading"><div><p className="eyebrow">NEW IN THE OPEN COLLECTION</p><h2 id="textile-heading">Before color faded,<br /><em>it was woven in.</em></h2></div><p>Painted Andean cotton, Egyptian resist-dyed linen and patterned silk from Iran or Central Asia. Browse {sources.length} credited photographs, including {sources.filter(item => item.study_type === "textile").length} textiles.</p></div>
+      <div className="textile-discovery-grid">{["cma-294034", "cma-128462", "cma-159371"].map(id => {const item = sources.find(source => source.id === id); return item && <button key={id} className="textile-discovery-card" onClick={() => onStudy(id)}><img src={`/thumbnails/${id}.jpg`} width={item.expected_dimensions[0]} height={item.expected_dimensions[1]} alt={item.title} loading="lazy" /><strong>{item.short_title} ↗</strong><span>{item.object_date} · {item.provider}<br />{item.license}</span></button>;})}</div>
+      <div className="textile-discovery-actions"><button className="button" onClick={onCollection}>Explore the collection <span aria-hidden="true">→</span></button><a href="/api/catalog?download=all">Download the catalog ↓</a></div>
+    </section>
     <section className="selected-studies" aria-labelledby="selected-heading">
       <div className="section-heading"><div><p className="eyebrow">SELECTED PHOTOGRAPHS</p><h2 id="selected-heading">Paint that still has<br /><em>something to say.</em></h2></div><p>From a palace in Iran to the interiors of Pompeii. Every image includes its original source, photographer’s credit and reuse license.</p></div>
       <div className="showcase-grid">{selections.map((item, index) => {
@@ -69,6 +75,6 @@ export default function Showcase({onStudy, onLab, onCommunity, onGuide, onShare}
       <article><p className="eyebrow">THE ORIGINAL STORY</p><h2>From satellites<br /><em>to surviving paint.</em></h2><p>NASA Spinoff tells how decorrelation stretch moved from satellite imagery into archaeology, including the faded paintings of Angkor Wat. That story inspired this independent image lab.</p><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">Read the original NASA article <span aria-hidden="true">↗</span></a></article>
       <article><p className="eyebrow">OPEN SOURCE / OPEN EXPLORATION</p><h2>The files.<br /><em>Yours to explore.</em></h2><p>The engine, website, Python processor and research guide are on GitHub. Download the photographs, inspect how the color changes, or build something of your own.</p><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Browse the GitHub repository <span aria-hidden="true">↗</span></a><a className="dataset-link" href="/api/dataset?download=all">Download the photo database <span aria-hidden="true">↓</span></a></article>
     </section>
-    <section className="share-invitation"><div><p className="eyebrow">A SHARED COLLECTION. A SHARED CURIOSITY.</p><h2>Bring a photograph.<br /><em>Pass it on.</em></h2><p>Have a photograph of surviving paint? Add it to the open collection with your credit. Know someone who would enjoy looking closer? Send them the link.</p></div><div className="invitation-actions"><button className="button" onClick={onCommunity}>Add your photograph <span aria-hidden="true">+</span></button><button className="button ghost" onClick={onShare}>Share Color Study <span aria-hidden="true">↗</span></button></div></section>
+    <section className="share-invitation"><div><p className="eyebrow">A SHARED COLLECTION. A SHARED CURIOSITY.</p><h2>Bring a photograph.<br /><em>Pass it on.</em></h2><p>Have a photograph of a textile or surviving paint? Add it to the open collection with your credit. Know someone who would enjoy looking closer? Send them the link.</p></div><div className="invitation-actions"><button className="button" onClick={onCommunity}>Add your photograph <span aria-hidden="true">+</span></button><button className="button ghost" onClick={onShare}>Share Color Study <span aria-hidden="true">↗</span></button></div></section>
   </div>;
 }

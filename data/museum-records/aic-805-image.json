@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://www.artic.edu/iiif/2/6cb56687-a433-ae6b-ab07-af71dd755ec9",
+  "protocol": "http://iiif.io/api/image",
+  "width": 10226,
+  "height": 2614,
+  "sizes": [
+    {
+      "width": 320,
+      "height": 82
+    },
+    {
+      "width": 639,
+      "height": 163
+    },
+    {
+      "width": 1278,
+      "height": 327
+    },
+    {
+      "width": 2557,
+      "height": 654
+    },
+    {
+      "width": 5113,
+      "height": 1307
+    },
+    {
+      "width": 10226,
+      "height": 2614
+    }
+  ],
+  "tiles": [
+    {
+      "width": 256,
+      "height": 256,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ]
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level2.json",
+    {
+      "formats": [
+        "jpg",
+        "tif",
+        "gif",
+        "png"
+      ],
+      "maxArea": 26730764,
+      "qualities": [
+        "bitonal",
+        "default",
+        "gray",
+        "color"
+      ],
+      "supports": [
+        "regionByPx",
+        "sizeByW",
+        "sizeByWhListed",
+        "cors",
+        "regionSquare",
+        "sizeByDistortedWh",
+        "canonicalLinkHeader",
+        "sizeByConfinedWh",
+        "sizeByPct",
+        "jsonldMediaType",
+        "regionByPct",
+        "rotationArbitrary",
+        "sizeByH",
+        "baseUriRedirect",
+        "rotationBy90s",
+        "profileLinkHeader",
+        "sizeByForcedWh",
+        "sizeByWh",
+        "mirroring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": 151044,
+  "accession_number": "1982.73",
+  "share_license_status": "CC0",
+  "tombstone": "Hanging with Christian Images, 500s. Egypt, Byzantine period. Dyed wool, undyed linen: plain weave (tabby) with inwoven tapestry weave; overall: 110.5 x 76.8 cm (43 1/2 x 30 1/4 in.); mounted: 120.9 x 87 x 3.9 cm (47 5/8 x 34 1/4 x 1 9/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1982.73",
+  "current_location": null,
+  "title": "Hanging with Christian Images",
+  "creation_date": "500s",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 599,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "dyed wool, undyed linen: plain weave (tabby) with inwoven tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 110.5 x 76.8 cm (43 1/2 x 30 1/4 in.); Mounted: 120.9 x 87 x 3.9 cm (47 5/8 x 34 1/4 x 1 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.105,
+      "height_inch": 43,
+      "height_inch_fraction": 0.5,
+      "width": 0.768,
+      "width_inch": 30,
+      "width_inch_fraction": 0.25
+    },
+    "mounted": {
+      "height": 1.209,
+      "height_inch": 47,
+      "height_inch_fraction": 0.625,
+      "width": 0.87,
+      "width_inch": 34,
+      "width_inch_fraction": 0.25,
+      "depth": 0.039,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "inscribed below the ankh cross:  IXOYC.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 309644,
+        "title": "The Year in Review for 1982",
+        "description": "<i>The Year in Review for 1982</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 5-February 6, 1983).",
+        "opening_date": "1983-01-05T05:00:00"
+      },
+      {
+        "id": 437400,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 16, 2002-October 27, 2003).",
+        "opening_date": "2002-10-16T04:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008).",
+        "opening_date": "2007-05-10T00:00:00"
+      },
+      {
+        "id": 383026,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 23, 2012-May 2, 2013).",
+        "opening_date": "2012-05-23T04:00:00"
+      },
+      {
+        "id": 307284,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 15, 2018-May 13, 2019).",
+        "opening_date": "2018-05-15T04:00:00"
+      },
+      {
+        "id": 677565,
+        "title": "Coptic Rotation",
+        "description": "<i>Coptic Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 11, 2024-October 26, 2025).",
+        "opening_date": "2024-10-11T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Jean-Loup Despras, Paris, France, sold to the Cleveland Museum of Art).",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1982",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1982–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The two peacocks in the upper half of this composition represent immortality. Ancient Greeks and Romans believed that the body of the peacock did not decay after death and when this imagery was adopted by Christianity, the bird came to be associated with resurrection.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This rare surviving hanging with Christian symbols likely served as a wall decoration in a church or a home. The three men who stand beneath an arch may represent the three Hebrews who refused to worship a golden idol, and when cast into the fiery furnace, remained unharmed due to God’s deliverance (Daniel 3:19–30). Above them is a Christogram formed by the first two letters of Christ’s name in Greek, <em>X</em> (chi) and <em>P</em> (rho), flanked by the letters for alpha and omega. Beneath the arch, an ankh, an ancient Egyptian symbol of life, is framed by two birds. Another Christogram appears above the arch between two peacocks. The significance of the combined use of these images and symbols lies in their invocation of Christ’s redemptive and life-giving power.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60752348"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1982.73-hanging-with-christi"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman E. “Year in Review for 1982.” <em>The Bulletin of the Cleveland Museum of Art</em> 70, no. 1 (January 1983): 3–55.",
+      "page_number": "Mentioned: no. 75, p. 5; Reproduced: no. 75, p. 25",
+      "url": "https://www.jstor.org/stable/25159799"
+    },
+    {
+      "citation": "Klein, Holger A. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and Reproduced: pp. 68–69, no. 17",
+      "url": ""
+    },
+    {
+      "citation": "Williams, Elizabeth Dospěl. \"Sacred Imagery.\" In <em>Woven Interiors: Furnishing Early Medieval Egypt, </em>63–68. Washington: The George Washington University Museum and The Textile Museum, 2019.",
+      "page_number": "Mentioned and Reproduced: pp. 65–66, fig. 13",
+      "url": null
+    },
+    {
+      "citation": "Sörries, Reiner. <em>Der frühchristliche Kirchenraum: Ikonographie - Ausstattung - Liturgie</em>. Wiesbaden: Reichert Verlag, 2020.",
+      "page_number": "Mentioned: p. 128; reproduced: Tafel 54, Abb. 80b",
+      "url": ""
+    },
+    {
+      "citation": "Sánchez Galera, José María, and Gregorio Luri Medrano. <em>La edad de las nueces: los niños en el Imperio Romano</em>. Madrid: Ediciones Encuentro S.A., 2021.",
+      "page_number": "Reproduced: p. 316, fig. 41",
+      "url": ""
+    },
+    {
+      "citation": "Achi, Andrea Myers, et al. <em>Africa and Byzantium</em>. New York: The Metropolitan Museum of Art, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 200–201, fig. 75",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1982.73",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_web.jpg",
+      "width": "621",
+      "height": "893",
+      "filesize": "558924",
+      "filename": "1982.73_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_print.jpg",
+      "width": "2364",
+      "height": "3400",
+      "filesize": "8149166",
+      "filename": "1982.73_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_full.tif",
+      "width": "3477",
+      "height": "5000",
+      "filesize": "52190612",
+      "filename": "1982.73_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt0_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "1103653"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt0_print.jpg",
+        "width": "3400",
+        "height": "2267",
+        "filesize": "7219040"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt0_full.tif",
+        "width": "6144",
+        "height": "4096",
+        "filesize": "75534512"
+      },
+      "date_created": "2007-02-07T19:30:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt1_web.jpg",
+        "width": "1190",
+        "height": "893",
+        "filesize": "1093949"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt1_print.jpg",
+        "width": "3400",
+        "height": "2551",
+        "filesize": "8658311"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.73/1982.73_alt1_full.tif",
+        "width": "5128",
+        "height": "3848",
+        "filesize": "59232548"
+      },
+      "date_created": "2007-02-07T19:36:24",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 151044,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1982-07-19T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "500s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:48:15.112000"
+}

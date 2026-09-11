@@ -1,0 +1,454 @@
+{
+  "id": 150738,
+  "accession_number": "1982.16",
+  "share_license_status": "CC0",
+  "tombstone": "Silk curtain from the Alhambra palace, 1300s. Spain, Granada, Nasrid period. Lampas and taqueté: silk; overall: 438.2 x 271.8 cm (172 1/2 x 107 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1982.16",
+  "current_location": null,
+  "title": "Silk curtain from the Alhambra palace",
+  "creation_date": "1300s",
+  "creation_date_earliest": 1300,
+  "creation_date_latest": 1399,
+  "artists_tags": [],
+  "culture": [
+    "Spain, Granada, Nasrid period"
+  ],
+  "technique": "lampas and taqueté: silk",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Islamic",
+  "type": "Textile",
+  "measurements": "Overall: 438.2 x 271.8 cm (172 1/2 x 107 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 4.382,
+      "height_inch": 172,
+      "height_inch_fraction": 0.5,
+      "width": 2.718,
+      "width_inch": 107,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "the bold knotted Kufic inscription in the top and bottom borders of the side panels repeats the Arabic word \"felicity.\"  Within the arches forming a frieze in the top border is a Kufic inscription \"good fortune\" and a Naskhi inscription repeating trhe motto of the Nasrid dynasty, \"There is no conqueror but God.\"  In the borders of the three large ornamental rectangles on each side panel is the Naskhi inscription \"Dominion belongs to God alone.\"  On the central panel the inscriptions in the borders repeat the phrase, \"Majestry is God's,\" while the Nasrid motto, \"There is no conqueror but God\" and, above, \"Blessing,\" are inscribed in the arabesque ogives.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 381143,
+        "title": "Luxuriance: Silks from Islamic Lands, 1250–1900",
+        "description": "<i>Luxuriance: Silks from Islamic Lands, 1250–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 14, 2013-June 23, 2014).",
+        "opening_date": "2013-05-14T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Al-Andalus: The Art of Islamic Spain</em>. Alhambra, Granada, Spain (March 18-June 7, 1992); The Metropolitan Museum of Art, New York, NY (July 1-September 27, 1992).",
+        "opening_date": "1992-03-18T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Miguel Rodriguez-Acosta, Granada, Spain, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1982",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1982–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This is one of two of the largest, most complete, and most ornate curtains to survive from the 1300s when it presumably hung in the royal Alhambra Palace in Granada, the last Muslim stronghold in Spain. Its style, artistic vocabulary, and harmonious proportions reflect the magnificent wall decoration in the Alhambra. The motto of the ruling Nasrid dynasty, \"There is no conqueror but God,\" is inscribed in the end borders and central panel. The inscribed striped silk forming the central panel is more worn, suggesting that it was recycled, most likely during the 1300s.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79933414"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1982.16-silk-curtain-from-th"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Partearroyo, Cristina. \"Spanish-Muslem Textile,\" <em>Bulletin de Liaison du Centre international d'etude des textiles anciens</em>, no. 45, pt. 1 (1977), pp. 78–85.",
+      "page_number": "Mentioned: pp. 78–85; Reproduced: p. 79, figs. 1-2; p. 85, fig. 3",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. “Year in Review for 1982.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 70, no. 1, 1983, pp. 3–55.",
+      "page_number": "Reproduced: no. 73, p. 7; Mentioned: no. 73, p. 53",
+      "url": "www.jstor.org/stable/25159799"
+    },
+    {
+      "citation": "Wardwell, Anne E. “A Fifteenth-Century Silk Curtain from Muslim Spain.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 70, no. 2, 1983, pp. 58–72.",
+      "page_number": "Reproduced: cover, p. 60, fig. 4; Mentioned: p. 72, no. 4",
+      "url": "www.jstor.org/stable/25159802"
+    },
+    {
+      "citation": "Martin Nagy, Rebecca. <em>Textiles in Daily Life in the Middle Ages</em>. Cleveland, OH: The Cleveland Museum of Art in cooperation with Indiana University Press, 1985.",
+      "page_number": "Reproduced: fig. 26, pp. 40–41",
+      "url": ""
+    },
+    {
+      "citation": "Dodds, Jerrilynn Denise. <em>Al-Andalus: The Art of Islamic Spain</em>. New York: Metropolitan Museum of Art, 1992.",
+      "page_number": "Mentioned and Reproduced: cat. no. 99, pp. 338–339",
+      "url": ""
+    },
+    {
+      "citation": "\"1991 Annual Report.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 6 (1992): 155–231.",
+      "page_number": "Mentioned: p. 173",
+      "url": "https://www.jstor.org/stable/25161363"
+    },
+    {
+      "citation": "Jayyusi, Salma Khadra, and Manuela Marín. <em>The Legacy of Muslim Spain</em>. Leiden: E.J. Brill, 1994.",
+      "page_number": "Reproduced: fig. 14",
+      "url": ""
+    },
+    {
+      "citation": "Pérez Higuera, Teresa. <em>Objetos e imagenes de al-Andalus</em>. Madrid: Instituto de Cooperación con el Mundo Arabe, 1994.",
+      "page_number": "Reproduced: pp. 98–99",
+      "url": ""
+    },
+    {
+      "citation": "Baker, Patricia L. <em>Islamic Textiles</em>. London: British Museum Press, 1995.",
+      "page_number": "Reproduced: p. 6",
+      "url": ""
+    },
+    {
+      "citation": "Rothstein, Natalie. \"Textile: Patterns: Loom-made compound weaves, Lampas\" in <em>The Dictionary of Art</em>, vol. 30, pp. 550–554. J. S. Turner, ed. New York: Grove, 1996.",
+      "page_number": "Mentioned: pp. 550–554; Reproduced: p. 552, pl. VII, 1, p. 553",
+      "url": ""
+    },
+    {
+      "citation": "<em>Ghereh: international carpet &amp; textile review,</em> no.20 (Summer 1999).",
+      "page_number": "Comparative material reproduced: pp. 123–124",
+      "url": ""
+    },
+    {
+      "citation": "Jacobs, Michael, and Francisco Fernandez. <em>Alhambra</em>. London: Frances Lincoln, 2000.",
+      "page_number": "Mentioned and Reproduced: pp. 34–35",
+      "url": ""
+    },
+    {
+      "citation": "Alves, Adalberto. <em>A herança árabe em Portugal</em>. Lisboa: CTT Correios, 2001.",
+      "page_number": "Reproduced: p. 28",
+      "url": ""
+    },
+    {
+      "citation": "Irwin, Robert. <em>The Alhambra</em>. London: Profile, 2004.",
+      "page_number": "Reproduced: p. 120, no. 14",
+      "url": ""
+    },
+    {
+      "citation": "Mackie, Louise. \"Luxuriance.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 53, no. 4 (July/August 2013): 12–14.",
+      "page_number": "Reproduced: p. 14",
+      "url": "https://archive.org/details/CMAMM2013-04/page/n11/mode/2up"
+    },
+    {
+      "citation": "Highet, Juliet. \"Silks from Islamic Lands.\" <em>The Asian Art Newspaper: Monthly for Collectors, Dealers, Museums and Galleries</em> 17, issue 5 (March 2014): 16–18.",
+      "page_number": "p. 16",
+      "url": null
+    },
+    {
+      "citation": "Mackie, Louise W. <em>Symbols of Power: Luxury Textiles from Islamic Lands, 7th-21st Century</em>. Cleveland; New Haven: Cleveland Museum of Art; Yale University Press, 2015.",
+      "page_number": "Reproduced: pp. 166, 196, fig. 5.28; Mentioned: pp. 197–198",
+      "url": null
+    },
+    {
+      "citation": "Clarke, Sarah E. Braddock, and Ryoko Yamanaka Kondo. <em>Byzantine Silk on the Silk Roads: Journeys between East and West, Past and Present</em>. London; New York: Bloomsbury Visual Arts, 2022.",
+      "page_number": "Reproduced: p. 93, fig. 7.6",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1982.16",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_web.jpg",
+      "width": "573",
+      "height": "900",
+      "filesize": "225917",
+      "filename": "1982.16_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_print.jpg",
+      "width": "2166",
+      "height": "3400",
+      "filesize": "2861876",
+      "filename": "1982.16_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_full.tif",
+      "width": "15088",
+      "height": "23683",
+      "filesize": "1072030564",
+      "filename": "1982.16_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt0_web.jpg",
+        "width": "900",
+        "height": "693",
+        "filesize": "252519"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt0_print.jpg",
+        "width": "3400",
+        "height": "2619",
+        "filesize": "3292677"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt0_full.tif",
+        "width": "15580",
+        "height": "12000",
+        "filesize": "560909192"
+      },
+      "date_created": "2013-09-30T12:29:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt1_web.jpg",
+        "width": "900",
+        "height": "722",
+        "filesize": "270463"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt1_print.jpg",
+        "width": "3400",
+        "height": "2726",
+        "filesize": "3827717"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt1_full.tif",
+        "width": "14968",
+        "height": "12000",
+        "filesize": "538876852"
+      },
+      "date_created": "2013-09-30T12:40:35",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt2_web.jpg",
+        "width": "900",
+        "height": "739",
+        "filesize": "275641"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt2_print.jpg",
+        "width": "3400",
+        "height": "2791",
+        "filesize": "3482530"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt2_full.tif",
+        "width": "14620",
+        "height": "12000",
+        "filesize": "526349668"
+      },
+      "date_created": "2013-09-30T12:50:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt3_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "271683"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt3_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "3806304"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt3_full.tif",
+        "width": "16000",
+        "height": "12000",
+        "filesize": "576023604"
+      },
+      "date_created": "2013-09-30T13:50:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt4_web.jpg",
+        "width": "900",
+        "height": "690",
+        "filesize": "298495"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt4_print.jpg",
+        "width": "3400",
+        "height": "2607",
+        "filesize": "3865146"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt4_full.tif",
+        "width": "15652",
+        "height": "12000",
+        "filesize": "563496768"
+      },
+      "date_created": "2013-09-30T14:00:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt5_web.jpg",
+        "width": "900",
+        "height": "728",
+        "filesize": "324346"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt5_print.jpg",
+        "width": "3400",
+        "height": "2750",
+        "filesize": "4965129"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt5_full.tif",
+        "width": "14837",
+        "height": "12000",
+        "filesize": "534155776"
+      },
+      "date_created": "2013-09-30T14:12:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt6_web.jpg",
+        "width": "900",
+        "height": "665",
+        "filesize": "350851"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt6_print.jpg",
+        "width": "3400",
+        "height": "2513",
+        "filesize": "4687134"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt6_full.tif",
+        "width": "14420",
+        "height": "10656",
+        "filesize": "461002256"
+      },
+      "date_created": "2013-09-30T14:20:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt7_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "356893"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt7_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5057275"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt7_full.tif",
+        "width": "12000",
+        "height": "16000",
+        "filesize": "576023684"
+      },
+      "date_created": "2013-09-30T14:32:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt8_web.jpg",
+        "width": "563",
+        "height": "893",
+        "filesize": "488886"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt8_print.jpg",
+        "width": "2143",
+        "height": "3400",
+        "filesize": "6762035"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt8_full.tif",
+        "width": "3151",
+        "height": "5000",
+        "filesize": "47295476"
+      },
+      "date_created": "2005-10-28T15:05:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt9_web.jpg",
+        "width": "567",
+        "height": "900",
+        "filesize": "256661"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt9_print.jpg",
+        "width": "2143",
+        "height": "3400",
+        "filesize": "2878200"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1982.16/1982.16_alt9_full.tif",
+        "width": "3151",
+        "height": "5000",
+        "filesize": "47302508"
+      },
+      "date_created": "2005-10-28T15:05:17",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 150738,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1982-03-08T00:00:00",
+  "sortable_date": 1300,
+  "date_added_to_oa": null,
+  "date_text": "1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Curtain (left side)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:20:32.478000"
+}

@@ -1,4 +1,4 @@
-import sources from '../public/sources.json';
+import {getCatalogDb, allCatalogPhotos} from '../db/catalog.mjs';
 import { getCommunityDb } from '../db/community.mjs';
 import { cleanJPEG } from './jpeg.mjs';
 
@@ -116,11 +116,10 @@ async function contribute(request, env, db, url) {
   return json({photo, removal_key: removalKey, removal_note: 'Keep this key private. It removes this site’s copy; copies already downloaded and their CC BY 4.0 rights are unaffected.'}, 201);
 }
 
-function fullDataset(db, url) {
+function fullDataset(db, url, curated, revision) {
   const encoder = new TextEncoder();
   async function* records() {
-    const curated = sources.map(source => ({...source, image_url: `${url.origin}/${source.original_file}`, thumbnail_url: `${url.origin}/thumbnails/${source.id}.jpg`}));
-    const metadata = {name: 'Color Study open photo collection', version: 1, generated_at: new Date().toISOString(), repository: 'https://github.com/kristencline-arch/color-study', license_note: 'Community photographs and descriptions are CC BY 4.0. Curated sources retain their individual licenses. Preserve credit, license links and notices of changes.', curated};
+    const metadata = {name: 'Color Study open photo collection', version: 2, catalog_revision: revision, curated_metadata_license: 'CC0', generated_at: new Date().toISOString(), repository: 'https://github.com/kristencline-arch/color-study', license_note: 'Community photographs and descriptions are CC BY 4.0. Curated sources retain their individual image licenses. Preserve credit, license links and notices of changes.', curated};
     yield JSON.stringify(metadata).slice(0, -1) + ',"contributions":[';
     let cursor = null, total = 0;
     do {
@@ -140,7 +139,7 @@ function fullDataset(db, url) {
     },
     async cancel() {await iterator.return();},
   });
-  return new Response(body, {headers: {'Content-Type': 'application/json; charset=utf-8', 'Content-Disposition': 'attachment; filename="color-study-dataset.json"', 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff'}});
+  return new Response(body, {headers: {'Content-Type': 'application/json; charset=utf-8', 'Content-Disposition': 'attachment; filename="color-study-dataset.json"', 'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff', 'Access-Control-Allow-Origin': '*'}});
 }
 
 export async function handleCommunity(request, env) {
@@ -150,10 +149,12 @@ export async function handleCommunity(request, env) {
     const db = await getCommunityDb(env);
     if (url.pathname === '/api/community' && request.method === 'GET') return json(await list(db, url));
     if (url.pathname === '/api/dataset' && request.method === 'GET') {
-      if (url.searchParams.get('download') === 'all') return fullDataset(db, url);
+      const catalog = await getCatalogDb(env);
+      const curated = cursorFirstPage(url) || url.searchParams.get('download') === 'all' ? await allCatalogPhotos(catalog, url.origin) : [];
+      if (url.searchParams.get('download') === 'all') return fullDataset(db, url, curated, catalog.revision);
       const page = await list(db, url);
       const next = page.next_cursor ? `${url.origin}/api/dataset?cursor=${encodeURIComponent(page.next_cursor)}` : null;
-      return json({name: 'Color Study open photo collection', version: 1, generated_at: new Date().toISOString(), repository: 'https://github.com/kristencline-arch/color-study', license_note: 'Preserve each photograph’s attribution and individual license. Community photographs and descriptions are CC BY 4.0; curated sources retain their listed licenses.', curated: cursorFirstPage(url) ? sources.map(source => ({...source, image_url: `${url.origin}/${source.original_file}`, thumbnail_url: `${url.origin}/thumbnails/${source.id}.jpg`})) : [], contributions: page.photos, total_contributions: page.total, next}, 200, {'Content-Disposition': 'attachment; filename="color-study-dataset.json"'});
+      return json({name: 'Color Study open photo collection', version: 2, catalog_revision: catalog.revision, curated_metadata_license: 'CC0', generated_at: new Date().toISOString(), repository: 'https://github.com/kristencline-arch/color-study', license_note: 'Preserve each photograph’s attribution and individual license. Community photographs and descriptions are CC BY 4.0; curated sources retain their listed image licenses.', curated, contributions: page.photos, total_contributions: page.total, next}, 200, {'Content-Disposition': 'attachment; filename="color-study-dataset.json"'});
     }
     if (url.pathname === '/api/community' && request.method === 'POST') return await contribute(request, env, db, url);
     if (url.pathname === '/api/community/remove' && request.method === 'POST') {

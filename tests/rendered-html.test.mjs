@@ -10,14 +10,17 @@ test('production worker renders the photographic showcase, public links and shar
   const {default: worker} = await import('../dist/server/index.js');
   const response = await worker.fetch(new Request('https://color-study.example/', {headers: {accept: 'text/html', host: 'color-study.example'}}), {ASSETS: {fetch: async () => new Response('Not found', {status: 404})}}, {waitUntil() {}, passThroughOnException() {}});
   assert.equal(response.status, 200);
-  const html = await response.text();
-  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/cueva-hands-original.webp', '/showcase/cueva-hands-enhanced.webp', '/api/dataset', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
+  const html = (await response.text()).replace(/<!--.*?-->/g, "");
+  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'Explore the collection', '29 textiles', 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/cma-294034-original.webp', '/showcase/cma-294034-enhanced.webp', '/api/dataset', '/api/catalog', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
   assert.doesNotMatch(html, /Your site is taking shape|Starter Project|codex-preview|react-loading-skeleton/);
 });
 
 test('showcase comparisons retain source hashes, the fitted transform and packaged previews', async () => {
   const records = JSON.parse(await readFile(new URL('../public/showcase.json', import.meta.url)));
-  assert.equal(records.length, sources.filter(source => source.study_type === 'paint').length);
+  assert.ok(records.length >= 9, 'preserve the original nine showcase comparisons');
+  assert.equal(new Set(records.map(record => record.id)).size, records.length);
+  for (const source of sources.filter(item => item.study_type === 'paint' && !item.source_api)) assert.ok(records.some(record => record.id === source.id), source.id);
+  assert.ok(records.some(record => record.id === 'cma-294034'), 'painted textile comparison');
   for (const record of records) {
     assert.equal(record.source_sha256, sources.find(source => source.id === record.id).sha256);
     assert.equal(record.settings.targetStd, record.fit.target_std_in_8bit_units);

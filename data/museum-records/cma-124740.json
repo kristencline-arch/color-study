@@ -1,0 +1,288 @@
+{
+  "id": 124740,
+  "accession_number": "1946.227",
+  "share_license_status": "CC0",
+  "tombstone": "Tunic, c. 300 BCE–200 CE. Peru, South Coast, Paracas (Cavernas) style. Alpaca wool: plain weave with embroidery and warp substitution; overall: 94 x 83.8 cm (37 x 33 in.); mounted: 111.8 x 101.6 cm (44 x 40 in.). The Cleveland Museum of Art, The Norweb Collection, 1946.227",
+  "current_location": "232 Andean",
+  "title": "Tunic",
+  "creation_date": "c. 300 BCE–200 CE",
+  "creation_date_earliest": -300,
+  "creation_date_latest": 200,
+  "artists_tags": [],
+  "culture": [
+    "Peru, South Coast, Paracas (Cavernas) style"
+  ],
+  "technique": "Alpaca wool: plain weave with embroidery and warp substitution",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Pre-Columbian",
+  "type": "Textile",
+  "measurements": "Overall: 94 x 83.8 cm (37 x 33 in.); Mounted: 111.8 x 101.6 cm (44 x 40 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.94,
+      "height_inch": 37,
+      "height_inch_fraction": 0.0,
+      "width": 0.838,
+      "width_inch": 33,
+      "width_inch_fraction": 0.0
+    },
+    "mounted": {
+      "height": 1.118,
+      "height_inch": 44,
+      "height_inch_fraction": 0.0,
+      "width": 1.016,
+      "width_inch": 40,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312131,
+        "title": "Art of the Americas",
+        "description": "<i>Art of the Americas</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 9, 1945-January 6, 1946).",
+        "opening_date": "1945-11-09T05:00:00"
+      },
+      {
+        "id": 300804,
+        "title": "Treasures of Peruvian Gold",
+        "description": "<i>Treasures of Peruvian Gold</i>. The Cleveland Museum of Art, Cleveland, OH (February 23-April 3, 1966).",
+        "opening_date": "1966-02-23T05:00:00"
+      },
+      {
+        "id": 207382,
+        "title": "The Andean Tunic: 200 BCE - 1650 CE",
+        "description": "<i>The Andean Tunic: 200 BCE - 1650 CE</i>. The Metropolitan Museum of Art, New York, NY (organizer) (March 8-October 16, 2011).",
+        "opening_date": "2011-03-08T00:00:00"
+      },
+      {
+        "id": 348348,
+        "title": "Gallery 232- Andean Textile Rotation",
+        "description": "<i>Gallery 232- Andean Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 20, 2013-August 25, 2014).",
+        "opening_date": "2013-03-20T04:00:00"
+      },
+      {
+        "id": 343661,
+        "title": "Gallery 232-Andean Textile Rotation",
+        "description": "<i>Gallery 232-Andean Textile Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 28, 2019-November 9, 2020).",
+        "opening_date": "2019-08-28T04:00:00"
+      },
+      {
+        "id": 694693,
+        "title": "Ancient Andean Textiles",
+        "description": "<i>Ancient Andean Textiles</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 2025-December 13, 2026).",
+        "opening_date": "2025-12-19T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Ancient Peruvian Textiles.</em> The Cleveland Museum of Art, Cleveland, OH (March 5, 1941-April 6, 1941).",
+        "opening_date": "1941-03-05T00:00:00"
+      },
+      {
+        "description": "<em>Ancient Arts of the Andes.</em> The Museum of Modern Art, New York, NY (January 26, 1954-March 26, 1954).",
+        "opening_date": "1954-01-26T00:00:00"
+      },
+      {
+        "description": "<em>Treasures of Peruvian Gold.</em> The Cleveland Museum of Art, Cleveland, OH (February 23-April 3, 1966).",
+        "opening_date": "1966-02-23T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Emery May Holden Norweb [1895-1984] and Raymond Henry Norweb [1894-1983], Cleveland OH, 1946, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1946",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": [],
+      "date": "1946",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Fine textiles were one of the most prestigious commodities in the ancient Andes.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Brightly dyed wool yarns found in many ancient Peruvian textiles come mainly from alpacas that were domesticated and selectively bred to produce long, soft, lustrous fiber. The finely spun yarns in a broad range of colors as seen on this tunic—well preserved after approximately 2,000 years of burial—attest to the Paracas people’s considerable artistry. A double-headed bird motif appears multiple times throughout the tunic’s design.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60778853"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1946.227-tunic"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 341",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n66"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n321"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n321"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 401",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n421"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 8",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n23"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 332; Reproduced: P. 320-321",
+      "url": ""
+    },
+    {
+      "citation": "“A Walking Tour: The entire new museum wing by wing, with curators calling out a few favorite works in the collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 1 (January/February 2014): 8-33.",
+      "page_number": "Reproduced and Mentioned: p. 26",
+      "url": "https://archive.org/details/CMAMM2014-01/page/n25/mode/2up"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+      "page_number": "Mentioned and Reproduced: P. 28",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1946.227",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_web.jpg",
+      "width": "753",
+      "height": "893",
+      "filesize": "640095",
+      "filename": "1946.227_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_print.jpg",
+      "width": "2868",
+      "height": "3400",
+      "filesize": "9976067",
+      "filename": "1946.227_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_full.tif",
+      "width": "4924",
+      "height": "5836",
+      "filesize": "86246084",
+      "filename": "1946.227_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt0_web.jpg",
+        "width": "1233",
+        "height": "893",
+        "filesize": "1126257"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt0_print.jpg",
+        "width": "3400",
+        "height": "2462",
+        "filesize": "9508279"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt0_full.tif",
+        "width": "6627",
+        "height": "4800",
+        "filesize": "95461596"
+      },
+      "date_created": "2010-12-29T19:47:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt1_web.jpg",
+        "width": "668",
+        "height": "893",
+        "filesize": "651158"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt1_print.jpg",
+        "width": "2545",
+        "height": "3400",
+        "filesize": "10608103"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt1_full.tif",
+        "width": "4992",
+        "height": "6668",
+        "filesize": "99891476"
+      },
+      "date_created": "2010-12-29T20:03:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt2_web.jpg",
+        "width": "780",
+        "height": "900",
+        "filesize": "467100"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt2_print.jpg",
+        "width": "1536",
+        "height": "1771",
+        "filesize": "2636659"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.227/1946.227_alt2_full.tif",
+        "width": "1536",
+        "height": "1771",
+        "filesize": "8163788"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Norweb Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "Jon A. Lindseth and Virginia M. Lindseth, PhD, Galleries of the Ancient Americas",
+  "athena_id": 124740,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1946-07-25T00:00:00",
+  "sortable_date": -300,
+  "date_added_to_oa": null,
+  "date_text": "c. 300 BCE–200 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Fringed Poncho"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-27 11:29:13.584000"
+}

@@ -1,0 +1,298 @@
+{
+  "id": 161684,
+  "accession_number": "2000.5",
+  "share_license_status": "CC0",
+  "tombstone": "Curtain Panel with Scenes of Merrymaking, 500s. Egypt, Byzantine period. Linen, undyed; wool: dyed; tapestry weave with supplementary weft wrapping; overall: 144.2 x 57.1 cm (56 3/4 x 22 1/2 in.); mounted: 153.7 x 66 x 3.2 cm (60 1/2 x 26 x 1 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund and Gift of the Textile Art Alliance in memory of Robert P. Bergman, 2000.5",
+  "current_location": null,
+  "title": "Curtain Panel with Scenes of Merrymaking",
+  "creation_date": "500s",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 599,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "Linen, undyed; wool: dyed; tapestry weave with supplementary weft wrapping",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 144.2 x 57.1 cm (56 3/4 x 22 1/2 in.); Mounted: 153.7 x 66 x 3.2 cm (60 1/2 x 26 x 1 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.442,
+      "height_inch": 56,
+      "height_inch_fraction": 0.75,
+      "width": 0.571,
+      "width_inch": 22,
+      "width_inch_fraction": 0.5
+    },
+    "mounted": {
+      "height": 1.537,
+      "height_inch": 60,
+      "height_inch_fraction": 0.5,
+      "width": 0.66,
+      "width_inch": 26,
+      "width_inch_fraction": 0.0,
+      "depth": 0.032,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 437387,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 12, 2000-October 25, 2001).",
+        "opening_date": "2000-09-12T04:00:00"
+      },
+      {
+        "id": 383006,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 4, 2011-May 21, 2012).",
+        "opening_date": "2011-04-04T04:00:00"
+      },
+      {
+        "id": 282101,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 12, 2016-May 22, 2017).",
+        "opening_date": "2016-04-12T04:00:00"
+      },
+      {
+        "id": 447668,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art (organizer) (November 18, 2021-November 13, 2022).",
+        "opening_date": "2021-11-18T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Gallery 210 textile rotation. The Cleveland Museum of Art, Cleveland, OH (September 11, 2000-October 21, 2001).",
+        "opening_date": "2000-09-11T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The textile industry drove the Egyptian economy, dominated by the flax plant from which linen is derived.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This large panel conveys merrymaking, wealth, and power through its symbolic imagery and deep purple color. It was originally part of a luxurious wide curtain with similar panels alternating with plain linen panels. Although woven in Christian Egypt, the panel is dominated by pagan subjects. A nude male stands beside a dancing female in transparent clothing in each of the three squares, alternating with centaurs (half-man, half-horse creatures) in roundels. In the central square, Dionysus, the god of wine, holds a grapevine and a weary Hercules leans on his club below. The lively animal imagery conveys wealth because few could afford animals such as lions, bulls, and hares.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79984721"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2000.5-curtain-panel-with-s"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, “Recent Acquisitions Press Release,” March 17, 2000, Cleveland Museum of Art Archives.",
+      "page_number": "Mentioned: p. 2",
+      "url": "https://archive.org/details/cmapr4321"
+    },
+    {
+      "citation": "Mackie, Louise W. \"A Coptic Curtain.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 40, no. 10 (December 2000): 4-5.",
+      "page_number": "Mentioned and reproduced: p. 4-5",
+      "url": "https://archive.org/details/CMAMM2000-10/page/n3/mode/2up"
+    },
+    {
+      "citation": "Gertsman, Elina and Barbara H. Rosenwein. <em>The Middle Ages in 50 Objects</em>. Cambridge: Cambridge University Press, 2018.",
+      "page_number": "Mentioned: p. 60-63; Reproduced: p. 61",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2000.5",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_web.jpg",
+      "width": "376",
+      "height": "893",
+      "filesize": "287393",
+      "filename": "2000.5_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_print.jpg",
+      "width": "1431",
+      "height": "3400",
+      "filesize": "3670285",
+      "filename": "2000.5_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_full.tif",
+      "width": "2566",
+      "height": "6096",
+      "filesize": "46957784",
+      "filename": "2000.5_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt0_web.jpg",
+        "width": "1022",
+        "height": "893",
+        "filesize": "804575"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt0_print.jpg",
+        "width": "3400",
+        "height": "2970",
+        "filesize": "8314562"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt0_full.tif",
+        "width": "4582",
+        "height": "4003",
+        "filesize": "55058752"
+      },
+      "date_created": "2005-12-06T18:25:51",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt1_web.jpg",
+        "width": "1003",
+        "height": "893",
+        "filesize": "811668"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt1_print.jpg",
+        "width": "3400",
+        "height": "3026",
+        "filesize": "8509223"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt1_full.tif",
+        "width": "4602",
+        "height": "4096",
+        "filesize": "56584008"
+      },
+      "date_created": "2005-12-06T18:33:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt2_web.jpg",
+        "width": "1030",
+        "height": "893",
+        "filesize": "834154"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt2_print.jpg",
+        "width": "3400",
+        "height": "2949",
+        "filesize": "8250450"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt2_full.tif",
+        "width": "4722",
+        "height": "4096",
+        "filesize": "58058640"
+      },
+      "date_created": "2005-12-06T18:38:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt3_web.jpg",
+        "width": "900",
+        "height": "750",
+        "filesize": "446895"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt3_print.jpg",
+        "width": "3400",
+        "height": "2834",
+        "filesize": "4390567"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt3_full.tif",
+        "width": "4914",
+        "height": "4096",
+        "filesize": "60412680"
+      },
+      "date_created": "2005-12-06T18:44:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt4_web.jpg",
+        "width": "1029",
+        "height": "893",
+        "filesize": "837004"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt4_print.jpg",
+        "width": "3400",
+        "height": "2952",
+        "filesize": "8603354"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt4_full.tif",
+        "width": "4650",
+        "height": "4037",
+        "filesize": "56349576"
+      },
+      "date_created": "2005-12-06T19:20:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt5_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "501207"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt5_print.jpg",
+        "width": "2267",
+        "height": "3400",
+        "filesize": "6797951"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.5/2000.5_alt5_full.tif",
+        "width": "4096",
+        "height": "6144",
+        "filesize": "75530932"
+      },
+      "date_created": "2005-12-06T19:26:18",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund and Gift of the Textile Art Alliance in memory of Robert P. Bergman",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 161684,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2000-03-15T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "500s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Panel with Scenes of Revelry and Abundance from a Large Curtain"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:24:19.165000"
+}

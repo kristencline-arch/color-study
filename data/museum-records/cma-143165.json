@@ -1,0 +1,873 @@
+{
+  "id": 143165,
+  "accession_number": "1967.144",
+  "share_license_status": "CC0",
+  "tombstone": "Icon of the Virgin and Child, 500s CE. Egypt, Byzantine period. Wool and dye; overall: 178.7 x 110.5 cm (70 3/8 x 43 1/2 in.); mounted: 197.4 x 128.2 x 6.4 cm (77 11/16 x 50 1/2 x 2 1/2 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1967.144",
+  "current_location": "106A Migration Period & Coptic",
+  "title": "Icon of the Virgin and Child",
+  "creation_date": "500s CE",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 599,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "wool and dye",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 178.7 x 110.5 cm (70 3/8 x 43 1/2 in.); Mounted: 197.4 x 128.2 x 6.4 cm (77 11/16 x 50 1/2 x 2 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.787,
+      "height_inch": 70,
+      "height_inch_fraction": 0.375,
+      "width": 1.105,
+      "width_inch": 43,
+      "width_inch_fraction": 0.5
+    },
+    "mounted": {
+      "height": 1.974,
+      "height_inch": 77,
+      "height_inch_fraction": 0.6875,
+      "width": 1.282,
+      "width_inch": 50,
+      "width_inch_fraction": 0.5,
+      "depth": 0.064,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "on the lintel of the architectural setting, the Greek inscription translates as: The Holy Michael, The Holy Mary, The Holy Gabriel.  The wide foliate border is decorated with fruits and flowers and, in the lower part, with medallions containing the busts of apostles whose names are inscribed nearby in Greek and are translated as: Andrew, Matthew, Paul the Apostle, Luke, James, Phillip, Mark, Thomas, John, Matthias, Peter, and Bartholomew.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301285,
+        "title": "Year in Review for 1968",
+        "description": "<i>Year in Review for 1968</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 29-March 9, 1969).",
+        "opening_date": "1969-01-29T05:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008).",
+        "opening_date": "2007-05-10T00:00:00"
+      },
+      {
+        "id": 297011,
+        "title": "Woven Interiors: Early Medieval Textiles of the Eastern Mediterranean",
+        "description": "<i>Woven Interiors: Early Medieval Textiles of the Eastern Mediterranean</i>. The George Washington University Museum and The Textile Museum, Washington, DC (organizer) (August 31, 2019-January 5, 2020).",
+        "opening_date": "2019-08-31T04:00:00"
+      },
+      {
+        "id": 521317,
+        "title": "Africa & Byzantium",
+        "description": "<i>Africa & Byzantium</i>. The Metropolitan Museum of Art, New York, NY (organizer) (November 14, 2023-March 3, 2024); The Cleveland Museum of Art, Cleveland, OH (co-organizer) (April 14-July 21, 2024).",
+        "opening_date": "2023-11-13T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>The Age of Spirituality</em>. Metropolitan Museum of Art, New York, NY (November 19, 1977- February, 12, 1978).",
+        "opening_date": "1977-11-19T00:00:00"
+      },
+      {
+        "description": "<em>Gallery 210 textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (January 6, 2000-July 12, 2000); (September 5, 2000-February 12, 2001); (August 8, 2001-February 4, 2002); (August 5, 2002-February 3, 2003); (August 4, 2003-February 3, 2004); (August 5, 2004-July 18, 2005).",
+        "opening_date": "2000-01-06T00:00:00"
+      },
+      {
+        "description": "<em>Gallery 106 textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (March 31-September 13, 2010); (April 1-September 14, 2011); (March 26, 2012-March 18, 2013); (September 23, 2013-March 17, 2014); (September 22, 2014-March 2, 2015); (September 8, 2015-May 1, 2016); (October 30, 2017-April 30, 2018); (October 29, 2018-April 29, 2019).",
+        "opening_date": "2010-03-31T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Mrs. Paul Mallon, New York, NY, sold to the Cleveland Museum of Art).",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–1967",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1967–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Created in Egypt's hot and dry desert climate, this tapestry features a border of lush greenery and fruits, while flowers peek out from around the throne of the Virgin. Imagine encountering this artistic oasis in a Coptic church during the dry heat of the day.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Woven from more than 20 colors of woolen thread, this rare tapestry was more expensive than a painting when it was made. The historical price reflected contemporary viewers’ appreciation for the skilled color blending by the weavers. Hung on a wall, this tapestry allowed viewers to venerate (honor) the Virgin Mary and the Christ Child in the Christian Orthodox church. Angels and apostles surround them, their names written in Greek. To be spiritually effective, an icon (devotional image) should follow its subject’s established visual tradition as closely as possible.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60745622"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1967.144-icon-of-the-virgin-a"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Schiller, Gertrud.<em> Ikonographie der Christlichen Kunst.</em> [Gütersloh]: Gütersloher Verlagshaus G. Mohn, 1966.",
+      "page_number": "Mentioned: Vol. 4, Pt. 2, P. 21, abb. 413: Reproduced: Vol. 4, Pt. 2, P. 267, abb. 413",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 37",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n59"
+    },
+    {
+      "citation": "Shepherd, Dorothy G. \"An Icon of the Virgin.\" <em>The Bulletin of the Cleveland Museum of Art</em> 56, no. 1 (1969)",
+      "page_number": "p. 2, cover",
+      "url": "https://www.jstor.org/stable/25152249"
+    },
+    {
+      "citation": "Shepherd, Dorothy G. “An Icon of the Virgin: A Sixth-Century Tapestry Panel from Egypt.” <em>The Bulletin of the Cleveland Museum of Art</em> 56, no. 3 (March 1969): 91–120.",
+      "page_number": "Mentioned: pp. 90–120; Reproduced: covers",
+      "url": "https://www.jstor.org/stable/25152263"
+    },
+    {
+      "citation": "Frazer, Margaret English. \"The Djumati Enamels: A Twelfth-Century Litany of Saints.\" <em>The Metropolitan Museum of Art Bulletin</em> 28, no. 6 (1970).",
+      "page_number": "Reproduced: fig. 4",
+      "url": "https://www.jstor.org/stable/3258501"
+    },
+    {
+      "citation": "Rademacher, Franz. <em>Die Regina Angelorum in der Kunst des frühen Mittelalters. </em>Düsseldorf: Schwann, 1972.",
+      "page_number": "p. 29, nr. 15",
+      "url": null
+    },
+    {
+      "citation": "Fine Arts Museums of San Francisco, and Anna G. Bennett. <em>Acts of the Tapestry Symposium, November, 1976</em>. [San Francisco]: The Museums, 1979.",
+      "page_number": "Reproduced: p. 7, fig. 7",
+      "url": null
+    },
+    {
+      "citation": "Shepherd, Dorothy G. “A Late Classical Tapestry.” <em>The Bulletin of the Cleveland Museum of Art</em> 63, no. 10 (December 1976): 307–313.",
+      "page_number": "Reproduced: p. 311, fig. 10",
+      "url": "https://www.jstor.org/stable/25152664"
+    },
+    {
+      "citation": "Weitzmann, Kurt, and Margaret English Frazer. <em>Age of Spirituality: Late Antique and Early Christian Art Third to Seventh Century</em> ; Based on the Catalogue to the Exhibition \"Age of Spirituality\", Metropolitan Museum New York, 1977. [New York, NY]: Metropolitan Museum of Art, 1977.",
+      "page_number": "p. 532-33, no. 477",
+      "url": "https://books.google.com/books?id=efLuB7QPDm8C&printsec=frontcover#v=onepage&q&f=false"
+    },
+    {
+      "citation": "Sampaolesi, Piero, \"Zibaldone delle Arti, Mostri: 'Age of Spirituality,' New York Metropolitan Museum of Art, Antichita Viva, XVI, 5 (1977).",
+      "page_number": "p. 64",
+      "url": null
+    },
+    {
+      "citation": "Weitzmann, Kurt. \"Late Antique and Early Christian Art.\" <em>Archaeology</em> 30, no. 6 (1977)",
+      "page_number": "p. 417",
+      "url": "https://www.jstor.org/stable/41726769"
+    },
+    {
+      "citation": "Weitzmann, Kurt. \"The Late Roman World.\" <em>The Metropolitan Museum of Art Bulletin</em> 35, no. 2 (1977) pp. 2–96.",
+      "page_number": "Mentioned: no, 69, p. 81, Reproduced: p. 80",
+      "url": "https://www.jstor.org/stable/3259887"
+    },
+    {
+      "citation": "Frazer, Margaret English and Kurt Weitzmann. <em>Age of Spirituality: Late Antique and Early Christian Art Third to Seventh Century.</em> New York: Metropolitan Museum of Art, 1977.",
+      "page_number": "p. 80, no. 69",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 36",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n56"
+    },
+    {
+      "citation": "Weitzmann, Kurt. <em>The Icon: Holy Images--Sixth to Fourteenth Century</em>. New York: G. Braziller, 1978.",
+      "page_number": "Reproduced: pl. 4",
+      "url": null
+    },
+    {
+      "citation": "Ball, Victoria Kloss. <em>Architecture and Interior Design</em>. New York: Wiley, 1980.",
+      "page_number": "Reproduced: pl. 9",
+      "url": null
+    },
+    {
+      "citation": "Schiller, Gertrud, and Rupert Schreiner.<em> Ikonographie der christlichen Kunst</em>. Gütersloh: G. Mohn, 1980.",
+      "page_number": "Reproduced: p. 21, fig. 413",
+      "url": null
+    },
+    {
+      "citation": "Kajitani, Nobuko, \"Koputo gire\" (English title: \"Coptic fabrics\"), <em>Semshoku</em> no bi, no. 13 (Kyoto, 1981).",
+      "page_number": "Reproduced: p. 34, pl. 44",
+      "url": null
+    },
+    {
+      "citation": "Galavaris, George. <em>The Icon in the Life of the Church: Doctrine, Liturgy, Devotion.</em> Leiden: Brill, 1981.",
+      "page_number": "Mentioned: pp. 13, 26; Reproduced: pl. VIIb",
+      "url": ""
+    },
+    {
+      "citation": "McGinn, Bernard, John Meyendorff, and Jean Leclercq.<em> Christian Spirituality: Origins to the Twelfth Century</em>. New York: Crossroad, 2000.",
+      "page_number": "Reproduced: fig. 31, p. 437",
+      "url": null
+    },
+    {
+      "citation": "Thomas, Michel, Christine Mainguy, and Sophie Pommier. <em>Textile Art</em>. Geneva, Switzerland: Skira, 1985.",
+      "page_number": "p. 35",
+      "url": null
+    },
+    {
+      "citation": "Friedman, Florence D. <em>Beyond the Pharaohs: Egypt and the Copts in the 2nd to 7th Centuries A.D</em>. Providence, R.I.: Museum of Art, Rhode Island School of Design, 1989.",
+      "page_number": "Reproduced: p. 69, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Woolley, Linda. \"Pagan Classical Christian: Egyptian Hangings of the 4th to 7th Centuries,\" <em>Hali</em>, No. 48 (Dec. 1989), pp. 27–37.",
+      "page_number": "",
+      "url": null
+    },
+    {
+      "citation": "Pelikan, Jaroslav. <em>Imago Dei</em>. New Haven, CT: Yale University Press, 1990.",
+      "page_number": "Reproduced: p. 18, fig. 8, cover",
+      "url": null
+    },
+    {
+      "citation": "Rutschowscaya, Marie-Hélène. <em>Coptic Fabrics</em>. Paris, France: Adam Biro, 1990.",
+      "page_number": "p. 135",
+      "url": null
+    },
+    {
+      "citation": "Reader's Digest, \"The Bible Through the Ages,\" <em>Reader's Digest </em>(Pleasantville, NY, 199?).",
+      "page_number": "p. 237",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Masterpieces from East and West. </em>New York, NY: Rizzoli International, 1992.",
+      "page_number": "p. 23",
+      "url": null
+    },
+    {
+      "citation": "Metropolitan Museum of Art (New York, N.Y.), and Adolph S. Cavallo. <em>Medieval Tapestries in the Metropolitan Museum of Art. </em>New York: Metropolitan Museum of Art, 1993.",
+      "page_number": "Reproduced: p. 62, fig. 77",
+      "url": null
+    },
+    {
+      "citation": "Lucidi, Maria Teresa. <em>La seta e la sua via</em>. Roma: Edizioni De Luca, 1994.",
+      "page_number": "Reproduced: p. 125, fig. 1",
+      "url": null
+    },
+    {
+      "citation": "Joubert, Fabienne, Amaury Lefébure, and Pascal-François Bertrand. <em>Histoire de la tapisserie: en Europe, du Moyen Age à nos jours. </em>Paris: Flammarion, 1995.",
+      "page_number": "p. 28",
+      "url": null
+    },
+    {
+      "citation": "Pelikan, Jaroslav. <em>Mary Through the Centuries: Her Place in the History of Culture.</em> New Haven: Yale University Press, 1996.",
+      "page_number": "p. 98",
+      "url": null
+    },
+    {
+      "citation": "Winner, Matthias, Victoria von Flemming, Sebastian Schütze, and Hans Werner Henze. <em>Ars naturam adiuvans: Festschrift für Matthias Winner zum 11. Marz 1996. </em>Mainz am Rhein: P. von Zabern, 1996.",
+      "page_number": "Mentioned and Reproduced: pp. 79–80, abb. 5",
+      "url": ""
+    },
+    {
+      "citation": "Vasilakē, Maria. <em>Mother of God: Representations of the Virgin in Byzantine Art</em>. Milano: Skira, 2000.",
+      "page_number": "Reproduced: p. 224, fig. 170",
+      "url": null
+    },
+    {
+      "citation": "Orsini, Jacqueline.<em> Mary: Images of the Holy Mother. </em>San Francisco: Chronicle Books, 2000.",
+      "page_number": "pp. 80–81, no. 60",
+      "url": null
+    },
+    {
+      "citation": "Lee, A. D.<em> Pagans and Christians in Late Antiquity: A Sourcebook. </em>London: Routledge, 2000.",
+      "page_number": "Reproduced: p. 259, fig. 14.12.a",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "Mentioned and Reproduced: p. 116",
+      "url": null
+    },
+    {
+      "citation": "Rosenwein, Barbara H.<em> A Short History of the Middle Ages. </em>Peterborough, Ont: Broadview Press, 2002.",
+      "page_number": "pp. 7, 102",
+      "url": null
+    },
+    {
+      "citation": "Bolman, Elizabeth S., and Patrick Godeau. <em>Monastic Visions: Wall Paintings in the Monastery of St. Antony at the Red Sea.</em> New Haven, CT: American Research Center in Egypt/Yale University Press, 2002.",
+      "page_number": "Reproduced: p. 33, fig. 3.5",
+      "url": null
+    },
+    {
+      "citation": "Rosenwein, Barbara H. <em>A Short History of the Middle Ages. </em>Peterborough, Ont: Broadview Press, 2004.",
+      "page_number": "Reproduced: p. 53, pl. 1.10",
+      "url": null
+    },
+    {
+      "citation": "Mathews, Thomas F. and Norman Muller. Isis and Mary in Early Icons.\" In <em>Images of the Mother of God: Perceptions of the Theotokos in Byzantium.</em> Maria Vasilakē, 1-9. Aldershot: Ashgate, 2005.",
+      "page_number": "Mention: p. 8, note # 24",
+      "url": null
+    },
+    {
+      "citation": "Jensen, Robin Margaret.<em> Face to Face: Portraits of the Divine in Early Christianity</em>. Minneapolis: Fortress Press, 2005.",
+      "page_number": "Reproduced: p. 195, fig. 102",
+      "url": null
+    },
+    {
+      "citation": "Queen, Sally, and Vicki L. Berger.<em> Clothing and Textile Collections in the United States: A CSA Guide</em>. Lubbock: Texas Tech University Press, 2006.",
+      "page_number": "p. 259",
+      "url": null
+    },
+    {
+      "citation": "Eikelmann, Renate, Holger A. Klein, Stephen N. Fliegel, and Virginia Brilliant. <em>The Cleveland Museum of Art: Meisterwerke von 300 bis 1550</em>. München: Hirmer, 2007.",
+      "page_number": "pp. 42–45, no. 6",
+      "url": null
+    },
+    {
+      "citation": "<em>30,000 Years of Art: The Story of Human Creativity Across Time and Space</em>. London: Phaidon, 2007.",
+      "page_number": "p. 397",
+      "url": null
+    },
+    {
+      "citation": "Klein, Holger A. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2007.",
+      "page_number": "p. 70, cat. no. 18",
+      "url": null
+    },
+    {
+      "citation": "Moor, A. de, and Cäcilia Fluck. <em>Clothing the House: Furnishing Textiles of the 1st Millennium AD from Egypt and Neighbouring Countries : Proceedings of the 5th Conference of the Research Group \"Textiles from the Nile Valley\" Antwerp, 6-7 October 2007.</em> Tielt, Belgium: Lannoo Publishers, 2009.",
+      "page_number": "pp. 148–149, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Pelikan, Jaroslav. <em>Imago Dei: The Byzantine Apologia for Icons</em>. Princeton: Princeton University Press, 2011.",
+      "page_number": "Mentioned: P. viii-ix, 4-5; Reproduced: Cover, verso title page",
+      "url": ""
+    },
+    {
+      "citation": "Noll, Mark A. <em>Turning Points: Decisive Moments in the History of Christianity.</em> Grand Rapids: Baker Pub. Group, 2012.",
+      "page_number": "p. 68",
+      "url": null
+    },
+    {
+      "citation": "Franklin, David and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2012.",
+      "page_number": "Mentioned and Reproduced: pp. 54–55",
+      "url": null
+    },
+    {
+      "citation": "Elsner, Jaś. \"Iconoclasm as Discourse: From Antiquity to Byzantium.\" <em>The Art Bulletin</em> 94, no. 3 (September 2012), pp. 368-394.",
+      "page_number": "Reproduced: p. 384, no. 20",
+      "url": "https://www.jstor.org/stable/23268277"
+    },
+    {
+      "citation": "<em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and Reproduced: pp. 362–363",
+      "url": ""
+    },
+    {
+      "citation": "Thomas, Thelma K. \"Material Meaning in Late Antiquity.\" In <em>Designing Identity: The Power of Textiles in Late Antiquity. </em>Thelma K. Thomas, ed. Princeton: Princeton University Press, 2016.",
+      "page_number": "Reproduced: p. 29, fig. 1-1.9",
+      "url": null
+    },
+    {
+      "citation": "Asutay-Effenberger, Neslihan, and Arne Effenberger. <em>Byzanz: Weltreich der Kunst.</em> München: Verlag C.H. Beck, 2017.",
+      "page_number": "Mentioned: p.122",
+      "url": null
+    },
+    {
+      "citation": "Bergmeier, Armin F. <em>Visionserwartung: Visualisierung und Präsenzerfahrung des Göttlichen in der Spätantike.</em> Wiesbaden; Reichert Verlag 2017.",
+      "page_number": "Mentioned: p. 147, notr #658; Reproduced: Tafel 23: p. 147",
+      "url": null
+    },
+    {
+      "citation": "Ramisch, Hans. <em>Altar-Bilder im ersten christlichen Jahrtausend: der christliche Altar und seine heilsgeschichtlichen Bildsysteme</em>. München: Scaneg, 2018.",
+      "page_number": "Mentioned: p. 144, 152; Reproduced: p. 151, abb. 51, cat. 19",
+      "url": null
+    },
+    {
+      "citation": "Ball, Jennifer. \"Textiles: The Emergence of a Christian Identity in Cloth.\" In I <em>The Routledge Handbook of Early Christian Art.</em>Jensen, Robin Margaret Jensen and Mark D. Ellison, editors. Abingdon Oxon; New York, NY: Routledge, 2018.",
+      "page_number": "Reproduced: p. 232, fig. 14.8",
+      "url": null
+    },
+    {
+      "citation": "Mazzei, Barbara. \"Clipeus, clipei. Istanze simboliche e intenti decorativi nelle arti della Tarda Antichita e dell'Alto Medioevo.\" In <em>Arti Minori e Arti Maggiori: Relazioni e Iterazioni tra Tarda Antichità e alto Medioevo</em>. Fabrizio Bisconti, Matteo Braconi, and Mariarita Sgarlata. Todi (PG): Tau editrice, 2019.",
+      "page_number": "Reproduced: p. 213, fig. 9",
+      "url": null
+    },
+    {
+      "citation": "Williams, Elizabeth Dospěl, Sumru Belger Krody, and Gudrun Bühl. <em>Woven Interiors: Furnishing Early Medieval Egypt. </em>Washington: The George Washington University Museum and The Textile Museum, 2019.",
+      "page_number": "Mentioned and Reproduced: cat. no. 30, pp. 78–79",
+      "url": null
+    },
+    {
+      "citation": "Dospěl, Elizabeth. 2019. “Colour, Texture, Pattern” HALI; the international journal of Oriental carpets and textiles. [London]: [Oguz Press], Number:202.",
+      "page_number": "pp. 56–65; Reproduced: p. 63",
+      "url": null
+    },
+    {
+      "citation": "de Moor, A., Cäcilia Fluck, and Petra Linscheid, eds. <em>Egypt As a Textile Hub: Textile Interrelationships in the 1st Millennium AD : Proceedings of the 10th Conference of the Research Group 'Textiles from the Nile Valley'</em>. Tielt, Belgium: Lannoo, 2019.",
+      "page_number": "Reproduced and Mentioned: pp. 46–48, fig. 6",
+      "url": ""
+    },
+    {
+      "citation": "Sörries, Reiner. <em>Der frühchristliche Kirchenraum: Ikonographie - Ausstattung - Liturgie</em>. Wiesbaden: Reichert Verlag, 2020.",
+      "page_number": "Mentioned: p. 128; reproduced: Tafel 54, Abb. 80c",
+      "url": ""
+    },
+    {
+      "citation": "Jensen, Robin Margaret. F<em>rom Idols to Icons: The Rise of the Devotional Image in Early Christianity</em>. Oakland, CA: University of California Press, 2022.",
+      "page_number": "Reproduced: cover illustration",
+      "url": ""
+    },
+    {
+      "citation": "Blessing, Patricia, Elizabeth Dospěl Williams, and Eiren L. Shea. <em>Medieval Textiles Across Eurasia, C. 300-1400.</em> Cambridge, United Kingdom; New York, NY: Cambridge University Press, 2023.",
+      "page_number": "Mentioned: p. 64; Reproduced: p. 35, fig. 57",
+      "url": ""
+    },
+    {
+      "citation": "Achi, Andrea Myers, et al. <em>Africa and Byzantium</em>. New York: The Metropolitan Museum of Art, 2023.",
+      "page_number": "Mentioned and reproduced: pp. 44–45, no. 5",
+      "url": ""
+    },
+    {
+      "citation": "Balestrieri, James D. \"Ancient Splendor.\" <em>Art &amp; Antiques</em> 47, no. 1 (January/February 2024): 52–57.",
+      "page_number": "Reproduced: p. 54",
+      "url": ""
+    },
+    {
+      "citation": "Teteriatnikov, Natalia. \"The Virgin's Bejeweled Throne: A Manifestation of Divine and Earthly Authority Between Late Antiquity and Early Byzantium.\" <em>Arte Medievale</em> 4, a. 14 (2024): 129-146.",
+      "page_number": "Mentioned: p. 132, 135, 137; Reproduced: p. 135, fig. 8",
+      "url": ""
+    },
+    {
+      "citation": "Hanson, Robin and Holly Witchey. \"Dorothy Shepherd and the Cleveland Museum of Art's Ancient Near Eastern and Islamic Art Collection.\" <em>Collections: A Journal for Museum and Archives Professionals</em> 20, n. 3 (September 2024): 461–473.",
+      "page_number": "Mentioned: pp. 462, 467; Reproduced: p. 463, fig. 1",
+      "url": ""
+    },
+    {
+      "citation": "Dell'acqua, Francesca. \"The Virgin With the Book at Breedon on the Hill (Leicestershire).\" In <em>Early Medieval Sculpture in Stone</em>, Sarah Semple and Jane Hawkes, eds., 283-297. Woodbridge, Suffolk: Boydell Press, 2025.",
+      "page_number": "Mentioned and reproduced: p. 289, figs. 20.3-20.4",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1967.144",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_web.jpg",
+      "width": "573",
+      "height": "900",
+      "filesize": "413181",
+      "filename": "1967.144_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_print.jpg",
+      "width": "2165",
+      "height": "3400",
+      "filesize": "4824601",
+      "filename": "1967.144_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_full.tif",
+      "width": "8001",
+      "height": "12563",
+      "filesize": "301582236",
+      "filename": "1967.144_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt0_web.jpg",
+        "width": "721",
+        "height": "900",
+        "filesize": "496860"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt0_print.jpg",
+        "width": "2724",
+        "height": "3400",
+        "filesize": "6433260"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt0_full.tif",
+        "width": "10647",
+        "height": "13289",
+        "filesize": "424497724"
+      },
+      "date_created": "2023-09-25T16:04:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt1_web.jpg",
+        "width": "900",
+        "height": "555",
+        "filesize": "401765"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt1_print.jpg",
+        "width": "3400",
+        "height": "2095",
+        "filesize": "4957053"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt1_full.tif",
+        "width": "14198",
+        "height": "8749",
+        "filesize": "372687824"
+      },
+      "date_created": "2023-09-25T16:11:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt2_web.jpg",
+        "width": "616",
+        "height": "900",
+        "filesize": "447785"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt2_print.jpg",
+        "width": "2328",
+        "height": "3400",
+        "filesize": "5588283"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt2_full.tif",
+        "width": "9721",
+        "height": "14198",
+        "filesize": "414088624"
+      },
+      "date_created": "2023-09-25T16:26:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt3_web.jpg",
+        "width": "656",
+        "height": "900",
+        "filesize": "463646"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt3_print.jpg",
+        "width": "2478",
+        "height": "3400",
+        "filesize": "5675037"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt3_full.tif",
+        "width": "10349",
+        "height": "14198",
+        "filesize": "440837632"
+      },
+      "date_created": "2023-09-25T16:30:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt4_web.jpg",
+        "width": "577",
+        "height": "900",
+        "filesize": "419588"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt4_print.jpg",
+        "width": "2179",
+        "height": "3400",
+        "filesize": "5317490"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt4_full.tif",
+        "width": "9099",
+        "height": "14198",
+        "filesize": "387595116"
+      },
+      "date_created": "2023-09-25T16:35:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt5_web.jpg",
+        "width": "589",
+        "height": "900",
+        "filesize": "433429"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt5_print.jpg",
+        "width": "2224",
+        "height": "3400",
+        "filesize": "5332150"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt5_full.tif",
+        "width": "9289",
+        "height": "14198",
+        "filesize": "395687924"
+      },
+      "date_created": "2023-09-25T16:41:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt6_web.jpg",
+        "width": "900",
+        "height": "638",
+        "filesize": "456878"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt6_print.jpg",
+        "width": "3400",
+        "height": "2411",
+        "filesize": "5554009"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt6_full.tif",
+        "width": "11549",
+        "height": "8189",
+        "filesize": "283756744"
+      },
+      "date_created": "2023-09-25T16:45:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt7_web.jpg",
+        "width": "900",
+        "height": "549",
+        "filesize": "389562"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt7_print.jpg",
+        "width": "3400",
+        "height": "2073",
+        "filesize": "4769473"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt7_full.tif",
+        "width": "12924",
+        "height": "7879",
+        "filesize": "305515960"
+      },
+      "date_created": "2023-09-25T16:50:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt8_web.jpg",
+        "width": "563",
+        "height": "893",
+        "filesize": "467058"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt8_print.jpg",
+        "width": "2142",
+        "height": "3400",
+        "filesize": "5689438"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt8_full.tif",
+        "width": "3150",
+        "height": "5000",
+        "filesize": "47267872"
+      },
+      "date_created": "2005-12-06T15:30:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt9_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "949903"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt9_print.jpg",
+        "width": "3400",
+        "height": "2267",
+        "filesize": "6574130"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt9_full.tif",
+        "width": "6144",
+        "height": "4096",
+        "filesize": "75532008"
+      },
+      "date_created": "2005-12-06T15:46:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt10_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "970640"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt10_print.jpg",
+        "width": "3400",
+        "height": "2267",
+        "filesize": "7043909"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt10_full.tif",
+        "width": "6144",
+        "height": "4096",
+        "filesize": "75531476"
+      },
+      "date_created": "2005-12-06T15:50:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt11_web.jpg",
+        "width": "534",
+        "height": "893",
+        "filesize": "440677"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt11_print.jpg",
+        "width": "2033",
+        "height": "3400",
+        "filesize": "5793734"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt11_full.tif",
+        "width": "3674",
+        "height": "6144",
+        "filesize": "67752224"
+      },
+      "date_created": "2005-12-06T15:56:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt12_web.jpg",
+        "width": "551",
+        "height": "893",
+        "filesize": "475933"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt12_print.jpg",
+        "width": "2096",
+        "height": "3400",
+        "filesize": "6547987"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt12_full.tif",
+        "width": "3788",
+        "height": "6144",
+        "filesize": "69854720"
+      },
+      "date_created": "2005-12-06T16:01:41",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt13_web.jpg",
+        "width": "495",
+        "height": "893",
+        "filesize": "415321"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt13_print.jpg",
+        "width": "1886",
+        "height": "3400",
+        "filesize": "5632772"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt13_full.tif",
+        "width": "3408",
+        "height": "6144",
+        "filesize": "62849392"
+      },
+      "date_created": "2005-12-06T16:07:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt14_web.jpg",
+        "width": "508",
+        "height": "893",
+        "filesize": "430291"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt14_print.jpg",
+        "width": "1935",
+        "height": "3400",
+        "filesize": "5867602"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt14_full.tif",
+        "width": "3496",
+        "height": "6144",
+        "filesize": "64471600"
+      },
+      "date_created": "2005-12-06T16:17:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt15_web.jpg",
+        "width": "1263",
+        "height": "682",
+        "filesize": "798074"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt15_print.jpg",
+        "width": "3400",
+        "height": "1836",
+        "filesize": "5567348"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_alt15_full.tif",
+        "width": "6144",
+        "height": "3317",
+        "filesize": "61171428"
+      },
+      "date_created": "2005-12-06T16:27:57",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 143165,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1967-10-27T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "500s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Icon of the Virgin "
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-06-25 11:12:54.617000"
+}

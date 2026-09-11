@@ -1,0 +1,256 @@
+{
+  "id": 148336,
+  "accession_number": "1975.6",
+  "share_license_status": "CC0",
+  "tombstone": "Fragment with Satyr and Maenad, 300s CE. Byzantine Empire (Egypt). Linen: undyed; wool: dyed; plain weave ground with tapestry weave; overall: 139 x 86.4 cm (54 3/4 x 34 in.); mounted: 153.6 x 100.4 x 3.9 cm (60 1/2 x 39 1/2 x 1 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1975.6",
+  "current_location": null,
+  "title": "Fragment with Satyr and Maenad",
+  "creation_date": "300s CE",
+  "creation_date_earliest": 300,
+  "creation_date_latest": 399,
+  "artists_tags": [],
+  "culture": [
+    "Byzantine Empire (Egypt)"
+  ],
+  "technique": "Linen: undyed; wool: dyed; plain weave ground with tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 139 x 86.4 cm (54 3/4 x 34 in.); Mounted: 153.6 x 100.4 x 3.9 cm (60 1/2 x 39 1/2 x 1 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.39,
+      "height_inch": 54,
+      "height_inch_fraction": 0.75,
+      "width": 0.864,
+      "width_inch": 34,
+      "width_inch_fraction": 0.0
+    },
+    "mounted": {
+      "height": 1.536,
+      "height_inch": 60,
+      "height_inch_fraction": 0.5,
+      "width": 1.004,
+      "width_inch": 39,
+      "width_inch_fraction": 0.5,
+      "depth": 0.039,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "the satyr is identified by an inscription above his head.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 444015,
+        "title": "The Age of Spirituality: Late Antique and Early Christian Art, 3rd - 7th Century",
+        "description": "<i>The Age of Spirituality: Late Antique and Early Christian Art, 3rd - 7th Century</i>. The Metropolitan Museum of Art, New York, NY (organizer) (November 18, 1977-February 12, 1978).",
+        "opening_date": "1977-11-18T05:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008).",
+        "opening_date": "2007-05-10T00:00:00"
+      },
+      {
+        "id": 232952,
+        "title": "Designing Identity: The Power of Textiles in Late Antiquity",
+        "description": "<i>Designing Identity: The Power of Textiles in Late Antiquity</i>. Institute for the Study of the Ancient World, New York University, NY, New York, NY (February 25-May 22, 2016).",
+        "opening_date": "2016-02-25T00:00:00"
+      },
+      {
+        "id": 521317,
+        "title": "Africa & Byzantium",
+        "description": "<i>Africa & Byzantium</i>. The Metropolitan Museum of Art, New York, NY (organizer) (November 14, 2023-March 3, 2024); The Cleveland Museum of Art, Cleveland, OH (co-organizer) (April 14-July 21, 2024).",
+        "opening_date": "2023-11-13T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Late antique and Early Christian Art</em>. The Metropolitan Museum of Art, New York (November 18, 1977-February 12, 1978).",
+        "opening_date": "1977-11-18T00:00:00"
+      },
+      {
+        "description": "<em>Gallery 210 textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (February 13-August 8, 2001); (February 4-August 5, 2002); (February 3-August 4, 2003); (February 3-August 11, 2004)",
+        "opening_date": "2001-02-13T00:00:00"
+      },
+      {
+        "description": "<em>Gallery 106 textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (September 13, 2010-April 1, 2011); (September 14, 2011-March 26, 2012); (March 18-September 23, 2013); (March 17-September 22, 2014); (March 2-September 8, 2015); (May 1-October 30, 2017); (April 30-October 29, 2018); (April 29-August 9, 2019); (January 23, 2020-).",
+        "opening_date": "2013-03-18T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Nicolas Koutoulakis, Conches-Geneva, Switzerland).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This textile fragment depicts followers of Dionysus, the ancient Greco-Roman god of wine and merriment. A maenad, or female follower, prances in front of columns and archways, nude except for her opulent gold jewelry and pink veil. She gazes at the man, who wears a hair wreath and spotted leopard skin. A Greek inscription beside his halo confirms his identity as a satyr (a male follower). The weaver skillfully blended colors and fibers to produce the illusion of shadows and movement in the two bodies. Though Christianity was the official religion, many pagan motifs endured as creative references.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761607"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1975.6-fragment-with-satyr"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Thomas, Thelma K., Jennifer Ball, Edward Bleiberg, Kathrin Colburn, Helen C. Evans, Christine Kondoleon, Brandie Ratliff, and Elizabeth Dospel Williams. Designing Identity: The Power of Textiles in Late Antiquity. 2016.",
+      "page_number": "26",
+      "url": null
+    },
+    {
+      "citation": "Susan MacMillan Arensberg. \"Dionysos: A Late Antique Tapestry.\" <em>Boston Museum Bulletin</em> 75 (1977):",
+      "page_number": "p.  4-25",
+      "url": "www.jstor.org/stable/4171613."
+    },
+    {
+      "citation": "Shepherd, Dorothy G. \"A Late Classical Tapestry.\" <em>The Bulletin of the Cleveland Museum of Art</em> 63, no. 10 (1976):",
+      "page_number": "p. 307-13, fig. 1, 3, 9, cover illus",
+      "url": "www.jstor.org/stable/25152664."
+    },
+    {
+      "citation": "Weitzmann, Kurt. \"The Late Roman World.\" <em>The Metropolitan Museum of Art Bulletin</em> 35, no. 2 (1977): 2-96.",
+      "page_number": "p. 24, no. 2, color p. 25",
+      "url": "doi:10.2307/3259887."
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 36",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n56"
+    },
+    {
+      "citation": "Weitzmann, Kurt. Age of Spirituality: Late Antique and Early Christian Art, Third to Seventh Century : Catalogue of the Exhibition at the Metropolitan Museum of Art, November 19, 1977, Through February 12, 1978. New York: The Metropolitan Museum, 1979.",
+      "page_number": "p. 144-46, no. 124, illus p. 145",
+      "url": null
+    },
+    {
+      "citation": "Rutschowscaya, Marie-Hélène. Coptic Fabrics. Paris, France: Adam Biro, 1990.",
+      "page_number": "p. 87",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 13",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n28"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein<em>. Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 40-41, no. 3",
+      "url": ""
+    },
+    {
+      "citation": "Thomas, Thelma K. \"Material Meaning in Late Antiquity.\" In <em>Designing Identity: The Power of Textiles in Late Antiquity. </em>Thelma K. Thomas, ed. Princeton: Princeton University Press, 2016.",
+      "page_number": "Reproduced: p. 26, fig. 1-1.5",
+      "url": null
+    },
+    {
+      "citation": "Achi, Andrea Myers, et al. Africa and Byzantium. New York : The Metropolitan Museum of Art, 2023.",
+      "page_number": "Mentioned and reproduced: p. 42, no. 3",
+      "url": ""
+    },
+    {
+      "citation": "Hanson, Robin and Holly Witchey. \"Dorothy Shepherd and the Cleveland Museum of Art's Ancient Near Eastern and Islamic Art Collection.\" <em>Collections: A Journal for Museum and Archives Professionals</em> 20, n. 3 (September 2024): 461-473.",
+      "page_number": "Mentioned: p. 462, 467; Reproduced: p. 463 (fig. 1)",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1975.6",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_web.jpg",
+      "width": "564",
+      "height": "893",
+      "filesize": "405956",
+      "filename": "1975.6_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_print.jpg",
+      "width": "2149",
+      "height": "3400",
+      "filesize": "6077205",
+      "filename": "1975.6_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_full.tif",
+      "width": "3557",
+      "height": "5628",
+      "filesize": "60089920",
+      "filename": "1975.6_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_alt0_web.jpg",
+        "width": "1263",
+        "height": "842",
+        "filesize": "990199"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_alt0_print.jpg",
+        "width": "3400",
+        "height": "2267",
+        "filesize": "7375044"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1975.6/1975.6_alt0_full.tif",
+        "width": "6144",
+        "height": "4096",
+        "filesize": "75531500"
+      },
+      "date_created": "2007-01-31T16:24:05",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 148336,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1975-02-07T00:00:00",
+  "sortable_date": 300,
+  "date_added_to_oa": null,
+  "date_text": "300s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Satyr and Maenad from a Large Curtain"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:37:32.251000"
+}

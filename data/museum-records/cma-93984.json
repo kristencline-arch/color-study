@@ -1,0 +1,278 @@
+{
+  "id": 93984,
+  "accession_number": "1914.561",
+  "share_license_status": "CC0",
+  "tombstone": "Coffin of Bakenmut, c. 1000–900 BCE. Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22. Gessoed and painted sycamore fig; overall: 208 x 68 cm (81 7/8 x 26 3/4 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1914.561",
+  "current_location": "107 Egyptian",
+  "title": "Coffin of Bakenmut",
+  "creation_date": "c. 1000–900 BCE",
+  "creation_date_earliest": -1000,
+  "creation_date_latest": -900,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22"
+  ],
+  "technique": "gessoed and painted sycamore fig",
+  "support_materials": [],
+  "department": "Egyptian and Ancient Near Eastern Art",
+  "collection": "Egypt - Third Intermediate",
+  "type": "Funerary Equipment",
+  "measurements": "Overall: 208 x 68 cm (81 7/8 x 26 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.08,
+      "height_inch": 81,
+      "height_inch_fraction": 0.875,
+      "width": 0.68,
+      "width_inch": 26,
+      "width_inch_fraction": 0.75,
+      "length": 2.08,
+      "length_inch": 81,
+      "length_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 317001,
+        "title": "Inaugural Exhibition",
+        "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+        "opening_date": "1916-06-06T05:00:00"
+      },
+      {
+        "id": 311444,
+        "title": "Object Lessons: Cleveland Creates an Art Museum",
+        "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+        "opening_date": "1991-06-07T04:00:00"
+      },
+      {
+        "id": 281475,
+        "title": "Pharaoh: King of Ancient Egypt",
+        "description": "<i>Pharaoh: King of Ancient Egypt</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 13-June 12, 2016).",
+        "opening_date": "2016-03-13T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Thebes, probably Deir el-Bahri",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Purchased from Joseph Hassan Ahmed, Luxor, by Lucy Olcott Perkins through Henry W. Kent",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1914",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1914-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Originally another smaller coffin was placed inside this outer coffin and in that the deceased with a mummy board would have rested.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The coffin of Bakenmut is one of the finest examples of painted wooden coffins made for the priests of Amen and their families at Thebes during Dynasty 21 and early Dynasty 22. The pharaohs of this time were no longer buried in the Valley of the Kings, but instead built tombs in the Delta, far to the north, where they resided. Security was lax in the Theban necropolis. The coffins and funerary goods of the wealthy citizens of Thebes were placed in unmarked and undecorated family tombs cut into the cliffs on the west bank of the Nile. All the care and detail that in more prosperous times were devoted to the decoration of the tomb chapel were now lavished on the elaborately painted coffins. Every available surface is crowded with religious scenes, images of funerary gods and goddesses, protective spells, and magical symbols. The deceased appears mummiform. An elaborate floral collar entirely covers the upper body, exposing only the separately attached hands (now lost). A pair of red \"mummy braces\" are crossed over the chest, their point of intersection marked by a winged sun disk. The lower body is covered with tiny figures modeled in gesso against a yellow background, which gives the effect of gold inlaid with glass or semiprecious stone. The decoration on the interior features two deified dead kings of Dynasty 18. Although these rulers had lived centuries before, memory of their greatness was still very much alive. The main scene near the top depicts Tuthmosis III, the great military pharaoh, who lived 500 years before Bakenmut. Posed as a mummy, the ruler wears a brilliant feathered garment enfolding him with falcon’s wings. The scene below features back-to-back seated images of Amenhotep I, regarded as the patron of the Theban cemetery and worshiped as a local god there.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60740279"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1914.561-coffin-of-bakenmut"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Williams, Caroline Ransom. \"The Egyptian Collection in the Museum of Art at Cleveland, Ohio,\" <em>Journal of Egyptian Archaeology </em>5 (1918).",
+      "page_number": "pp.177-8, No. 15, pl. XXXI",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/030751331800500123"
+    },
+    {
+      "citation": "Porter, Bertha, and Rosalind L. B. Moss. Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings. Oxford: Clarendon Press, 1960.",
+      "page_number": "Part 2, p. 637",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Martha L. Carter. <em>Egyptian Art, the Cleveland Museum of Art.</em> Cleveland, Ohio: The Museum, 1963.",
+      "page_number": "pp. 12-13, pls. 15-16",
+      "url": "https://archive.org/details/EgyptianArt_80670/page/n15"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced (detail): p. 4",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n28"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced (detail): p. 4",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n26"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced (detail): p. 15",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n34"
+    },
+    {
+      "citation": "Johnson, Mark M. \"An Introduction to the Art of Egypt,\" <em>Arts and Activities</em> 83, no. 2 (March 1978).",
+      "page_number": "pp. 34-6, figs. 2-4",
+      "url": null
+    },
+    {
+      "citation": "Kozloff, Arielle P. “Guessing the Unseen from the Seen.” <em>The Bulletin of the Cleveland Museum of Art</em> 66, no. 9 (December 1979): 334–346.",
+      "page_number": "Mentioned and reproduced: p. 343-344, fig. 20",
+      "url": "http://www.jstor.org/stable/25159651"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Arielle P. Kozloff. <em>An Introduction to the Art of Egypt in the Cleveland Museum of Art.</em> [Cleveland]: [The Museum], 1983.",
+      "page_number": "p. 13",
+      "url": null
+    },
+    {
+      "citation": "Armstrong, A. H. <em>Classical Mediterranean Spirituality: Egyptian, Greek, Roman</em>. New York: Crossroad, 1986.",
+      "page_number": "pl. 2",
+      "url": null
+    },
+    {
+      "citation": "Myśliwiec, Karol. <em>Royal portraiture of the dynasties XXI-XXX</em>. Mainz am Rhein: Ph. von Zabern, 1988.",
+      "page_number": "pls. I, II",
+      "url": null
+    },
+    {
+      "citation": "Niwinski, Andrzej. <em>21st Dynasty Coffins from Thebes: Chronological and Typological Studies</em>. Mainz am Rhein: P. von Zabern, 1988.",
+      "page_number": "p. 134, no. 160",
+      "url": null
+    },
+    {
+      "citation": "Walsem, Reijer van. <em>The Coffin of Djedmonthuiufankh in the National Museum of Antiquities at Leiden</em>. Leiden: [Rijksuniversiteit te Leiden], 1988.",
+      "page_number": "pp. 55n.31, 57n.44, 59n.57, 61-62, 64-65, 68-69, 84, 90-91, 93-94, 96, 101, 103, 108 (erroneously for Cl 2 [255]), 109, 112-14 and n. 141, 115 nn. 146 and 147, 118-19, 124, 130n.204, 135, 138, 142n.265, 148-49, 151, 155, 159n.326, 167n.364, 169, 173, 175, 177n.375, 187, 194-95, 197n.452, 210, 256, 259, 262, 264, 270n.820, 271, 273, 287, 289, 290, 292, 293nn.903, 905, and 911, 294nn.921-23, 297, 304-6 and n. 982, 309-10, 314n.1034, 315 and nn. 1035, 1036, and 1040, 317- 18, 320 and n. 1087, 338, 346 n. 1286, 360n.1437, figs. 43, 45, 46, 60, 153, 173, 205, 209, 211, 434, 477, 484",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+      "page_number": "Reproduced: p. 4",
+      "url": "https://archive.org/details/CMAHandbook1991/page/n20"
+    },
+    {
+      "citation": "Berman, Lawrence M. \"La Collection Egyptienne du Cleveland Museum of Art,\" <em>Bulletin de la Société française d'égyptologie (BSFE) </em>134 (October 1995).",
+      "page_number": "p. 17, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Berman, Lawrence M. \"Royal Allegory,\" <em>Cleveland Museum of Art Members Magazine</em> 36, no. 3 (March 1996).",
+      "page_number": "p. 8",
+      "url": "https://archive.org/details/CMAMM1996-03/page/8/"
+    },
+    {
+      "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+      "page_number": "Mentioned and reproduced: P. 314-324, cat. no. 251; reproduced: P. 58-59",
+      "url": null
+    },
+    {
+      "citation": "Berman, Lawrence M., \"New Look at Ancient Egypt\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 39 no. 01, January 1999",
+      "page_number": "Mentioned & reproduced: p. 7",
+      "url": "https://archive.org/details/CMAMM1999-01/page/6"
+    },
+    {
+      "citation": "Gleisser, Benjamin, \" Mystery of the Nile,\" <em>Northern Ohio Live</em> (September 1999).",
+      "page_number": "p. 22",
+      "url": null
+    },
+    {
+      "citation": "Myśliwiec, Karol. <em>The twilight of ancient Egypt: first millennium B.C.E</em>. Ithaca, NY: Cornell University Press, 2000.",
+      "page_number": "Reproduced: p. 5, fig. 3",
+      "url": null
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley.<em> Knockouts: A Pocket Guide</em>. Cleveland: Cleveland Museum of Art, 2001.",
+      "page_number": "No. 8, pp. 12-13, cover",
+      "url": null
+    },
+    {
+      "citation": "Málek, Jaromír. <em>Egypt: 4000 Years of Art</em>. 2003.",
+      "page_number": "p. 116 & 227",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 74-75",
+      "url": ""
+    },
+    {
+      "citation": "Vandenbeusch, Marie, Aude Semat, and Margaret Maitland. <em>Pharaoh: King of Ancient Egypt</em>. Cleveland: The Cleveland Museum of Art ; London : The British Museum, 2016.",
+      "page_number": "Mentioned: p.86, p. 160; Reproduced: p. 87, fig.50",
+      "url": null
+    },
+    {
+      "citation": "Tedbury, Imogen. \"Our Woman in Cairo: Lucy Olcott Perkin's Work as an Agent for the Cleveland Museum of Art.\" In <em>The Art Market and the Museum: Institutional Collecting, Display and Patronage since the Mid-Nineteenth Century. </em>Edited by Frances Fowle, and MaryKate Cleary, 167-183. London: Bloomsbury Visual Arts, 2025.",
+      "page_number": "Mentioned: p. 173; Reproduced: pl. 13",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1914.561",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561/1914.561_web.jpg",
+      "width": "738",
+      "height": "893",
+      "filesize": "330837",
+      "filename": "1914.561_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561/1914.561_print.jpg",
+      "width": "2810",
+      "height": "3400",
+      "filesize": "5897546",
+      "filename": "1914.561_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1914.561/1914.561_full.tif",
+      "width": "5301",
+      "height": "6413",
+      "filesize": "102017220",
+      "filename": "1914.561_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 93984,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1914-01-01T00:00:00",
+  "sortable_date": -1000,
+  "date_added_to_oa": null,
+  "date_text": "c. 1000–900 BCE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Coffin of Bekenmut"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-05-29 04:59:21.908000"
+}

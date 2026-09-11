@@ -6,6 +6,7 @@ import { useCallback, useEffect, useRef, useState, type CSSProperties, type Poin
 import sourceData from "../public/sources.json";
 import targets from "../public/targets.json";
 import Showcase from "./Showcase";
+import Catalog from "./Catalog";
 import Community, {type CommunityPhoto} from "./Community";
 import { NASA_ARTICLE, REPOSITORY } from "./links";
 
@@ -33,6 +34,7 @@ function asCommunitySample(photo: CommunityPhoto): Sample {
 export default function ColorStudy() {
   const [tab, setTab] = useState("showcase");
   const [communityOpened, setCommunityOpened] = useState(false);
+  const [catalogOpened, setCatalogOpened] = useState(false);
   const [photo, setPhoto] = useState<Photo | null>(null);
   const [before, setBefore] = useState("");
   const [afterURL, setAfter] = useState("");
@@ -136,8 +138,9 @@ export default function ColorStudy() {
           pending.current.clear(); setError(reason.message); setLoading(false); setExporting(false);
         };
         const hash = window.location.hash.slice(1);
-        if (["targets", "method", "community", "lab"].includes(hash)) setTab(hash);
+        if (["targets", "method", "community", "collection", "lab"].includes(hash)) setTab(hash);
         if (hash === "community") setCommunityOpened(true);
+        if (hash === "collection") setCatalogOpened(true);
         const params = new URLSearchParams(hash);
         const sample = sourceData.find(item => item.id === params.get("sample")) || sourceData.find(item => item.id === "cueva-hands")!;
         const strength = Number(params.get("strength") || 42), gain = Number(params.get("gain") || 12);
@@ -192,7 +195,7 @@ export default function ColorStudy() {
     return () => observer.disconnect();
   }, [photo, tab]);
 
-  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
+  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); if (next === "collection") setCatalogOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
   function pickFile(file?: File) { if (file && !exporting) { switchTab("lab", false); void loadPhoto(undefined, file); } }
   function openStudy(id: string) {const sample = sourceData.find(item => item.id === id); if (sample) {switchTab("lab", false); void loadPhoto(sample, undefined, {settings: {targetStd: 34, maxGain: 12}, region: sample.focus_box_fraction as Region});}}
   function openCommunity(photo: CommunityPhoto) {switchTab("lab", false); void loadPhoto(asCommunitySample(photo));}
@@ -231,7 +234,7 @@ export default function ColorStudy() {
       url.hash = params.toString();
     }
     if (navigator.share) {
-      try { await navigator.share({title: "Color Study", text: "Look a little closer. Explore surviving paint, try your own photograph, and help grow an open photo collection.", url: url.href}); return; }
+      try { await navigator.share({title: "Color Study", text: "Look a little closer. Explore textiles and surviving paint, try your own photograph, and help grow an open photo collection.", url: url.href}); return; }
       catch (reason) {if (reason instanceof Error && reason.name === "AbortError") return;}
     }
     try { await navigator.clipboard.writeText(url.href); setNotice(photo?.sampleId || photo?.communityId || tab !== "lab" ? "Link copied. Invite someone to explore the photographs or add one of their own." : "App link copied. Your imported photo is not included."); }
@@ -248,7 +251,7 @@ export default function ColorStudy() {
   return <div className="app-shell">
     <header className="app-header">
       <button className="brand" onClick={() => switchTab("showcase")} aria-label="Color Study home"><span className="brand-mark" aria-hidden="true"><i /><i /><i /></span><span>Color Study<small>LOOK A LITTLE CLOSER</small></span></button>
-      <nav aria-label="Main navigation">{[["showcase", "Discover"], ["lab", "Image lab"], ["community", "Contribute"], ["targets", "Field guide"]].map(([key, label]) => <button key={key} className={tab === key ? "active" : ""} aria-current={tab === key ? "page" : undefined} onClick={() => switchTab(key)}>{label}</button>)}</nav>
+      <nav aria-label="Main navigation">{[["showcase", "Discover"], ["collection", "Collection"], ["lab", "Image lab"], ["community", "Contribute"], ["targets", "Field guide"]].map(([key, label]) => <button key={key} className={tab === key ? "active" : ""} aria-current={tab === key ? "page" : undefined} onClick={() => switchTab(key)}>{label}</button>)}</nav>
       <div className="header-links"><a className="header-nasa" href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">NASA article ↗</a><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">GitHub ↗</a><button className="button ghost share-button" onClick={share}>Share <span aria-hidden="true">↗</span></button></div>
     </header>
     <input ref={inputRef} type="file" accept=".jpg,.jpeg,.png,.webp,.avif" className="sr-only" tabIndex={-1} aria-label="Choose a photo" onChange={event => { pickFile(event.target.files?.[0]); event.target.value = ""; }} />
@@ -256,7 +259,8 @@ export default function ColorStudy() {
     {error && <div className="message error" role="alert">{error}<button onClick={() => setError("")} aria-label="Dismiss error">&#215;</button></div>}
     {notice && <div className="message notice" role="status">{notice}<button onClick={() => setNotice("")} aria-label="Dismiss notice">&#215;</button></div>}
     <main>
-      {tab === "showcase" && <Showcase onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
+      {tab === "showcase" && <Showcase onCollection={() => switchTab("collection")} onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
+      {catalogOpened && <div hidden={tab !== "collection"}><Catalog onStudy={openStudy} onContribute={() => switchTab("community")} /></div>}
       {communityOpened && <div hidden={tab !== "community"}><Community onPhoto={openCommunity} onShare={share} /></div>}
       {tab === "lab" && <div className="lab" onDragOver={event => { if (event.dataTransfer.types.includes("Files")) { event.preventDefault(); setDragging(true); } }} onDragLeave={event => { if (!event.currentTarget.contains(event.relatedTarget as Node)) setDragging(false); }} onDrop={event => { event.preventDefault(); setDragging(false); pickFile(event.dataTransfer.files[0]); }}>
         {dragging && <div className="drop-overlay">Drop a photograph to begin.</div>}
@@ -264,7 +268,7 @@ export default function ColorStudy() {
           <div className="intro-block"><p className="eyebrow">A PHOTOGRAPHIC FIELD LAB</p><h1>Look a little<br /><em>closer.</em></h1><p>Explore surviving paint in murals, cave art and sculpture. Start with a study or your own photograph.</p></div>
           <button className="button import-button" disabled={exporting} onClick={() => inputRef.current?.click()}><span aria-hidden="true">+</span> Open your photo</button>
           <p className="local-note"><span className="status-dot" /> Your photo stays in this browser.</p>
-          <div className="control-section"><p className="section-label">01 / CHOOSE A STUDY</p><div className="sample-grid">{sourceData.filter(item => item.study_type === "paint").slice(0, 6).map(item => <button key={item.id} className={`sample ${photo?.sampleId === item.id ? "chosen" : ""}`} disabled={busy} onClick={() => void loadPhoto(item)} aria-pressed={photo?.sampleId === item.id}><img src={`/thumbnails/${item.id}.jpg`} alt="" /><span>{labels[item.id]}</span></button>)}</div><label className="study-picker" htmlFor="study">Browse all {sourceData.length} photographs<select id="study" disabled={busy} value={photo?.sampleId || ""} onChange={event => { const chosen = sourceData.find(item => item.id === event.target.value); if (chosen) void loadPhoto(chosen); }}><option value="" disabled>Select a study</option>{[["paint", "Painted surfaces"], ["limits", "Technique limits / original studies"]].map(([group, title]) => <optgroup key={group} label={title}>{sourceData.filter(item => item.study_type === group).map(item => <option key={item.id} value={item.id}>{item.short_title} · {(item.expected_dimensions[0] * item.expected_dimensions[1] / 1000000).toFixed(1)} MP</option>)}</optgroup>)}</select></label></div>
+          <div className="control-section"><p className="section-label">01 / CHOOSE A STUDY</p><div className="sample-grid">{sourceData.filter(item => item.study_type === "paint").slice(0, 6).map(item => <button key={item.id} className={`sample ${photo?.sampleId === item.id ? "chosen" : ""}`} disabled={busy} onClick={() => void loadPhoto(item)} aria-pressed={photo?.sampleId === item.id}><img src={`/thumbnails/${item.id}.jpg`} alt="" /><span>{labels[item.id]}</span></button>)}</div><label className="study-picker" htmlFor="study">Browse all {sourceData.length} photographs<select id="study" disabled={busy} value={photo?.sampleId || ""} onChange={event => { const chosen = sourceData.find(item => item.id === event.target.value); if (chosen) void loadPhoto(chosen); }}><option value="" disabled>Select a study</option>{[["textile", "Textiles / dyes and painted cloth"], ["paint", "Painted surfaces"], ["limits", "Technique limits / original studies"]].map(([group, title]) => <optgroup key={group} label={title}>{sourceData.filter(item => item.study_type === group).map(item => <option key={item.id} value={item.id}>{item.short_title} · {(item.expected_dimensions[0] * item.expected_dimensions[1] / 1000000).toFixed(1)} MP</option>)}</optgroup>)}</select></label></div>
           <fieldset className="control-section" disabled={!photo || busy}>
             <legend className="section-label">02 / ADJUST THE COLOR</legend>
             <label className="slider-label" htmlFor="strength">Color separation <output>{settings.targetStd}</output></label><input id="strength" type="range" min="12" max="65" value={settings.targetStd} onChange={event => setSettings(old => ({ ...old, targetStd: Number(event.target.value) }))} /><div className="range-captions"><span>Gentle</span><span>Strong</span></div>

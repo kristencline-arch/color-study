@@ -7,6 +7,7 @@ import {cleanJPEG} from '../server/jpeg.mjs';
 
 const origin = 'https://color-study.example';
 const fixture = await readFile(new URL('./fixtures/community-test.jpg', import.meta.url));
+const sources = JSON.parse(await readFile(new URL('../public/sources.json', import.meta.url)));
 const {default: worker} = await import('../dist/server/index.js');
 let runtime, env;
 const context = {waitUntil() {}, passThroughOnException() {}};
@@ -43,7 +44,8 @@ test('the open dataset starts with credited curated sources and no invented comm
   const response = await send('/api/dataset');
   assert.equal(response.status, 200); assert.equal(response.headers.get('Access-Control-Allow-Origin'), '*');
   const result = await response.json();
-  assert.equal(result.curated.length, 11); assert.equal(result.total_contributions, 0);
+  assert.equal(result.curated.length, sources.length); assert.equal(result.total_contributions, 0);
+  assert.equal(result.version, 2); assert.match(result.catalog_revision, /^[a-f0-9]{64}$/);
   assert.deepEqual(result.contributions, []);
   for (const photo of result.curated) assert.ok(photo.author && photo.license_url && photo.sha256 && photo.image_url.startsWith(origin));
 });
@@ -110,7 +112,7 @@ test('dataset pagination is stable when several contributions have the same time
   assert.equal(second.contributions.length, 3); assert.equal(second.next, null); assert.deepEqual(second.curated, []);
   assert.deepEqual(new Set([...first.contributions, ...second.contributions].map(photo => photo.id)), new Set(ids));
   const full = await (await send('/api/dataset?download=all')).json();
-  assert.equal(full.curated.length, 11); assert.equal(full.total_contributions, 27);
+  assert.equal(full.curated.length, sources.length); assert.equal(full.total_contributions, 27);
   assert.deepEqual(new Set(full.contributions.map(photo => photo.id)), new Set(ids));
   assert.equal((await send('/api/community?cursor=malformed')).status, 400);
   await env.DB.batch(ids.map(id => env.DB.prepare('DELETE FROM community_photos WHERE id = ?').bind(id)));

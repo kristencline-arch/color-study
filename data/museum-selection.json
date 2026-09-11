@@ -1,0 +1,409 @@
+[
+  {
+    "provider": "cma",
+    "object_id": 294034,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Painted cotton goddess",
+    "notes": "Look at the faint painted outlines on the cotton and compare them with the unpainted weave. The museum dates this Chavín-style fragment to 800–500 BCE. False color can clarify contrast but cannot reconstruct its original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 128462,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Resist-dyed biblical hanging",
+    "notes": "Compare the faded resist-dyed figures and architectural details with the linen ground. Keep weave, stains and losses in view; stronger color separation does not establish which colors are dyes."
+  },
+  {
+    "provider": "cma",
+    "object_id": 159371,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Silk coat with ducks",
+    "notes": "The museum photograph shows a patterned child’s coat above a pair of pants. Fit the study to the decorated coat to keep the pale trousers and background from dominating. The museum attributes the work to Iran or Central Asia; that uncertainty is retained.",
+    "focus_box_fraction": [
+      0.19,
+      0.04,
+      0.82,
+      0.41
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 124739,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Paracas embroidered mantle"
+  },
+  {
+    "provider": "met",
+    "object_id": 449863,
+    "category": "Murals and cave art",
+    "region": "West and Central Asia",
+    "short_title": "Painted stucco from Iran",
+    "notes": "Explore the painted geometric ornament on stucco from ninth-century Iran. Compare the faint colors with cracks and surface variation. This is a historic work, with its museum date retained."
+  },
+  {
+    "provider": "cma",
+    "object_id": 138881,
+    "category": "Murals and cave art",
+    "region": "Mesoamerica",
+    "short_title": "Teotihuacán mural fragment"
+  },
+  {
+    "provider": "cma",
+    "object_id": 145925,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Portrait of a young girl"
+  },
+  {
+    "provider": "met",
+    "object_id": 247108,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted slab: a rearing horse",
+    "notes": "Faint figures survive on this painted limestone slab. Fit to the recessed painted panel, avoiding the display background and architectural frame. Documented paint makes this a useful sculpture study; enhancement alone does not identify pigments.",
+    "focus_box_fraction": [
+      0.18,
+      0.3,
+      0.82,
+      0.86
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 152270,
+    "category": "Murals and cave art",
+    "region": "West and Central Asia",
+    "short_title": "Bodhisattva from Kizil",
+    "notes": "A painted head survives in a fragment from Kizil. Compare the colored edges with areas of exposed plaster; enhancement does not restore missing paint or determine how the damage occurred."
+  },
+  {
+    "provider": "cma",
+    "object_id": 119652,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Chancay painted wrapping",
+    "notes": "Painted motifs survive on a cotton wrapping. Study a section of cloth and compare the enhanced pattern with the original; the new colors are analytical, not recovered historical hues."
+  },
+  {
+    "provider": "cma",
+    "object_id": 159280,
+    "category": "Textiles",
+    "region": "East Asia",
+    "short_title": "Phoenixes and dragons in silk"
+  },
+  {
+    "provider": "aic",
+    "object_id": 805,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Funerary papyrus of Tayuhenutmut",
+    "notes": "The museum provides a 10,226-pixel-wide image of this painted papyrus. Select a figure or a small group of columns to study the local contrast. Ink, pigment, aging and lighting all influence the result."
+  },
+  {
+    "provider": "cma",
+    "object_id": 124740,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Paracas wool tunic"
+  },
+  {
+    "provider": "cma",
+    "object_id": 152258,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Textile with fanged heads"
+  },
+  {
+    "provider": "cma",
+    "object_id": 165269,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Moche textile fragment"
+  },
+  {
+    "provider": "cma",
+    "object_id": 143165,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Virgin and Child in wool"
+  },
+  {
+    "provider": "cma",
+    "object_id": 150873,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Tunic with woven ornament"
+  },
+  {
+    "provider": "cma",
+    "object_id": 148336,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Satyr and maenad"
+  },
+  {
+    "provider": "cma",
+    "object_id": 130419,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "A sea nymph in wool"
+  },
+  {
+    "provider": "cma",
+    "object_id": 161684,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Scenes of merrymaking"
+  },
+  {
+    "provider": "cma",
+    "object_id": 151044,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Hanging with Christian images"
+  },
+  {
+    "provider": "cma",
+    "object_id": 125230,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Silk sleeve with hunters"
+  },
+  {
+    "provider": "cma",
+    "object_id": 129205,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Animals in silk medallions"
+  },
+  {
+    "provider": "cma",
+    "object_id": 127924,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Gold-leaf lions on cloth",
+    "notes": "Study the printed lions and surviving fabric. Gold leaf and its reflections can produce color differences unrelated to dyes; enhancement alone cannot identify the material of a colored mark."
+  },
+  {
+    "provider": "cma",
+    "object_id": 129826,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Embroidered animals in roundels"
+  },
+  {
+    "provider": "cma",
+    "object_id": 156047,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Golden lions and palmettes",
+    "notes": "The museum lists silk and gold in this tapestry. Compare the woven motif with the original; metallic reflection, lighting and dye can all affect the color separation."
+  },
+  {
+    "provider": "cma",
+    "object_id": 157123,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Silk with palmettes"
+  },
+  {
+    "provider": "cma",
+    "object_id": 156983,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Textile with diamonds"
+  },
+  {
+    "provider": "cma",
+    "object_id": 150738,
+    "category": "Textiles",
+    "region": "Europe",
+    "short_title": "Silk curtain from the Alhambra"
+  },
+  {
+    "provider": "met",
+    "object_id": 443300,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Coptic textile fragment"
+  },
+  {
+    "provider": "met",
+    "object_id": 446011,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "Woven image of a goddess"
+  },
+  {
+    "provider": "met",
+    "object_id": 326230,
+    "category": "Textiles",
+    "region": "Egypt",
+    "short_title": "A ram with fluttering ribbons"
+  },
+  {
+    "provider": "met",
+    "object_id": 308078,
+    "category": "Textiles",
+    "region": "Andes",
+    "short_title": "Embroidered figures with staves"
+  },
+  {
+    "provider": "met",
+    "object_id": 329610,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "Silk horses"
+  },
+  {
+    "provider": "met",
+    "object_id": 443591,
+    "category": "Textiles",
+    "region": "West and Central Asia",
+    "short_title": "A woven medallion"
+  },
+  {
+    "provider": "cma",
+    "object_id": 120400,
+    "category": "Painted sculpture and relief",
+    "region": "West and Central Asia",
+    "short_title": "Sasanian ibex with paint traces"
+  },
+  {
+    "provider": "cma",
+    "object_id": 148798,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Offerings in painted limestone"
+  },
+  {
+    "provider": "cma",
+    "object_id": 149594,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted head of Userkaf"
+  },
+  {
+    "provider": "cma",
+    "object_id": 148794,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Painted portrait of Nefertiti"
+  },
+  {
+    "provider": "cma",
+    "object_id": 138686,
+    "category": "Painted sculpture and relief",
+    "region": "Egypt",
+    "short_title": "Amenhotep and his family"
+  },
+  {
+    "provider": "cma",
+    "object_id": 153630,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Ramesses II on an ostracon"
+  },
+  {
+    "provider": "cma",
+    "object_id": 93984,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Painted coffin of Bakenmut"
+  },
+  {
+    "provider": "cma",
+    "object_id": 133068,
+    "category": "Paintings and manuscripts",
+    "region": "South Asia",
+    "short_title": "Painted palm-leaf sutra"
+  },
+  {
+    "provider": "met",
+    "object_id": 248130,
+    "category": "Murals and cave art",
+    "region": "Europe",
+    "short_title": "Roman wall painting"
+  },
+  {
+    "provider": "met",
+    "object_id": 256186,
+    "category": "Murals and cave art",
+    "region": "Europe",
+    "short_title": "South Italian wall painting"
+  },
+  {
+    "provider": "met",
+    "object_id": 253329,
+    "category": "Murals and cave art",
+    "region": "Europe",
+    "short_title": "Roman fresco fragment"
+  },
+  {
+    "provider": "met",
+    "object_id": 247106,
+    "category": "Painted sculpture and relief",
+    "region": "Mediterranean",
+    "short_title": "Painted stele: a woman in childbirth"
+  },
+  {
+    "provider": "met",
+    "object_id": 548344,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Painted papyrus for Nauny"
+  },
+  {
+    "provider": "met",
+    "object_id": 553673,
+    "category": "Paintings and manuscripts",
+    "region": "Egypt",
+    "short_title": "Book of the Dead: two chapters"
+  },
+  {
+    "provider": "met",
+    "object_id": 312928,
+    "category": "Painted ceramics",
+    "region": "Andes",
+    "short_title": "Paracas jar with a painted scene"
+  },
+  {
+    "provider": "met",
+    "object_id": 308426,
+    "category": "Painted ceramics",
+    "region": "Andes",
+    "short_title": "A feline face in post-fired paint"
+  },
+  {
+    "provider": "aic",
+    "object_id": 14968,
+    "category": "Murals and cave art",
+    "region": "Mesoamerica",
+    "short_title": "Maguey bloodletting mural"
+  },
+  {
+    "provider": "cma",
+    "object_id": 108532,
+    "category": "Murals and cave art",
+    "region": "East Asia",
+    "short_title": "Buddha in painted plaster"
+  },
+  {
+    "provider": "aic",
+    "object_id": 201,
+    "category": "Painted ceramics",
+    "region": "North America",
+    "short_title": "Painted Southwest dipper"
+  },
+  {
+    "provider": "aic",
+    "object_id": 4715,
+    "category": "Painted ceramics",
+    "region": "Andes",
+    "short_title": "Nasca fish or sharks"
+  }
+]

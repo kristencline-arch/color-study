@@ -1,0 +1,191 @@
+{
+  "id": 129205,
+  "accession_number": "1952.103",
+  "share_license_status": "CC0",
+  "tombstone": "Silk with lattice of animals in medallions, 600s–800s. Egypt or Syria. Silk: samite; overall: 25.7 x 34 cm (10 1/8 x 13 3/8 in.); mounted: 32.4 x 40.6 cm (12 3/4 x 16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1952.103",
+  "current_location": null,
+  "title": "Silk with lattice of animals in medallions",
+  "creation_date": "600s–800s",
+  "creation_date_earliest": 600,
+  "creation_date_latest": 899,
+  "artists_tags": [],
+  "culture": [
+    "Egypt or Syria"
+  ],
+  "technique": "Silk: samite",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Textile",
+  "measurements": "Overall: 25.7 x 34 cm (10 1/8 x 13 3/8 in.); Mounted: 32.4 x 40.6 cm (12 3/4 x 16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.257,
+      "height_inch": 10,
+      "height_inch_fraction": 0.125,
+      "width": 0.34,
+      "width_inch": 13,
+      "width_inch_fraction": 0.375
+    },
+    "mounted": {
+      "height": 0.324,
+      "height_inch": 12,
+      "height_inch_fraction": 0.75,
+      "width": 0.406,
+      "width_inch": 16,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 437400,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 16, 2002-October 27, 2003).",
+        "opening_date": "2002-10-16T04:00:00"
+      },
+      {
+        "id": 383038,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 20, 2013-March 17, 2014).",
+        "opening_date": "2013-05-07T04:00:00"
+      },
+      {
+        "id": 282101,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 12, 2016-May 22, 2017).",
+        "opening_date": "2016-04-12T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Gallery 210 textile rotation</em>. The Cleveland Museum of Art, Cleveland, OH (October 16, 2002-October 27, 2003).",
+        "opening_date": "2002-10-16T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "said to have been found in Akhmim, Egypt",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "(Mrs. Paul [Marguerite] Mallon [d. 1977], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1952",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1952–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In this fragile silk, vines bearing heart-shaped florets form a diamond grid that displays different motifs in alternate rows. Pairs of ducks with ribbons flying behind their necks flank a palmette tree, showing Iranian influence, and alternate with two birds in lobed medallions. The patterns in such expensive silks were copied in less costly wool tapestry weave by Coptic weavers in Egypt.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79909948"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1952.103-silk-with-lattice-of"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Mackie, Louise W. <em>Symbols of Power: Luxury Textiles from Islamic Lands, 7th-21st Century</em>. Cleveland; New Haven: Cleveland Museum of Art; Yale University Press, 2015.",
+      "page_number": "Reproduced and Mentioned: P. 47, fig. 2.3",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1952.103",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_web.jpg",
+      "width": "1135",
+      "height": "893",
+      "filesize": "967606",
+      "filename": "1952.103_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_print.jpg",
+      "width": "3400",
+      "height": "2675",
+      "filesize": "8985492",
+      "filename": "1952.103_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_full.tif",
+      "width": "6680",
+      "height": "5256",
+      "filesize": "105351200",
+      "filename": "1952.103_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_alt0_web.jpg",
+        "width": "1116",
+        "height": "893",
+        "filesize": "892809"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_alt0_print.jpg",
+        "width": "3400",
+        "height": "2721",
+        "filesize": "8225278"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.103/1952.103_alt0_full.tif",
+        "width": "6528",
+        "height": "5224",
+        "filesize": "102327788"
+      },
+      "date_created": "2009-11-10T18:36:15",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 129205,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1952-03-27T00:00:00",
+  "sortable_date": 600,
+  "date_added_to_oa": null,
+  "date_text": "600s–800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Silk Diamond-Pattern Decoration from a Tunic Hem"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:40:03.674000"
+}

@@ -1,4 +1,4 @@
-import { index, integer, sqliteTable, text } from "drizzle-orm/sqlite-core";
+import { index, integer, primaryKey, sqliteTable, text } from "drizzle-orm/sqlite-core";
 
 export const communityPhotos = sqliteTable("community_photos", {
   id: text("id").primaryKey(),
@@ -21,3 +21,24 @@ export const communityLimits = sqliteTable("community_limits", {
   bucket: text("bucket").primaryKey(),
   used: integer("used").notNull(),
 });
+
+export const catalogReleases = sqliteTable("catalog_releases", {
+  id: text("id").primaryKey(),
+  createdAt: text("created_at").notNull(),
+});
+
+export const catalogPhotos = sqliteTable("catalog_photos", {
+  releaseId: text("release_id").notNull(),
+  id: text("id").notNull(),
+  category: text("category").notNull(),
+  region: text("region").notNull(),
+  provider: text("provider").notNull(),
+  yearStart: integer("year_start"),
+  yearEnd: integer("year_end"),
+  searchText: text("search_text").notNull(),
+  sortOrder: integer("sort_order").notNull(),
+  dataJson: text("data_json").notNull(),
+}, table => [
+  primaryKey({columns: [table.releaseId, table.id]}),
+  index("catalog_photos_browse").on(table.releaseId, table.category, table.sortOrder),
+]);

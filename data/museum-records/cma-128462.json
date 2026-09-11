@@ -1,0 +1,251 @@
+{
+  "id": 128462,
+  "accession_number": "1951.400",
+  "share_license_status": "CC0",
+  "tombstone": "Resist-Dyed Hanging with Biblical Scenes, 500–550. Egypt, Byzantine period. Linen: resist-dyed, plain weave; overall: 99.7 x 104.8 cm (39 1/4 x 41 1/4 in.); mounted: 111.1 x 114.3 x 2.5 cm (43 3/4 x 45 x 1 in.). The Cleveland Museum of Art, John L. Severance Fund, 1951.400",
+  "current_location": "106A Migration Period & Coptic",
+  "title": "Resist-Dyed Hanging with Biblical Scenes",
+  "creation_date": "500–550",
+  "creation_date_earliest": 500,
+  "creation_date_latest": 550,
+  "artists_tags": [],
+  "culture": [
+    "Egypt, Byzantine period"
+  ],
+  "technique": "linen: resist-dyed, plain weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "T - Coptic",
+  "type": "Textile",
+  "measurements": "Overall: 99.7 x 104.8 cm (39 1/4 x 41 1/4 in.); Mounted: 111.1 x 114.3 x 2.5 cm (43 3/4 x 45 x 1 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.997,
+      "height_inch": 39,
+      "height_inch_fraction": 0.25,
+      "width": 1.048,
+      "width_inch": 41,
+      "width_inch_fraction": 0.25
+    },
+    "mounted": {
+      "height": 1.111,
+      "height_inch": 43,
+      "height_inch_fraction": 0.75,
+      "width": 1.143,
+      "width_inch": 45,
+      "width_inch_fraction": 0.0,
+      "depth": 0.025,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Greek inscriptions identify the various scenes from the Old and New Testaments.  Above the first of the Magi in the upper register can be seen the two letters \"XP\" from the Greek work for gold.  At the left of the middle register are two figures, the first almost destroyed and the second identified by the inscription, \"EIWANNHC,\" as John.  In the lower register is a portrayal of Jonah thrown up on the shore with the big fish beside him and accompanied by the inscription, \"EIWNAC.\"  Moses, almost completely destroyed, is only identifiable by his inscription, \"MWCHC.\"  ",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 444833,
+        "title": "The Indigo Tradition in Textiles",
+        "description": "<i>The Indigo Tradition in Textiles</i>. The Baltimore Museum of Art, Baltimore, MD (organizer) (December 2, 1973-January 20, 1974).",
+        "opening_date": "1973-12-02T05:00:00"
+      },
+      {
+        "id": 437409,
+        "title": "Byzantine Gallery 210 Rotation",
+        "description": "<i>Byzantine Gallery 210 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27, 2003-October 25, 2004).",
+        "opening_date": "2003-10-27T05:00:00"
+      },
+      {
+        "id": 383048,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 18, 2014-March 2, 2015).",
+        "opening_date": "2014-03-18T04:00:00"
+      },
+      {
+        "id": 343660,
+        "title": "Coptic Textile Rotation Gallery 106",
+        "description": "<i>Coptic Textile Rotation Gallery 106</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 13, 2019-May 11, 2020).",
+        "opening_date": "2019-05-13T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Age of Spirituality, Late Antique and Early Christian Art: Third to Seventh Century</em>. Metropolitan Museum of Art, New York (November 1977-February 12, 1978).",
+        "opening_date": "1978-11-01T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "said to have been brought to Paris from Egypt in the 1870s or 1880s",
+      "citations": [],
+      "footnotes": null,
+      "date": "",
+      "sortorder": 1
+    },
+    {
+      "description": "(Mrs. Paul [Marguerite] Mallon [d. 1977], New York, NY, and Paris, France, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1951",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1951–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This hanging textile features biblical scenes that early Christian people would have recognized. At left, the upper register shows the Virgin Mary and Christ child on a cross-legged stool. As a Coptic inscription indicates, the three kings approach from the right, carrying gifts. The middle register on the left may depict the baptism of Christ while the other three figures separated by columns appear to illustrate a New Testament miracle in which Christ feeds a large crowd with only five loaves of bread and two fish. In the lower register, the Old Testament scene of the prophet Jonah being swallowed by a whale is still recognizable.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60762722"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1951.400-resist-dyed-hanging"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Shepherd, Dorothy G. \"An Egyptian Textile from the Early Christian Period.\" <em>The Bulletin of the Cleveland Museum of Art</em> 39, no. 4 (1952): 66-75.",
+      "page_number": "p. 66-8",
+      "url": "www.jstor.org/stable/25141787."
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 73",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n27"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 32",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n56"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 38",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n60"
+    },
+    {
+      "citation": "Katzenberg, Dena S. <em>Blue Traditions; Indigo Dyed Textiles and Related Cobalt Glazed Ceramics from the 17th Through the 19th Centur</em>y. [Baltimore]: Baltimore Museum of Art, 1973.",
+      "page_number": "Mentioned: cat. no. 1, p. 118; Reproduced: cat. no. 1, p. 49",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 39",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n59"
+    },
+    {
+      "citation": "Weitzmann, Kurt, and Hans-Georg Beck. <em>Age of Spirituality: A Symposium</em>. New York: Metropolitan Museum of Art, 1980.",
+      "page_number": "cat. no. 390, p. 433",
+      "url": null
+    },
+    {
+      "citation": "Kajitani, Nobuko 梶谷宣子.<em> Koputo gire</em> [コプト裂 = Coptic Fabrics]. Kyōto: Kyōto Shoin, 1981.",
+      "page_number": "pl. 45, p. 35",
+      "url": null
+    },
+    {
+      "citation": "Williams, Elizabeth Dospěl. \"Sacred Imagery.\" In <em>Woven Interiors: Furnishing Early Medieval Egypt, </em>63-68. Washington: The George Washington University Museum and The Textile Museum, 2019.",
+      "page_number": "Mentioned and reproduced: P. 67, fig.16",
+      "url": null
+    },
+    {
+      "citation": "Blessing, Patricia, Elizabeth Dospěl Williams, and Eiren L. Shea. <em>Medieval Textiles Across Eurasia, C. 300-1400.</em> Cambridge, United Kingdom; New York, NY: Cambridge University Press, 2023.",
+      "page_number": "Mentioned: p. 12; Reproduced: p. 15, fig. 13",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1951.400",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_web.jpg",
+      "width": "900",
+      "height": "836",
+      "filesize": "249436",
+      "filename": "1951.400_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_print.jpg",
+      "width": "3400",
+      "height": "3158",
+      "filesize": "4824013",
+      "filename": "1951.400_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_full.tif",
+      "width": "6217",
+      "height": "5774",
+      "filesize": "107725488",
+      "filename": "1951.400_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_alt0_web.jpg",
+        "width": "955",
+        "height": "893",
+        "filesize": "739220"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_alt0_print.jpg",
+        "width": "3400",
+        "height": "3179",
+        "filesize": "9656440"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1951.400/1951.400_alt0_full.tif",
+        "width": "5000",
+        "height": "4675",
+        "filesize": "70159360"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 128462,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1951-11-15T00:00:00",
+  "sortable_date": 500,
+  "date_added_to_oa": null,
+  "date_text": "500–550",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Fragment of a Large Panel with Scenes from the Old and New Testaments"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:37:48.854000"
+}

@@ -16,14 +16,21 @@ from process_images import SRGB, fit_transform
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--public', type=Path, default=ROOT / 'public')
+    parser.add_argument('--study', action='append', help='Update only these study IDs; retain other preview records')
     args = parser.parse_args()
     public = args.public.resolve()
     out = public / 'showcase'
     out.mkdir(exist_ok=True)
     sources = json.loads((public / 'sources.json').read_text())
-    records = []
+    manifest = public / 'showcase.json'
+    existing = json.loads(manifest.read_text()) if manifest.exists() else []
+    chosen = set(args.study or [record['id'] for record in existing] or [source['id'] for source in sources if source['study_type'] == 'paint'])
+    unknown = chosen - {source['id'] for source in sources}
+    if unknown:
+        parser.error('Unknown studies: ' + ', '.join(sorted(unknown)))
+    records = [record for record in existing if record['id'] not in chosen]
     for source in sources:
-        if source['study_type'] != 'paint':
+        if source['id'] not in chosen:
             continue
         with Image.open(public / source['original_file']) as opened:
             original = ImageOps.exif_transpose(opened).convert('RGB')
@@ -39,7 +46,7 @@ def main():
             record['files'][label] = {'path': str(path.relative_to(public)), 'width': preview.width, 'height': preview.height, 'sha256': hashlib.sha256(path.read_bytes()).hexdigest()}
         records.append(record)
         print(source['id'], flush=True)
-    (public / 'showcase.json').write_text(json.dumps(records, indent=2) + '\n')
+    manifest.write_text(json.dumps(records, indent=2) + '\n')
 
 
 if __name__ == '__main__':

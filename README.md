@@ -1,6 +1,6 @@
 # Color Study
 
-Explore faint color in photographs of painted surfaces using regularized RGB decorrelation stretch.
+Explore surviving color in textiles and ancient art using regularized RGB decorrelation stretch. The searchable open database contains 66 photographs, including 29 textiles.
 
 [Open the website](https://color-study-painted-surfaces.kristen368163.chatgpt.site) · [Read the original NASA article](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) · [Download the open photo database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all)
 
@@ -11,7 +11,7 @@ Explore faint color in photographs of painted surfaces using regularized RGB dec
 - [Website and browser app](app/ColorStudy.tsx)
 - [Community collection server](server/community.mjs) and [database schema](db/schema.ts)
 - [Reproducible showcase previews](scripts/build-showcase.py)
-- [11 full-resolution photographs](public/originals/) and [image credits](CREDITS.md)
+- [66 study photographs, including 29 textiles](public/originals/) and [image credits](CREDITS.md)
 - [20-target research guide](public/targets.md)
 - [Source records, dimensions and licenses](public/sources.json)
 
@@ -24,7 +24,15 @@ npm ci
 npm run dev
 ```
 
-Open the local URL printed by the server. Import a photo, adjust the color separation, select an area to fit, compare, and export a full-resolution PNG. Private image-lab imports stay in your browser. The separate contribution form publishes a JPEG copy only after explicit consent. No account or API key is required to run the app locally; D1 and R2 are emulated locally and persist under `.wrangler/`. A production deployment needs its own `DB` (D1) and `PHOTOS` (R2) bindings. The initial migration is in `drizzle/`.
+Open the local URL printed by the server. Import a photo, adjust the color separation, select an area to fit, compare, and export a full-resolution PNG. Private image-lab imports stay in your browser. The separate contribution form publishes a JPEG copy only after explicit consent. No account or API key is required to run the app locally; D1 and R2 are emulated locally and persist under `.wrangler/`. A production deployment needs its own `DB` (D1) and `PHOTOS` (R2) bindings. Schema migrations are in `drizzle/`.
+
+## Explore and expand the catalog
+
+[Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) by material, region, date and museum. Open any photograph in the image lab, download its JPEG or follow the original museum record. Some records also link to a larger archival TIFF.
+
+[Catalog documentation](CATALOG.md) explains the selection, licenses, schema, search API and reproducible imports. `GET /api/catalog?category=Textiles&download=all` downloads every textile record. `GET /api/catalog` provides filtered, paginated access backed by D1.
+
+To add museum images, edit `data/museum-selection.json` and run `python3 scripts/import-museums.py`. Reviewed museum metadata snapshots are included under `data/museum-records/`. The importer checks image-rights flags, retains source JPEG bytes and hashes, and generates sRGB thumbnails. Use `--refresh` to refetch museum records. All 66 originals occupy approximately 312 MiB; page browsing loads small previews.
 
 ## Community contributions
 
@@ -45,7 +53,7 @@ pip install -r requirements.txt
 python process_images.py --study marble-sphinx --output outputs/sphinx
 ```
 
-Omit `--study` to process all 11 examples, or repeat it to choose several. Outputs include PNGs, comparisons, exact processing settings and a ZIP. Use a new output directory for each run; existing results are preserved.
+Omit `--study` to process all 66 examples, or repeat it to choose several. Outputs include PNGs, comparisons, exact processing settings and a ZIP. Use a new output directory for each run; existing results are preserved.
 
 ## Checks
 
@@ -55,7 +63,7 @@ npm run lint
 npx tsc --noEmit
 ```
 
-Tests compare the JavaScript math with the original Python engine and exercise worker loading, selected-area fitting, exports, app HTML and image integrity. Image-worker tests use an in-memory canvas; browser codecs and interaction need a browser walkthrough. Community tests use real local D1/R2 emulation to check consent, persistent uploads, metadata removal, deletion authorization, export pagination, full database downloads, rate limits and storage-failure cleanup.
+Tests compare the JavaScript math with the original Python engine and exercise worker loading, selected-area fitting, exports, app HTML and image integrity. Catalog tests check persistent seeding, combined search/date filters, stable pagination, complete exports and source-rights evidence. Image-worker tests use an in-memory canvas; browser codecs and interaction need a browser walkthrough. Community tests use real local D1/R2 emulation to check consent, persistent uploads, metadata removal, deletion authorization, export pagination, full database downloads, rate limits and storage-failure cleanup.
 
 ## About the method
 
@@ -65,7 +73,7 @@ Enhancement exaggerates color already present in a photo. It does not reconstruc
 
 ## License
 
-Code and original documentation: [MIT](LICENSE). Photographs retain their individual licenses in [CREDITS.md](CREDITS.md) and [sources.json](public/sources.json). Keep those credits and license links when redistributing images, and identify enhanced images as modified. The MIT license does not relicense third-party images or dependencies.
+Code and original documentation: [MIT](LICENSE). Curated metadata and original catalog annotations: [CC0](CATALOG-LICENSE.md). Photographs retain their individual licenses in [CREDITS.md](CREDITS.md) and [sources.json](public/sources.json). Keep those credits and license links when redistributing images, and identify enhanced images as modified. The MIT license does not relicense third-party images or dependencies.
 
 Run `python scripts/build-showcase.py` to regenerate the resized originals and enhanced website comparisons. Their original hashes, fitting regions, settings and exact matrices are recorded in `public/showcase.json`.
 
