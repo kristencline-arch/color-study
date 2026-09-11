@@ -1,0 +1,92 @@
+{
+  "pageid": 133853564,
+  "ns": 6,
+  "title": "File:Keldby Kirche 10.jpg",
+  "index": 8,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 7580157,
+      "width": 5472,
+      "height": 3648,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Keldby_Kirche_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Keldby_Kirche_10.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133853564",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-07-02 08:38:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Keldby Kirche 10",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Frescoes in Keldby Kirke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Kalkmalereien z.T. vom Elmelunde Meister.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Edelmauswaldgeist\" title=\"User:Edelmauswaldgeist\">Edelmauswaldgeist</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": 129796,
+  "accession_number": "1952.230",
+  "share_license_status": "CC0",
+  "tombstone": "Leaf Excised from a Psalter: The Annunciation, c. 1325–50. England. Ink, tempera, and gold on vellum; sheet: 15.8 x 11.2 cm (6 1/4 x 4 7/16 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1952.230",
+  "current_location": null,
+  "title": "Leaf Excised from a Psalter: The Annunciation",
+  "creation_date": "c. 1325–50",
+  "creation_date_earliest": 1320,
+  "creation_date_latest": 1355,
+  "artists_tags": [],
+  "culture": [
+    "England"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 15.8 x 11.2 cm (6 1/4 x 4 7/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.158,
+      "height_inch": 6,
+      "height_inch_fraction": 0.25,
+      "width": 0.112,
+      "width_inch": 4,
+      "width_inch_fraction": 0.4375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 702959,
+        "title": "Late Medieval Art",
+        "description": "<i>Late Medieval Art</i>. Columbus Museum of Art, Columbus, OH (October 31-November 26, 1958).",
+        "opening_date": "1958-10-31T05:00:00"
+      },
+      {
+        "id": 520142,
+        "title": "Pages From Medieval and Renaissance Illuminated Manuscripts",
+        "description": "<i>Pages From Medieval and Renaissance Illuminated Manuscripts</i>. Berkeley Art Museum and Pacific Film Archive, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T05:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 383281,
+        "title": "Stories from Storage",
+        "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+        "opening_date": "2021-02-06T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Aspects of Late Medeival Art, </em>Gallery of Fine Arts, The Ohio State University, Columbus, OH (October 31-November 22, 1958)",
+        "opening_date": "1958-10-31T00:00:00"
+      },
+      {
+        "description": "<em>Pages from Medieval and Renaissance Illuminated Manuscripts from the Xth to the Early XVIth Centuries: An Exhibition Organized by William Mathewson Milliken, </em>University Art Gallery, University of California, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Dr. Vladimir G. Simkhovitch (1874-1959), New York, NY, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1952",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1952-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "When the previous owner first saw this leaf he was struck by the expression on the Virgin's face; according to him, \"I could not resist the purchase of the page.\"",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This miniature of the Annunciation to Mary was taken from a psalter containing the 150 sacred songs or hymns from the Book of Psalms found in the Bible. Psalters were among the most popular books of the Middle Ages, used for daily church services in monasteries and for private devotion. The leaf from this liturgical manuscript probably came from England and was made around the time of the Black Death. In the past, manuscripts were often disassembled by owners and dealers to sell the single miniatures for a larger profit. Thus, the original cannot be reconstructed today.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79911315"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1952.230-leaf-excised-from-a"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Art ancien S.A. <em>Manuscripts from the Carolingian Period to the Sixteenth Century. Fine Early Printed Books. </em>Catalogue Nr. 37. [Bern.]: [Stämpfli &amp; cie], 1940.",
+      "page_number": "no. 16",
+      "url": ""
+    },
+    {
+      "citation": "\"Part II. Annual Report Issue for the Year 1952.\" <em>The Bulletin of the Cleveland Museum of Art</em> 40, no. 6 (1953).",
+      "page_number": "p. 135",
+      "url": "https://www.jstor.org/stable/25141894"
+    },
+    {
+      "citation": "Columbus Gallery of Fine Arts. <em>Aspects of Late Mediaeval Art; The Mediaeval Conference, the Ohio State University</em>. 1958.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Ricci, Seymour de. <em>Census of Medieval and Renaissance Manuscripts in the United States and Canada, Supplement</em>. New York: Bibliographical Society, 1961.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Griffith, Beatrice Fox. <em>Treasure Under Glass, Examples of the Arts and Crafts from the British Isles From the Prehistoric Millennia to the Sixteenth Century A.D. </em>In Museums, Libraries, and Collections Open to the Public in the United States of America. Harrisburg, Pa: Stackpole Co, 1963.",
+      "page_number": "p. 89, no. 14",
+      "url": null
+    },
+    {
+      "citation": "Milliken, William Mathewson. <em>Pages from Medieval and Renaissance Illuminated Manuscripts from the Xth to the Early XVIth Centuries: An Exhibition.</em> Berkeley: University of California, 1963.",
+      "page_number": "p. 16, cat. no. 12",
+      "url": null
+    },
+    {
+      "citation": "Gemin, Massimo.<em> Nuovi studi su Paolo Veronese</em>. Venezia: Arsenale editrice, 1990.",
+      "page_number": "p. 270",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1952.230",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.230/1952.230_web.jpg",
+      "width": "631",
+      "height": "893",
+      "filesize": "476708",
+      "filename": "1952.230_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.230/1952.230_print.jpg",
+      "width": "2401",
+      "height": "3400",
+      "filesize": "7088800",
+      "filename": "1952.230_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.230/1952.230_full.tif",
+      "width": "3944",
+      "height": "5584",
+      "filesize": "66107664",
+      "filename": "1952.230_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 129796,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1952-06-23T00:00:00",
+  "sortable_date": 1320,
+  "date_added_to_oa": null,
+  "date_text": "c. 1325–50",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:41:50.291000"
+}

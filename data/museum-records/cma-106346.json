@@ -1,0 +1,172 @@
+{
+  "id": 106346,
+  "accession_number": "1924.429",
+  "share_license_status": "CC0",
+  "tombstone": "Single Leaf: Table of Consanguinity, c. 1200. England. Ink, tempera, and gold on vellum; sheet: 28.9 x 21.8 cm (11 3/8 x 8 9/16 in.). The Cleveland Museum of Art, Gift from J. H. Wade, 1924.429",
+  "current_location": "115 Manuscripts & Textiles",
+  "title": "Single Leaf: Table of Consanguinity",
+  "creation_date": "c. 1200",
+  "creation_date_earliest": 1195,
+  "creation_date_latest": 1205,
+  "artists_tags": [],
+  "culture": [
+    "England"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 28.9 x 21.8 cm (11 3/8 x 8 9/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.289,
+      "height_inch": 11,
+      "height_inch_fraction": 0.375,
+      "width": 0.218,
+      "width_inch": 8,
+      "width_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 520142,
+        "title": "Pages From Medieval and Renaissance Illuminated Manuscripts",
+        "description": "<i>Pages From Medieval and Renaissance Illuminated Manuscripts</i>. Berkeley Art Museum and Pacific Film Archive, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T05:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 302268,
+        "title": "Devotion and Learning in the Middle Ages",
+        "description": "<i>Devotion and Learning in the Middle Ages</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 4, 2017-December 3, 2018).",
+        "opening_date": "2017-12-04T05:00:00"
+      },
+      {
+        "id": 703224,
+        "title": "Roots of Divinity: Christ’s Family Tree in Northern European Medieval Art",
+        "description": "<i>Roots of Divinity: Christ’s Family Tree in Northern European Medieval Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 6, 2026-August 8, 2027).",
+        "opening_date": "2026-09-06T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art (10/10/2004 - 10/02/2005); \"Illuminated Manuscripts\"",
+        "opening_date": "2004-10-10T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "2378.23"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Consanguinity diagrams were used to show the degree of kinship between an individual and his or her \"blood\" relations. These tables followed an established tradition dating back to around AD 600. Until church law was relaxed in 1215, a marriage could only be contracted by persons separated by seven degrees of relationship. After 1215 the degree of separation was reduced to four. Tables of Consanguinity were therefore used by church officials to prove or disprove bars to marriage.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79892814"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1924.429-single-leaf-table-of"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"Illuminated Miniatures in the Cleveland Museum of Art.\" <em>The Bulletin of the Cleveland Museum of Art 12</em>, no. 4 (April 1925): 61-71",
+      "page_number": "Mentioned: p. 62; Reproduced: p. 65",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 101",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n32"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1924.429",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_web.jpg",
+      "width": "688",
+      "height": "900",
+      "filesize": "312041",
+      "filename": "1924.429_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_print.jpg",
+      "width": "2598",
+      "height": "3400",
+      "filesize": "3343006",
+      "filename": "1924.429_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_full.tif",
+      "width": "5492",
+      "height": "7186",
+      "filesize": "118427912",
+      "filename": "1924.429_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_alt0_web.jpg",
+        "width": "691",
+        "height": "900",
+        "filesize": "205527"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_alt0_print.jpg",
+        "width": "2610",
+        "height": "3400",
+        "filesize": "2522543"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1924.429/1924.429_alt0_full.tif",
+        "width": "5449",
+        "height": "7097",
+        "filesize": "116044360"
+      },
+      "date_created": "2017-10-26T12:12:55",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift from J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 106346,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1924-03-03T00:00:00",
+  "sortable_date": 1195,
+  "date_added_to_oa": null,
+  "date_text": "c. 1200",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-06 05:01:22.562000"
+}

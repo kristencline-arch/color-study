@@ -1,0 +1,92 @@
+{
+  "pageid": 125489637,
+  "ns": 6,
+  "title": "File:Spring fresco from Akrotiri, NAMA BE 1974.29, 225644.jpg",
+  "index": 30,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9786161,
+      "width": 5520,
+      "height": 3672,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Spring_fresco_from_Akrotiri%2C_NAMA_BE_1974.29%2C_225644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Spring_fresco_from_Akrotiri,_NAMA_BE_1974.29,_225644.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125489637",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-11-15 11:22:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Spring fresco from Akrotiri, NAMA BE 1974.29, 225644",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Spring fresco (Akrotiri)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Spring fresco (wall painting) from Akrotiri. Part of the Room D 2 in the Delta Complex. 17th century BC. National Archaeological Museum of Athens BE 1974.29. (Collection of Prehistoric Antiquities, inv. no ΑΚΡ 1977.29)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-06-11 12:30:46",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "id": 111528,
+  "accession_number": "1930.105",
+  "share_license_status": "CC0",
+  "tombstone": "Initial G[audeamus omnes] from a Gradual: The Court of Heaven, 1371–77. Don Silvestro dei Gherarducci (Italian, 1339–1399). Ink, tempera, and gold on vellum; sheet: 38.6 x 36.5 cm (15 3/16 x 14 3/8 in.); framed: 68.9 x 53 cm (27 1/8 x 20 7/8 in.); matted: 63.5 x 47.6 cm (25 x 18 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1930.105",
+  "current_location": null,
+  "title": "Initial G[audeamus omnes] from a Gradual: The Court of Heaven",
+  "creation_date": "1371–77",
+  "creation_date_earliest": 1371,
+  "creation_date_latest": 1377,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy, Florence"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 38.6 x 36.5 cm (15 3/16 x 14 3/8 in.); Framed: 68.9 x 53 cm (27 1/8 x 20 7/8 in.); Matted: 63.5 x 47.6 cm (25 x 18 3/4 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.386,
+      "height_inch": 15,
+      "height_inch_fraction": 0.1875,
+      "width": 0.365,
+      "width_inch": 14,
+      "width_inch_fraction": 0.375
+    },
+    "framed": {
+      "height": 0.689,
+      "height_inch": 27,
+      "height_inch_fraction": 0.125,
+      "width": 0.53,
+      "width_inch": 20,
+      "width_inch_fraction": 0.875
+    },
+    "matted": {
+      "height": 0.635,
+      "height_inch": 25,
+      "height_inch_fraction": 0.0,
+      "width": 0.476,
+      "width_inch": 18,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312517,
+        "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+        "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+        "opening_date": "1936-06-26T04:00:00"
+      },
+      {
+        "id": 312341,
+        "title": "The Silver Jubilee Exhibition",
+        "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+        "opening_date": "1941-06-23T04:00:00"
+      },
+      {
+        "id": 361650,
+        "title": "The International Style: The Arts in Europe around 1400",
+        "description": "<i>The International Style: The Arts in Europe around 1400</i>. The Walters Art Museum, Baltimore, MD (organizer) (October 23-December 2, 1962).",
+        "opening_date": "1962-10-23T04:00:00"
+      },
+      {
+        "id": 304213,
+        "title": "Gothic Art 1360-1440",
+        "description": "<i>Gothic Art 1360-1440</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 6-September 15, 1963).",
+        "opening_date": "1963-08-06T04:00:00"
+      },
+      {
+        "id": 515593,
+        "title": "Exhibition of Sienese and Florentine Manuscripts",
+        "description": "<i>Exhibition of Sienese and Florentine Manuscripts</i>. Wildenstein & Co., London, United Kingdom of Great Britain and Northern Ireland (organizer) (February 24-April 10, 1965).",
+        "opening_date": "1965-02-24T05:00:00"
+      },
+      {
+        "id": 301412,
+        "title": "Florence and the Arts: Five Centuries of Patronage",
+        "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+        "opening_date": "1971-07-13T04:00:00"
+      },
+      {
+        "id": 445103,
+        "title": "Italian Renaissance Illuminations",
+        "description": "<i>Italian Renaissance Illuminations</i>. High Museum of Art, Atlanta, GA (organizer) (December 16, 1973-February 15, 1974).",
+        "opening_date": "1973-12-16T05:00:00"
+      },
+      {
+        "id": 311502,
+        "title": "The Decorated Letter and the Illuminator's Art",
+        "description": "<i>The Decorated Letter and the Illuminator's Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 25-December 19, 1993).",
+        "opening_date": "1993-09-25T04:00:00"
+      },
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 344774,
+        "title": "Italian Choral Books of the Renaissance (Manuscript Rotation) - Gallery 115",
+        "description": "<i>Italian Choral Books of the Renaissance (Manuscript Rotation) - Gallery 115</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 10, 2015-December 12, 2016).",
+        "opening_date": "2015-12-10T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Illuminated Books of the Middle Ages and Renaissance,</em> The Walters Art Gallery, Baltimore (January 27-March 13, 1949).",
+        "opening_date": "1949-01-27T00:00:00"
+      },
+      {
+        "description": "<em>Medieval and Renaissance Illuminated Manuscripts</em>, Los Angeles County Museum, California (November 25, 1953-January 9, 1954).",
+        "opening_date": "1953-11-25T00:00:00"
+      },
+      {
+        "description": "<em>The International Style</em>, The Walters Art Gallery, Baltimore (October 23-December 2, 1962).",
+        "opening_date": "1962-10-23T00:00:00"
+      },
+      {
+        "description": "<em>The Art of Painting in Florence and Siena from 1250 to 1500</em>, Wildenstein &amp; Co., London, England (1965).",
+        "opening_date": "1965-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Italian Renaissance Illuminations</em>, High Museum of Art, Atlanta, Georgia (December 16, 1973-February 15, 1974).",
+        "opening_date": "1973-12-16T00:00:00"
+      },
+      {
+        "description": "<em>Paintings and Illumination in Early Renaissance Florence 1300-1450</em>, The Metropolitan Museum of Art, New York, NY (November 18, 1994-February 26, 1995).",
+        "opening_date": "1994-11-18T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "W.Y. Ottley (London, 1838, no. 182); Edouard Kann, Paris.",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This elegant and colorful initial G comes from a multivolume set of choral books illuminated by Don Silvestro, a Camaldolese monk, for his monastery of Santa Maria degli Angeli in Florence. In the original book, this initial would have introduced the text: Gaudeamus omnes in Domino (“Let us rejoice in the Lord”), the beginning of Introit, the introduction, for the Feast of All Saints on November 1. This beautiful initial is generally considered to be the artist’s masterpiece.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80003808"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1930.105-initial-g-audeamus-o"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art. <em>Catalogue of the Twentieth Anniversary Exhibition of the Cleveland Museum of Art: The Official Art Exhibit of the Great Lakes Exposition : June Twenty-Sixth to October Fourth 1936.</em> [Cleveland, Ohio]: [Cleveland Museum of Art], 1936.",
+      "page_number": "no. 135, p. 58, repr. pl. XIII",
+      "url": null
+    },
+    {
+      "citation": "Walters Art Gallery (Baltimore, Md.), and Dorothy Eugenia Miner.<em> Illuminated Books of the Middle Ages and Renaissance: An Exhibition Held at the Baltimore Museum of Art, January 27-March 13. </em>Baltimore: Trustees of the Walters Art Gallery, 1949.",
+      "page_number": "cat. no. 175, p. 64, repr. pl. LXVII",
+      "url": null
+    },
+    {
+      "citation": "Milliken, William. \"Miniatures by Lorenzo Monaco and Francesco del Cherico.\" <em>The Bulletin of the Cleveland Museum of Art </em>37, no. 3 (March 1950): 43-46.",
+      "page_number": "Mentioned: p. 44",
+      "url": "https://www.jstor.org/stable/25141618"
+    },
+    {
+      "citation": "Los Angeles County Calif. Museum, Los Angeles. <em>Mediaeval and Renaissance Illuminated Manuscripts; A Loan Exhibition, November 25, 1953-January 9, 1954</em>. 1953.",
+      "page_number": "no. 100",
+      "url": null
+    },
+    {
+      "citation": "Walters Art Gallery (Baltimore, Md.).<em> The International Style: The Arts in Europe Around 1400; [Exhibition]: October 23-December 2, 1962,</em> / B. [Baltimore, Md.]: Walters Art Gallery, 1962.",
+      "page_number": "no. 74, p. 75",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>A Missal for a King: Gothic Art, 1360-1440</em> [Cleveland]: [The Museum], 1963.",
+      "page_number": "p. 181",
+      "url": null
+    },
+    {
+      "citation": "“Gothic Art 1360-1440.” <em>The Bulletin of the Cleveland Museum of Art</em> 50, no. 7 (September 1963): 174–215.",
+      "page_number": "Reproduced: p. 181, no. 59; Mentioned: p. 209, no. 59",
+      "url": "http://www.jstor.org/stable/25151960"
+    },
+    {
+      "citation": "Gore, St. John, and Denys Sutton. <em>The Art of Painting in Florence &amp; Siena from 1250 to 1500; A Loan Exhibition, 24 February-10 April 1965,</em> Wildenstein. [London]: [Wildenstein], 1965.",
+      "page_number": "p. 12, no. 19",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 57",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n81"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 57",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n81"
+    },
+    {
+      "citation": "Pillsbury, Edmund P.<em> Florence and the Arts; Five Centuries of Patronage</em>. 1971.",
+      "page_number": "no. 44",
+      "url": null
+    },
+    {
+      "citation": "High Museum of Art. <em>Italian Renaissance Illuminations: December 14, 1973-February 15, 1974</em>, the High Museum of Art. [Atlanta]: [High Museum of Art], 1973.",
+      "page_number": "cat. no. 21, repr. fig 6",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 65",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n85"
+    },
+    {
+      "citation": "Kanter, Laurence B.<em> Painting and Illumination in Early Renaissance Florence, 1300-1450</em>. New York: Metropolitan Museum of Art, 1994.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein<em>. Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 270-271, no. 102",
+      "url": ""
+    },
+    {
+      "citation": "Fliegel, Stephen N. \"Initial Impressions.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 56, no. 2 (March/April 2016): 16-17.",
+      "page_number": "Reproduced and Mentioned: p. 16",
+      "url": "https://archive.org/details/CMAMM2016-02/page/n7/mode/2up"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1930.105",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1930.105/1930.105_web.jpg",
+      "width": "837",
+      "height": "893",
+      "filesize": "703873",
+      "filename": "1930.105_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1930.105/1930.105_print.jpg",
+      "width": "3186",
+      "height": "3400",
+      "filesize": "2960721",
+      "filename": "1930.105_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1930.105/1930.105_full.tif",
+      "width": "3520",
+      "height": "3756",
+      "filesize": "39701476",
+      "filename": "1930.105_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 111528,
+  "creators": [
+    {
+      "id": 7799,
+      "description": "Don Silvestro dei Gherarducci (Italian, 1339–1399)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1339",
+      "death_year": "1399",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1930-03-06T00:00:00",
+  "sortable_date": 1371,
+  "date_added_to_oa": null,
+  "date_text": "1371–77",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Miniature from an Antiphonary: Historiated Initial G with Christ and Virgin in Glory"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-04 11:16:27.385000"
+}

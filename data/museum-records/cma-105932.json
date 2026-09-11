@@ -1,0 +1,174 @@
+{
+  "id": 105932,
+  "accession_number": "1924.1014",
+  "share_license_status": "CC0",
+  "tombstone": "Single Miniature Excised from a Missal: The Crucifixion, c. 1385–1390. Flanders, Bruges. Ink, tempera, and gold on parchment; sheet: 27.3 x 20.3 cm (10 3/4 x 8 in.). The Cleveland Museum of Art, Gift from J. H. Wade, 1924.1014",
+  "current_location": null,
+  "title": "Single Miniature Excised from a Missal: The Crucifixion",
+  "creation_date": "c. 1385–1390",
+  "creation_date_earliest": 1385,
+  "creation_date_latest": 1390,
+  "artists_tags": [],
+  "culture": [
+    "Flanders, Bruges"
+  ],
+  "technique": "ink, tempera, and gold on parchment",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 27.3 x 20.3 cm (10 3/4 x 8 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.273,
+      "height_inch": 10,
+      "height_inch_fraction": 0.75,
+      "width": 0.203,
+      "width_inch": 8,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 518448,
+        "title": "Netherlandish Book Illustrations",
+        "description": "<i>Netherlandish Book Illustrations</i>. Allen Memorial Art Museum, Oberlin, OH (organizer) (April 22-May 15, 1960).",
+        "opening_date": "1960-04-22T05:00:00"
+      },
+      {
+        "id": 520142,
+        "title": "Pages From Medieval and Renaissance Illuminated Manuscripts",
+        "description": "<i>Pages From Medieval and Renaissance Illuminated Manuscripts</i>. Berkeley Art Museum and Pacific Film Archive, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T05:00:00"
+      },
+      {
+        "id": 304213,
+        "title": "Gothic Art 1360-1440",
+        "description": "<i>Gothic Art 1360-1440</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 6-September 15, 1963).",
+        "opening_date": "1963-08-06T04:00:00"
+      },
+      {
+        "id": 186370,
+        "title": "Dukes and Angels: Art from the Court of Burgundy (1364-1419)",
+        "description": "<i>Dukes and Angels: Art from the Court of Burgundy (1364-1419)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2004-January 9, 2005).",
+        "opening_date": "2004-05-27T00:00:00"
+      },
+      {
+        "id": 196935,
+        "title": "The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection",
+        "description": "<i>The Glory of the Painted Page: Manuscript Illuminations from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 2010-April 17, 2011).",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "id": 368624,
+        "title": "The Netherlandish Miniature, 1260–1550",
+        "description": "<i>The Netherlandish Miniature, 1260–1550</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 16, 2013-December 8, 2014).",
+        "opening_date": "2013-12-16T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Cleveland, OH: The Cleveland Museum of Art; October 24, 2004-January 9, 2005. \"Dukes and Angels: Art from the Court of Burgundy (1364-1419).\"",
+        "opening_date": "2004-10-24T00:00:00"
+      },
+      {
+        "description": "Cleveland Museum of Art, (11/06/2010 - 04/17/2011); \"The Glory Of the Painted Page: Manuscript Illuminations from the Permanent Collections\"",
+        "opening_date": "2010-11-06T00:00:00"
+      },
+      {
+        "description": "Main Gallery Rotation (gallery 115): December 16, 2013 - December 8, 2014.",
+        "opening_date": "2013-12-16T00:00:00"
+      }
+    ]
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This miniature of the Crucifixion once formed the introductory illustration to the Canon of the Mass in a liturgical missal. The miniature’s style and compositional details compare with the work of various immigrant Netherlandish painters active in France during this same period. The Netherlands was rich in artistic talent, and the willingness with which immigrant artists were accepted in France is demonstrated by an entire generation of Franco-Flemish artists. Elements in the miniature-such as the grouping of the holy women on Christ’s right who support the grieving Virgin, and the treatment of Christ on the cross-are similar to Jean de Beaumetz, court painter to Philip the Good, duke of Burgundy (1364-1404).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757443"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1924.1014-single-miniature-exc"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "W. M. M. “Illuminated Miniatures in the Cleveland Museum of Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 12, no. 4 (April 1925): 61–71.",
+      "page_number": "Mentioned: p. 69; Reproduced: p. 67, fig. h",
+      "url": "http://www.jstor.org/stable/25136832"
+    },
+    {
+      "citation": "“Gothic Art 1360-1440.” <em>The Bulletin of the Cleveland Museum of Art</em> 50, no. 7 (September 1963): 174–215.",
+      "page_number": "Mentioned: p. 202, no. 9; Reproduced: p. 176",
+      "url": "http://www.jstor.org/stable/25151960"
+    },
+    {
+      "citation": "Fajt, Jiří. Nürnberg als Kunstzentrum des Heiligen Römischen Reichs: höfische und städtische Malerei in der Zeit Kaiser Karls IV. 1346-1378. Berlin : Deutscher Kunstverlag ; Prag : Nationalgalerie Prag 2019.",
+      "page_number": "Reproduced: p. 122, Abb. 99",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1924.1014",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.1014/1924.1014_web.jpg",
+      "width": "681",
+      "height": "893",
+      "filesize": "604944",
+      "filename": "1924.1014_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.1014/1924.1014_print.jpg",
+      "width": "2591",
+      "height": "3400",
+      "filesize": "3398665",
+      "filename": "1924.1014_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1924.1014/1924.1014_full.tif",
+      "width": "4343",
+      "height": "5700",
+      "filesize": "74307772",
+      "filename": "1924.1014_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift from J. H. Wade",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 105932,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1924-11-26T00:00:00",
+  "sortable_date": 1385,
+  "date_added_to_oa": null,
+  "date_text": "c. 1385–1390",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Leaf from a Missal: The Crucifixion"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:41:53.196000"
+}

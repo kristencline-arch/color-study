@@ -1,0 +1,88 @@
+{
+  "pageid": 1619477,
+  "ns": 6,
+  "title": "File:Pictografia igneri.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 698478,
+      "width": 1704,
+      "height": 2272,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pictografia_igneri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pictografia_igneri.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1619477",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2007-01-31 03:08:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pictografia igneri",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Nikon Coolpix 4500|Files with no machine-readable source|Pomier Caves|License migration redundant|Self-published work|Assumed own work|Pictographs in the Dominican Republic",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Labyrinthine pictography associated with the Igneri culture (Ciboney), Bridge Cave, El Pomier.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/w/index.php?title=User:Espeleogrupo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Espeleogrupo (page does not exist)\">Espeleogrupo</a> assumed (based on copyright claims).",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

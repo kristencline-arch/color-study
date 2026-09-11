@@ -1,0 +1,111 @@
+{
+  "id": 123496,
+  "accession_number": "1943.95",
+  "share_license_status": "CC0",
+  "tombstone": "Sampler, 1810. Norway. Linen, silk, and cotton; embroidery; average: 24.1 x 22.3 cm (9 1/2 x 8 3/4 in.). The Cleveland Museum of Art, Gift of George W. Bierce, 1943.95",
+  "current_location": null,
+  "title": "Sampler",
+  "creation_date": "1810",
+  "creation_date_earliest": 1810,
+  "creation_date_latest": 1810,
+  "artists_tags": [],
+  "culture": [
+    "Norway"
+  ],
+  "technique": "Linen, silk, and cotton; embroidery",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Sampler",
+  "measurements": "Average: 24.1 x 22.3 cm (9 1/2 x 8 3/4 in.)",
+  "dimensions": {
+    "average": {
+      "height": 0.241,
+      "height_inch": 9,
+      "height_inch_fraction": 0.5,
+      "width": 0.223,
+      "width_inch": 8,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "across top: \"ANE MARGRETE OLSDATTER F. A. 1810\"; alphabets and numerals in rows beneath.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79900687"
+    ],
+    "internet_archive": []
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1943.95",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.95/1943.95_web.jpg",
+      "width": "822",
+      "height": "900",
+      "filesize": "533831",
+      "filename": "1943.95_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.95/1943.95_print.jpg",
+      "width": "3104",
+      "height": "3400",
+      "filesize": "6565927",
+      "filename": "1943.95_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.95/1943.95_full.tif",
+      "width": "4769",
+      "height": "5223",
+      "filesize": "74756192",
+      "filename": "1943.95_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of George W. Bierce",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 123496,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1943-04-26T00:00:00",
+  "sortable_date": 1810,
+  "date_added_to_oa": null,
+  "date_text": "1810",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:21:14.328000"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 169736,
+  "accession_number": "2011.52",
+  "share_license_status": "CC0",
+  "tombstone": "Initial I: Entwined Beast and Serpent: Leaf from a Bible (2 of 2 Excised Leaves), c. 1225–50. England, Glastonbury(?), 13th century. Tempera and ink on vellum; leaf: 20 x 15.2 cm (7 7/8 x 6 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 2011.52",
+  "current_location": "113 French Tapestries & Illuminated Manuscripts",
+  "title": "Initial I: Entwined Beast and Serpent: Leaf from a Bible (2 of 2 Excised Leaves)",
+  "creation_date": "c. 1225–50",
+  "creation_date_earliest": 1220,
+  "creation_date_latest": 1255,
+  "artists_tags": [],
+  "culture": [
+    "England, Glastonbury(?), 13th century"
+  ],
+  "technique": "tempera and ink on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Leaf: 20 x 15.2 cm (7 7/8 x 6 in.)",
+  "dimensions": {
+    "leaf": {
+      "height": 0.2,
+      "height_inch": 7,
+      "height_inch_fraction": 0.875,
+      "width": 0.152,
+      "width_inch": 6,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 192960,
+        "title": "The Jeanne Miles Blackburn Collection of Manuscript Illuminations",
+        "description": "<i>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 19, 1999-February 27, 2000).",
+        "opening_date": "1999-12-19T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Glastonbury Abbey (purportedly)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Roger Gale (1672-1744), Yorkshire, England",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "[Sotheby's London, 22 June 1982, lot 47]",
+      "citations": [],
+      "footnotes": null,
+      "date": "June 22, 1982",
+      "sortorder": 3
+    },
+    {
+      "description": "[Bruce Ferrini, Akron, OH, sold to Jeanne Miles Blackburn]",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 4
+    },
+    {
+      "description": "Jeanne Miles Blackburn, Durham, NC, gifted to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "-2011",
+      "sortorder": 5
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "2011-",
+      "sortorder": 6
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 160810,
+      "description": "Leaf from a Bible: Initial E: Entwined Lions and Serpents (1 of 2 Excised Leaves), c. 1225–50. England, Glastonbury(?), 13th century. Tempera and ink on vellum; sheet: 20 x 15 cm (7 7/8 x 5 7/8 in.). The Cleveland Museum of Art, The Jeanne Miles Blackburn Collection, 1999.122",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "The museum owns another leaf from this same bible, <a href=\"https://www.clevelandart.org/art/1999.122\">1999.122.</a>",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Pair of Leaves from a Latin Bible: Initial I: Entwined Beast and Serpent (opening of Book of Ruth) and Initial E: Entwined Lion and Serpents (opening of the Third Book of Kings), about 1225-50 England, Glastonbury(?) Ink and tempera on vellum The Jeanne Miles Blackburn Collection [Cat. nos. 2 and 3 (CMA 1999.122)] This pair of leaves from the same one-volume Bible have been traditionally associated with the Benedictine abbey of Glastonbury in southwest England. It is known that the Bible once belonged to the English antiquary and collector, Roger Gale (1672-1744), whose library of 450 manuscripts once included two of the surviving 35 books from Glastonbury Abbey. Until its dissolution in 1539, Glastonbury was one of the greatest and wealthiest abbeys in Europe. Given its vast wealth and the recorded library lists, the abbey must have been a substantial patron of the arts. However, only a few illuminated manuscripts can now be positively identified as Glastonbury work.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80077401"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2011.52-initial-i-entwined-b"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Sotheby's (Firm). <em>Western Manuscripts and Miniatures</em>. 1982.",
+      "page_number": "lot 47",
+      "url": ""
+    },
+    {
+      "citation": "Fliegel, Stephen N. <em>The Jeanne Miles Blackburn Collection of Manuscript Illuminations</em>. Cleveland, Ohio: Cleveland Museum of Art, 1999.",
+      "page_number": "Mentioned and Reproduced: p. 13, cat. no. 2",
+      "url": "https://archive.org/details/BlackburnIlluminations/page/n25"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2011.52",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_web.jpg",
+      "width": "686",
+      "height": "893",
+      "filesize": "162837",
+      "filename": "2011.52_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_print.jpg",
+      "width": "2613",
+      "height": "3400",
+      "filesize": "1965071",
+      "filename": "2011.52_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_full.tif",
+      "width": "5412",
+      "height": "7040",
+      "filesize": "114323428",
+      "filename": "2011.52_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_alt0_web.jpg",
+        "width": "688",
+        "height": "893",
+        "filesize": "165378"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_alt0_print.jpg",
+        "width": "2621",
+        "height": "3400",
+        "filesize": "2032484"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2011.52/2011.52_alt0_full.tif",
+        "width": "5440",
+        "height": "7056",
+        "filesize": "115175916"
+      },
+      "date_created": "2012-10-16T15:04:10",
+      "annotation": ""
+    }
+  ],
+  "creditline": "The Jeanne Miles Blackburn Collection",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "The Honey and Leighton Rosenthal Family Gallery",
+  "athena_id": 169736,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2011-06-06T00:00:00",
+  "sortable_date": 1220,
+  "date_added_to_oa": null,
+  "date_text": "c. 1225–50",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "1 of a Pair of Leaves from a Latin Bible: Initial I: Entwined Beast and Serpent",
+    "Zoomorphic Dragon and Serpent, decorated initial I on a text leaf in Latin, from a Vulgate Bible (Ruth: Opening)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-11 14:01:04.884000"
+}

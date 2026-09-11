@@ -1,0 +1,573 @@
+{
+  "id": 135920,
+  "accession_number": "1959.42",
+  "share_license_status": "CC0",
+  "tombstone": "Saint Lawrence, 1502–8. Tilman Riemenschneider (German, active Würzburg, c. 1460–1531). Lindenwood with polychromy and gilding; overall: 93.8 x 38.5 x 21.8 cm (36 15/16 x 15 3/16 x 8 9/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1959.42",
+  "current_location": "111 German and Austrian Gothic",
+  "title": "Saint Lawrence",
+  "creation_date": "1502–8",
+  "creation_date_earliest": 1502,
+  "creation_date_latest": 1508,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Germany, Würzburg, 16th century"
+  ],
+  "technique": "lindenwood with polychromy and gilding",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Gothic",
+  "type": "Sculpture",
+  "measurements": "Overall: 93.8 x 38.5 x 21.8 cm (36 15/16 x 15 3/16 x 8 9/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.938,
+      "height_inch": 36,
+      "height_inch_fraction": 0.9375,
+      "width": 0.385,
+      "width_inch": 15,
+      "width_inch_fraction": 0.1875,
+      "depth": 0.218,
+      "depth_inch": 8,
+      "depth_inch_fraction": 0.5625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      },
+      {
+        "id": 177124,
+        "title": "Tilman Riemenschneider:  Master Sculptor of the Late Middle Ages",
+        "description": "<i>Tilman Riemenschneider:  Master Sculptor of the Late Middle Ages</i>. National Gallery of Art, Landover, MD (organizer) (October 3, 1999-January 9, 2000); The Metropolitan Museum of Art, New York, NY (February 7-May 14, 2000).",
+        "opening_date": "1999-10-03T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Richard von Passavant-Gontard, Frankfurt-am-Main, Germany",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "C. von Pannwitz, Bennebroek, The Netherlands",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 2
+    },
+    {
+      "description": "(Rosenberg & Stiebel, Inc., New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1959",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1959-",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [
+    {
+      "id": 135931,
+      "description": "Saint Stephen, 1502–8. Tilman Riemenschneider (German, active Würzburg, c. 1460–1531). Lindenwood with polychromy and gilding; overall: 93.5 x 35 x 23.5 cm (36 13/16 x 13 3/4 x 9 1/4 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1959.43",
+      "relationship": null
+    }
+  ],
+  "former_accession_numbers": [],
+  "did_you_know": "Before Riemenschneider finally settled in Würzburg, Germany, in 1484, he traveled to Strasbourg and Colmar, where he became acquainted with the works of the engraver Martin Schongauer.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This sculpture, along with that of Saint Stephen (1959.43), and two female saints preserved in Frankfurt (Historisches Museum), are believed to be the remaining fragments of a large altarpiece carved by Riemenschneider for the Dominican convent in Rothenburg in Franconia (demolished in 1813). Saints Stephen and Lawrence both wear the dalmatic to indicate their status as deacons in the early church. Each holds a symbol of his martyrdom; here, Saint Lawrence holds a grill to indicate his death by burning. Late Gothic Style Art in Germany through the early 1500s remained firmly anchored in the late Gothic style with its associated interests in realism. Riemenschneider was one of the most prolific and versatile sculptors of this style, a recognized master in both stone and wood. His flourishing workshop employed as many as 40 apprentices in sculpting, woodcarving, and painting. His sculptures are noted for the dreamy, melancholy, and introspective quality in their expressions, as well as their remarkable attention to detail.",
+  "external_resources": {
+    "wikidata": [],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1959.42-saint-lawrence"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Feulner, Adolf, and Theodor Müller. G<em>eschichte der deutschen Plastik</em>. München: F. Bruckmann, 1887.",
+      "page_number": "p. 165",
+      "url": null
+    },
+    {
+      "citation": "Riemenschneider, Tilman, and Carl Streit. <em>Tylmann Riemenschneider: 1460-1531 ; Leben und Kunstwerke des fränkischen Bildschnitzers</em>. 1 (1888) 1 (1888). Berlin: Wasmuth, 1888.",
+      "page_number": "p. 23",
+      "url": null
+    },
+    {
+      "citation": "Tönies,Eduard \"Leben und Werke des Würzburger Bildscnitzers Tilmann Riemenschneider\" <em>Studien zur deutschen Kunstgeschichte</em> XXII (1900).",
+      "page_number": "p. 261, nos. 2, 3",
+      "url": null
+    },
+    {
+      "citation": "Weber, Anton, and A. Schnizlein. Ti<em>l Riemenschneider: sein Leben und Wirken.</em> Regensburg: J. Habbel, 1911.",
+      "page_number": "pp. 192, 247",
+      "url": null
+    },
+    {
+      "citation": "Schmitt, Otto, and Georg Swarzenski. <em>Meisterwerke der bildhauerkunst in Frankfurter privatbesitz</em>. Frankfurt am Main: Frankfurter kunstverein, 1921.",
+      "page_number": "p. 28, nos. 138-9",
+      "url": null
+    },
+    {
+      "citation": "Bier, Justus, and Tilman Riemenschneider. <em>Tilmann Riemenschneider. </em>Augsburg: Filser, 1925.",
+      "page_number": "p. 10",
+      "url": null
+    },
+    {
+      "citation": "Städelsches Kunstinstitut (Frankfurt am Main, Germany). <em>Sammlung R. von Passavant-Gontard.</em> Frankfurt am Main: Städtelsches Kunstinstitut, 1929.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Schilling, R. \"Ausstellung der Sammlung R. v. Passavant-Gontard im Städelschen Kunstinstitut,\" <em>Pantheon </em>III (April, 1929).",
+      "page_number": "pp. 185, 187",
+      "url": null
+    },
+    {
+      "citation": "Allgemeines Lexikon der bildenden Kunstler von der Antike bis zur Gegenwart. 28, 28. <em>Allgemeines Lexikon Der Bildenden Kunstler Von Der Antike Bis Zur Gegenwart</em> / Unter Mitwirkung Von 320 Fachgelehrten Des In- Und Auslandes ; Herausgegeben Von Ulrich Thieme Und Felix Becker. Leipzig: E.A. Seeman, 1934.",
+      "page_number": "pp. 333-4",
+      "url": null
+    },
+    {
+      "citation": "<em>The Art Quarterly</em> (Winter 1959).",
+      "page_number": "p. 388",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, “Saint Lawrence and Saint Stephen,” September 14, 1959, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr0434"
+    },
+    {
+      "citation": "Wixom, William. \"Two Lindenwood Sculptures.\" <em>The Bulletin of the Cleveland Museum of Art </em>46, no. 9 (November 1959): 189-197.",
+      "page_number": "Mentioned: p. 189; Reproduced: p. 188, 190",
+      "url": "https://www.jstor.org/stable/25142360"
+    },
+    {
+      "citation": "<em>The Connoisseur</em> (March 1960).",
+      "page_number": "p. 136",
+      "url": null
+    },
+    {
+      "citation": "<em>La Chronique des Arts</em> (January 1960).",
+      "page_number": "p. 34, pl. 113",
+      "url": null
+    },
+    {
+      "citation": "Bier, Justus, \"Two Statues: St. Stephen and St. Lawrence by Riemenschneider in the Cleveland Museum of Art,\" <em>The Art Quarterly</em> XXIII, 3 (Autumn 1960).",
+      "page_number": "pp. 219, 223",
+      "url": null
+    },
+    {
+      "citation": "Bober, Harry, \"Medieval Art at Cleveland\" <em>Apollo</em> LXXVII no. 22 (1963).",
+      "page_number": "p. 455",
+      "url": null
+    },
+    {
+      "citation": "Wixom, William D. <em>Two Lindenwood Sculptures by Tillmann Riemenschneider. </em>Thesis--New York University, February 1963, 1963.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 76",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n100"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Selected Works: Cleveland Museum of Art</em>. 1967.",
+      "page_number": "no. 111",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 76",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n100"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Berthold Fricke. <em>The Cleveland Museum of Art. </em>Hannover: Knorr &amp; Hirth, 1970.",
+      "page_number": "p. 41",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 87",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n107"
+    },
+    {
+      "citation": "Bier, Justus, and Tilman Riemenschneider. <em>Tilmann Riemenschneider, His Life and Work. </em>Lexington, KY: University Press of Kentucky, 1982.",
+      "page_number": "pp. 8-9, 50-52, Pl. 6A-B",
+      "url": null
+    },
+    {
+      "citation": "Metford, J. C. J. <em>Dictionary of Christian Lore and Legend</em>. 1983.",
+      "page_number": "pp. 59.43, 159",
+      "url": null
+    },
+    {
+      "citation": "Riemenschneider, Tilman, Julien Chapuis, and Michael Baxandall. <em>Tilman Riemenschneider: Master Sculptor of the Late Middle Ages</em>. 1999.",
+      "page_number": "p. 108, no. 4; pp. 283-298, cat. no. 32D",
+      "url": null
+    },
+    {
+      "citation": "Hayum, Andree \"A Devotion to Carving: The Art of Tilman Riemenschneider\" <em>Art in America</em> (July 2000).",
+      "page_number": "p. 93",
+      "url": null
+    },
+    {
+      "citation": "Kalden-Rosenfeld, Iris. <em>Tilman Riemenschneider und seine Werkstatt: mit einem Katalog der allgemein als Arbeiten Riemenschneiders und seiner Werkstatt akzeptierten Werke. </em>Königstein im Taunus: Langewiesche, 2001.",
+      "page_number": "p. 127, no. 174, Kat. 14",
+      "url": null
+    },
+    {
+      "citation": "Eikelmann, Renate, Holger A. Klein, Stephen N. Fliegel, and Virginia Brilliant. <em>The Cleveland Museum of Art: Meisterwerke von 300 bis 1550. </em>München: Hirmer, 2007.",
+      "page_number": "p. 19, fig. 13",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. S<em>acred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art. </em>Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 244-245, no. 91",
+      "url": null
+    },
+    {
+      "citation": "Krohm, Hartmut, and Tobias Kunz. <em>Nicht die Bibliothek, sondern das Auge: westeuropäische Skulptur und Malerei an der Wende zur Neuzeit : Beiträge zu Ehren von Hartmut Krohm.</em> Petersberg: M. Imhof, 2008.",
+      "page_number": "p. 263",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N. <em>Resplendent Faith: Liturgical Treasuries of the Middle Ages. </em>Kent, Ohio: Kent State University Press, 2009.",
+      "page_number": "p. 62, fig. 52",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N., and Stephen N. Fliegel. A<em> Higher Contemplation: Sacred Meaning in the Christian Art of the Middle Ages</em>. Kent, Ohio: Kent State University Press, 2012.",
+      "page_number": "p. 48, fig. 40",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 2012.",
+      "page_number": "pp. 158-9",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N. \"Medieval Masterpieces.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 52, no. 4 (July/August 2012): 13-15.",
+      "page_number": "Mentioned and reproduced: p. 15",
+      "url": "https://archive.org/details/CMAMM2012-04/page/12/mode/2up"
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+      "page_number": "Mentioned and reproduced: P. 281",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1959.42",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_web.jpg",
+      "width": "629",
+      "height": "893",
+      "filesize": "57577",
+      "filename": "1959.42_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_print.jpg",
+      "width": "2396",
+      "height": "3400",
+      "filesize": "753153",
+      "filename": "1959.42_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_full.tif",
+      "width": "4131",
+      "height": "5861",
+      "filesize": "72665024",
+      "filename": "1959.42_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt0_web.jpg",
+        "width": "568",
+        "height": "893",
+        "filesize": "52378"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt0_print.jpg",
+        "width": "2163",
+        "height": "3400",
+        "filesize": "675923"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt0_full.tif",
+        "width": "3755",
+        "height": "5900",
+        "filesize": "66492256"
+      },
+      "date_created": "2012-05-30T14:50:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt1_web.jpg",
+        "width": "587",
+        "height": "893",
+        "filesize": "53369"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt1_print.jpg",
+        "width": "2235",
+        "height": "3400",
+        "filesize": "697881"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt1_full.tif",
+        "width": "3766",
+        "height": "5727",
+        "filesize": "64734020"
+      },
+      "date_created": "2012-05-30T15:17:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt2_web.jpg",
+        "width": "551",
+        "height": "893",
+        "filesize": "40299"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt2_print.jpg",
+        "width": "2098",
+        "height": "3400",
+        "filesize": "541426"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt2_full.tif",
+        "width": "3551",
+        "height": "5754",
+        "filesize": "61327424"
+      },
+      "date_created": "2012-05-30T15:33:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt3_web.jpg",
+        "width": "550",
+        "height": "893",
+        "filesize": "39037"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt3_print.jpg",
+        "width": "2093",
+        "height": "3400",
+        "filesize": "542147"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt3_full.tif",
+        "width": "3597",
+        "height": "5843",
+        "filesize": "63083008"
+      },
+      "date_created": "2012-05-30T15:47:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt4_web.jpg",
+        "width": "639",
+        "height": "893",
+        "filesize": "53795"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt4_print.jpg",
+        "width": "2433",
+        "height": "3400",
+        "filesize": "730217"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt4_full.tif",
+        "width": "4082",
+        "height": "5704",
+        "filesize": "69881932"
+      },
+      "date_created": "2012-05-30T16:01:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt5_web.jpg",
+        "width": "769",
+        "height": "893",
+        "filesize": "99441"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt5_print.jpg",
+        "width": "2927",
+        "height": "3400",
+        "filesize": "1050615"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt5_full.tif",
+        "width": "4992",
+        "height": "5798",
+        "filesize": "86854320"
+      },
+      "date_created": "2012-05-30T17:29:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt6_web.jpg",
+        "width": "985",
+        "height": "893",
+        "filesize": "144814"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt6_print.jpg",
+        "width": "3400",
+        "height": "3082",
+        "filesize": "1271164"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt6_full.tif",
+        "width": "4992",
+        "height": "4526",
+        "filesize": "67804848"
+      },
+      "date_created": "2012-05-30T17:43:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt7_web.jpg",
+        "width": "801",
+        "height": "893",
+        "filesize": "82363"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt7_print.jpg",
+        "width": "3049",
+        "height": "3400",
+        "filesize": "877146"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt7_full.tif",
+        "width": "4992",
+        "height": "5565",
+        "filesize": "83364912"
+      },
+      "date_created": "2012-05-30T17:50:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt8_web.jpg",
+        "width": "557",
+        "height": "893",
+        "filesize": "291306"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt8_print.jpg",
+        "width": "2122",
+        "height": "3400",
+        "filesize": "3674298"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt8_full.tif",
+        "width": "3121",
+        "height": "5000",
+        "filesize": "46835068"
+      },
+      "date_created": "2005-10-26T16:51:28",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt9_web.jpg",
+        "width": "557",
+        "height": "893",
+        "filesize": "299678"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt9_print.jpg",
+        "width": "2122",
+        "height": "3400",
+        "filesize": "3669542"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_alt9_full.tif",
+        "width": "3121",
+        "height": "5000",
+        "filesize": "46835180"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 135920,
+  "creators": [
+    {
+      "id": 9821,
+      "description": "Tilman Riemenschneider (German, active Würzburg, c. 1460–1531)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "death_year": "1531",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1959-02-21T00:00:00",
+  "sortable_date": 1502,
+  "date_added_to_oa": null,
+  "date_text": "1502–8",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:43.965000"
+}

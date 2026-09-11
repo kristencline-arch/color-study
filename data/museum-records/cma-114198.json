@@ -1,0 +1,328 @@
+{
+  "id": 114198,
+  "accession_number": "1933.445.a",
+  "share_license_status": "CC0",
+  "tombstone": "Single Leaf Excised from a Gospel Book: The Nativity (recto), c. 1190. Germany, Helmarshausen Abbey, 12th century. Ink, tempera, silver, and gold on vellum; sheet: 34.6 x 23.4 cm (13 5/8 x 9 3/16 in.); framed: 52.4 x 39.7 cm (20 5/8 x 15 5/8 in.); matted: 48.9 x 36.2 cm (19 1/4 x 14 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1933.445.a",
+  "current_location": null,
+  "title": "Single Leaf Excised from a Gospel Book: The Nativity (recto)",
+  "creation_date": "c. 1190",
+  "creation_date_earliest": 1185,
+  "creation_date_latest": 1195,
+  "artists_tags": [],
+  "culture": [
+    "Germany, Helmarshausen Abbey, 12th century"
+  ],
+  "technique": "ink, tempera, silver, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 34.6 x 23.4 cm (13 5/8 x 9 3/16 in.); Framed: 52.4 x 39.7 cm (20 5/8 x 15 5/8 in.); Matted: 48.9 x 36.2 cm (19 1/4 x 14 1/4 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.346,
+      "height_inch": 13,
+      "height_inch_fraction": 0.625,
+      "width": 0.234,
+      "width_inch": 9,
+      "width_inch_fraction": 0.1875
+    },
+    "framed": {
+      "height": 0.524,
+      "height_inch": 20,
+      "height_inch_fraction": 0.625,
+      "width": 0.397,
+      "width_inch": 15,
+      "width_inch_fraction": 0.625
+    },
+    "matted": {
+      "height": 0.489,
+      "height_inch": 19,
+      "height_inch_fraction": 0.25,
+      "width": 0.362,
+      "width_inch": 14,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 520142,
+        "title": "Pages From Medieval and Renaissance Illuminated Manuscripts",
+        "description": "<i>Pages From Medieval and Renaissance Illuminated Manuscripts</i>. Berkeley Art Museum and Pacific Film Archive, Berkeley, CA (April 24-June 8, 1963).",
+        "opening_date": "1963-04-24T05:00:00"
+      },
+      {
+        "id": 515734,
+        "title": "Die Kunst und Kultur und der Weser in der Zeit von 800 bis 1600",
+        "description": "<i>Die Kunst und Kultur und der Weser in der Zeit von 800 bis 1600</i>. Corvey Castle, Corvey, Höxter, Germany (May 15-September 15, 1966).",
+        "opening_date": "1966-05-15T04:00:00"
+      },
+      {
+        "id": 442107,
+        "title": "Stadt im Wandel: Kunst und Kultur des Bürgertums in Norddeutschland (City in Transition: Art and Culture of the Bourgeoisie in Northern Germany)",
+        "description": "<i>Stadt im Wandel: Kunst und Kultur des Bürgertums in Norddeutschland (City in Transition: Art and Culture of the Bourgeoisie in Northern Germany)</i>. Herzog Anton Ulrich-Museum, Braunschweig, Germany (organizer) (August 24-November 24, 1985).",
+        "opening_date": "1985-08-24T04:00:00"
+      },
+      {
+        "id": 423337,
+        "title": "Heinrich der Löwe und seine Zeit (Henry the Lion and his time)",
+        "description": "<i>Heinrich der Löwe und seine Zeit (Henry the Lion and his time)</i>. Herzog Anton Ulrich-Museum (organizer) (August 6-November 12, 1995).",
+        "opening_date": "1995-08-06T04:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Boston: Museum of Fine Arts, \"Arts of the Middle Ages 1000-1400\", 1940; p. 8, no.22, pl. XIX.",
+        "opening_date": "1940-01-01T00:00:00"
+      },
+      {
+        "description": "Cincinnati, The Taft Museum; \"Medieval Art from XII to XV Xenturies,\" December 1948-January 1949.",
+        "opening_date": "1948-12-01T00:00:00"
+      },
+      {
+        "description": "Winnepeg Art Gallery, Canada; December 4, 1951-February 11, 1952.",
+        "opening_date": "1951-12-04T00:00:00"
+      },
+      {
+        "description": "The Cleveland Museum of Art: \"The Helmarshausen Latin Gospel\" March-June, 1959.",
+        "opening_date": "1959-03-01T00:00:00"
+      },
+      {
+        "description": "Berkely, CA, University Art Gallery: \"Pages from Medieval and Renaissance Illuminated Manuscripts from the Xth to the early XVIth century\" April 5, 1963-June 18, 1963; cat. no. 4, p. 12-13, repr. pl. I.",
+        "opening_date": "1963-04-05T00:00:00"
+      },
+      {
+        "description": "Buffalo, Albright Knox Gallery: 12/2/1964-01/19/1965.",
+        "opening_date": "1964-12-02T00:00:00"
+      },
+      {
+        "description": "Domplatz, Germany, Landesmuseum fur Kunst und Kulturgeschichte, Castle Corvey: \"Kunst und Kultur im Weserraum 800-1600\" May 15-September 15, 1966, p. 508, no. 194.",
+        "opening_date": "1966-05-15T00:00:00"
+      },
+      {
+        "description": "Westfallen, Landesmuseum für Kunst und Kulturgeschichte: \"Kunst und Kultur im Wesserraum 800-1600\" 1966, no. 194.",
+        "opening_date": "1966-01-01T00:00:00"
+      },
+      {
+        "description": "New York, The Metropolitan Musuem of Art: \"The Year 1200\" 01/12/1970-05/29/1970, no. 265.",
+        "opening_date": "1970-01-12T00:00:00"
+      },
+      {
+        "description": "The Cleveland Museum of Art, \"The Decorated Letter and the Illuminator's Art,\" September 25-December 19, 1993.",
+        "opening_date": "1993-09-25T00:00:00"
+      },
+      {
+        "description": "Braunschweig, Germany, Herzog Anton Ulrich Museum, \"Heinrich der Lowe und Seine Zeit Herrschaft und Reprasentation der Welfen 1125-1235\" August 6, 1995-November 12, 1995.",
+        "opening_date": "1995-08-06T00:00:00"
+      },
+      {
+        "description": "Main Gallery Rotation (gallery 106): September 9, 2010 - February 14, 2011.",
+        "opening_date": "2010-09-09T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Cathedral of Paperborn(?)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Convent of Kenmade, Westphalia",
+      "citations": [],
+      "footnotes": null,
+      "date": "1777    ",
+      "sortorder": null
+    },
+    {
+      "description": "Count von Kesselstadt",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Private Collection, Westphalia (until 1933)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Cathedral of Paderborn(?); Convent of Kemnade, Westphalia (1777); Count von Kesselstadt; Private Collection, Westphalia (until 1933)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This leaf comes from a volume that is preserved in the Trier Cathedral Library in Germany (Codex 142).",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80006905"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1933.445.a-single-leaf-excised"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 50",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n74"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 50",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n72"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 56",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n76"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art. </em>Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 119-121, no. 37",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1933.445.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_web.jpg",
+      "width": "623",
+      "height": "900",
+      "filesize": "364955",
+      "filename": "1933.445.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_print.jpg",
+      "width": "2354",
+      "height": "3400",
+      "filesize": "4372961",
+      "filename": "1933.445.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_full.tif",
+      "width": "8790",
+      "height": "12696",
+      "filesize": "334823128",
+      "filename": "1933.445.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt0_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "483805"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt0_print.jpg",
+        "width": "3400",
+        "height": "2551",
+        "filesize": "5430961"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt0_full.tif",
+        "width": "11777",
+        "height": "8835",
+        "filesize": "312210956"
+      },
+      "date_created": "2021-02-04T11:14:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt1_web.jpg",
+        "width": "900",
+        "height": "688",
+        "filesize": "477774"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt1_print.jpg",
+        "width": "3400",
+        "height": "2598",
+        "filesize": "5479931"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt1_full.tif",
+        "width": "11561",
+        "height": "8835",
+        "filesize": "306471600"
+      },
+      "date_created": "2021-02-04T11:15:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt2_web.jpg",
+        "width": "622",
+        "height": "893",
+        "filesize": "464515"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt2_print.jpg",
+        "width": "2367",
+        "height": "3400",
+        "filesize": "1898027"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.445.a/1933.445.a_alt2_full.tif",
+        "width": "3861",
+        "height": "5546",
+        "filesize": "64272456"
+      },
+      "date_created": "2006-10-24T17:48:06",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 114198,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1933-12-29T00:00:00",
+  "sortable_date": 1185,
+  "date_added_to_oa": null,
+  "date_text": "c. 1190",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1933.445",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Leaf from a Gospel Book (now Trier Ms. 142): Nativity (recto)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:00:10.659000"
+}

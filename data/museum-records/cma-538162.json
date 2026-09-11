@@ -1,0 +1,424 @@
+{
+  "id": 538162,
+  "accession_number": "2023.156",
+  "share_license_status": "CC0",
+  "tombstone": "Jesse, c. 1500. Veit Stoss (German, c. 1445–1533). Limewood, polychromed; overall: 38.5 x 98 x 26.5 cm (15 3/16 x 38 9/16 x 10 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2023.156",
+  "current_location": "115 Manuscripts & Textiles",
+  "title": "Jesse",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": 1475,
+  "creation_date_latest": 1525,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Germany"
+  ],
+  "technique": "Limewood, polychromed",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Gothic",
+  "type": "Sculpture",
+  "measurements": "Overall: 38.5 x 98 x 26.5 cm (15 3/16 x 38 9/16 x 10 7/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.385,
+      "height_inch": 15,
+      "height_inch_fraction": 0.1875,
+      "width": 0.98,
+      "width_inch": 38,
+      "width_inch_fraction": 0.5625,
+      "depth": 0.265,
+      "depth_inch": 10,
+      "depth_inch_fraction": 0.4375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 703224,
+        "title": "Roots of Divinity: Christ’s Family Tree in Northern European Medieval Art",
+        "description": "<i>Roots of Divinity: Christ’s Family Tree in Northern European Medieval Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 6, 2026-August 8, 2027).",
+        "opening_date": "2026-09-06T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Oettingen-Wallerstein Collection (Maihingen, Harburg Castle, Bavaria, Germany)",
+      "citations": [],
+      "footnotes": null,
+      "date": "c. 1812/13",
+      "sortorder": 1
+    },
+    {
+      "description": "Rudigier Art Dealer, London, England",
+      "citations": [],
+      "footnotes": null,
+      "date": "c. 2013",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The family tree of Christ starts from Jesse, the father of David in the Old Testament.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The figure shows the sleeping Jesse, the father of David from the Old Testament. As the ancestor of the family tree of Christ, he was depicted in the Middle Ages sleeping as the starting point of the tree, on whose branches the ancestors of Christ are depicted. Mary with the Christ child is always shown at the top. The figure comes from a wooden altarpiece from an unknown church, possibly in Nuremberg, which is now lost.<br><br>Veit Stoss is one of the most prominent German sculptors around 1500 who was mainly active in Nuremberg (Bavaria, Germany) and Krakow (Poland), also as a painter and engraver.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q124246914"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2023.156-jesse"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lutz, Gerhard. “Veit Stoss's <em>Jesse: Sleep and consciousness in a medieval sculpture</em>.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>65, no. 3 (2024): 26.",
+      "page_number": "Reproduced and Mentioned: p. 26",
+      "url": "https://archive.org/details/CMAMM-2024-03"
+    },
+    {
+      "citation": "\"Permanent Collection Installations.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>66, no. 3 (2026): 14-15.",
+      "page_number": "Reproduced and Mentioned: p. 14",
+      "url": "https://archive.org/details/cmamm-2026-03"
+    }
+  ],
+  "url": "https://clevelandart.org/art/2023.156",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_web.jpg",
+      "width": "900",
+      "height": "489",
+      "filesize": "164396",
+      "filename": "2023.156_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_print.jpg",
+      "width": "3400",
+      "height": "1848",
+      "filesize": "866788",
+      "filename": "2023.156_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_full.tif",
+      "width": "14204",
+      "height": "7720",
+      "filesize": "328992728",
+      "filename": "2023.156_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt0_web.jpg",
+        "width": "900",
+        "height": "489",
+        "filesize": "151331"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt0_print.jpg",
+        "width": "3400",
+        "height": "1846",
+        "filesize": "790680"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt0_full.tif",
+        "width": "14204",
+        "height": "7712",
+        "filesize": "328651392"
+      },
+      "date_created": "2023-05-04T16:11:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt1_web.jpg",
+        "width": "900",
+        "height": "488",
+        "filesize": "140493"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt1_print.jpg",
+        "width": "3400",
+        "height": "1843",
+        "filesize": "689453"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt1_full.tif",
+        "width": "14204",
+        "height": "7700",
+        "filesize": "328139804"
+      },
+      "date_created": "2023-05-04T16:20:35",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt2_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "290270"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt2_print.jpg",
+        "width": "3400",
+        "height": "2549",
+        "filesize": "2703258"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt2_full.tif",
+        "width": "14204",
+        "height": "10650",
+        "filesize": "453848892"
+      },
+      "date_created": "2023-05-04T20:07:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt3_web.jpg",
+        "width": "900",
+        "height": "493",
+        "filesize": "197822"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt3_print.jpg",
+        "width": "3400",
+        "height": "1861",
+        "filesize": "1291713"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt3_full.tif",
+        "width": "14204",
+        "height": "7774",
+        "filesize": "331295140"
+      },
+      "date_created": "2023-05-04T20:51:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt4_web.jpg",
+        "width": "900",
+        "height": "489",
+        "filesize": "165504"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt4_print.jpg",
+        "width": "3400",
+        "height": "1846",
+        "filesize": "902668"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt4_full.tif",
+        "width": "14204",
+        "height": "7712",
+        "filesize": "328651868"
+      },
+      "date_created": "2023-05-03T16:33:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt5_web.jpg",
+        "width": "900",
+        "height": "490",
+        "filesize": "162854"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt5_print.jpg",
+        "width": "3400",
+        "height": "1852",
+        "filesize": "874798"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt5_full.tif",
+        "width": "14204",
+        "height": "7736",
+        "filesize": "329674472"
+      },
+      "date_created": "2023-05-03T15:56:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt6_web.jpg",
+        "width": "900",
+        "height": "488",
+        "filesize": "162248"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt6_print.jpg",
+        "width": "3400",
+        "height": "1842",
+        "filesize": "870303"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt6_full.tif",
+        "width": "14204",
+        "height": "7697",
+        "filesize": "328012684"
+      },
+      "date_created": "2023-05-03T17:37:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt7_web.jpg",
+        "width": "900",
+        "height": "489",
+        "filesize": "162106"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt7_print.jpg",
+        "width": "3400",
+        "height": "1848",
+        "filesize": "860468"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt7_full.tif",
+        "width": "14204",
+        "height": "7719",
+        "filesize": "328950108"
+      },
+      "date_created": "2023-05-03T18:24:20",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt8_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "275501"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt8_print.jpg",
+        "width": "3400",
+        "height": "2549",
+        "filesize": "2492488"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt8_full.tif",
+        "width": "14204",
+        "height": "10650",
+        "filesize": "453848452"
+      },
+      "date_created": "2023-05-03T21:20:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt9_web.jpg",
+        "width": "685",
+        "height": "900",
+        "filesize": "204106"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt9_print.jpg",
+        "width": "2589",
+        "height": "3400",
+        "filesize": "1696175"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt9_full.tif",
+        "width": "10652",
+        "height": "13987",
+        "filesize": "446997428"
+      },
+      "date_created": "2023-05-03T21:40:29",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt10_web.jpg",
+        "width": "687",
+        "height": "900",
+        "filesize": "214318"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt10_print.jpg",
+        "width": "2597",
+        "height": "3400",
+        "filesize": "1709087"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt10_full.tif",
+        "width": "10652",
+        "height": "13947",
+        "filesize": "445719836"
+      },
+      "date_created": "2023-05-03T21:54:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt11_web.jpg",
+        "width": "900",
+        "height": "490",
+        "filesize": "141923"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt11_print.jpg",
+        "width": "3400",
+        "height": "1850",
+        "filesize": "723137"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.156/2023.156_alt11_full.tif",
+        "width": "14204",
+        "height": "7729",
+        "filesize": "329375276"
+      },
+      "date_created": "2023-05-03T20:56:28",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": "6232dcc9e7674beb9ebddca96703a6cb",
+  "sketchfab_url": "https://sketchfab.com/models/6232dcc9e7674beb9ebddca96703a6cb",
+  "gallery_donor_text": null,
+  "athena_id": 538162,
+  "creators": [
+    {
+      "id": 9727,
+      "description": "Veit Stoss (German, c. 1445–1533)",
+      "extent": "execution",
+      "qualifier": null,
+      "role": "sculptor",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1445",
+      "death_year": "1533",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "2023-12-04T05:00:00Z",
+  "sortable_date": 1475,
+  "date_added_to_oa": null,
+  "date_text": "c. 1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": true,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-09-11 18:03:02.330000"
+}

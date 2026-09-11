@@ -1,0 +1,175 @@
+{
+  "id": 123447,
+  "accession_number": "1943.67",
+  "share_license_status": "CC0",
+  "tombstone": "Four-color Velvet with Medici Armorial in Rosettes, 1450–1500. Italy, Florence. Silk, velvet: cut pile and voided; overall: 211.5 x 40 cm (83 1/4 x 15 3/4 in.); mounted: 222.3 x 49.5 x 7.6 cm (87 1/2 x 19 1/2 x 3 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1943.67",
+  "current_location": null,
+  "title": "Four-color Velvet with Medici Armorial in Rosettes",
+  "creation_date": "1450–1500",
+  "creation_date_earliest": 1450,
+  "creation_date_latest": 1500,
+  "artists_tags": [],
+  "culture": [
+    "Italy, Florence"
+  ],
+  "technique": "silk, velvet: cut pile and voided",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Velvet",
+  "measurements": "Overall: 211.5 x 40 cm (83 1/4 x 15 3/4 in.); Mounted: 222.3 x 49.5 x 7.6 cm (87 1/2 x 19 1/2 x 3 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.115,
+      "height_inch": 83,
+      "height_inch_fraction": 0.25,
+      "width": 0.4,
+      "width_inch": 15,
+      "width_inch_fraction": 0.75
+    },
+    "mounted": {
+      "height": 2.223,
+      "height_inch": 87,
+      "height_inch_fraction": 0.5,
+      "width": 0.495,
+      "width_inch": 19,
+      "width_inch_fraction": 0.5,
+      "depth": 0.076,
+      "depth_inch": 3,
+      "depth_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312151,
+        "title": "2000 Years of Silk Weaving",
+        "description": "<i>2000 Years of Silk Weaving</i>. The Cleveland Museum of Art, Cleveland, OH (March 18-April 16, 1944).",
+        "opening_date": "1944-01-09T05:00:00"
+      },
+      {
+        "id": 309887,
+        "title": "The Twain Shall Meet",
+        "description": "<i>The Twain Shall Meet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 1985-January 5, 1986).",
+        "opening_date": "1985-10-30T05:00:00"
+      },
+      {
+        "id": 381187,
+        "title": "Renaissance Textiles (Textile Rotation) - Gallery 115",
+        "description": "<i>Renaissance Textiles (Textile Rotation) - Gallery 115</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 14, 2012-December 10, 2013).",
+        "opening_date": "2012-11-14T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(French and Co.)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This polychrome velvet displays the heraldic design of the Medici family of Florence, where it was probably made. The device of crimson balls on a yellow ground appears in the centers of the colorful rosettes. Gilt-metal thread forms the heraldic ground in more lavish examples. The striped selvage helps identify the late 15th-century dating. The rosette pattern created with four colors of pile warp is silhouetted on the ivory satin weave foundation, known as voided velvet. Its color scheme and tile-like design have often been associated with influence from Islamic lands, most likely Turkey.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79900657"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1943.67-four-color-velvet-wi"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Weibel, Adèle Coulin. Two Thousand Years of Textiles; The Figured Textiles of Europe and the Near East. New York: Published for the Detroit Institute of Arts [by] Pantheon Books, 1952.",
+      "page_number": "p. 124, cat. no. 146",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1943.67",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_web.jpg",
+      "width": "206",
+      "height": "893",
+      "filesize": "201679",
+      "filename": "1943.67_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_print.jpg",
+      "width": "785",
+      "height": "3400",
+      "filesize": "2305704",
+      "filename": "1943.67_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_full.tif",
+      "width": "1372",
+      "height": "5944",
+      "filesize": "24495728",
+      "filename": "1943.67_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_alt0_web.jpg",
+        "width": "200",
+        "height": "893",
+        "filesize": "135152"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_alt0_print.jpg",
+        "width": "762",
+        "height": "3400",
+        "filesize": "2162050"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.67/1943.67_alt0_full.tif",
+        "width": "1487",
+        "height": "6627",
+        "filesize": "29591032"
+      },
+      "date_created": "2011-09-12T16:07:25",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 123447,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1943-02-03T00:00:00",
+  "sortable_date": 1450,
+  "date_added_to_oa": null,
+  "date_text": "1450–1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Length of Velvet"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-04 11:16:27.736000"
+}

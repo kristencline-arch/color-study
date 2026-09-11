@@ -3300,5 +3300,1021 @@
         "sha256": "094963259516b83d8c7f90a5b9a09507ef924ace8f71e81ddfc75e67e3be4335"
       }
     }
+  },
+  {
+    "id": "cma-144924",
+    "source_sha256": "5ec4d8ea327c408060caf731d7b26374d81df9e76c15146752d145bf841d2d05",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.28,
+      0.25,
+      0.7,
+      0.8
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        728,
+        850,
+        1820,
+        2720
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        420,
+        720
+      ],
+      "sample_count": 297932,
+      "excluded_samples": 4468,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        136.76754762831789,
+        121.14483170656392,
+        108.3822415853282
+      ],
+      "covariance_rgb": [
+        [
+          3196.133421869486,
+          2866.35795979544,
+          2658.9514556759823
+        ],
+        [
+          2866.35795979544,
+          2690.438452231486,
+          2582.6851696384456
+        ],
+        [
+          2658.9514556759823,
+          2582.6851696384456,
+          2561.7537938776068
+        ]
+      ],
+      "eigenvalues": [
+        8239.375379866826,
+        5.075395903339213,
+        203.87489220841422
+      ],
+      "eigenvectors_columns": [
+        [
+          0.6126436186901217,
+          -0.34544779558615024,
+          -0.7108682135269111
+        ],
+        [
+          0.570874692498723,
+          0.8154371569532277,
+          0.09573049944780228
+        ],
+        [
+          0.5465984650021998,
+          -0.4644653524050062,
+          0.6967797747298156
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 1.3642420526593924e-12,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        0.3745689489249934,
+        12,
+        2.3812064202134082
+      ],
+      "regularized_axes": 1,
+      "matrix_rgb": [
+        [
+          2.7759015958318716,
+          -3.4113341596900444,
+          0.8713584970308467
+        ],
+        [
+          -3.4113341596900444,
+          8.123146480503515,
+          -4.269193678542943
+        ],
+        [
+          0.8713584970308469,
+          -4.269193678542942,
+          3.856727292803018
+        ]
+      ],
+      "offset_rgb": [
+        66.6724618184182,
+        72.68737449554794,
+        107.51643578849989
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 8.05552944967308e-05,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/cma-144924-original.webp",
+        "width": 1224,
+        "height": 1600,
+        "sha256": "eb701a6c2adbcf09297dbd6ed458c8298b3ea16ad41972255c02c109aa0f5801"
+      },
+      "enhanced": {
+        "path": "showcase/cma-144924-enhanced.webp",
+        "width": 1224,
+        "height": 1600,
+        "sha256": "ac51d720ab98121b5547018789a6c0126334fd6f4db2ab8bc5731afe77db720b"
+      }
+    }
+  },
+  {
+    "id": "cma-129796",
+    "source_sha256": "18fbccc69c971766a03d2975006cd7c00e31ef9d5179ea4e23cb58ae088512ee",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.19,
+      0.25,
+      0.8,
+      0.84
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        456,
+        850,
+        1921,
+        2856
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        526,
+        720
+      ],
+      "sample_count": 378719,
+      "excluded_samples": 1,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        162.476567058954,
+        141.60185520134982,
+        113.93907884209665
+      ],
+      "covariance_rgb": [
+        [
+          502.4541738031559,
+          695.1425075227158,
+          604.1156569140568
+        ],
+        [
+          695.1425075227158,
+          1513.8971285673617,
+          1480.9045437586296
+        ],
+        [
+          604.1156569140568,
+          1480.9045437586296,
+          1546.9212353970618
+        ]
+      ],
+      "eigenvalues": [
+        226.8092370829931,
+        24.70067807821242,
+        3311.762622606374
+      ],
+      "eigenvectors_columns": [
+        [
+          0.8900967011894909,
+          -0.3333135876611897,
+          0.31085352629817903
+        ],
+        [
+          0.041494658484658414,
+          0.7384688070016012,
+          0.6730096688777015
+        ],
+        [
+          -0.4538788999819531,
+          -0.5861449252241793,
+          0.6711393825317612
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 4.547473508864641e-13,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        2.257608066527689,
+        6.841077009085677,
+        0.5908120125229226
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          2.6057596987748064,
+          -1.4768888966369706,
+          0.5477355722000866
+        ],
+        [
+          -1.4768888966369704,
+          4.002177543535263,
+          -2.736817288307867
+        ],
+        [
+          0.5477355722000865,
+          -2.736817288307867,
+          3.0815598458262228
+        ]
+      ],
+      "offset_rgb": [
+        -149.1531692929616,
+        112.5745136322104,
+        74.93411971414639
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.0132710532083154,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/cma-129796-original.webp",
+        "width": 1130,
+        "height": 1600,
+        "sha256": "2eb958f4b7b75b6a32f44476018f5ffb97b0cb3abae09db6d32e37ed0679e26d"
+      },
+      "enhanced": {
+        "path": "showcase/cma-129796-enhanced.webp",
+        "width": 1130,
+        "height": 1600,
+        "sha256": "38f99af63400606e03608389ad5ed1fa9b7a75d17b22545356c6bd223a854e73"
+      }
+    }
+  },
+  {
+    "id": "cma-111312",
+    "source_sha256": "0b28a2a3c480118806a5cd2652e2fc942d0d56d486e8eb00ec6f1e9d08141848",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.15,
+      0.15,
+      0.85,
+      0.85
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        303,
+        510,
+        1717,
+        2890
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        428,
+        720
+      ],
+      "sample_count": 307993,
+      "excluded_samples": 167,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        120.84442503563393,
+        109.90018929001633,
+        78.609890484524
+      ],
+      "covariance_rgb": [
+        [
+          1307.3777288704912,
+          515.7144129393681,
+          757.351994572743
+        ],
+        [
+          515.7144129393681,
+          1649.24296968419,
+          834.8801872885967
+        ],
+        [
+          757.351994572743,
+          834.8801872885967,
+          687.7345676239554
+        ]
+      ],
+      "eigenvalues": [
+        946.0207201545728,
+        2660.634871440693,
+        37.69967458337077
+      ],
+      "eigenvectors_columns": [
+        [
+          0.7511158369879306,
+          0.5373026546081574,
+          -0.38357640278951965
+        ],
+        [
+          -0.654383790766143,
+          0.682724562064832,
+          -0.32506772638315984
+        ],
+        [
+          0.08721727929976848,
+          0.49516969788589754,
+          0.8644073787787419
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 1.3642420526593924e-12,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        1.105423244968368,
+        0.6591530676968188,
+        5.537453805852501
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          1.6286761124356526,
+          0.38891723275529444,
+          -1.588244709666192
+        ],
+        [
+          0.38891723275529444,
+          1.3657393465784362,
+          -1.3962285502213074
+        ],
+        [
+          -1.5882447096661922,
+          -1.3962285502213074,
+          4.307614659503601
+        ]
+      ],
+      "offset_rgb": [
+        12.793236814969845,
+        40.16388133570595,
+        134.2551840838369
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.008185250963495923,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/cma-111312-original.webp",
+        "width": 951,
+        "height": 1600,
+        "sha256": "2dd95bfc63f0d62b4dfe992f10c4617e0ab14b32d358984906e5da63da3f5f97"
+      },
+      "enhanced": {
+        "path": "showcase/cma-111312-enhanced.webp",
+        "width": 951,
+        "height": 1600,
+        "sha256": "069a5b0c3af4f54a0b52b22a132af0803f375231cfd7453c1348b72b4ded27ba"
+      }
+    }
+  },
+  {
+    "id": "commons-fontein-6",
+    "source_sha256": "0a3c2037d3e9072c64303832e899c78ca3ff43eb41255a51203fef6690a52b4e",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.25,
+      0.08,
+      0.84,
+      0.82
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        1080,
+        259,
+        3629,
+        2657
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        720,
+        677
+      ],
+      "sample_count": 437016,
+      "excluded_samples": 50424,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        163.31287412817838,
+        139.38337955589728,
+        130.88613231552162
+      ],
+      "covariance_rgb": [
+        [
+          2012.5065853749195,
+          1943.4999259291033,
+          1905.8899860241243
+        ],
+        [
+          1943.4999259291033,
+          2337.1478014226395,
+          2358.8161178299624
+        ],
+        [
+          1905.8899860241243,
+          2358.8161178299624,
+          2429.5272283932677
+        ]
+      ],
+      "eigenvalues": [
+        339.3738424614135,
+        17.439785639139505,
+        6422.367987090273
+      ],
+      "eigenvectors_columns": [
+        [
+          0.8419936254674187,
+          -0.12325530624558251,
+          0.5252188726183967
+        ],
+        [
+          -0.2628614581864932,
+          0.756439935782981,
+          0.5989177550822068
+        ],
+        [
+          -0.4711163215940439,
+          -0.6423447306820129,
+          0.6045185344493168
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 5.313722795108333e-10,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        1.845609148283732,
+        8.141573459931836,
+        0.42425925404333387
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          1.549170340898547,
+          -1.034109674256443,
+          0.047181533989545
+        ],
+        [
+          -1.034109674256443,
+          4.938326865223192,
+          -3.5737883945418134
+        ],
+        [
+          0.04718153398954489,
+          -3.573788394541813,
+          3.923944656137166
+        ]
+      ],
+      "offset_rgb": [
+        12.46283184243461,
+        75.82207591576088,
+        104.33141286532023
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.003182949823347429,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/commons-fontein-6-original.webp",
+        "width": 1600,
+        "height": 1200,
+        "sha256": "b39acfb2556e7f5538604757f0853a6b05c4c56e69194f4c917ceef15d8bb07b"
+      },
+      "enhanced": {
+        "path": "showcase/commons-fontein-6-enhanced.webp",
+        "width": 1600,
+        "height": 1200,
+        "sha256": "332525a92f48f9db2f73955dcce97ba2a09f791228c6e7254abdefd0dd69272a"
+      }
+    }
+  },
+  {
+    "id": "commons-maravillas-2",
+    "source_sha256": "fd724dfb96ce46263d71d6e0955b435e1722130c4e70a5a9495305190ff3acee",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.38,
+      0.16,
+      0.77,
+      0.78
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        1532,
+        484,
+        3105,
+        2359
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        604,
+        720
+      ],
+      "sample_count": 420806,
+      "excluded_samples": 14074,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        109.86099057522944,
+        40.74283399000965,
+        6.176734647319668
+      ],
+      "covariance_rgb": [
+        [
+          2957.706544610005,
+          1315.1687760771106,
+          279.7653480113781
+        ],
+        [
+          1315.1687760771106,
+          647.6403875093371,
+          176.95556776493802
+        ],
+        [
+          279.7653480113781,
+          176.95556776493802,
+          110.19515706232252
+        ]
+      ],
+      "eigenvalues": [
+        3583.9821975797213,
+        18.196765722432087,
+        113.36312587951149
+      ],
+      "eigenvectors_columns": [
+        [
+          0.9064757390071031,
+          -0.27994763834532654,
+          -0.3161187346178657
+        ],
+        [
+          0.4116679799276575,
+          0.7525127819776943,
+          0.5140564047480324
+        ],
+        [
+          0.09397451193705764,
+          -0.5961156202827312,
+          0.7973800589186606
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 3.359446054673754e-11,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        0.567931549578507,
+        7.970431160352025,
+        3.193324188915717
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          1.4104287339680397,
+          -1.9860752948924012,
+          0.5735634662064276
+        ],
+        [
+          -1.9860752948924012,
+          5.453556095055681,
+          -2.2445034543143247
+        ],
+        [
+          0.5735634662064276,
+          -2.2445034543143247,
+          4.867702069822528
+        ]
+      ],
+      "offset_rgb": [
+        49.92448884781096,
+        137.36257087010318,
+        125.868677046429
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.015004538908665752,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/commons-maravillas-2-original.webp",
+        "width": 1600,
+        "height": 1200,
+        "sha256": "5a99988aefb9fb477ed6841b9f477d91f657d684b8e2bdcc8c6087db596818fd"
+      },
+      "enhanced": {
+        "path": "showcase/commons-maravillas-2-enhanced.webp",
+        "width": 1600,
+        "height": 1200,
+        "sha256": "18ffaf0c4de070a2062e6c9e436899fbc52a12bc3161b47c011367e380c1fbf2"
+      }
+    }
+  },
+  {
+    "id": "commons-tonga-ngatu",
+    "source_sha256": "a0510d247a38810b0007b08cff84bce73560c6716474d9adaf0c159fd78b8e1c",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.1,
+      0.08,
+      0.89,
+      0.88
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        147,
+        139,
+        1308,
+        1529
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        601,
+        720
+      ],
+      "sample_count": 423338,
+      "excluded_samples": 9382,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        189.40759629421407,
+        179.02806504495226,
+        165.8456457960306
+      ],
+      "covariance_rgb": [
+        [
+          2265.0995491816143,
+          2463.686569679614,
+          2274.4063806667295
+        ],
+        [
+          2463.686569679614,
+          2750.981925887268,
+          2572.4290786820575
+        ],
+        [
+          2274.4063806667295,
+          2572.4290786820575,
+          2485.147704734015
+        ]
+      ],
+      "eigenvalues": [
+        98.68788656032983,
+        7388.147581531371,
+        14.393711711196262
+      ],
+      "eigenvectors_columns": [
+        [
+          0.6843804514132913,
+          0.5476109103575042,
+          0.48139971809377496
+        ],
+        [
+          0.06834309531585528,
+          0.6091568943107435,
+          -0.7900994237666159
+        ],
+        [
+          -0.725915021917847,
+          0.5736289471174864,
+          0.3794696456673397
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 2.7284841053187847e-12,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        3.4225278658501983,
+        0.3955588776851288,
+        8.961743654709503
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          3.798496717220294,
+          -3.1166001126365166,
+          0.061036942783768464
+        ],
+        [
+          -3.1166001126365166,
+          5.757198842033009,
+          -2.718474602841048
+        ],
+        [
+          0.06103694278376845,
+          -2.718474602841048,
+          3.2241348389915356
+        ]
+      ],
+      "offset_rgb": [
+        -44.127956249352536,
+        137.95474326483145,
+        67.91366289662443
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.015422664632043427,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/commons-tonga-ngatu-original.webp",
+        "width": 1354,
+        "height": 1600,
+        "sha256": "e6914403c539be58d67b751947a7575c7638edfb44446bf8ab8391699ae662ec"
+      },
+      "enhanced": {
+        "path": "showcase/commons-tonga-ngatu-enhanced.webp",
+        "width": 1354,
+        "height": 1600,
+        "sha256": "5355dcd26a74a85589c82a66c980e87645c5c3a0ec68c30d0c89cf5f321857ba"
+      }
+    }
+  },
+  {
+    "id": "commons-taull-01",
+    "source_sha256": "11ac3066b60ecd3e264f84be9d7a87235d99db4415db0a3e683a771b2eab521e",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.12,
+      0.08,
+      0.83,
+      0.59
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        720,
+        320,
+        4980,
+        2360
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        720,
+        345
+      ],
+      "sample_count": 248400,
+      "excluded_samples": 0,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        172.7612117552335,
+        115.52613526570049,
+        56.953627214170695
+      ],
+      "covariance_rgb": [
+        [
+          1336.9228590905086,
+          944.3998877342015,
+          526.4336225113917
+        ],
+        [
+          944.3998877342015,
+          1215.1208915085845,
+          701.9450583622375
+        ],
+        [
+          526.4336225113917,
+          701.9450583622375,
+          510.60195424253436
+        ]
+      ],
+      "eigenvalues": [
+        2584.282337941489,
+        405.26246781014055,
+        73.10089908999802
+      ],
+      "eigenvectors_columns": [
+        [
+          0.6548449019132885,
+          -0.7502641190065852,
+          0.09100497881680826
+        ],
+        [
+          0.6496637561678902,
+          0.4972916856805394,
+          -0.5750112896933722
+        ],
+        [
+          0.3861543193595062,
+          0.43566584796639685,
+          0.8130683308035778
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 3.5640823625726625e-11,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        0.6688195161405239,
+        1.6889264014974277,
+        3.9766517307642353
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          1.2704290107668117,
+          -0.5536971784382583,
+          -0.0886793700292973
+        ],
+        [
+          -0.5536971784382583,
+          2.0147859222992555,
+          -1.3254799724777744
+        ],
+        [
+          -0.0886793700292973,
+          -1.3254799724777744,
+          3.0491827153361153
+        ]
+      ],
+      "offset_rgb": [
+        -22.963748434345945,
+        65.88785673382273,
+        122.28591833925061
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.0007246376811594203,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/commons-taull-01-original.webp",
+        "width": 1600,
+        "height": 1067,
+        "sha256": "b834525b62f4e414873a857231a83e856b90629004031da7ce4ef2555e4bb403"
+      },
+      "enhanced": {
+        "path": "showcase/commons-taull-01-enhanced.webp",
+        "width": 1600,
+        "height": 1067,
+        "sha256": "6068fe7e2c8c4c6e425cf7573164256a133c00b0357f3095903b7d90923d97f3"
+      }
+    }
+  },
+  {
+    "id": "commons-akrotiri-spring",
+    "source_sha256": "4e64ed0e30823353de059e9097244852bd3e0e924814a19ffbc1db65d235e526",
+    "settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "region": [
+      0.12,
+      0.23,
+      0.87,
+      0.85
+    ],
+    "fit": {
+      "fit_box_pixels_xyxy": [
+        662,
+        845,
+        4802,
+        3121
+      ],
+      "sampling": "deterministic nearest-neighbor grid, longest side <= 720 pixels",
+      "sample_grid_size": [
+        720,
+        396
+      ],
+      "sample_count": 284991,
+      "excluded_samples": 129,
+      "sample_filter": "BT.601 luma in [8,247], all RGB channels below 250",
+      "mean_rgb": [
+        161.87442761350357,
+        151.60856658631326,
+        141.19610092950305
+      ],
+      "covariance_rgb": [
+        [
+          1259.5034462298818,
+          1521.2781072051014,
+          1741.3155439277411
+        ],
+        [
+          1521.2781072051014,
+          1947.1955740394135,
+          2273.164009400936
+        ],
+        [
+          1741.3155439277411,
+          2273.164009400936,
+          2964.9827485432866
+        ]
+      ],
+      "eigenvalues": [
+        32.65169954087579,
+        210.17822010768148,
+        5928.851849164023
+      ],
+      "eigenvectors_columns": [
+        [
+          0.6533407463948633,
+          0.6135176380879156,
+          0.4435560583006714
+        ],
+        [
+          -0.7349251969351477,
+          0.3733272074860487,
+          0.5661375725567978
+        ],
+        [
+          0.18174384173896385,
+          -0.6958612677148333,
+          0.6947994473833929
+        ]
+      ],
+      "eigen_reconstruction_max_abs_error": 9.094947017729282e-13,
+      "target_std_in_8bit_units": 34,
+      "noise_floor_std": 2.0,
+      "max_gain": 12,
+      "gains": [
+        5.950124066023344,
+        2.345227953817803,
+        0.4415639583806911
+      ],
+      "regularized_axes": 0,
+      "matrix_rgb": [
+        [
+          3.5094621330469367,
+          -2.208950781530998,
+          -0.15862820369885444
+        ],
+        [
+          -2.208950781530998,
+          3.682139899398679,
+          -1.2303094058537951
+        ],
+        [
+          -0.15862820369885444,
+          -1.2303094058537951,
+          1.545313945776225
+        ]
+      ],
+      "offset_rgb": [
+        -83.29862851087796,
+        100.54358231207561,
+        121.51099130067445
+      ],
+      "display_mean_rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "fit_sample_any_channel_clipped_fraction": 0.01865672951075648,
+      "application": "global affine RGB transform, then clipping to [0,255] and 8-bit rounding"
+    },
+    "files": {
+      "original": {
+        "path": "showcase/commons-akrotiri-spring-original.webp",
+        "width": 1600,
+        "height": 1064,
+        "sha256": "4a780a00df2151cc92a721c9a55c139e9b43de62b768a0b20bc6110dcda15496"
+      },
+      "enhanced": {
+        "path": "showcase/commons-akrotiri-spring-enhanced.webp",
+        "width": 1600,
+        "height": 1064,
+        "sha256": "e0d3d35e4c469c5641ece99cf111ab416d73a84ef86b92ba18d86e6bd78b800d"
+      }
+    }
   }
 ]

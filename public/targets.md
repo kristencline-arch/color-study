@@ -1,6 +1,6 @@
 # Color Study: painted surfaces and textiles to explore
 
-62 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
+75 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
 
 ## 1. Angkor Wat (Cambodia)
 
@@ -853,3 +853,177 @@ Painted features, embroidery and woven figures remain on fragile cloth with unev
 [Source record and historical context](<https://clevelandart.org/art/1940.523>)
 
 Included photograph: [Paracas: painted cotton bundle mask · 1940.523](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-119685) — 1,986 × 3,400 px. [Source](<https://clevelandart.org/art/1940.523>).
+
+## 63. European medieval polychromy (France, England, Germany, Austria, Bohemia and Spain)
+
+Candidate | Painted wood, limestone and alabaster | Look closely
+
+Documented surviving paint and gilding offer close comparisons with exposed wood and stone.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://clevelandart.org/art/1970.13>)
+
+Included photograph: [Paris: painted limestone Virgin and Child](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-144924) — 2,600 × 3,400 px. [Source](<https://clevelandart.org/art/1970.13>).
+
+## 64. Taüll and Pedret / Romanesque mural fragments (Catalonia, Spain)
+
+Candidate | Fresco transferred to canvas | Look closely
+
+Worn figures and borders survive on original mural fragments, with joins and conservation materials visible.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000>)
+
+Included photograph: [Taüll: painted apse detail 01](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-taull-01) — 6,000 × 4,000 px. [Source](<https://commons.wikimedia.org/wiki/File:Frescos_from_Sant_Climent_de_Ta%C3%BCll_-_detail_01.jpg>).
+
+## 65. European illuminated parchment (Western and Central Europe)
+
+Candidate | Colored ink, tempera and gilding on parchment | Look closely
+
+Faint figures, ornament and script can be studied alongside stains and aging in the support.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://clevelandart.org/art/1952.230>)
+
+Included photograph: [Leaf Excised from a Psalter: The Annunciation · 1952.230](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-129796) — 2,401 × 3,400 px. [Source](<https://clevelandart.org/art/1952.230>).
+
+## 66. Tarquinia / Tomb of the Funeral Bed (Italy)
+
+Candidate | Etruscan wall painting | Look closely
+
+Small painted figures and decorative bands remain on plaster fragments dated to 470–460 BCE.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_giochi_funebri_02_lanciatore_di_disco.jpg>)
+
+Included photograph: [Tarquinia: painted discus thrower](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-tarquinia-discus) — 5,472 × 3,648 px. [Source](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_giochi_funebri_02_lanciatore_di_disco.jpg>).
+
+## 67. Akrotiri / Bronze Age Aegean frescoes (Thera, Greece)
+
+Candidate | Painted plaster | Look closely
+
+Flowers, birds, figures and ships survive in assembled fragments; modern infill and restoration require separate interpretation.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c191/museum-of-prehistoric-thira>)
+
+Included photograph: [Akrotiri: spring landscape](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-akrotiri-spring) — 5,520 × 3,672 px. [Source](<https://commons.wikimedia.org/wiki/File:Spring_fresco_from_Akrotiri,_NAMA_BE_1974.29,_225644.jpg>).
+
+## 68. Keldby / medieval painted vaults (Møn, Denmark)
+
+Candidate | Painted church plaster | Look closely
+
+Several medieval painting campaigns provide surviving colored figures, pale grounds and repaired passages.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
+
+Included photograph: [Keldby: painted vault detail 10](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-keldby-10) — 5,472 × 3,648 px. [Source](<https://commons.wikimedia.org/wiki/File:Keldby_Kirche_10.jpg>).
+
+## 69. Fontein Cave / Indigenous pictographs (Aruba, Caribbean)
+
+Candidate | Pigment on limestone | Look closely
+
+Painted motifs can be compared with the cave surface. Later graffiti and mineral colors also occur in this setting.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://www.aruba.com/us/explore/caves>)
+
+Included photograph: [Fontein Cave: painted panel 6](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-fontein-6) — 4,320 × 3,240 px. [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_drawings_Fontein_Cave_Arikok_National_park_Santa_Cruz_Aruba.jpg>).
+
+## 70. Cueva de las Maravillas / Taíno pictographs (Dominican Republic, Caribbean)
+
+Candidate | Pigment on cave walls | Look closely
+
+Surviving painted figures offer Caribbean material for the image lab; individual panels are not precisely dated here.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://es.godominicanrepublic.com/que-hacer/cueva-de-las-maravillas>)
+
+Included photograph: [Cueva de las Maravillas: Taíno pictographs 2](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-maravillas-2) — 4,032 × 3,024 px. [Source](<https://commons.wikimedia.org/wiki/File:Ta%C3%ADno_pictographs_Cuevas_de_las_Maravillas_2.jpg>).
+
+## 71. Tongan ngatu and Mangaian tapa (Tonga and the Cook Islands)
+
+Candidate | Painted barkcloth | Look closely
+
+Historic painted borders, lettering and patterns broaden the Pacific textile selection; each object retains its island attribution.
+
+**Photo to seek:** Native-resolution color photographs, evenly lit, with context, a capture date and item-specific reuse terms.
+
+**Interpretation:** Color separation also amplifies stains, lighting, repairs and support variation. It does not reconstruct missing paint, identify dyes or date marks.
+
+[Source record and historical context](<https://dams.antwerpen.be/asset/ESEHDZoTGC9XmaLHbRt1qhqg>)
+
+Included photograph: [Tonga: Ko e kalauni ngatu](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-tonga-ngatu) — 1,470 × 1,737 px. [Source](<https://commons.wikimedia.org/wiki/File:Tapa_'ngatu'_doek_'Ko_e_kalauni',_asset_ESEHDZoTGC9XmaLHbRt1qhqg.jpg>).
+
+## 72. Mona / painted cave passages (Puerto Rico, Caribbean)
+
+Candidate | Pigments on cave walls | Photo wanted
+
+Published field research identifies paintings as well as incised designs. Seek original color photographs of pigment, with explicit reuse rights.
+
+**Photo to seek:** An original color photograph with useful close detail and explicit item-level image terms; none is included for this lead yet.
+
+**Interpretation:** The linked record supports the proposed material or site. It does not establish a successful decorrelation result or grant reuse of every image on the page.
+
+[Research or museum record](<https://www.antiquity.ac.uk/projgall/samson338/>)
+
+## 73. Niue / hiapo (Niue, Pacific Islands)
+
+Candidate | Dyed and painted barkcloth | Photo wanted
+
+Te Papa records a nineteenth-century hiapo with drawn designs. A native image and its particular rights statement need import review.
+
+**Photo to seek:** An original color photograph with useful close detail and explicit item-level image terms; none is included for this lead yet.
+
+**Interpretation:** The linked record supports the proposed material or site. It does not establish a successful decorrelation result or grant reuse of every image on the page.
+
+[Research or museum record](<https://collections.tepapa.govt.nz/object/83487>)
+
+## 74. Kempley / recovered medieval wall paintings (England)
+
+Candidate | Romanesque and later church painting | Photo wanted
+
+The site record documents paintings covered by whitewash during the Reformation and later exposed. It is a source-backed example for studying surviving paint and historical interventions.
+
+**Photo to seek:** An original color photograph with useful close detail and explicit item-level image terms; none is included for this lead yet.
+
+**Interpretation:** The linked record supports the proposed material or site. It does not establish a successful decorrelation result or grant reuse of every image on the page.
+
+[Research or museum record](<https://www.english-heritage.org.uk/visit/places/st-marys-church-kempley/history/>)
+
+## 75. Mapuche / dyed wool garments (Chile and Argentina)
+
+Candidate | Woven wool | Photo wanted
+
+Mapuche textiles would broaden South America beyond the central Andes. Seek openly reusable color originals of the dyed weave.
+
+**Photo to seek:** An original color photograph with useful close detail and explicit item-level image terms; none is included for this lead yet.
+
+**Interpretation:** The linked record supports the proposed material or site. It does not establish a successful decorrelation result or grant reuse of every image on the page.
+
+[Research or museum record](<https://www.metmuseum.org/art/collection/search/318038>)

@@ -45,6 +45,36 @@ def fetch(url):
             time.sleep(min(45, int(retry_after) if retry_after.isdigit() else 5 * (attempt + 1)))
 
 
+def validate_photo_license(spec, page):
+    """Keep the photographer's grant when artwork metadata says public domain."""
+    name = spec["photo_license"]
+    assert spec["expected_license"] in {"Public domain", "CC0"}
+    assert name in ALLOWED and name.startswith("CC BY"), "Invalid photograph license"
+    assert page["title"] == spec["file_title"], "Wrong license evidence page"
+    revision = page["revisions"][0]
+    assert isinstance(revision["revid"], int), "Missing license revision"
+    template = name.lower().replace(" ", "-")
+    # Require the photographer's explicit self-license in the saved page,
+    # not a mention of a license elsewhere or the artwork's PD-Art template.
+    pattern = r"\{\{self\b(?:(?!\}\}).)*?\|\s*" + re.escape(template) + r"\s*(?:\||\}\})"
+    assert re.search(pattern, revision["slots"]["main"]["*"], re.I | re.S), "Photograph license changed; review required"
+    suffix = template.removeprefix("cc-").rsplit("-", 1)
+    return name, "https://creativecommons.org/licenses/" + "/".join(suffix) + "/", revision["revid"]
+
+
+def photo_license_evidence(spec, refresh):
+    snapshot = ROOT / "data/commons-records" / (spec["id"] + "-license.json")
+    if refresh or not snapshot.exists():
+        api = "https://commons.wikimedia.org/w/api.php?" + urlencode(dict(action="query", format="json", prop="revisions", rvprop="ids|timestamp|content", rvslots="main", titles=spec["file_title"]))
+        pages = list(json.loads(fetch(api))["query"]["pages"].values())
+        assert len(pages) == 1
+        validate_photo_license(spec, pages[0])
+        museum.write_json(snapshot, pages[0])
+    name, url, revision = validate_photo_license(spec, json.loads(snapshot.read_text()))
+    return {"name": name, "url": url, "snapshot": str(snapshot.relative_to(ROOT)),
+            "revision_id": revision, "evidence_url": f"https://commons.wikimedia.org/w/index.php?oldid={revision}"}
+
+
 def main():
     if not __debug__:
         raise RuntimeError("Run without Python -O: import validation must remain enabled.")
@@ -81,6 +111,11 @@ def main():
             license_url = "https://creativecommons.org/publicdomain/mark/1.0/"
         elif license_name == "CC0":
             license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
+        metadata_license_name = license_name
+        photograph_evidence = None
+        if spec.get("photo_license"):
+            photograph_evidence = photo_license_evidence(spec, args.refresh)
+            license_name, license_url = photograph_evidence["name"], photograph_evidence["url"]
         assert license_url and license_url.startswith("https://creativecommons.org/")
         original_url = info["url"].split("?", 1)[0]
         if key in prior:
@@ -111,12 +146,14 @@ def main():
                   "source_api": api, "download_url": original_url,
                   "license": license_name, "license_url": license_url, "metadata_license": "CC0",
                   "rights_checked_at": datetime.now(timezone.utc).date().isoformat(),
-                  "rights_evidence": {"field": "LicenseShortName", "value": license_name, "snapshot": str(snapshot.relative_to(ROOT))},
+                  "rights_evidence": {"field": "LicenseShortName", "value": metadata_license_name, "snapshot": str(snapshot.relative_to(ROOT))},
                   "photographed": spec.get("photographed", plain(metadata.get("DateTimeOriginal", {}).get("value", "")) if re.match(r"^\d{4}-\d{2}", metadata.get("DateTimeOriginal", {}).get("value", "")) else "Not established; see source file metadata"),
                   "original_file": f"originals/{key}.jpg", "expected_dimensions": [width, height],
                   "encoded_dimensions": encoded_dimensions,
                   "size_bytes": len(content), "sha256": digest,
                   "focus_box_fraction": spec.get("focus_box_fraction", [0.15, 0.15, 0.85, 0.85])}
+        if photograph_evidence:
+            source["rights_evidence"]["photograph_license"] = photograph_evidence
         museum.thumbnail(source)
         imported.append(source)
         print(f"{key}: {width} × {height} | {license_name}", flush=True)

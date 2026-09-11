@@ -1,0 +1,253 @@
+{
+  "id": 143761,
+  "accession_number": "1968.20",
+  "share_license_status": "CC0",
+  "tombstone": "The Virgin Crowned by Angels, c. 1450. Stefan Lochner (German, 1400-c. 1452). Oil on wood; framed: 68.5 x 47.5 x 7.5 cm (26 15/16 x 18 11/16 x 2 15/16 in.); unframed: 50.5 x 29.2 cm (19 7/8 x 11 1/2 in.). The Cleveland Museum of Art, John L. Severance Fund, 1968.20",
+  "current_location": "111 German and Austrian Gothic",
+  "title": "The Virgin Crowned by Angels",
+  "creation_date": "c. 1450",
+  "creation_date_earliest": 1445,
+  "creation_date_latest": 1455,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Germany, Cologne"
+  ],
+  "technique": "oil on wood",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Medieval Art",
+  "type": "Painting",
+  "measurements": "Framed: 68.5 x 47.5 x 7.5 cm (26 15/16 x 18 11/16 x 2 15/16 in.); Unframed: 50.5 x 29.2 cm (19 7/8 x 11 1/2 in.)",
+  "dimensions": {
+    "framed": {
+      "height": 0.685,
+      "height_inch": 26,
+      "height_inch_fraction": 0.9375,
+      "width": 0.475,
+      "width_inch": 18,
+      "width_inch_fraction": 0.6875,
+      "depth": 0.075,
+      "depth_inch": 2,
+      "depth_inch_fraction": 0.9375
+    },
+    "unframed": {
+      "height": 0.505,
+      "height_inch": 19,
+      "height_inch_fraction": 0.875,
+      "width": 0.292,
+      "width_inch": 11,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301285,
+        "title": "Year in Review for 1968",
+        "description": "<i>Year in Review for 1968</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 29-March 9, 1969).",
+        "opening_date": "1969-01-29T05:00:00"
+      },
+      {
+        "id": 309851,
+        "title": "Textiles in Daily Life in the Middle Ages",
+        "description": "<i>Textiles in Daily Life in the Middle Ages</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 22-March 17, 1985).",
+        "opening_date": "1985-01-22T05:00:00"
+      },
+      {
+        "id": 399389,
+        "title": "Stefan Lochner: Meister zu Köln",
+        "description": "<i>Stefan Lochner: Meister zu Köln</i>. Wallraf-Richartz Museum (organizer) (December 2, 1993-March 13, 1994).",
+        "opening_date": "1993-12-02T05:00:00"
+      },
+      {
+        "id": 179384,
+        "title": "Draped in Splendor: Renaissance Textiles and the Church",
+        "description": "<i>Draped in Splendor: Renaissance Textiles and the Church</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 7, 2003-September 26, 2004).",
+        "opening_date": "2003-09-07T00:00:00"
+      },
+      {
+        "id": 231494,
+        "title": "From Van Eyck to Dürer: Artistic Exchanges between the Netherlands and Central, Eastern and Northern Europe c.1420-1530",
+        "description": "<i>From Van Eyck to Dürer: Artistic Exchanges between the Netherlands and Central, Eastern and Northern Europe c.1420-1530</i>. Groeningemuseum, Stedelijke Musea, Brugge, Belgium (October 28, 2010-January 30, 2011).",
+        "opening_date": "2010-10-28T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Kuno Kocherthaler, Berlin, Germany",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "(Pinakos, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1968",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1968-",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Although they are barely visible, two angels are holding the crown above the figure of Mary.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Two angels, barely visible against a dark background, crown Mary as the Queen of Heaven. Her slight features are made more substantial by her elaborately draped, brilliant crimson mantle. Holding the Christ child, she stands on a floor scattered with red and white roses, symbols of her purity. Green palmettes enriched with costly gold thread decorate the velvet. Since silk velvet was not woven in the north, Italian velvets were frequently depicted in northern paintings during the 1400s. Lochner is thought to have come from Meersburg in southwest Germany, and is recorded as being in Cologne by 1442, where he was paid for decorations in connection with the celebration of the visit of Emperor Frederick III. He was elected town councillor by the painters’ guild in 1447 and 1450. There are no records of him after 1451.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60469905"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1968.20-the-virgin-crowned-b"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Wolfgang Stechow. \"A Youthful Work by Stephan Lochner.\" <em>The Bulletin of the Cleveland Museum of Art</em>, Vol. 55, No. 10 (Dec., 1968)",
+      "page_number": "pp. 307- 314",
+      "url": "https://www.jstor.org/stable/25152241"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 66",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n90"
+    },
+    {
+      "citation": "Lee, Sherman E. “The Year in Review for 1968.” <em>The Bulletin of the Cleveland Museum of Art</em> 56, no. 1 (1969).",
+      "page_number": "cat. no. 67",
+      "url": "https://www.jstor.org/stable/25152250"
+    },
+    {
+      "citation": "Urbach, Zsusza, \"Review of Norhern Painting from Pucelle to Brueghel: Fourteenth, Fifteenth, and Sixteenth Centries by Charles D. Cuttler,\" <em>Acta Histoiriae Arium XVII </em>(1971).",
+      "page_number": "p. 136, fig. 3",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art, Louise d' Argencourt, and Roger Diederen. <em>Catalogue of Paintings. Cleveland: Cleveland Museum of Art</em>, 1974.",
+      "page_number": "catalog number 9",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+      "page_number": "Reproduced: fig. 9, p. 25 - 26; colorplate VII",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 75",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n95"
+    },
+    {
+      "citation": "Martin Nagy, Rebecca. <em>Textiles in Daily Life in the Middle Ages. </em>Cleveland, Ohio: Cleveland Museum of Art in cooperation with Indiana University Press, 1985.",
+      "page_number": "p. 31, 59",
+      "url": null
+    },
+    {
+      "citation": "Chapuis, Julien. <em>Stefan Lochner: Image Making in Fifteenth-Century Cologne</em>. Turnhout: Brepols, 2003.",
+      "page_number": "Fig. 143, p. 179",
+      "url": ""
+    },
+    {
+      "citation": "Wiemann, Elsbeth, and Hans Holbein.<em> Hans Holbein d. Ä.: die Graue Passion in ihrer Zeit.</em> Stuttgart: Staatsgalerie, 2010.",
+      "page_number": "p. 339, Cat. 173",
+      "url": ""
+    },
+    {
+      "citation": "Ronnberg, Ami, and Kathleen Martin. The Book of Symbols: Reflections on Archetypal Images. 2010.",
+      "page_number": "p. 541, Fig. 804",
+      "url": ""
+    },
+    {
+      "citation": "Borchert, Till, and Julien Chapuis. <em>Van Eyck to Dürer: The Influence of Early Netherlandish Painting on European Art, 1430-1530</em>. London: Thames &amp; Hudson, 2011.",
+      "page_number": "cat. no. 173, p. 339",
+      "url": null
+    },
+    {
+      "citation": "Prinz, Felix. <em>Gemalte Skulpturenretabel: zur Intermedialität mitteleuropäischer Tafelmalerei des 15. Jahrhunderts</em>.Berlin: De Gruyter, 2018.",
+      "page_number": "Mentioned: p. 209 & 327; Reproduced: p. 210",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1968.20",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.20/1968.20_web.jpg",
+      "width": "515",
+      "height": "893",
+      "filesize": "375245",
+      "filename": "1968.20_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.20/1968.20_print.jpg",
+      "width": "1960",
+      "height": "3400",
+      "filesize": "5006013",
+      "filename": "1968.20_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1968.20/1968.20_full.tif",
+      "width": "3458",
+      "height": "6000",
+      "filesize": "62276692",
+      "filename": "1968.20_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 143761,
+  "creators": [
+    {
+      "id": 2741,
+      "description": "Stefan Lochner (German, 1400-c. 1452)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "Lochner was probably born in Meersburg on Lak Constance since both his parents died there in 1451, the year of his own (most likely premature) death in Cologne. He is first mentioned in that city as a painter in 1442 under the names Meister Steffen and Stephain Loechener. Albrecht Durer passing through Cologne on his way to the Netherlands in 1520identified the artist of the large altarpiece of the <em>Adoration of the Magi </em>as \"Maister Stephan\". This work (now in the cathedral of Cologne) marks Lochner as the major exponent of the Cologne School, revealing his affinity for the International Gothic Style developed under the influence of South German, Cologne, and above all, Netherlandish masters. There is no document attesting to an actual sojourn in the Netherlands, but his pictures offer sufficient evidence for a contact with the North.",
+      "name_in_original_language": null,
+      "birth_year": "1400",
+      "death_year": "1452",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1968-01-12T00:00:00",
+  "sortable_date": 1445,
+  "date_added_to_oa": null,
+  "date_text": "c. 1450",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": true,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:22:34.858000"
+}

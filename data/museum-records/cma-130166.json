@@ -1,0 +1,404 @@
+{
+  "id": 130166,
+  "accession_number": "1952.544.1",
+  "share_license_status": "CC0",
+  "tombstone": "Four Seasons: Spring: Fishing Scene, designed c. 1535, woven mid- to late 1600s. Possibly by Gobelins Manufactory (France, Paris, est. 1662). Wool, silk, and gold filé: tapestry weave; overall: 255 x 266 cm (100 3/8 x 104 3/4 in.). The Cleveland Museum of Art, Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn, 1952.544.1",
+  "current_location": null,
+  "title": "Spring: Fishing Scene",
+  "series": "Four Seasons",
+  "creation_date": "designed c. 1535, woven mid- to late 1600s",
+  "creation_date_earliest": 1530,
+  "creation_date_latest": 1699,
+  "artists_tags": [
+    "gender unknown"
+  ],
+  "culture": [
+    "France"
+  ],
+  "technique": "Wool, silk, and gold filé: tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Tapestry",
+  "measurements": "Overall: 255 x 266 cm (100 3/8 x 104 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 2.55,
+      "height_inch": 100,
+      "height_inch_fraction": 0.375,
+      "width": 2.66,
+      "width_inch": 104,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 438939,
+        "title": "Cycles of Life: The Four Seasons Tapestries",
+        "description": "<i>Cycles of Life: The Four Seasons Tapestries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 13, 2022-February 19, 2023).",
+        "opening_date": "2022-02-12T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Tapestries by French, Italy, English, and American Designers, from Various Lenders, </em>The Cleveland Museum of Art, Cleveland, OH (October 5, 1918-December 1, 1918).",
+        "opening_date": "1918-10-05T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Balloch Castle, Scotland",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Henry Symons Sale: Anderson Galleries, New York, January 27-Febuary 3, 1923",
+      "citations": [],
+      "footnotes": [],
+      "date": "January 27-Febuary 3, 1923",
+      "sortorder": 2
+    },
+    {
+      "description": "Frank Hadley Ginn (1868-1938) and Cornelia Winifred Root Ginn (1877-1937), Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1923-1952",
+      "sortorder": 3
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1952-",
+      "sortorder": 4
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "394.1923"
+  ],
+  "did_you_know": "Spring was considered to be a season of courtship and romance; perhaps the gentleman on the bridge in the red cap is trying to catch the attention of the lady next to him.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In this springtime scene, two fishermen wade in a river, dragging a net suspended between two poles. A noble couple on a bridge gestures toward other fishermen, who occupy the other side of this scene in other extant examples of this tapestry with a larger picture plane. In the background, townspeople walk on bridges that lead to the gateway of a town with brick walls and portals. In the far distance, farmers till the soil to sow new seeds, another typical activity associated with spring. The trees on the hills are just beginning to sprout new buds.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60761337"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1952.544.1-spring-fishing-scene"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Scaturro, Jane and Hanson, Robin. “Cycles of Life: Celebrating the four seasons.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 1: 18-21.",
+      "page_number": "Reproduced: P. 20; Mentioned: P. 18.",
+      "url": ""
+    },
+    {
+      "citation": "Warwick House, Ltd, and Lucas. The Balloch Castle Seasons of Lucas; Being Four Gobelin Tapestries Rich with Gold, 8 Feet 2 Inches High, with Combined Width of 41 Feet 7 Inches, from Balloch Castle, Near Glasgow, Where They Hung for Nearly Two Centuries; a Companion Set to the Famous Months of Lucas, and by the Same Designer. Baltimore: N.T.A. Munder &amp; Co., printers, 1918.",
+      "page_number": null,
+      "url": "https://archive.org/stream/gri_33125016354546/gri_33125016354546#page/n10/mode/2up"
+    },
+    {
+      "citation": "Hunter, George Leland. \"The Loan Exhibition of Tapestries.\" <em>The Bulletin of the Cleveland Museum of Art</em> 5, no. 8/9 (October-November 1918): 63-87.",
+      "page_number": "66",
+      "url": "http://www.jstor.org/stable/25136215"
+    },
+    {
+      "citation": "Hunter, George Leland. <em>Loan Exhibition of Tapestries</em>. <em>Assembled, Arranged and Catalogued by George Leland Hunter. </em>Cleveland Museum of Art<em>. </em>October 5th December 1st 1918.",
+      "page_number": null,
+      "url": "https://archive.org/details/Tapestries_198617/page/n4"
+    },
+    {
+      "citation": "Hunter, George Leland. “The Cleveland Tapestry Exhibition” in <em>The Art World &amp; Arts &amp; Decoration </em>(November 1918) 25-28.",
+      "page_number": null,
+      "url": "https://books.google.com/books?id=KH0XAQAAMAAJ&pg=PA27&lpg=PA27&dq=the+four+seasons+tapestries+lucas&source=bl&ots=QWu0DyxXAj&sig=ACfU3U3Iq8ujNfIEMy8gtfrGGmlfNFP6mw&hl=en&sa=X&ved=2ahUKEwjwls3e6fPfAhVo2oMKHUd9CgIQ6AEwDHoECAMQAQ#v=onepage&q=the%20four%20seasons%20tapestries%20lucas&f=false"
+    },
+    {
+      "citation": "Hunter, George Leland. \"The Cleveland Tapestry Exhibition.\" <em>The American Magazine of Art</em> 10, no. 4 (1919): 129-37.",
+      "page_number": null,
+      "url": "http://www.jstor.org/stable/23925160"
+    },
+    {
+      "citation": "Anderson Galleries, Inc. <em>The Henry Symons Collections.</em> New York: Anderson Galleries, 1923.",
+      "page_number": "no. 1166",
+      "url": null
+    },
+    {
+      "citation": "Freund, Karl. \"Four Gobelin Tapestries,\" International Studio. (December 1924), 234-238.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Crick-Kuntziger, Marthe, “L’énigme des ‘Mois de Lucas,’” <em>Actes du XIIe Congr</em>ès international d’Histoire de l’Art. Volume 2. Brussels, 1930. 497-505.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Ward, Evelyn Svec. \"Four Seasons Tapestries from Gobelins.\" <em>The Bulletin of the Cleveland Museum of Art</em> 40, no. 6 (1953): 113-19.",
+      "page_number": "113-119",
+      "url": "http://www.jstor.org/stable/25141888"
+    },
+    {
+      "citation": "Standen, Edith A. \"Drawings for the \"Months of Lucas\" Tapestry Series.\" <em>Master Drawings</em> 9, no. 1 (1971): 3-80.",
+      "page_number": null,
+      "url": "http://www.jstor.org/stable/1553120"
+    },
+    {
+      "citation": "Standen, Edith Appleton. \"Tapestries in the Collection of the Museum of Art, Carnegie Institute,\" Carnegie Magazine. (December 1981), 3-19.",
+      "page_number": "2-7",
+      "url": null
+    },
+    {
+      "citation": "Standen, Edith Appleton. European Post-Medieval Tapestries and Related Hangings in the Metropolitan Museum of Art. New York: The Museum, 1985.",
+      "page_number": "322, 330",
+      "url": null
+    },
+    {
+      "citation": "Detroit Institute of Arts, Alan Phipps Darr, Tracey Albainy, and Melanie Holcomb. Woven Splendor: Five Centuries of European Tapestry in the Detroit Institute of Arts. [Detroit]: The Institute, 1996.",
+      "page_number": "52-54",
+      "url": null
+    },
+    {
+      "citation": "Standen, Edith Appleton and Janet Arnold. \"The Comte de Toulouse's 'Months of Lucas' Gobelins Tapestries: Sixteenth-Century Designs with Eighteenth-Century Additions,\" Metropolitan Museum Journal. (1996), 59-79.",
+      "page_number": null,
+      "url": "http://www.jstor.org/stable/1512972"
+    },
+    {
+      "citation": "Langeois, David, Daniel Alcouffe, Sandrine Riahi, and Musée Du Louvre. <em>Quelques Chefs-D'oeuvre De La Collection Djahanguir Riahi : Ameublement Français Du Xviiie Siècle</em>. Milano: Franco Maria Ricci, 1999.",
+      "page_number": "66-8",
+      "url": null
+    },
+    {
+      "citation": "Langeois, David, Daniel Alcouffe, and Sandrine Riahi. <em>Quelques chefs-d'oeuvre de la collection Djahanguir Riahi: ameublement français du XVIIIe siècle</em>. [Milano]: Franco Maria Ricci, 1999.",
+      "page_number": "p. 66-71",
+      "url": ""
+    },
+    {
+      "citation": "Artnet Price Database. Thursday 2 November 2000. Christies (New York, Lot 00057).",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Christies Database. <em>“</em>Brussels Tapestry Depicting Winter from ‘The Seasons of Lucas’ Series” Thursday, November 2, 2000. Christies (New York Lot 55).",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Mironneau, Paul. Musée national du Château de Pau. Paris: Réunion des musées nationaux, 2003.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Cleveland Foundation. “Curating the Fine Art of Giving with the Frank Hadley Ginn &amp; Cornelia Root Ginn Charitable Trust,”in <em>Gift of Giving news for donors and friends of the Cleveland Foundation. </em>Spring 2018. 4-5.",
+      "page_number": null,
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1952.544.1",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_web.jpg",
+      "width": "900",
+      "height": "860",
+      "filesize": "446915",
+      "filename": "1952.544.1_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_print.jpg",
+      "width": "3400",
+      "height": "3250",
+      "filesize": "5106429",
+      "filename": "1952.544.1_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_full.tif",
+      "width": "11086",
+      "height": "10596",
+      "filesize": "352436928",
+      "filename": "1952.544.1_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt0_web.jpg",
+        "width": "900",
+        "height": "762",
+        "filesize": "434720"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt0_print.jpg",
+        "width": "3400",
+        "height": "2878",
+        "filesize": "5806895"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt0_full.tif",
+        "width": "12586",
+        "height": "10652",
+        "filesize": "402228476"
+      },
+      "date_created": "2021-05-24T10:21:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt1_web.jpg",
+        "width": "900",
+        "height": "701",
+        "filesize": "421325"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt1_print.jpg",
+        "width": "3400",
+        "height": "2650",
+        "filesize": "5629117"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt1_full.tif",
+        "width": "13669",
+        "height": "10652",
+        "filesize": "436836332"
+      },
+      "date_created": "2021-05-24T10:23:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt2_web.jpg",
+        "width": "646",
+        "height": "900",
+        "filesize": "366205"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt2_print.jpg",
+        "width": "2440",
+        "height": "3400",
+        "filesize": "4934846"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt2_full.tif",
+        "width": "10193",
+        "height": "14204",
+        "filesize": "434372968"
+      },
+      "date_created": "2021-05-24T10:26:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt3_web.jpg",
+        "width": "900",
+        "height": "675",
+        "filesize": "392644"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt3_print.jpg",
+        "width": "3400",
+        "height": "2550",
+        "filesize": "5097318"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt3_full.tif",
+        "width": "14204",
+        "height": "10652",
+        "filesize": "453931976"
+      },
+      "date_created": "2021-05-24T10:29:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt4_web.jpg",
+        "width": "900",
+        "height": "878",
+        "filesize": "467490"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt4_print.jpg",
+        "width": "3400",
+        "height": "3316",
+        "filesize": "4462689"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt4_full.tif",
+        "width": "3800",
+        "height": "3706",
+        "filesize": "42299760"
+      },
+      "date_created": "2017-07-17T09:23:25.074000",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt5_web.jpg",
+        "width": "1049",
+        "height": "893",
+        "filesize": "810182"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt5_print.jpg",
+        "width": "3177",
+        "height": "2704",
+        "filesize": "6388934"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_alt5_full.tif",
+        "width": "3177",
+        "height": "2704",
+        "filesize": "25820732"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 130166,
+  "creators": [
+    {
+      "id": 8592,
+      "description": "Gobelins Manufactory (France, Paris, est. 1662)",
+      "extent": null,
+      "qualifier": "possibly by",
+      "role": "manufacturer",
+      "biography": "For more information: http://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000032919",
+      "name_in_original_language": null,
+      "death_year": "1799",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1952-12-26T00:00:00",
+  "sortable_date": 1530,
+  "date_added_to_oa": null,
+  "date_text": "designed c. 1535, woven mid- to late 1600s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "component",
+  "conservation_statement": "This tapestry was woven with a wool warp and silk- and metal-thread weft. As can be seen in the photomicrograph at 40 times magnification, the core of the metal thread is yellow silk. Wound around the core like a barber pole is a narrow strip of metal that when analyzed was found to be a blend of silver and gold in a ratio of about 4.5 to 1. There is also a trace amount of copper used.",
+  "has_conservation_images": true,
+  "cover_accession_number": "1952.544",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:43:38.019000"
+}

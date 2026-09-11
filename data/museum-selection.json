@@ -4022,5 +4022,617 @@
     "region": "Southeast Asia",
     "category": "Textiles",
     "notes": "Study the surviving dyed or painted pattern alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 149790,
+    "short_title": "Autun: polychrome Romanesque Christ",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 135920,
+    "short_title": "Würzburg: painted Saint Lawrence",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 135931,
+    "short_title": "Würzburg: painted Saint Stephen",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 538162,
+    "short_title": "Jesse · 2023.156",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 143953,
+    "short_title": "Crucified Christ · 1968.33",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 95017,
+    "short_title": "Pair of Doors · 1915.565",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 169274,
+    "short_title": "Bust Reliquary of St. Louis, Bishop of Toulouse · 2011.153",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 94980,
+    "short_title": "Marriage Chest · 1915.535",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 144924,
+    "short_title": "Paris: painted limestone Virgin and Child",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette.",
+    "focus_box_fraction": [
+      0.28,
+      0.25,
+      0.7,
+      0.8
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 138014,
+    "short_title": "Loire Valley: traces of paint on limestone",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 147761,
+    "short_title": "Lorraine: surviving paint and gilding",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 136281,
+    "short_title": "Toulouse: apostle with traces of paint",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 99453,
+    "short_title": "Roof Boss · 1919.1023",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 99454,
+    "short_title": "Roof Boss · 1919.1024",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 125103,
+    "short_title": "Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt) · 1946.82",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 144673,
+    "short_title": "Nottingham: painted alabaster relief",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 135826,
+    "short_title": "Bohemia: polychrome lindenwood Madonna",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 112175,
+    "short_title": "Castile and León: mourning Saint John",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 112176,
+    "short_title": "Castile and León: mourning Virgin",
+    "region": "Europe",
+    "category": "Painted sculpture and relief",
+    "notes": "Compare documented surviving paint with exposed wood or stone. Lighting, gilding, wear and later conservation can also separate strongly; false color does not recover the original palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 131820,
+    "short_title": "The Annunciation · 1954.393",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 136507,
+    "short_title": "The Trinity · 1960.79",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 111435,
+    "short_title": "Coronation of the Virgin · 1929.920",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 143761,
+    "short_title": "The Virgin Crowned by Angels · 1968.20",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 142472,
+    "short_title": "Virgin and Child with Saints · 1966.237",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 283088,
+    "short_title": "Icon of the New Testament Trinity · 2016.32",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 168322,
+    "short_title": "Icon of the Mother of God and Infant Christ (Virgin Eleousa) · 2010.154",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 136862,
+    "short_title": "Portable Triptych Icon · 1961.35",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 97165,
+    "short_title": "Panel from a Cassone: The Race of the Palio in the Streets of Florence · 1916.801",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130981,
+    "short_title": "The Annunciation · 1953.660.1",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 105933,
+    "short_title": "Single Miniature Excised from Boccaccio's Des Cleres et nobles femmes: Queen Medusa and Her Court · 1924.1015",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 151528,
+    "short_title": "Miniature from a Manuscript of the Apocalypse: The War in Heaven · 1983.73.2.b",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 135736,
+    "short_title": "Bifolium from a Bible: Initial E[t factum est] with Ezekiel · 1959.272",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 160814,
+    "short_title": "Leaf from a Book of Hours: Initial D: Massacre of the Innocents (1 of 2 Excised Leaves) · 1999.126",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130954,
+    "short_title": "Initial E from a Municipal Law Book: The Last Judgment · 1953.637",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114198,
+    "short_title": "Single Leaf Excised from a Gospel Book: The Nativity (recto) · 1933.445.a",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114199,
+    "short_title": "Single Leaf Excised from a Gospel Book with Initial L[iber generationis]: St. Matthew (verso) · 1933.445.b",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 518771,
+    "short_title": "Leaf from a Psalter and Prayerbook: Rabbits Dancing (recto) · 2022.101.a",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130313,
+    "short_title": "Title Page of Abbot Berno's \"Tonarius:\"  Initial D[omino] · 1952.88",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 129796,
+    "short_title": "Leaf Excised from a Psalter: The Annunciation · 1952.230",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction.",
+    "focus_box_fraction": [
+      0.19,
+      0.25,
+      0.8,
+      0.84
+    ]
+  },
+  {
+    "provider": "cma",
+    "object_id": 169736,
+    "short_title": "Initial I: Entwined Beast and Serpent: Leaf from a Bible (2 of 2 Excised Leaves) · 2011.52",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 106344,
+    "short_title": "Miniature Excised from a Psalter: The Nativity · 1924.427",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 106346,
+    "short_title": "Single Leaf: Table of Consanguinity · 1924.429",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130388,
+    "short_title": "Leaf from a Cocharelli Treatise on the Vices: Acedia and Her Court · 1953.152",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 111528,
+    "short_title": "Initial G[audeamus omnes] from a Gradual: The Court of Heaven · 1930.105",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 106348,
+    "short_title": "Illumination Excised from a Choir Book: Two Female Angels · 1924.430",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114191,
+    "short_title": "Al-Andalus: colored Qur’an folio, recto",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114192,
+    "short_title": "Al-Andalus: colored Qur’an folio, verso",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 135714,
+    "short_title": "Leaf from a Missal: The Crucifixion (Frontispiece for the Canon of the Mass) · 1959.254",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 160826,
+    "short_title": "Leaf Excised from a Book of Hours: Angel with a Banderole within a Flourished Border (Prayer to the Holy Trinity) · 1999.133",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 105932,
+    "short_title": "Single Miniature Excised from a Missal: The Crucifixion · 1924.1014",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 160213,
+    "short_title": "Book of Hours (Use of Utrecht): fol. 14r, Initial with The Nativity · 1998.124.14.a",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 138998,
+    "short_title": "Hours of Queen Isabella the Catholic, Queen of Spain:  Fol. 15r · 1963.256.15.a",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Study painted passages and colored ink alongside the original photograph. Parchment or panel aging, stains, gilding, varnish and restoration may also amplify; false color is not a reconstruction."
+  },
+  {
+    "provider": "cma",
+    "object_id": 127182,
+    "short_title": "Orphrey Band: The Tree of Jesse · 1949.503",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 144912,
+    "short_title": "Part of a Chasuble · 1970.124",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 125238,
+    "short_title": "Chasuble with Orphrey Band · 1947.2",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114589,
+    "short_title": "Coif · 1934.206",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114171,
+    "short_title": "Floral Panel, Probably from a Curtain · 1933.421",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 124968,
+    "short_title": "Purse · 1946.416",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 127671,
+    "short_title": "Man's Nightcap · 1950.352",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 122190,
+    "short_title": "Long Sampler · 1942.506",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 122576,
+    "short_title": "Procurator’s Velvet Stole · 1942.829",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 123447,
+    "short_title": "Four-color Velvet with Medici Armorial in Rosettes · 1943.67",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 147465,
+    "short_title": "Velvet with Pomegranate Pattern · 1973.20",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 111312,
+    "short_title": "Two-color Velvet with Gold in a Double Curved Lattice Pattern · 1929.82",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 123436,
+    "short_title": "Six-Color Chasuble Front with Animal Pattern · 1943.66",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 119493,
+    "short_title": "Polychrome Velvet · 1940.370",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130166,
+    "short_title": "Spring: Fishing Scene · 1952.544.1",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 130169,
+    "short_title": "Winter: Skating Scene · 1952.544.4",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 136290,
+    "short_title": "Youth (from Chateau de Chaumont set) · 1960.176.2",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 112182,
+    "short_title": "Sweden: woven wool textile",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 99632,
+    "short_title": "Purse · 1919.215",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 123496,
+    "short_title": "Norway: embroidered sampler, 1810",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 95596,
+    "short_title": "Greece or Macedonia: composite silk textile",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114674,
+    "short_title": "Macedonia or Albania: embroidered jacket",
+    "region": "Europe",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 94850,
+    "short_title": "Caroline Islands: dyed woman’s sash",
+    "region": "Oceania",
+    "category": "Textiles",
+    "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
   }
 ]

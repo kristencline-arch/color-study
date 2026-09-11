@@ -1,0 +1,475 @@
+{
+  "id": 144924,
+  "accession_number": "1970.13",
+  "share_license_status": "CC0",
+  "tombstone": "Enthroned Virgin with the Writing Christ Child, c. 1400. Franco-Netherlandish, active Paris(?), 15th century. Limestone with polychromy and gilding; overall: 44.8 x 31.5 x 15 cm (17 5/8 x 12 3/8 x 5 7/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1970.13",
+  "current_location": "109 Gothic Painting and Sculpture",
+  "title": "Enthroned Virgin with the Writing Christ Child",
+  "creation_date": "c. 1400",
+  "creation_date_earliest": 1395,
+  "creation_date_latest": 1405,
+  "artists_tags": [],
+  "culture": [
+    "Franco-Netherlandish, active Paris(?), 15th century"
+  ],
+  "technique": "limestone with polychromy and gilding",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Gothic",
+  "type": "Sculpture",
+  "measurements": "Overall: 44.8 x 31.5 x 15 cm (17 5/8 x 12 3/8 x 5 7/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.448,
+      "height_inch": 17,
+      "height_inch_fraction": 0.625,
+      "width": 0.315,
+      "width_inch": 12,
+      "width_inch_fraction": 0.375,
+      "depth": 0.15,
+      "depth_inch": 5,
+      "depth_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301391,
+        "title": "Year in Review: 1970",
+        "description": "<i>Year in Review: 1970</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 10-March 7, 1971).",
+        "opening_date": "1971-02-10T05:00:00"
+      },
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      },
+      {
+        "id": 442290,
+        "title": "Le Siecle de Charles V (The Century of Charles V)",
+        "description": "<i>Le Siecle de Charles V (The Century of Charles V)</i>. Réunion des musées nationaux - Grand Palais, Paris cedex 12, France (October 10, 1981-February 1, 1982).",
+        "opening_date": "1981-10-10T04:00:00"
+      },
+      {
+        "id": 217179,
+        "title": "Paris 1400. les arts sous Charles VI",
+        "description": "<i>Paris 1400. les arts sous Charles VI</i>. Musée du Louvre, Paris, France (organizer) (March 22-July 19, 2004).",
+        "opening_date": "2004-03-22T00:00:00"
+      },
+      {
+        "id": 186370,
+        "title": "Dukes and Angels: Art from the Court of Burgundy (1364-1419)",
+        "description": "<i>Dukes and Angels: Art from the Court of Burgundy (1364-1419)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2004-January 9, 2005).",
+        "opening_date": "2004-05-27T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Dr. Kurt Rossacher, Salzburg, Austria).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Here the Virgin is sitting on a highly decorated pillow.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This sculpture belongs to a tradition of seated Virgins that were prominent in Netherlandish art in the decades around 1400, and by extension may be associated with the Valois courts at Paris, Dijon, and Bourges. The theme of the Christ child who writes into an open book or onto a vellum banderole emerged during the third quarter of the 14th century and had great appeal among ecclesiastical and aristocratic clients. It undoubtedly refers to the educating and nurturing role of the mother in teaching the child, but also to the future position of the adult Christ as author and teacher. The small scale of this sculpture and the fact that its back is uncarved suggest that it was made for a small alcove or niche, appropriate in the intimate setting of a small chapel or oratory. The sculpture would have primarily been viewed from the front and perhaps from slightly below.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60762821"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1970.13-enthroned-virgin-wit"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Parkhurst, Jr. Charles P. \"The Madonna of the Writing Christ Child\" <em>Art Bulletin 2</em>3 (1941).",
+      "page_number": "p. 292ff, figs., 30, 31-35.",
+      "url": ""
+    },
+    {
+      "citation": "Müller, Theodor, Elaine Scott, and William Robson Scott. <em>Sculpture in the Netherlands, Germany, France, and Spain: 1400 to 1500</em>. Baltimore: Penguin, 1966.",
+      "page_number": "p. 18, pl. 12a",
+      "url": ""
+    },
+    {
+      "citation": "Wixom, William D. “An Enthroned Madonna with the Writing Christ Child.” <em>The Bulletin of the Cleveland Museum of Art</em> 57, no. 9 (1970).",
+      "page_number": "pp. 287-302",
+      "url": "https://www.jstor.org/stable/25152349"
+    },
+    {
+      "citation": "Dogaer, Georges \"Bulletin Codicologique\" <em>Scriptorium </em>25, no. 2 (1971).",
+      "page_number": "p. 414, paragraph 1104",
+      "url": ""
+    },
+    {
+      "citation": "Boccador, Jacqueline, and Édouard Bresset. <em>Statuaire médiévale de collection. ([Zu</em>g]: [Éditions] Les Clefs du temps, 1972.",
+      "page_number": "p. 23, repr. 22",
+      "url": ""
+    },
+    {
+      "citation": "J.G. Alexander, Jonathan \"A Propos des Fastes du gothique,\" <em>Revue de L'Art</em>, no. 57 (1982).",
+      "page_number": "p. 91",
+      "url": ""
+    },
+    {
+      "citation": "Schwarz, Michael Viktor. <em>Höfische Skulptur im 14. Jahrhundert: Entwicklungsphasen und Vermittlungswege im Vorfeld des Weichen Stils.</em> Worms [Germany]: Wernersche Verlagsgesellschaft Worms, 1986.",
+      "page_number": "p. 643, pl. 80",
+      "url": ""
+    },
+    {
+      "citation": "Forsyth, William A. \"A Fifteenth-Century Virgin and Child Attributed to Clax de Werve,\" <em>Metropolitan Museum Journal </em>21 (New York: Metropolitan Museum of Art, 1986).",
+      "page_number": "p. 52, repr. fig. 15",
+      "url": ""
+    },
+    {
+      "citation": "Duby, Georges, Xavier Barral i Altet, and Sophie Guillot de Suduiraut. Sculpture: The Great Art of the Middle Ages from the Fifth to the Fifteenth Century. New York: Skira/Rizzoli, 1990.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Musée du Louvre.<em> Paris, 1400: les arts sous Charles VI</em>. [Paris]: Fayard, 2004.",
+      "page_number": "cat. no. 214, p.336",
+      "url": ""
+    },
+    {
+      "citation": "Fliegel, Stephen N., Sophie Jugie, and Virginie Barthélémy.<em> Art from the Court of Burgundy: The Patronage of Philip the Bold and John the Fearless 1364-1419 : Musée Des Beaux-Arts De Dijon, May 28-September 15, 2004, the Cleveland Museum of Art, October 24, 2004-January 9, 2005. </em>[Dijon]: Musée des beaux-arts, 2004.",
+      "page_number": "cat.no.131, pp. 338-9",
+      "url": ""
+    },
+    {
+      "citation": "Laguna-Chevillotte, Agnieszka. \"Le Christ-Verbe: Remarques sur la fortune du thème dans la statuaire mariale de la mouvance royale.\" In <em>La création artistique en France autour de 1400</em>, edited by Elisabeth Taburet-Delahaye. Rencontres de l'École du Louvre 19. Paris: Ecole du Louvre, 2006.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 200-201, no. 72",
+      "url": ""
+    },
+    {
+      "citation": "Eikelmann, Renate, Holger A. Klein, Stephen N. Fliegel, and Virginia Brilliant.<em> The Cleveland Museum of Art: Meisterwerke von 300 bis 1550.</em> München: Hirmer, 2007.",
+      "page_number": "p. 186, repr. p. 187, no. 67",
+      "url": ""
+    },
+    {
+      "citation": "Woelk, Moritz. Zwei Alabasterreliefs mit der Verkündigung an Maria, franko-flämisch, um 1410-1420, Köln, Museum Schnütgen = two alabaster reliefs with the annunciation to the Virgin, Franco-Flemish, ca. 1410-1420, Cologne, Museum Schnütgen. [Berlin] : Kulturstiftung der Länder in Verbindung mit dem Museum Schnütgen, Köln 2020.",
+      "page_number": "Reproduced: p. 87, fig. 33",
+      "url": ""
+    },
+    {
+      "citation": "Woelk, Moritz. <em>Zwei Alabasterreliefs mit der Verkündigung an Maria, franko-flämisch, um 1410-1420, Köln, Museum Schnütgen = Two alabaster reliefs with the Annunciation to the Virgin, Franco-Flemish, ca. 1410-1420, Cologne, Museum Schnütgen.</em> 2020.",
+      "page_number": "Abb. 33, p. 87",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1970.13",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_web.jpg",
+      "width": "683",
+      "height": "893",
+      "filesize": "371953",
+      "filename": "1970.13_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_print.jpg",
+      "width": "2600",
+      "height": "3400",
+      "filesize": "4738644",
+      "filename": "1970.13_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_full.tif",
+      "width": "3772",
+      "height": "4932",
+      "filesize": "55841728",
+      "filename": "1970.13_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt0_web.jpg",
+        "width": "693",
+        "height": "893",
+        "filesize": "133927"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt0_print.jpg",
+        "width": "2637",
+        "height": "3400",
+        "filesize": "1566661"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt0_full.tif",
+        "width": "4064",
+        "height": "5238",
+        "filesize": "63885444"
+      },
+      "date_created": "2012-03-14T12:11:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt1_web.jpg",
+        "width": "767",
+        "height": "893",
+        "filesize": "89853"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt1_print.jpg",
+        "width": "2922",
+        "height": "3400",
+        "filesize": "1268053"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt1_full.tif",
+        "width": "4601",
+        "height": "5353",
+        "filesize": "73912912"
+      },
+      "date_created": "2012-03-14T12:22:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt2_web.jpg",
+        "width": "699",
+        "height": "893",
+        "filesize": "113094"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt2_print.jpg",
+        "width": "2663",
+        "height": "3400",
+        "filesize": "1764601"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt2_full.tif",
+        "width": "4648",
+        "height": "5934",
+        "filesize": "82767936"
+      },
+      "date_created": "2012-03-14T12:31:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt3_web.jpg",
+        "width": "659",
+        "height": "893",
+        "filesize": "89252"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt3_print.jpg",
+        "width": "2508",
+        "height": "3400",
+        "filesize": "1172117"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt3_full.tif",
+        "width": "4119",
+        "height": "5583",
+        "filesize": "69017372"
+      },
+      "date_created": "2012-03-13T17:45:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt4_web.jpg",
+        "width": "679",
+        "height": "893",
+        "filesize": "81248"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt4_print.jpg",
+        "width": "2587",
+        "height": "3400",
+        "filesize": "1231381"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt4_full.tif",
+        "width": "4363",
+        "height": "5733",
+        "filesize": "75068636"
+      },
+      "date_created": "2012-03-13T18:45:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt5_web.jpg",
+        "width": "707",
+        "height": "893",
+        "filesize": "84593"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt5_print.jpg",
+        "width": "2691",
+        "height": "3400",
+        "filesize": "1279324"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt5_full.tif",
+        "width": "4467",
+        "height": "5642",
+        "filesize": "75639596"
+      },
+      "date_created": "2012-03-13T19:14:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt6_web.jpg",
+        "width": "671",
+        "height": "893",
+        "filesize": "382647"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt6_print.jpg",
+        "width": "2555",
+        "height": "3400",
+        "filesize": "5585326"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt6_full.tif",
+        "width": "3758",
+        "height": "5000",
+        "filesize": "56396328"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt7_web.jpg",
+        "width": "633",
+        "height": "893",
+        "filesize": "353175"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt7_print.jpg",
+        "width": "2411",
+        "height": "3400",
+        "filesize": "5067691"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt7_full.tif",
+        "width": "3546",
+        "height": "5000",
+        "filesize": "53215724"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt8_web.jpg",
+        "width": "674",
+        "height": "893",
+        "filesize": "365299"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt8_print.jpg",
+        "width": "2565",
+        "height": "3400",
+        "filesize": "5247385"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt8_full.tif",
+        "width": "3677",
+        "height": "4874",
+        "filesize": "53790892"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt9_web.jpg",
+        "width": "605",
+        "height": "893",
+        "filesize": "454351"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt9_print.jpg",
+        "width": "2305",
+        "height": "3400",
+        "filesize": "5219024"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt9_full.tif",
+        "width": "3389",
+        "height": "5000",
+        "filesize": "50865308"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt10_web.jpg",
+        "width": "705",
+        "height": "893",
+        "filesize": "378413"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt10_print.jpg",
+        "width": "2683",
+        "height": "3400",
+        "filesize": "5091227"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.13/1970.13_alt10_full.tif",
+        "width": "3946",
+        "height": "5000",
+        "filesize": "59215780"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": "9ec47d9d285e4f40b22ef8e405923123",
+  "sketchfab_url": "https://sketchfab.com/models/9ec47d9d285e4f40b22ef8e405923123",
+  "gallery_donor_text": null,
+  "athena_id": 144924,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1970-03-09T00:00:00",
+  "sortable_date": 1395,
+  "date_added_to_oa": null,
+  "date_text": "c. 1400",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Enthroned Virgin with the Writing Christ Child"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-09-11 18:02:05.217000"
+}

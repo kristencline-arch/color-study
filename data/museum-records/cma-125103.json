@@ -1,0 +1,987 @@
+{
+  "id": 125103,
+  "accession_number": "1946.82",
+  "share_license_status": "CC0",
+  "tombstone": "Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt), c. 1495. Tilman Riemenschneider (German, active Würzburg, c. 1460–1531). Alabaster, traces of polychromy; overall: 37.8 x 28.1 x 15.9 cm (14 7/8 x 11 1/16 x 6 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1946.82",
+  "current_location": "001A ArtLens Exhibition",
+  "title": "Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt)",
+  "creation_date": "c. 1495",
+  "creation_date_earliest": 1490,
+  "creation_date_latest": 1500,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Germany, Würzburg, late 15th Century"
+  ],
+  "technique": "alabaster, traces of polychromy",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Gothic",
+  "type": "Sculpture",
+  "measurements": "Overall: 37.8 x 28.1 x 15.9 cm (14 7/8 x 11 1/16 x 6 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.378,
+      "height_inch": 14,
+      "height_inch_fraction": 0.875,
+      "width": 0.281,
+      "width_inch": 11,
+      "width_inch_fraction": 0.0625,
+      "depth": 0.159,
+      "depth_inch": 6,
+      "depth_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 311952,
+        "title": "Art, A Means to World Understanding",
+        "description": "<i>Art, A Means to World Understanding</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 16-April 10, 1949).",
+        "opening_date": "1949-03-16T05:00:00"
+      },
+      {
+        "id": 302205,
+        "title": "Art and Humanism in the Renaissance",
+        "description": "<i>Art and Humanism in the Renaissance</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 23-February 25, 1962).",
+        "opening_date": "1962-01-23T05:00:00"
+      },
+      {
+        "id": 519575,
+        "title": "Work of Tilman Riemenschneider",
+        "description": "<i>Work of Tilman Riemenschneider</i>. North Carolina Museum of Art, Raleigh, NC (organizer) (October 6-November 11, 1962).",
+        "opening_date": "1962-10-06T04:00:00"
+      },
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      },
+      {
+        "id": 442325,
+        "title": "Tilman Riemenschneider - Frühe Werke (Tilman Riemenschneider - Early Works)",
+        "description": "<i>Tilman Riemenschneider - Frühe Werke (Tilman Riemenschneider - Early Works)</i>. Mainfrankisches Museum, Wurzburg, Germany (organizer) (September 4-November 1, 1981).",
+        "opening_date": "1981-09-04T04:00:00"
+      },
+      {
+        "id": 311444,
+        "title": "Object Lessons: Cleveland Creates an Art Museum",
+        "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+        "opening_date": "1991-06-07T04:00:00"
+      },
+      {
+        "id": 177124,
+        "title": "Tilman Riemenschneider:  Master Sculptor of the Late Middle Ages",
+        "description": "<i>Tilman Riemenschneider:  Master Sculptor of the Late Middle Ages</i>. National Gallery of Art, Landover, MD (organizer) (October 3, 1999-January 9, 2000); The Metropolitan Museum of Art, New York, NY (February 7-May 14, 2000).",
+        "opening_date": "1999-10-03T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      },
+      {
+        "id": 231494,
+        "title": "From Van Eyck to Dürer: Artistic Exchanges between the Netherlands and Central, Eastern and Northern Europe c.1420-1530",
+        "description": "<i>From Van Eyck to Dürer: Artistic Exchanges between the Netherlands and Central, Eastern and Northern Europe c.1420-1530</i>. Groeningemuseum, Stedelijke Musea, Brugge, Belgium (October 28, 2010-January 30, 2011).",
+        "opening_date": "2010-10-28T00:00:00"
+      },
+      {
+        "id": 441241,
+        "title": "Alabaster. European Sculpture from the Middle Ages to the Baroque",
+        "description": "<i>Alabaster. European Sculpture from the Middle Ages to the Baroque</i>. M Leuven, Leuven, Belgium (organizer) (October 14, 2022-February 26, 2023) https://www.mleuven.be/programma/albast.",
+        "opening_date": "2022-10-14T04:00:00"
+      },
+      {
+        "id": 453138,
+        "title": "Riemenschneider and Late Medieval Alabaster",
+        "description": "<i>Riemenschneider and Late Medieval Alabaster</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-July 23, 2023).",
+        "opening_date": "2023-03-26T04:00:00"
+      },
+      {
+        "id": 705279,
+        "title": "ArtLens Reimagined: The Intersection of Art, Technology, and Innovation",
+        "description": "<i>ArtLens Reimagined: The Intersection of Art, Technology, and Innovation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 23, 2026-September 1, 2031).",
+        "opening_date": "2026-07-23T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Ausstellung für christliche Kunst, </em>Schloss, Mainz, Germany (August 20 - September 4, 1892).",
+        "opening_date": "2020-08-01T00:00:00"
+      },
+      {
+        "description": "<em>Meisterwerke der Bildhauerkunst in Frankfurter Privatbesitz, Deutsche und Franzosische Okastik des Mittelalters,</em> Frankfurt-am-Main, Germany (1921).",
+        "opening_date": "1921-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Riemenschneider Gedächtnis-Ausstellung 1931 des Museum für Kunst und Landesgeschichte im Provinzial</em>, Hannover, Germany (1931).",
+        "opening_date": "1931-01-01T00:00:00"
+      },
+      {
+        "description": "<em>Masterpieces of Sculpture,</em> Minneapolis Institute of Arts (November 1-December 11, 1949).",
+        "opening_date": "1949-11-01T00:00:00"
+      },
+      {
+        "description": "<em>Classical, Medieval, Renaissance and Modern Sculpture,</em> Dudley P. Allen Memorial Art Museum, Oberlin, OH (January 6-31, 1950).",
+        "opening_date": "1931-01-06T00:00:00"
+      },
+      {
+        "description": "<em>Sculptures of Tilman Riemenschneider,</em> North Carolina Museum, Raleigh, North Carolina (October 6 - November 11, 1962).",
+        "opening_date": "1962-10-06T00:00:00"
+      },
+      {
+        "description": "<em>Tilman Riemenschneider</em>, Mainfrankisches Museum Wurzburg, Germany (September 1-November 1, 1981).",
+        "opening_date": "1981-09-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Private Collection, Paris",
+      "citations": [],
+      "footnotes": [],
+      "date": null,
+      "sortorder": 1
+    },
+    {
+      "description": "Aynard Collection, Lyons",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1913",
+      "sortorder": 2
+    },
+    {
+      "description": "Harry Fuld, Frankfurt am Main",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": 3
+    },
+    {
+      "description": "(Rosenberg & Steibel, New York, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1946",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1946-",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "In the story Saint Jerome encounters a fearsome lion, here depicted as diminutive, gentle, and submissive.",
+  "early_education_description": null,
+  "artlens_description": "INTERACTIVE\r<br><strong>Examine this artwork with Look Closer</strong> \r<br>Use the interactive lens to see the intricate \rdetails of this alabaster statue up close and listen to the sculpture’s hidden stories.",
+  "description": "This statue shows an important moment from a story about Saint Jerome. One day Jerome encountered a hurt lion. He removed a thorn from its paw, and the grateful animal became Jerome’s lifelong companion. <br><br>This sculpture is made of alabaster, a soft stone suited for carving fine detail. Look closely! You can see flecks of paint and gold from when it was originally painted. Conservators looked at this sculpture under a microscope and found that the lion once had a red mouth, yellow fur, and black claws.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60749520"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1946.82-saint-jerome-and-the"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Generalversammlung der Katholiken Deutschlands. . <em>Katalog der Ausstellung für christliche Kunst: im ehem</em>. Kurfürstl. Schlosse, 20. August - 4. September. 1892.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Lelong, C. <em>Catalogue des objets d'art et de haute curiosité, de l'antiquité, du Moyen-Age et de la Renaissance ..., ivories, émaux, tapisseries, tableaux ..., dépendant des collections de Mme C. Lelong</em> 8, 9 et 10 décembre 1902. 1902.",
+      "page_number": "no. 147",
+      "url": null
+    },
+    {
+      "citation": "<em>Hessen-Kunst</em> (1909).",
+      "page_number": "p. 29",
+      "url": null
+    },
+    {
+      "citation": "Adelmann, C. \"Til Riemenschneider,\" <em>Walhalla</em> VI (1910).",
+      "page_number": "p. 108",
+      "url": null
+    },
+    {
+      "citation": "<em>Collection Aynard Lyon,</em> Sale cat. Georges Petit (1913).",
+      "page_number": "no. 278",
+      "url": null
+    },
+    {
+      "citation": "<em>Kunstblatt</em>, II (1918).",
+      "page_number": "p. 85",
+      "url": null
+    },
+    {
+      "citation": "<em>Meisterwerke Der Bildhauerkunst in Frankfurter Privatbesitz</em>. Band 1. Deutsche Und Franzs̲ische Plastik Des Mittelalters. Frankfurt and Main: Frankfurter Kunstverein, 1921.",
+      "page_number": "no. 143",
+      "url": null
+    },
+    {
+      "citation": "Swarzenski, George. \"Deutsche Alabasterplastik des 15 Jahfhunderts,\" <em>Städel-Jahrbuch</em> I (1921).",
+      "page_number": "p. 169",
+      "url": null
+    },
+    {
+      "citation": "Schrade, Hubert. <em>Tilman Riemenschneider</em>. Heidelberg: Hain, 1927.",
+      "page_number": "no. 278",
+      "url": null
+    },
+    {
+      "citation": "Provinzialmuseum Hannover, and Tilman Riemenschneider. <em>Riemenschneider Gedächtnis-Ausstellung 1931 des Museums für Kunst und Landesgeschichte im Provinzial-Museum Hannover</em>. Verzeichnis der ausgestellten Werke Riemenschneiders und seiner Schule. 1931.",
+      "page_number": "Cat. No. 10a, p. 16.",
+      "url": null
+    },
+    {
+      "citation": "Justus Bier, \" Riemenschneider - Ausstellung im Gedächtnisjahr\" Pantheon VIII (1931).",
+      "page_number": "p. 451",
+      "url": null
+    },
+    {
+      "citation": "Bier, Justus. <em>Thieme-Becker</em>, Allegemeine Lexikon der Bildenden Künstler (Leipzig, 1934).",
+      "page_number": "XXVIII, p. 334",
+      "url": null
+    },
+    {
+      "citation": "Schmitt, Otto.<em> Reallexikon zur deutschen Kunstgeschichte </em>I. Band, I. Band. Stuttgart: J.B. Metzlersche Verlagsbuchhandlung, 1937.",
+      "page_number": "pp. 310, 322, fig. 18",
+      "url": null
+    },
+    {
+      "citation": "Habicht, Victor Curt. <em>T. Riemenschneiders Lehr- und Wanderjahre.</em> Niedersächsisches Jahrbuch Für Landesgeschichte ; 14.1937. 1937.",
+      "page_number": "r, pl. II, fig. 3",
+      "url": null
+    },
+    {
+      "citation": "Bier, Justus. <em>Tilmann Riemenschneider. </em>Wien: Schroll, 1937.",
+      "page_number": "p. 27, pl. 54",
+      "url": null
+    },
+    {
+      "citation": "Ring, Grete. \"St. Jerome Extracting the Thorn from the Lion's Foot.\" <em>The Art Bulletin</em> 27, no. 3 (1945)",
+      "page_number": "p. 188, fig. 5",
+      "url": "https://www.jstor.org/stable/3047012"
+    },
+    {
+      "citation": "Milliken, William M. \"\"St. Jerome and the Lion\" by Tilmann Riemenschneider.\" <em>The Bulletin of the Cleveland Museum of Art </em>33, no. 10 (1946)",
+      "page_number": "pp. 182-3",
+      "url": "https://www.jstor.org/stable/25141320"
+    },
+    {
+      "citation": "Pope-Hennessy, John. \"Recent Research.\" <em>The Burlington Magazine for Connoisseurs</em> 89, no. 531 (1947)",
+      "page_number": "p. 165",
+      "url": "https://www.jstor.org/stable/869378"
+    },
+    {
+      "citation": "Bier, Justus. <em>Tilmann Riemenschneider; ein Gedenkbuch</em>. Wien: A. Schroll, 1948.",
+      "page_number": "p. 32, pl. 56",
+      "url": null
+    },
+    {
+      "citation": "<em>Masterpieces of Sculpture: November 1-December 11, 1949,</em> Minneapolis Institute of Arts, 1949.",
+      "page_number": "cat. no. 25, p. 158, repr. p. 153",
+      "url": null
+    },
+    {
+      "citation": "<em>Minneapolis Institute of Art Bulletin</em> XXXVII, no. 29 (Nov. 5, 1949).",
+      "page_number": "p. 153",
+      "url": null
+    },
+    {
+      "citation": "Bier, Justus. \"Riemenschneider's St. Jerome and His Other Works in Alabaster.\" <em>The Art Bulletin</em> 33, no. 4 (1951)",
+      "page_number": "pp. 226-234, fig. 1-4",
+      "url": "https://www.jstor.org/stable/3047371"
+    },
+    {
+      "citation": "Bier, Justus. \"Riemenschneider und die Schaumüngen des Lorenz von Bibra\" M<em>unchen Jahrbuch der Bildenden Kunst</em> 7, no. 3 (1956).",
+      "page_number": "p. 100, fig. 19",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 188",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n45"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and William Mathewson Milliken. <em>The Cleveland Museum of Art.</em> New York: H.N. Abrams, 1958.",
+      "page_number": "p. 32",
+      "url": null
+    },
+    {
+      "citation": "Wixom, William D., and Henry S. Francis. <em>Two Lindenwood Sculptures by Tilmann Riemanschneider ; 'The Stag Hunt', Lucas Cranach the Elder and Lucas Cranach the Younger. </em>Cleveland: Cleveland Museum of Art, 1959.",
+      "page_number": "fig. 38",
+      "url": null
+    },
+    {
+      "citation": "North Carolina Museum of Art. <em>Sculptures of Tilmann Riemenschneider: North Carolina Museum of Art, Raleigh, October 6-November 11, 1962. </em>[Raleigh, N.C.]: [North Carolina Museum of Art], 1962.",
+      "page_number": "Cat. No. III, repr. p. 27, 28, 29",
+      "url": null
+    },
+    {
+      "citation": "Werner, Alfred. \"Riemenschneider and the Gothic Genius\" <em>Arts Magazine</em> (October 1962).",
+      "page_number": "pp. 41-42",
+      "url": null
+    },
+    {
+      "citation": "\"Exhibition Review\" <em>Emporium Rivista Mensile d'arte e di cultura</em> (March 1963).",
+      "page_number": "pp. 137-8",
+      "url": null
+    },
+    {
+      "citation": "\"Mostre Museu Gallerie\" <em>Sele Arte</em> (March-April, 1963).",
+      "page_number": "no. 93, p. 59",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 77",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n101"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 77",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n101"
+    },
+    {
+      "citation": "Cooper, Barbara, and Maureen Matheson. <em>The World Museums Guide</em>, Edited by Barbara Cooper &amp; Maureen Matheson. London: Threshold Books Ltd, 1973.",
+      "page_number": "p. 78",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 87",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n107"
+    },
+    {
+      "citation": "Ley, Max, and Konrad Zwingmann. <em>Tilman Riemenschneider: fruhe Werke : Ausstellung im Mainfrankischen Museum Wurzburg</em>. Regensburg: F. Puster, 1981.",
+      "page_number": "Cat. No. 57, p. 263-266",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, \"Tilmann Riemenschneider -- The Early Work,\" October 7, 1981, Cleveland Museum of Art Archives.",
+      "page_number": null,
+      "url": "https://archive.org/details/cmapr2927/"
+    },
+    {
+      "citation": "Bier, Justus, and Tilman Riemenschneider. <em>Tilmann Riemenschneider/; His Life and Work.</em> Lexington, KY.: Univ. Pr. of Kentucky, 1982.",
+      "page_number": "p. 97, fig. 6",
+      "url": null
+    },
+    {
+      "citation": "Krohm, Hartmut. <em>Zum Frühwerk Tilman Riemenschneiders: eine Dokumentation.</em> Berlin: Staatliche Museen Preussischer Kulturbesitz, Skulpturengalerie, 1982.",
+      "page_number": "p. 97 fig. 6",
+      "url": null
+    },
+    {
+      "citation": "Sello, Gottfried, and Toni Schneiders. <em>Tilman Riemenschneider.</em> Munchen: Lexikographische Institut Munchen, 1983.",
+      "page_number": "p. 53",
+      "url": null
+    },
+    {
+      "citation": "Keblowski, Janusz \"Tylmana Riemenschneidera dziela wczesne (na marginesie wystawy w Würzburgu)\" <em>Biuletyn Historii Sztuki</em> XLV, no. 2 (1983).",
+      "page_number": "p. 199",
+      "url": null
+    },
+    {
+      "citation": "Kalden-Rosenfeld, Iris, and Tilman Riemenschneider. <em>Tilman Riemenschneider - Werkstattleiter in Würzburg: Beiträge zur Organisation einer Bildschnitzer- und Steinbildhauerwerkstatt im ausgehenden Mittelalter</em>. Ammersbek bei Hamburg: Verl. an der Lottbek Jensen, 1990.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Roberta Hubbard, \"Martin's Mill\" CWRU: <em>The Magazine of Case Western Reserve University</em> 5, no.1 (November 1992).",
+      "page_number": "p. 38",
+      "url": null
+    },
+    {
+      "citation": "Riemenschneider, Tilman, Julien Chapuis, and Michael Baxandall. <em>Tilman Riemenschneider: Master Sculptor of the Late Middle Ages.</em> 1999.",
+      "page_number": "Cat. no. 11.",
+      "url": null
+    },
+    {
+      "citation": "Marks, Richard \"Exhibition Reviews\", <em>The Burlington Magazine</em> (July 2000).",
+      "page_number": "p. 470",
+      "url": null
+    },
+    {
+      "citation": "Hayum, Andree \"A Devotion to Carving: The Art of Tilmann Riemenschneider\" <em>Art in America</em> (July 2000).",
+      "page_number": "p. 90",
+      "url": null
+    },
+    {
+      "citation": "Kalden-Rosenfeld, Iris. <em>Tilman Riemenschneider und seine Werkstatt: mit einem Katalog der allgemein als Arbeiten Riemenschneiders und seiner Werkstatt akzeptierten Werke. </em>Königstein im Taunus: Langewiesche, 2001.",
+      "page_number": "p. 43, no. 48 p. 46, no. 51.",
+      "url": null
+    },
+    {
+      "citation": "Muth, Hanswernfried, Tilman Riemenschneider, and Toni Schneiders. <em>Tilman Riemenschneider: Bildschnitzer zu Würzburg</em>. Würzburg: Echter, 2004.",
+      "page_number": "pp. 30-31",
+      "url": null
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</em>. Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Cat. no. 90, p. 242",
+      "url": null
+    },
+    {
+      "citation": "Eikelmann, Renate, Holger A. Klein, Stephen N. Fliegel, and Virginia Brilliant. <em>The Cleveland Museum of Art: Meisterwerke von 300 bis 1550</em>. München: Hirmer, 2007.",
+      "page_number": "p. 263, no. 94",
+      "url": null
+    },
+    {
+      "citation": "Borchert, Till, and Julien Chapuis.<em> Van Eyck to Dürer: Early Netherlandish Painting &amp; Central Europe 1430-1530. </em>Tielt: Lannoo, 2010.",
+      "page_number": "p. 415, fig. 229",
+      "url": null
+    },
+    {
+      "citation": "Borchert, Till, and Julien Chapuis. Van Eyck to Dürer: T<em>he Influence of Early Netherlandish Painting on European Art, 1430-1530.</em> London: Thames &amp; Hudson, 2011.",
+      "page_number": "p. 415, Cat. 229",
+      "url": null
+    },
+    {
+      "citation": "Borchert, Till, and Tilman Riemenschneider.<em> Tilman Riemenschneider: The Annunciation : a New Addition to the Corpus of Works in Alabaster</em>. London: Daniel Katz Ltd, 2012.",
+      "page_number": "o. 25, fig. 10",
+      "url": null
+    },
+    {
+      "citation": "Fliegel, Stephen N., and Stephen N. Fliegel.<em> A Higher Contemplation: Sacred Meaning in the Christian Art of the Middle Ages. </em>Kent, Ohio: Kent State University Press, 2012.",
+      "page_number": "p. 45, fig. 36",
+      "url": null
+    },
+    {
+      "citation": "Williamson, Paul. <em>The Wyvern Collection: Medieval and Renaissance Sculpture and Metalwork</em>. London: Thames &amp; Hudson, 2018.",
+      "page_number": "CMA Mention: p. 232",
+      "url": null
+    },
+    {
+      "citation": "Woods, Kim. <em>Cut in Alabaster: A Material of Sculpture and Its European Traditions 1330-1530.</em> London: Harvey Miller Publishers, an imprint of Brepols Publishers, 2018.",
+      "page_number": "Mentioned & Reproduced: pp. 42-42, fig. 18",
+      "url": null
+    },
+    {
+      "citation": "Fukuda, Midori. <em>Shin inori no chōkoku rīmenshunaidā to dōjidai no sakkatachi. </em>Tōkyō: Maruzenpuranetto, 2018.",
+      "page_number": "Reproduced & Mentioned: pp. 80-85, fig. 25",
+      "url": null
+    },
+    {
+      "citation": "Lutz, Gerhard. “Late Medieval Alabaster Sculpture: A new look at Tilman Riemenschneider's Jerome.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>vol. 63, no. 1 (2023): 10-11.",
+      "page_number": "Reproduced: P. 11; Mentioned: P. 10",
+      "url": "https://archive.org/details/CMAMM2023-01/page/n9/mode/2up"
+    },
+    {
+      "citation": "Lutz, Gerhard. “On the Use of Alabaster in Fifteenth-Century Sculpture.“ In <em>Riemenschneider and Late Medieval Alabaster</em>, edited by Aumaine Rose Smith, 14-25. Cleveland, Lewes: The Cleveland Museum of Art; D Giles Limited, 2023.",
+      "page_number": "Mentioned and Reproduced: p. 14-15, no. 1",
+      "url": ""
+    },
+    {
+      "citation": "Lutz, Gerhard. “Tilman Riemenschneider’s Early Work and Alabaster Sculpture.“ In <em>Riemenschneider and Late Medieval Alabaster</em>, edited by Aumaine Rose Smith, 78-88. Cleveland, Lewes: The Cleveland Museum of Art; D Giles Limited, 2023.",
+      "page_number": "Mentioned and reproduced: p. 85, fig. 44",
+      "url": ""
+    },
+    {
+      "citation": "Lutz, Gerhard. “Saint Jerome and the Virgin of the Annunciation.“ In <em>Riemenschneider and Late Medieval Alabaster</em>, edited by Aumaine Rose Smith, 90-101. Cleveland, Lewes: The Cleveland Museum of Art; D Giles Limited, 2023.",
+      "page_number": "Mentioned: p. 91-101; Reproduced: p. 90, 92-93, no. 1",
+      "url": ""
+    },
+    {
+      "citation": "Williamson, Paul. \"A Masterpiece in Cleveland Forms the Focus of an Examination of the Aesthetic and Technical Qualities of Late Medieval European Alabaster Carving.\" <em>Burlington Magazine </em>165, no. 1448 (November 2023): 1244-1246.",
+      "page_number": "Mentioned and reproduced: p. 1244, fig. 1",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1946.82",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_web.jpg",
+      "width": "900",
+      "height": "868",
+      "filesize": "192176",
+      "filename": "1946.82_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_print.jpg",
+      "width": "3400",
+      "height": "3279",
+      "filesize": "1429257",
+      "filename": "1946.82_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_full.tif",
+      "width": "9822",
+      "height": "9473",
+      "filesize": "279160380",
+      "filename": "1946.82_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt0_web.jpg",
+        "width": "900",
+        "height": "871",
+        "filesize": "190532"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt0_print.jpg",
+        "width": "3400",
+        "height": "3290",
+        "filesize": "1412087"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt0_full.tif",
+        "width": "9822",
+        "height": "9504",
+        "filesize": "280075768"
+      },
+      "date_created": "2022-08-04T17:22:28",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt1_web.jpg",
+        "width": "900",
+        "height": "876",
+        "filesize": "188533"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt1_print.jpg",
+        "width": "3400",
+        "height": "3309",
+        "filesize": "1369615"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt1_full.tif",
+        "width": "9822",
+        "height": "9560",
+        "filesize": "281723912"
+      },
+      "date_created": "2022-08-04T18:01:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt2_web.jpg",
+        "width": "900",
+        "height": "875",
+        "filesize": "163671"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt2_print.jpg",
+        "width": "3400",
+        "height": "3304",
+        "filesize": "1119694"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt2_full.tif",
+        "width": "9822",
+        "height": "9544",
+        "filesize": "281251412"
+      },
+      "date_created": "2022-08-04T18:29:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt3_web.jpg",
+        "width": "900",
+        "height": "871",
+        "filesize": "164631"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt3_print.jpg",
+        "width": "3400",
+        "height": "3289",
+        "filesize": "1204223"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt3_full.tif",
+        "width": "9822",
+        "height": "9500",
+        "filesize": "279954860"
+      },
+      "date_created": "2022-08-04T19:32:58",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt4_web.jpg",
+        "width": "900",
+        "height": "872",
+        "filesize": "179308"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt4_print.jpg",
+        "width": "3400",
+        "height": "3293",
+        "filesize": "1323142"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt4_full.tif",
+        "width": "9822",
+        "height": "9514",
+        "filesize": "280367808"
+      },
+      "date_created": "2022-08-04T20:20:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt5_web.jpg",
+        "width": "900",
+        "height": "584",
+        "filesize": "164397"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt5_print.jpg",
+        "width": "3400",
+        "height": "2205",
+        "filesize": "973116"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt5_full.tif",
+        "width": "8568",
+        "height": "5556",
+        "filesize": "142841352"
+      },
+      "date_created": "2022-08-01T20:04:36",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt6_web.jpg",
+        "width": "900",
+        "height": "584",
+        "filesize": "187155"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt6_print.jpg",
+        "width": "3400",
+        "height": "2206",
+        "filesize": "1471634"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt6_full.tif",
+        "width": "8568",
+        "height": "5559",
+        "filesize": "142916340"
+      },
+      "date_created": "2022-08-01T20:10:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt7_web.jpg",
+        "width": "900",
+        "height": "610",
+        "filesize": "226291"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt7_print.jpg",
+        "width": "3400",
+        "height": "2303",
+        "filesize": "1598194"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt7_full.tif",
+        "width": "12316",
+        "height": "8342",
+        "filesize": "308248912"
+      },
+      "date_created": "2022-08-01T20:21:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt8_web.jpg",
+        "width": "864",
+        "height": "900",
+        "filesize": "208865"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt8_print.jpg",
+        "width": "3263",
+        "height": "3400",
+        "filesize": "1665096"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt8_full.tif",
+        "width": "10016",
+        "height": "10438",
+        "filesize": "313670336"
+      },
+      "date_created": "2022-08-01T17:05:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt9_web.jpg",
+        "width": "860",
+        "height": "900",
+        "filesize": "202543"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt9_print.jpg",
+        "width": "3250",
+        "height": "3400",
+        "filesize": "1602736"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt9_full.tif",
+        "width": "10016",
+        "height": "10477",
+        "filesize": "314841924"
+      },
+      "date_created": "2022-08-01T17:32:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt10_web.jpg",
+        "width": "865",
+        "height": "900",
+        "filesize": "202312"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt10_print.jpg",
+        "width": "3268",
+        "height": "3400",
+        "filesize": "1575856"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt10_full.tif",
+        "width": "10016",
+        "height": "10422",
+        "filesize": "313189392"
+      },
+      "date_created": "2022-08-01T18:05:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt11_web.jpg",
+        "width": "863",
+        "height": "900",
+        "filesize": "170623"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt11_print.jpg",
+        "width": "3262",
+        "height": "3400",
+        "filesize": "1289551"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt11_full.tif",
+        "width": "10016",
+        "height": "10441",
+        "filesize": "313759104"
+      },
+      "date_created": "2022-08-01T19:29:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt12_web.jpg",
+        "width": "863",
+        "height": "900",
+        "filesize": "173262"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt12_print.jpg",
+        "width": "3260",
+        "height": "3400",
+        "filesize": "1336833"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt12_full.tif",
+        "width": "10016",
+        "height": "10445",
+        "filesize": "313879256"
+      },
+      "date_created": "2022-08-01T19:34:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt13_web.jpg",
+        "width": "866",
+        "height": "900",
+        "filesize": "192544"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt13_print.jpg",
+        "width": "3273",
+        "height": "3400",
+        "filesize": "1491234"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt13_full.tif",
+        "width": "10016",
+        "height": "10406",
+        "filesize": "312708012"
+      },
+      "date_created": "2022-08-01T19:58:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt14_web.jpg",
+        "width": "757",
+        "height": "893",
+        "filesize": "319830"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt14_print.jpg",
+        "width": "2881",
+        "height": "3400",
+        "filesize": "4351704"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt14_full.tif",
+        "width": "4455",
+        "height": "5258",
+        "filesize": "70306880"
+      },
+      "date_created": "2009-09-04T17:25:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt15_web.jpg",
+        "width": "692",
+        "height": "893",
+        "filesize": "285327"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt15_print.jpg",
+        "width": "2635",
+        "height": "3400",
+        "filesize": "3986713"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt15_full.tif",
+        "width": "3994",
+        "height": "5154",
+        "filesize": "61788432"
+      },
+      "date_created": "2009-09-04T17:59:50",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt16_web.jpg",
+        "width": "602",
+        "height": "893",
+        "filesize": "236683"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt16_print.jpg",
+        "width": "2293",
+        "height": "3400",
+        "filesize": "3378212"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt16_full.tif",
+        "width": "3588",
+        "height": "5320",
+        "filesize": "57296712"
+      },
+      "date_created": "2009-09-04T17:56:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt17_web.jpg",
+        "width": "716",
+        "height": "893",
+        "filesize": "294947"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt17_print.jpg",
+        "width": "2725",
+        "height": "3400",
+        "filesize": "4264801"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt17_full.tif",
+        "width": "4214",
+        "height": "5258",
+        "filesize": "66504604"
+      },
+      "date_created": "2009-09-04T18:04:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt18_web.jpg",
+        "width": "580",
+        "height": "893",
+        "filesize": "307430"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt18_print.jpg",
+        "width": "1330",
+        "height": "2048",
+        "filesize": "1613074"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_alt18_full.tif",
+        "width": "1330",
+        "height": "2048",
+        "filesize": "8174436"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": "5b8631c4045348d09e22a99192824e32",
+  "sketchfab_url": "https://sketchfab.com/models/5b8631c4045348d09e22a99192824e32",
+  "gallery_donor_text": "Maltz Family Foundation ArtLens Gallery",
+  "athena_id": 125103,
+  "creators": [
+    {
+      "id": 9821,
+      "description": "Tilman Riemenschneider (German, active Würzburg, c. 1460–1531)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": null,
+      "name_in_original_language": null,
+      "death_year": "1531",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1946-01-22T00:00:00",
+  "sortable_date": 1490,
+  "date_added_to_oa": null,
+  "date_text": "c. 1495",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": true,
+  "updated_at": "2026-09-11 18:01:43.634000"
+}

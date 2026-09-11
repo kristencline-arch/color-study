@@ -1,0 +1,175 @@
+{
+  "id": 114192,
+  "accession_number": "1933.440.b",
+  "share_license_status": "CC0",
+  "tombstone": "Qur'an Manuscript Folio (verso), 1200s–1300s. Southern Spain. Ink, gold, and color on parchment; sheet: 52.7 x 55.4 cm (20 3/4 x 21 13/16 in.); text area: 46.5 x 44 cm (18 5/16 x 17 5/16 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1933.440.b",
+  "current_location": null,
+  "title": "Qur'an Manuscript Folio (verso)",
+  "creation_date": "1200s–1300s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1399,
+  "artists_tags": [],
+  "culture": [
+    "Southern Spain"
+  ],
+  "technique": "ink, gold, and color on parchment",
+  "support_materials": [],
+  "department": "Islamic Art",
+  "collection": "Islamic Art",
+  "type": "Manuscript",
+  "measurements": "Sheet: 52.7 x 55.4 cm (20 3/4 x 21 13/16 in.); Text area: 46.5 x 44 cm (18 5/16 x 17 5/16 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.527,
+      "height_inch": 20,
+      "height_inch_fraction": 0.75,
+      "width": 0.554,
+      "width_inch": 21,
+      "width_inch_fraction": 0.8125
+    },
+    "text area": {
+      "height": 0.465,
+      "height_inch": 18,
+      "height_inch_fraction": 0.3125,
+      "width": 0.44,
+      "width_inch": 17,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Sura-al Nur [Chapter:The Light] 24:part 61-part 61 (Arabic)\r\nScript: Maghribi (seven lines to a page)",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 300857,
+        "title": "Art: The International Language",
+        "description": "<i>Art: The International Language</i>. The Cleveland Museum of Art (October 2-November 4, 1956).",
+        "opening_date": "1956-10-02T04:00:00"
+      },
+      {
+        "id": 342622,
+        "title": "Al-Andalus: Art from Islamic Spain (Islamic art rotation)",
+        "description": "<i>Al-Andalus: Art from Islamic Spain (Islamic art rotation)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 29, 2019-October 25, 2020).",
+        "opening_date": "2019-10-29T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Mehmet Aga-Oglu [1896–1949], Ann Arbor, MI, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?-1933",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1933-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This page from the “Chapter of Light” (24:59–61) in the Qur'an is written in the monumental script of Islamic Spain and North Africa, known as Maghribi Kufic. Words flow rhythmically with curving flourishes toward the left margin where letters end in almost perfect semicircles, an elegant hallmark that contrasts with the upright shafts. Distinctive markings—vowels in red and diacritics in blue—identify the vocalization of the text, which would have been read or recited aloud to an assembly.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80006897"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1933.440.b-qur-an-manuscript-fo"
+    ]
+  },
+  "citations": [],
+  "url": "https://clevelandart.org/art/1933.440.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_web.jpg",
+      "width": "919",
+      "height": "893",
+      "filesize": "568620",
+      "filename": "1933.440.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_print.jpg",
+      "width": "3400",
+      "height": "3304",
+      "filesize": "7006523",
+      "filename": "1933.440.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_full.tif",
+      "width": "4990",
+      "height": "4849",
+      "filesize": "72625344",
+      "filename": "1933.440.b_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_alt0_web.jpg",
+        "width": "843",
+        "height": "893",
+        "filesize": "569321"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_alt0_print.jpg",
+        "width": "3211",
+        "height": "3400",
+        "filesize": "7500366"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.440.b/1933.440.b_alt0_full.tif",
+        "width": "4164",
+        "height": "4408",
+        "filesize": "55097380"
+      },
+      "date_created": "2011-08-10T18:45:42",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Edward L. Whittemore Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 114192,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1933-12-28T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "1200s–1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1933.440",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Qur'an Manuscript Folio (verso)",
+    "Koran Manuscript Folio (verso)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:00:06.424000"
+}

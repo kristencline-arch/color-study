@@ -1,0 +1,167 @@
+{
+  "id": 151528,
+  "accession_number": "1983.73.2.b",
+  "share_license_status": "CC0",
+  "tombstone": "Miniature from a Manuscript of the Apocalypse: The War in Heaven, c. 1295. France, Lorraine. Ink, tempera, and gold on vellum; sheet: 12 x 14.2 cm (4 3/4 x 5 9/16 in.); framed: 52.4 x 39.7 cm (20 5/8 x 15 5/8 in.); matted: 48.9 x 36.2 cm (19 1/4 x 14 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1983.73.2.b",
+  "current_location": null,
+  "title": "Miniature from a Manuscript of the Apocalypse: The War in Heaven",
+  "creation_date": "c. 1295",
+  "creation_date_earliest": 1290,
+  "creation_date_latest": 1300,
+  "artists_tags": [],
+  "culture": [
+    "France, Lorraine"
+  ],
+  "technique": "ink, tempera, and gold on vellum",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 12 x 14.2 cm (4 3/4 x 5 9/16 in.); Framed: 52.4 x 39.7 cm (20 5/8 x 15 5/8 in.); Matted: 48.9 x 36.2 cm (19 1/4 x 14 1/4 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.12,
+      "height_inch": 4,
+      "height_inch_fraction": 0.75,
+      "width": 0.142,
+      "width_inch": 5,
+      "width_inch_fraction": 0.5625
+    },
+    "framed": {
+      "height": 0.524,
+      "height_inch": 20,
+      "height_inch_fraction": 0.625,
+      "width": 0.397,
+      "width_inch": 15,
+      "width_inch_fraction": 0.625
+    },
+    "matted": {
+      "height": 0.489,
+      "height_inch": 19,
+      "height_inch_fraction": 0.25,
+      "width": 0.362,
+      "width_inch": 14,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 179437,
+        "title": "Illuminated Manuscripts",
+        "description": "<i>Illuminated Manuscripts</i>. The Cleveland Museum of Art (organizer) (October 10, 2004-October 2, 2005).",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "The Cleveland Museum of Art (10/10/2004 - 10/02/2005); \"Illuminated Manuscripts\"",
+        "opening_date": "2004-10-10T00:00:00"
+      },
+      {
+        "description": "Bavarian Nationalmuseum, Munich (5/10/2007 - 9/16/2007), the J. Paul Getty Musuem, Los Angeles (10/30/2007 - 1/20/2008) and Frist Center for the Visual Arts, Nashville, TN (2/13/2009 - 6/7/2009): \"Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art\"",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Sotheby's, London sale, 25 April 1983, lot 50",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Sotheby's, London sale, 25 April 1983, lot 50",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1983.74"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The visionary text of St. John the Evangelist's Apocalypse, the final book of the New Testament, inspired these images of salvation, sin, and divine retribution. A large number of illustrated volumes of the Apocalypse appeared in Northern Europe, especially in England, after the year 1240--perhaps reflecting a fear of the world's end. These miniatures come from a manuscript produced in Lorraine, then artistically influenced by English models.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79935170"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1983.73.2.b-miniature-from-a-man"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein<em>. Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "Mentioned and reproduced: P. 180-185, no. 65",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1983.73.2.b",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1983.73.2.b/1983.73.2.b_web.jpg",
+      "width": "1072",
+      "height": "893",
+      "filesize": "888974",
+      "filename": "1983.73.2.b_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1983.73.2.b/1983.73.2.b_print.jpg",
+      "width": "3400",
+      "height": "2832",
+      "filesize": "7964530",
+      "filename": "1983.73.2.b_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1983.73.2.b/1983.73.2.b_full.tif",
+      "width": "4727",
+      "height": "3937",
+      "filesize": "55867280",
+      "filename": "1983.73.2.b_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 151528,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1983-05-09T00:00:00",
+  "sortable_date": 1290,
+  "date_added_to_oa": null,
+  "date_text": "c. 1295",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1983.73",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:49:58.745000"
+}

@@ -1,0 +1,203 @@
+{
+  "id": 111312,
+  "accession_number": "1929.82",
+  "share_license_status": "CC0",
+  "tombstone": "Two-color Velvet with Gold in a Double Curved Lattice Pattern, 1450–1500. Italy, possibly Florence, 15th century. Silk, gold thread; polychrome velvet: cut pile, brocaded, and voided; overall: 108.6 x 55.9 cm (42 3/4 x 22 in.); mounted: 115.6 x 59.7 cm (45 1/2 x 23 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1929.82",
+  "current_location": null,
+  "title": "Two-color Velvet with Gold in a Double Curved Lattice Pattern",
+  "creation_date": "1450–1500",
+  "creation_date_earliest": 1450,
+  "creation_date_latest": 1500,
+  "artists_tags": [],
+  "culture": [
+    "Italy, possibly Florence, 15th century"
+  ],
+  "technique": "silk, gold thread; polychrome velvet: cut pile, brocaded, and voided",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Velvet",
+  "measurements": "Overall: 108.6 x 55.9 cm (42 3/4 x 22 in.); Mounted: 115.6 x 59.7 cm (45 1/2 x 23 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.086,
+      "height_inch": 42,
+      "height_inch_fraction": 0.75,
+      "width": 0.559,
+      "width_inch": 22,
+      "width_inch_fraction": 0.0
+    },
+    "mounted": {
+      "height": 1.156,
+      "height_inch": 45,
+      "height_inch_fraction": 0.5,
+      "width": 0.597,
+      "width_inch": 23,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 312151,
+        "title": "2000 Years of Silk Weaving",
+        "description": "<i>2000 Years of Silk Weaving</i>. The Cleveland Museum of Art, Cleveland, OH (March 18-April 16, 1944).",
+        "opening_date": "1944-01-09T05:00:00"
+      },
+      {
+        "id": 381187,
+        "title": "Renaissance Textiles (Textile Rotation) - Gallery 115",
+        "description": "<i>Renaissance Textiles (Textile Rotation) - Gallery 115</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 14, 2012-December 10, 2013).",
+        "opening_date": "2012-11-14T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Gallery 214 installation. The Cleveland Museum of Art, Cleveland, OH (April 1994).",
+        "opening_date": "1994-04-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Adolph Loewi)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Although plain velvets were woven in Italy by the end of the 13th century, polychrome-patterned velvets were not produced until the late 14th century. This velvet with two colors of pile incorporates a limited amount of costly gold thread while a fourth color, ivory, is formed by the satin weave of the foundation, called voided velvet. Palmette leaves composed of gold thread and crimson pile dominate the pattern on the green pile ground. The palmettes are arranged in an overlapping curved layout, popular in Italy and in Ottoman Turkey during the second half of the 15th century.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80003339"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1929.82-two-color-velvet-wit"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Falke, Otto von. 1928. “Spätgotische Samtstoffe.” <em>Pantheon</em> 1/2=1.1928, 600-603.",
+      "page_number": "p. 602, fig. 3",
+      "url": null
+    },
+    {
+      "citation": "Los Angeles County Museum. 2000 Years of Silk Weaving: An Exhibition Sponsored by the Los Angeles County Museum in Collaboration with the Cleveland Museum of Art and the Detroit Institute of Arts. 1944.",
+      "page_number": "p. 23, pl. 44, no. 163",
+      "url": null
+    },
+    {
+      "citation": "Ball, Victoria Kloss. Architecture and Interior Design. New York: Wiley, 1980.",
+      "page_number": "p. 259, fig. 6.47",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1929.82",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_web.jpg",
+      "width": "531",
+      "height": "893",
+      "filesize": "171392",
+      "filename": "1929.82_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_print.jpg",
+      "width": "2020",
+      "height": "3400",
+      "filesize": "1961063",
+      "filename": "1929.82_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_full.tif",
+      "width": "3398",
+      "height": "5718",
+      "filesize": "58315332",
+      "filename": "1929.82_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt0_web.jpg",
+        "width": "509",
+        "height": "893",
+        "filesize": "150247"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt0_print.jpg",
+        "width": "1938",
+        "height": "3400",
+        "filesize": "1908299"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt0_full.tif",
+        "width": "2469",
+        "height": "4330",
+        "filesize": "32097324"
+      },
+      "date_created": "2012-09-11T17:46:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt1_web.jpg",
+        "width": "507",
+        "height": "893",
+        "filesize": "105649"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt1_print.jpg",
+        "width": "1931",
+        "height": "3400",
+        "filesize": "2201088"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1929.82/1929.82_alt1_full.tif",
+        "width": "4379",
+        "height": "7708",
+        "filesize": "101283404"
+      },
+      "date_created": "2012-09-11T14:38:48",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 111312,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1929-02-09T00:00:00",
+  "sortable_date": 1450,
+  "date_added_to_oa": null,
+  "date_text": "1450–1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Polychrome Velvet, Brocaded with Gold"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 05:53:32.912000"
+}

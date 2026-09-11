@@ -1,0 +1,673 @@
+{
+  "id": 136290,
+  "accession_number": "1960.176.2",
+  "share_license_status": "CC0",
+  "tombstone": "Youth (from Chateau de Chaumont set), 1512–15. France, Lyon(?), early 16th century. Silk and wool; tapestry weave; overall: 321.8 x 452 cm (126 11/16 x 177 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1960.176.2",
+  "current_location": "113 French Tapestries & Illuminated Manuscripts",
+  "title": "Youth (from Chateau de Chaumont set)",
+  "creation_date": "1512–15",
+  "creation_date_earliest": 1512,
+  "creation_date_latest": 1515,
+  "artists_tags": [],
+  "culture": [
+    "France, Lyon(?), early 16th century"
+  ],
+  "technique": "silk and wool; tapestry weave",
+  "support_materials": [],
+  "department": "Textiles",
+  "collection": "Textiles",
+  "type": "Tapestry",
+  "measurements": "Overall: 321.8 x 452 cm (126 11/16 x 177 15/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 3.218,
+      "height_inch": 126,
+      "height_inch_fraction": 0.6875,
+      "width": 4.52,
+      "width_inch": 177,
+      "width_inch_fraction": 0.9375
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "French verse in Gothic letters translates as follows: Youth triumphs while its heart is healthy, And when it seems to hold all in its hand. But this triumph is without eternity.  Here one sees the example full well: Those who are happy hide death in thier heart. Let the young heed this warning.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 445010,
+        "title": "Chefs d'oeuvre de la Tapisserie du XIVème au XVIème siècle (Tapestry Masterpieces from the 14th to the 16th Century)",
+        "description": "<i>Chefs d'oeuvre de la Tapisserie du XIVème au XVIème siècle (Tapestry Masterpieces from the 14th to the 16th Century)</i>. Musée du Louvre, Paris, France (organizer) (October 26, 1973-January 7, 1974); The Metropolitan Museum of Art, New York, NY (February 7-April 19, 1974).",
+        "opening_date": "1973-10-26T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "Chefs d'oeuvre de la tapisserie du XIVe au XVIe siecle. Grand Palais, Paris, France (October 26, 1973- January 7, 1974); Masterpieces of Tapestry. Metropolitan Museum of Art, New York (February 7-April 19, 1974).",
+        "opening_date": "1974-02-07T00:00:00"
+      },
+      {
+        "description": "Gallery 113 tapestry rotation. The Cleveland Museum of Art, Cleveland, OH (November 20, 2012- ).",
+        "opening_date": "2012-11-20T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "one of set of three allegorical tapestries from the Chateau de Chaumont until 1907; Duveen Collection, New York, in 1925; Clarence H. MacKay Collection until 1939; (French & Co., New York).",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1960.177"
+  ],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Louise of Savoy (1476-1531), queen mother of King Francis I, is depicted here in a sumptuous brocaded velvet in the center. She addresses youthful figures including Éléonore, Pierre Sala’s daughter who is facing her future husband, Hector. On the right, King Louis XII (died 1514) stands in front of the Chateau Langais where he had married Anne of Brittany. Above is Hector’s deceased father with a partially concealed skull under his robe, while a woman expresses surprise at the sight. The verse in Old French at the top states that youthful happiness is not eternal: Youth makes sounds as long as its heart is healthy, And thinks that it holds all in its hand. But this triumph is not eternal. Here you see clearly an example: He that is happy has death in his breast. Of this you people should take note.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60757083"
+    ],
+    "internet_archive": []
+  },
+  "citations": [
+    {
+      "citation": "Shepherd, Dorothy G. \"Three Tapestries from Chaumont.\" <em>The Bulletin of the Cleveland Museum of Art</em> 48, no. 7 (1961): 159-77",
+      "page_number": "p. 159-177",
+      "url": "www.jstor.org/stable/25142461"
+    },
+    {
+      "citation": "Saisselin, Remy G. \"Literary Background of the Chaumont Tapestries.\" <em>The Bulletin of the Cleveland Museum of Art</em> 48, no. 7 (1961).",
+      "page_number": "p. 178-181",
+      "url": "www.jstor.org/stable/25142462"
+    },
+    {
+      "citation": "Wixom, William D., and Leona E. Prasse. \"Traditions in the Chaumont Tapestries.\" <em>The Bulletin of the Cleveland Museum of Art</em> 48, no. 7 (1961): 182-90.",
+      "page_number": "p. 182-190",
+      "url": "www.jstor.org/stable/25142463"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 75",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n99"
+    },
+    {
+      "citation": "Wixom, William D. <em>Treasures from Medieval France.</em> [Cleveland]: Cleveland Museum of Art, 1967.",
+      "page_number": "Mentioned and reproduced: p. 336-337",
+      "url": "https://archive.org/details/TreasuresMedievalFrance/page/n363"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 75",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n99"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 85",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n105"
+    },
+    {
+      "citation": "Seaton, Douglass. Ideas and Styles in the Western Musical Tradition. Mountain View, Calif: Mayfield Pub. Co, 1991.",
+      "page_number": null,
+      "url": null
+    },
+    {
+      "citation": "Vignon, Charlotte, and Ian Wardropper. Duveen Brothers and the Market for Decorative Arts, 1880-1940. 2019.",
+      "page_number": "Mentioned & reproduced:  pp. 218, fig. 78 - 219",
+      "url": null
+    },
+    {
+      "citation": "Passot, Sebastien. \"\"Are You Sure This Is What He Means?\" Considerations on Dress Terminology in French Sources and Their Subsequent Translation.\" In <em>Structuring Fashion: Foundation Garments Through History</em>. Frank Matthias Kammel, and Johannes Pietsch, eds., 63-71. Munich: Bayerisches Nationalmuseum; Munich: Hirmer, 2019.",
+      "page_number": "Mentioned and reproduced: P. 64-65, fig. 2",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1960.176.2",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_web.jpg",
+      "width": "1240",
+      "height": "893",
+      "filesize": "1103860",
+      "filename": "1960.176.2_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_print.jpg",
+      "width": "3400",
+      "height": "2449",
+      "filesize": "8251086",
+      "filename": "1960.176.2_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_full.tif",
+      "width": "5738",
+      "height": "4134",
+      "filesize": "71199620",
+      "filename": "1960.176.2_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt0_web.jpg",
+        "width": "1243",
+        "height": "893",
+        "filesize": "1033986"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt0_print.jpg",
+        "width": "3400",
+        "height": "2442",
+        "filesize": "7574579"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt0_full.tif",
+        "width": "5000",
+        "height": "3591",
+        "filesize": "53899300"
+      },
+      "date_created": "2007-01-17T20:59:44",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt1_web.jpg",
+        "width": "610",
+        "height": "893",
+        "filesize": "509774"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt1_print.jpg",
+        "width": "2322",
+        "height": "3400",
+        "filesize": "7265160"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt1_full.tif",
+        "width": "3961",
+        "height": "5801",
+        "filesize": "68967272"
+      },
+      "date_created": "2007-01-17T15:06:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt2_web.jpg",
+        "width": "573",
+        "height": "893",
+        "filesize": "466371"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt2_print.jpg",
+        "width": "2183",
+        "height": "3400",
+        "filesize": "6863783"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt2_full.tif",
+        "width": "3945",
+        "height": "6144",
+        "filesize": "72747464"
+      },
+      "date_created": "2007-01-17T15:18:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt3_web.jpg",
+        "width": "568",
+        "height": "893",
+        "filesize": "463566"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt3_print.jpg",
+        "width": "2164",
+        "height": "3400",
+        "filesize": "6822017"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt3_full.tif",
+        "width": "3911",
+        "height": "6144",
+        "filesize": "72120888"
+      },
+      "date_created": "2007-01-17T15:22:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt4_web.jpg",
+        "width": "606",
+        "height": "893",
+        "filesize": "490024"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt4_print.jpg",
+        "width": "2306",
+        "height": "3400",
+        "filesize": "7132272"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt4_full.tif",
+        "width": "3973",
+        "height": "5858",
+        "filesize": "69854916"
+      },
+      "date_created": "2007-01-17T15:27:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt5_web.jpg",
+        "width": "613",
+        "height": "893",
+        "filesize": "542594"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt5_print.jpg",
+        "width": "2334",
+        "height": "3400",
+        "filesize": "7544772"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt5_full.tif",
+        "width": "3939",
+        "height": "5739",
+        "filesize": "67852852"
+      },
+      "date_created": "2007-01-17T15:47:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt6_web.jpg",
+        "width": "573",
+        "height": "893",
+        "filesize": "507728"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt6_print.jpg",
+        "width": "2180",
+        "height": "3400",
+        "filesize": "7157787"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt6_full.tif",
+        "width": "3939",
+        "height": "6144",
+        "filesize": "72637920"
+      },
+      "date_created": "2007-01-17T15:52:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt7_web.jpg",
+        "width": "578",
+        "height": "893",
+        "filesize": "513510"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt7_print.jpg",
+        "width": "2201",
+        "height": "3400",
+        "filesize": "7269415"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt7_full.tif",
+        "width": "3978",
+        "height": "6144",
+        "filesize": "73356576"
+      },
+      "date_created": "2007-01-17T15:58:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt8_web.jpg",
+        "width": "621",
+        "height": "893",
+        "filesize": "538178"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt8_print.jpg",
+        "width": "2366",
+        "height": "3400",
+        "filesize": "7640849"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt8_full.tif",
+        "width": "3951",
+        "height": "5678",
+        "filesize": "67335616"
+      },
+      "date_created": "2007-01-17T16:02:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt9_web.jpg",
+        "width": "641",
+        "height": "893",
+        "filesize": "577099"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt9_print.jpg",
+        "width": "2440",
+        "height": "3400",
+        "filesize": "8001697"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt9_full.tif",
+        "width": "4051",
+        "height": "5644",
+        "filesize": "68627052"
+      },
+      "date_created": "2007-01-17T16:15:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt10_web.jpg",
+        "width": "565",
+        "height": "893",
+        "filesize": "507086"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt10_print.jpg",
+        "width": "2152",
+        "height": "3400",
+        "filesize": "7193826"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt10_full.tif",
+        "width": "3888",
+        "height": "6144",
+        "filesize": "71697828"
+      },
+      "date_created": "2007-01-17T16:19:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt11_web.jpg",
+        "width": "569",
+        "height": "893",
+        "filesize": "502882"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt11_print.jpg",
+        "width": "2167",
+        "height": "3400",
+        "filesize": "7155377"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt11_full.tif",
+        "width": "3916",
+        "height": "6144",
+        "filesize": "72213644"
+      },
+      "date_created": "2007-01-17T16:30:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt12_web.jpg",
+        "width": "593",
+        "height": "893",
+        "filesize": "506717"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt12_print.jpg",
+        "width": "2259",
+        "height": "3400",
+        "filesize": "7199759"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt12_full.tif",
+        "width": "3888",
+        "height": "5852",
+        "filesize": "68291912"
+      },
+      "date_created": "2007-01-17T16:34:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt13_web.jpg",
+        "width": "624",
+        "height": "893",
+        "filesize": "543738"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt13_print.jpg",
+        "width": "2376",
+        "height": "3400",
+        "filesize": "7605186"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt13_full.tif",
+        "width": "3928",
+        "height": "5621",
+        "filesize": "66272736"
+      },
+      "date_created": "2007-01-17T16:43:53",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt14_web.jpg",
+        "width": "562",
+        "height": "893",
+        "filesize": "490596"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt14_print.jpg",
+        "width": "2139",
+        "height": "3400",
+        "filesize": "6954214"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt14_full.tif",
+        "width": "3866",
+        "height": "6144",
+        "filesize": "71292484"
+      },
+      "date_created": "2007-01-17T16:47:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt15_web.jpg",
+        "width": "571",
+        "height": "893",
+        "filesize": "491600"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt15_print.jpg",
+        "width": "2174",
+        "height": "3400",
+        "filesize": "7056914"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt15_full.tif",
+        "width": "3928",
+        "height": "6144",
+        "filesize": "72434936"
+      },
+      "date_created": "2007-01-17T16:51:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt16_web.jpg",
+        "width": "579",
+        "height": "893",
+        "filesize": "490841"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt16_print.jpg",
+        "width": "2206",
+        "height": "3400",
+        "filesize": "7086086"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt16_full.tif",
+        "width": "3888",
+        "height": "5993",
+        "filesize": "69935980"
+      },
+      "date_created": "2007-01-17T18:03:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt17_web.jpg",
+        "width": "635",
+        "height": "893",
+        "filesize": "546165"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt17_print.jpg",
+        "width": "2419",
+        "height": "3400",
+        "filesize": "7501110"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt17_full.tif",
+        "width": "4096",
+        "height": "5756",
+        "filesize": "70765016"
+      },
+      "date_created": "2007-01-17T18:04:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt18_web.jpg",
+        "width": "587",
+        "height": "893",
+        "filesize": "498620"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt18_print.jpg",
+        "width": "2236",
+        "height": "3400",
+        "filesize": "7073413"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt18_full.tif",
+        "width": "4040",
+        "height": "6144",
+        "filesize": "74499316"
+      },
+      "date_created": "2007-01-17T18:06:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt19_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "504590"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt19_print.jpg",
+        "width": "2267",
+        "height": "3400",
+        "filesize": "7216349"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt19_full.tif",
+        "width": "4096",
+        "height": "6144",
+        "filesize": "75531416"
+      },
+      "date_created": "2007-01-17T18:12:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt20_web.jpg",
+        "width": "595",
+        "height": "893",
+        "filesize": "495811"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt20_print.jpg",
+        "width": "2267",
+        "height": "3400",
+        "filesize": "7117621"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt20_full.tif",
+        "width": "4096",
+        "height": "6144",
+        "filesize": "75531488"
+      },
+      "date_created": "2007-01-17T18:16:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt21_web.jpg",
+        "width": "1226",
+        "height": "893",
+        "filesize": "1019995"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt21_print.jpg",
+        "width": "3400",
+        "height": "2477",
+        "filesize": "7062443"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1960.176.2/1960.176.2_alt21_full.tif",
+        "width": "5000",
+        "height": "3642",
+        "filesize": "54646884"
+      },
+      "date_created": "2005-06-01T15:27:23",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "The Honey and Leighton Rosenthal Family Gallery",
+  "athena_id": 136290,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1960-08-13T00:00:00",
+  "sortable_date": 1512,
+  "date_added_to_oa": null,
+  "date_text": "1512–15",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "component",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1960.176",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:57:28.015000"
+}

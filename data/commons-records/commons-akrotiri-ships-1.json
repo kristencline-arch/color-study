@@ -1,0 +1,101 @@
+{
+  "pageid": 36275062,
+  "ns": 6,
+  "title": "File:Ship procession fresco, part 1, Akrotiri, Greece.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 4069367,
+      "width": 3300,
+      "height": 1884,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ship_procession_fresco%2C_part_1%2C_Akrotiri%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ship_procession_fresco,_part_1,_Akrotiri,_Greece.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36275062",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-10-20 17:06:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ship procession fresco, part 1, Akrotiri, Greece",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 350D|Images from Phaidon|Ship procession fresco (Akrotiri)|Artworks without Wikidata item|PD-old-100-expired|Photographs and images by Yann Forget|PD-Art (PD-old-100-expired)|16th-century BC frescos|Template Unknown (author)|CC-PD-Mark|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "36.351389",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "25.403611",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Ship procession fresco, part 1, Akrotiri, Greece.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1550 BCE",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "from <i>Le Musée absolu</i>, Phaidon, 10-2012",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

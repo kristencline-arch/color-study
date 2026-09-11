@@ -1,0 +1,105 @@
+{
+  "pageid": 162742289,
+  "ns": 6,
+  "title": "File:Tapa 'ngatu' doek 'Ko e kalauni', asset ESEHDZoTGC9XmaLHbRt1qhqg.jpg",
+  "index": 7,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1062716,
+      "width": 1470,
+      "height": 1737,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tapa_%27ngatu%27_doek_%27Ko_e_kalauni%27%2C_asset_ESEHDZoTGC9XmaLHbRt1qhqg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tapa_%27ngatu%27_doek_%27Ko_e_kalauni%27,_asset_ESEHDZoTGC9XmaLHbRt1qhqg.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162742289",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-03-24 12:07:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Tapa 'ngatu' doek 'Ko e kalauni', asset ESEHDZoTGC9XmaLHbRt1qhqg",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Files with coordinates missing SDC location of creation (51° N, 4° E)|Collections of the MAS Museum aan de stroom",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "51.226319",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "4.409347",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<br>Title: Tapa: 'ngatu' doek 'Ko e kalauni'<br>Creator: onbekend (textielwerker)<br>Dating: 1900 - 1940<br>Format original: hoogte 124.2 cm (geheel (lijst))<br>breedte 103.7 cm (geheel (lijst))<br>dikte 2.5 cm (geheel (lijst))<br>Type: doek (object)<br>Category: uit de museumcollecties van MAS<br>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1900",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://dams.antwerpen.be/asset/ESEHDZoTGC9XmaLHbRt1qhqg\">https://dams.antwerpen.be/asset/ESEHDZoTGC9XmaLHbRt1qhqg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "onbekend (textielwerker)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Color Study photograph credits
 
-437 photographs. Each original retains its own license. The code is MIT; the project’s original catalog annotations and compilation are CC0. Raw provider snapshots retain their source terms.
+544 photographs. Each original retains its own license. The code is MIT; the project’s original catalog annotations and compilation are CC0. Raw provider snapshots retain their source terms.
 
 Thumbnails and showcase previews are resized derivatives. Enhanced comparisons change the colors using RGB decorrelation stretch. Retain attribution, the license link and a modification notice when sharing derivatives. No endorsement is implied.
 
@@ -25,6 +25,132 @@ Rogers Fund, 1903
 Accession: 03.14.6.
 
 SHA-256: `f5fe705f0f49d99bfdb70983bc41f519cf781634b5f7ea49e87c57bdda3dca5f`
+
+## Taüll: painted apse detail 01 (`commons-taull-01`)
+
+Joe Mabel · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Frescos_from_Sant_Climent_de_Ta%C3%BCll_-_detail_01.jpg>)
+
+[Original JPEG](public/originals/commons-taull-01.jpg) · 6,000 × 4,000 pixels · c. 1123.
+
+Catalan Romanesque; Master of Taüll
+
+[Historical context](<https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000>)
+
+SHA-256: `11ac3066b60ecd3e264f84be9d7a87235d99db4415db0a3e683a771b2eab521e`
+
+## Fontein Cave: painted panel 6 (`commons-fontein-6`)
+
+EgorovaSvetlana · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_drawings_Fontein_Cave_Arikok_National_park_Santa_Cruz_Aruba.jpg>)
+
+[Original JPEG](public/originals/commons-fontein-6.jpg) · 4,320 × 3,240 pixels · Precolonial; individual marks undated.
+
+Indigenous Aruba; Arawak attribution in the source record
+
+[Historical context](<https://www.aruba.com/us/explore/caves>)
+
+SHA-256: `0a3c2037d3e9072c64303832e899c78ca3ff43eb41255a51203fef6690a52b4e`
+
+## Paris: painted limestone Virgin and Child (`cma-144924`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1970.13>)
+
+[Original JPEG](public/originals/cma-144924.jpg) · 2,600 × 3,400 pixels · c. 1400.
+
+Franco-Netherlandish, active Paris(?), 15th century
+
+John L. Severance Fund
+
+Accession: 1970.13.
+
+SHA-256: `5ec4d8ea327c408060caf731d7b26374d81df9e76c15146752d145bf841d2d05`
+
+## Tonga: Ko e kalauni ngatu (`commons-tonga-ngatu`)
+
+onbekend (textielwerker) · [CC0](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Tapa_'ngatu'_doek_'Ko_e_kalauni',_asset_ESEHDZoTGC9XmaLHbRt1qhqg.jpg>)
+
+[Original JPEG](public/originals/commons-tonga-ngatu.jpg) · 1,470 × 1,737 pixels · 1900–1940.
+
+Tongan
+
+[Historical context](<https://dams.antwerpen.be/asset/ESEHDZoTGC9XmaLHbRt1qhqg>)
+
+SHA-256: `a0510d247a38810b0007b08cff84bce73560c6716474d9adaf0c159fd78b8e1c`
+
+## Leaf Excised from a Psalter: The Annunciation · 1952.230 (`cma-129796`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1952.230>)
+
+[Original JPEG](public/originals/cma-129796.jpg) · 2,401 × 3,400 pixels · c. 1325–50.
+
+England
+
+Mr. and Mrs. William H. Marlatt Fund
+
+Accession: 1952.230.
+
+SHA-256: `18fbccc69c971766a03d2975006cd7c00e31ef9d5179ea4e23cb58ae088512ee`
+
+## Akrotiri: spring landscape (`commons-akrotiri-spring`)
+
+Zde · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Spring_fresco_from_Akrotiri,_NAMA_BE_1974.29,_225644.jpg>)
+
+[Original JPEG](public/originals/commons-akrotiri-spring.jpg) · 5,520 × 3,672 pixels · Late Bronze Age, 17th–16th century BCE.
+
+Bronze Age Aegean; Cycladic
+
+[Historical context](<https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c191/museum-of-prehistoric-thira>)
+
+SHA-256: `4e64ed0e30823353de059e9097244852bd3e0e924814a19ffbc1db65d235e526`
+
+## Cueva de las Maravillas: Taíno pictographs 2 (`commons-maravillas-2`)
+
+Danu Widjajanto · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Ta%C3%ADno_pictographs_Cuevas_de_las_Maravillas_2.jpg>)
+
+[Original JPEG](public/originals/commons-maravillas-2.jpg) · 4,032 × 3,024 pixels · Precolonial; individual panel undated.
+
+Taíno
+
+[Historical context](<https://es.godominicanrepublic.com/que-hacer/cueva-de-las-maravillas>)
+
+SHA-256: `fd724dfb96ce46263d71d6e0955b435e1722130c4e70a5a9495305190ff3acee`
+
+## Two-color Velvet with Gold in a Double Curved Lattice Pattern · 1929.82 (`cma-111312`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1929.82>)
+
+[Original JPEG](public/originals/cma-111312.jpg) · 2,020 × 3,400 pixels · 1450–1500.
+
+Italy, possibly Florence, 15th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1929.82.
+
+SHA-256: `0b28a2a3c480118806a5cd2652e2fc942d0d56d486e8eb00ec6f1e9d08141848`
+
+## Caroline Islands: dyed woman’s sash (`cma-94850`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1915.411>)
+
+[Original JPEG](public/originals/cma-94850.jpg) · 717 × 3,400 pixels · c 1900s ?.
+
+Oceania, Micronesia, Caroline Islands, Early 20th century (?)
+
+Educational Purchase Fund
+
+Accession: 1915.411.
+
+SHA-256: `d64b5c675090628bdf0f044115aeb97fb6c26a002b0c868d584d6476f79caa7f`
+
+## Mangaia: painted tapa poncho (`commons-mangaia-poncho`)
+
+Daderot · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Poncho,_Mangaia,_Cook_Islands,_maker_unknown,_c._1900,_tapa_and_pigment_-_Museum_of_New_Zealand_Te_Papa_Tongarewa_-_Wellington,_NZ_-_DSC09754.jpg>)
+
+[Original JPEG](public/originals/commons-mangaia-poncho.jpg) · 3,548 × 3,979 pixels · c. 1900.
+
+Mangaian
+
+SHA-256: `49dc3ff48c107e3785a4fe09f781484c8b79c06a269be5c5a76d4b6e420700b1`
 
 ## Mieza: palmettes and water lilies (`commons-palmettes-flowers`)
 
@@ -339,122 +465,6 @@ The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons
 Not recorded
 
 SHA-256: `58a4384548febc601266be28d06065ddeffb5a5ce0d4acf8848916441f09db32`
-
-## Medieval hand-painted cotton (`cma-128928`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1951.520>)
-
-[Original JPEG](public/originals/cma-128928.jpg) · 3,400 × 2,103 pixels · 1100s–1300s.
-
-India
-
-Purchase from the J. H. Wade Fund
-
-Accession: 1951.520.
-
-SHA-256: `b497411ce99620ba140b2ad471d6700f1551c3906a5d9ef68611c0f34a358989`
-
-## Faras: Saint Anne in surviving paint (`commons-faras-saint-anne`)
-
-National Museum in Warsaw / Google Arts & Culture, via Wikimedia Commons · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg>)
-
-[Original JPEG](public/originals/commons-faras-saint-anne.jpg) · 3,958 × 2,768 pixels · 8th century.
-
-SHA-256: `7694c256afd31ee35cde31d2573733cca85dc625a2d2bbd75a913278c2cb4ee3`
-
-## Ramesses VI: painted astronomical ceiling (`commons-ramesses-vi-ceiling`)
-
-R Prazeres · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2916.jpg>)
-
-[Original JPEG](public/originals/commons-ramesses-vi-ceiling.jpg) · 3,000 × 4,000 pixels · New Kingdom; tomb context.
-
-SHA-256: `db953b86947ccbb343d43addb400cc5c9660e90daaf83f1f3183ef0004d100d5`
-
-## Babylon: lion in glazed brick (`met-322585`)
-
-The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/322585>)
-
-[Original JPEG](public/originals/met-322585.jpg) · 3,811 × 1,652 pixels · ca. 604–562 BCE.
-
-Babylonian
-
-Fletcher Fund, 1931
-
-Accession: 31.13.1.
-
-SHA-256: `f460673369cf986e869ab1e5344cdee8581fac53d262011f06ba2b9fc18aacc2`
-
-## Sigiriya: painted figures (`commons-sigiriya`)
-
-Jerzy Strzelecki · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg>)
-
-[Original JPEG](public/originals/commons-sigiriya.jpg) · 5,610 × 3,631 pixels · Historic paintings; exact date of this panel not established here.
-
-SHA-256: `6498d669b01ed3e882a0d71da7ac95bca5acd0c82979ee426ea2a9e04430dadf`
-
-## Nara-period painted theatre mask (`cma-126730`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1949.158>)
-
-[Original JPEG](public/originals/cma-126730.jpg) · 2,884 × 3,400 pixels · 710–94.
-
-Japan, Nara period (710–94)
-
-John L. Severance Fund
-
-Accession: 1949.158.
-
-SHA-256: `e90cc625359cc6b07135a5e31a692a0ec53d5de25dcbe0cff866f5a856df675e`
-
-## Woolen tunic with decorated bands (`cma-147015`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1972.46>)
-
-[Original JPEG](public/originals/cma-147015.jpg) · 3,400 × 2,208 pixels · 600s–700s.
-
-Egypt, Umayyad period (661–750)
-
-The A. W. Ellenberger, Sr., Endowment Fund
-
-Accession: 1972.46.
-
-SHA-256: `76c9f6c5accba2d421d9eb4858adddf88ba4d7b9305abc325bc490b644e13782`
-
-## Boscotrecase: landscape (`met-250939`)
-
-The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/250939>)
-
-[Original JPEG](public/originals/met-250939.jpg) · 4,000 × 4,000 pixels · last decade of the 1st century BCE.
-
-Roman, Pompeian
-
-Rogers Fund, 1920
-
-Accession: 20.192.10.
-
-SHA-256: `0b7aa9003a20ac6a474cf86ba2437f4852487463cc90c6900e4ffdea407ae27f`
-
-## Maya vessel with palace scene (`cma-143265`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1967.203>)
-
-[Original JPEG](public/originals/cma-143265.jpg) · 2,625 × 3,400 pixels · 600–900.
-
-Mexico or Central America, Maya
-
-Gift of Edgar A. Hahn
-
-Accession: 1967.203.
-
-SHA-256: `9f51dd2fbddd90549fd1409332e6e82c7140ee8fcb0e1d4c4366588724ae1d5b`
-
-## Tassili: Tanzoumaitak painted panel (`commons-tassili-tanzoumaitak`)
-
-IssamBarhoumi · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n'ajjer.jpg>)
-
-[Original JPEG](public/originals/commons-tassili-tanzoumaitak.jpg) · 5,163 × 2,904 pixels · Not established for this photographed panel.
-
-SHA-256: `6360d0f97032ae9fa3959d26ac2926d6b95c125c762c7c37f6110e669678c0de`
 
 ## Bhimbetka, India (`bhimbetka-paintings`)
 
@@ -1385,6 +1395,20 @@ Accession: 1951.529.
 
 SHA-256: `bf366c747faff161d23b961ce060a9135f9b18c1f6109633799f7b159cb78f32`
 
+## Medieval hand-painted cotton (`cma-128928`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1951.520>)
+
+[Original JPEG](public/originals/cma-128928.jpg) · 3,400 × 2,103 pixels · 1100s–1300s.
+
+India
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1951.520.
+
+SHA-256: `b497411ce99620ba140b2ad471d6700f1551c3906a5d9ef68611c0f34a358989`
+
 ## Stamped and painted Indian cotton (`cma-128943`)
 
 Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1951.534>)
@@ -1595,6 +1619,20 @@ Accession: 1978.93.
 
 SHA-256: `d461a487e3d23e00124a5b7df91ac9d96df56ab28eec00c05f4b65b0c82be57f`
 
+## Nara-period painted theatre mask (`cma-126730`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1949.158>)
+
+[Original JPEG](public/originals/cma-126730.jpg) · 2,884 × 3,400 pixels · 710–94.
+
+Japan, Nara period (710–94)
+
+John L. Severance Fund
+
+Accession: 1949.158.
+
+SHA-256: `e90cc625359cc6b07135a5e31a692a0ec53d5de25dcbe0cff866f5a856df675e`
+
 ## Heian painted bodhisattva mask (`cma-127952`)
 
 Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1950.581>)
@@ -1748,6 +1786,20 @@ Gift of Mr. and Mrs. James C. Gruener
 Accession: 1990.181.
 
 SHA-256: `1a3ae3802f063888921a02bba114899b61a5b3a4e649cfebd72f9eba04132e53`
+
+## Maya vessel with palace scene (`cma-143265`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1967.203>)
+
+[Original JPEG](public/originals/cma-143265.jpg) · 2,625 × 3,400 pixels · 600–900.
+
+Mexico or Central America, Maya
+
+Gift of Edgar A. Hahn
+
+Accession: 1967.203.
+
+SHA-256: `9f51dd2fbddd90549fd1409332e6e82c7140ee8fcb0e1d4c4366588724ae1d5b`
 
 ## Maya deities around a vessel (`cma-131818`)
 
@@ -2379,6 +2431,20 @@ Accession: 1982.271.
 
 SHA-256: `b749d6022848d05d7f6b7891d8c4d26ad345bb4f9c92fc9267bae214011c008b`
 
+## Woolen tunic with decorated bands (`cma-147015`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1972.46>)
+
+[Original JPEG](public/originals/cma-147015.jpg) · 3,400 × 2,208 pixels · 600s–700s.
+
+Egypt, Umayyad period (661–750)
+
+The A. W. Ellenberger, Sr., Endowment Fund
+
+Accession: 1972.46.
+
+SHA-256: `76c9f6c5accba2d421d9eb4858adddf88ba4d7b9305abc325bc490b644e13782`
+
 ## Fourth-century curtain roundel (`cma-124964`)
 
 Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1946.412>)
@@ -2812,6 +2878,20 @@ Purchase, 1941
 Accession: 41.162.272.
 
 SHA-256: `8161c4b833edc1e5f310f6d23d524d3787d0b638c792b9d3b0280cf51012f690`
+
+## Boscotrecase: landscape (`met-250939`)
+
+The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/250939>)
+
+[Original JPEG](public/originals/met-250939.jpg) · 4,000 × 4,000 pixels · last decade of the 1st century BCE.
+
+Roman, Pompeian
+
+Rogers Fund, 1920
+
+Accession: 20.192.10.
+
+SHA-256: `0b7aa9003a20ac6a474cf86ba2437f4852487463cc90c6900e4ffdea407ae27f`
 
 ## Boscotrecase: a painted room at The Met (`met-250934`)
 
@@ -3289,6 +3369,20 @@ Accession: 25.3.212a–g.
 
 SHA-256: `ff16933cc4ecf4d590b59f4b8bf85443d2837b833a23d6a0e9c20aad380d2689`
 
+## Babylon: lion in glazed brick (`met-322585`)
+
+The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/322585>)
+
+[Original JPEG](public/originals/met-322585.jpg) · 3,811 × 1,652 pixels · ca. 604–562 BCE.
+
+Babylonian
+
+Fletcher Fund, 1931
+
+Accession: 31.13.1.
+
+SHA-256: `f460673369cf986e869ab1e5344cdee8581fac53d262011f06ba2b9fc18aacc2`
+
 ## Eridu: Ubaid painted bowl 7 (`met-324087`)
 
 The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/324087>)
@@ -3339,9 +3433,25 @@ Chris and Denis Luyten-De Hauwere · [CC BY 4.0](<https://creativecommons.org/li
 
 SHA-256: `f1f3412ba528fa965883df42677ce6a34ae23614852e1b856bb6046cd211a7e4`
 
+## Sigiriya: painted figures (`commons-sigiriya`)
+
+Jerzy Strzelecki · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Sigiriya_Fresco1(js).jpg>)
+
+[Original JPEG](public/originals/commons-sigiriya.jpg) · 5,610 × 3,631 pixels · Historic paintings; exact date of this panel not established here.
+
+SHA-256: `6498d669b01ed3e882a0d71da7ac95bca5acd0c82979ee426ea2a9e04430dadf`
+
+## Faras: Saint Anne in surviving paint (`commons-faras-saint-anne`)
+
+National Museum in Warsaw / Google Arts & Culture, via Wikimedia Commons · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Faras_-_Saint_Anne_-_Google_Art_Project.jpg>)
+
+[Original JPEG](public/originals/commons-faras-saint-anne.jpg) · 3,958 × 2,768 pixels · 8th century.
+
+SHA-256: `7694c256afd31ee35cde31d2573733cca85dc625a2d2bbd75a913278c2cb4ee3`
+
 ## Afrasiab: painted boat scene (`commons-afrasiyab-boat`)
 
-Faqscl · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Afrasiab_-_details_from_The_Ambassadors'_Painting_1_-_Northern_wall.-_Chinese_boat.JPG>)
+Faqscl · [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Afrasiab_-_details_from_The_Ambassadors'_Painting_1_-_Northern_wall.-_Chinese_boat.JPG>)
 
 [Original JPEG](public/originals/commons-afrasiyab-boat.jpg) · 4,752 × 3,168 pixels · 7th century, site context.
 
@@ -3370,6 +3480,14 @@ Josep M. Gracia · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.
 [Original JPEG](public/originals/commons-eland-detail.jpg) · 4,288 × 2,848 pixels · Not established for this photographed panel.
 
 SHA-256: `05f0a6ced00e206c0abc77e34eab7e9eca1b37cd2947419e493a42b2467ef9c2`
+
+## Tassili: Tanzoumaitak painted panel (`commons-tassili-tanzoumaitak`)
+
+IssamBarhoumi · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n'ajjer.jpg>)
+
+[Original JPEG](public/originals/commons-tassili-tanzoumaitak.jpg) · 5,163 × 2,904 pixels · Not established for this photographed panel.
+
+SHA-256: `6360d0f97032ae9fa3959d26ac2926d6b95c125c762c7c37f6110e669678c0de`
 
 ## Samoan tapa: brown and white pattern (`commons-samoa-tapa`)
 
@@ -3554,6 +3672,14 @@ R Prazeres · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) �
 [Original JPEG](public/originals/commons-ramesses-vi-chamber.jpg) · 4,000 × 3,000 pixels · New Kingdom; tomb context.
 
 SHA-256: `d59824244f8027b0ae80c78d609d37d4a054d750975fe2c224e1d66ff1f573c5`
+
+## Ramesses VI: painted astronomical ceiling (`commons-ramesses-vi-ceiling`)
+
+R Prazeres · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:KV9_Tomb_of_Ramses_V-VI_DSCF2916.jpg>)
+
+[Original JPEG](public/originals/commons-ramesses-vi-ceiling.jpg) · 3,000 × 4,000 pixels · New Kingdom; tomb context.
+
+SHA-256: `db953b86947ccbb343d43addb400cc5c9660e90daaf83f1f3183ef0004d100d5`
 
 ## Ramesses I: painted tomb interior (`commons-ramesses-i`)
 
@@ -5752,3 +5878,1293 @@ Accession: W.850.209R.
 [Historical context](<https://art.thewalters.org/object/W.850.209R/>)
 
 SHA-256: `fd1a36c656b28ead8491d6ef804de341bbc1fe12579948dcfb938a143cfeb006`
+
+## Autun: polychrome Romanesque Christ (`cma-149790`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1980.1>)
+
+[Original JPEG](public/originals/cma-149790.jpg) · 1,572 × 3,400 pixels · c. 1130–1140.
+
+France, Burgundy, Autun?, 12th century
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 1980.1.
+
+SHA-256: `0a424972f7db8709641dd31cf1f475bf8642388e091f783d2dada4a076ad55a8`
+
+## Würzburg: painted Saint Lawrence (`cma-135920`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1959.42>)
+
+[Original JPEG](public/originals/cma-135920.jpg) · 2,396 × 3,400 pixels · 1502–8.
+
+Germany, Würzburg, 16th century
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 1959.42.
+
+SHA-256: `c1379cca849b5ccfcf08604489bade6569a4832c532110a887adab6092ee860a`
+
+## Würzburg: painted Saint Stephen (`cma-135931`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1959.43>)
+
+[Original JPEG](public/originals/cma-135931.jpg) · 2,244 × 3,400 pixels · 1502–8.
+
+Germany, Würzburg, 16th century
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 1959.43.
+
+SHA-256: `2dfed36e452079bee40ba16ebaec8551b79d45d92b11cc5d03046acb01d2250e`
+
+## Jesse · 2023.156 (`cma-538162`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2023.156>)
+
+[Original JPEG](public/originals/cma-538162.jpg) · 3,400 × 1,848 pixels · c. 1500.
+
+Germany
+
+John L. Severance Fund
+
+Accession: 2023.156.
+
+SHA-256: `efbd5833902cb82d50a717093c01787f8dfd7e6bfdd68c6c488addd5aa96d4b5`
+
+## Crucified Christ · 1968.33 (`cma-143953`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1968.33>)
+
+[Original JPEG](public/originals/cma-143953.jpg) · 2,629 × 3,400 pixels · late 1300s.
+
+Spain, Navarre?, late 14th century
+
+Andrew R. and Martha Holden Jennings Fund
+
+Accession: 1968.33.
+
+SHA-256: `f477dd67249d822dcd3b217b241e96ed88fc22554d4a43c3f76e088ad71d4343`
+
+## Pair of Doors · 1915.565 (`cma-95017`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1915.565>)
+
+[Original JPEG](public/originals/cma-95017.jpg) · 1,840 × 3,400 pixels · early 1400s.
+
+Spain
+
+Gift of the John Huntington Art and Polytechnic Trust
+
+Accession: 1915.565.
+
+SHA-256: `a58d9412d53c9c3ccca2ff590a87e431141e63ce417135d9b109d5c39ded4ab8`
+
+## Bust Reliquary of St. Louis, Bishop of Toulouse · 2011.153 (`cma-169274`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2011.153>)
+
+[Original JPEG](public/originals/cma-169274.jpg) · 2,627 × 3,400 pixels · late 1300s.
+
+Italy, Tuscany, Siena(?)
+
+Gift of Albert van Stolk
+
+Accession: 2011.153.
+
+SHA-256: `6052fe73591cfe52a92c485851607a7c27481f560a7f69e06991471b355d4f86`
+
+## Marriage Chest · 1915.535 (`cma-94980`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1915.535>)
+
+[Original JPEG](public/originals/cma-94980.jpg) · 3,400 × 2,545 pixels · c. 1500.
+
+Spain, Catalonia, Barcelona(?), early 16th century
+
+Gift of the John Huntington Art and Polytechnic Trust
+
+Accession: 1915.535.
+
+SHA-256: `e7b0b30b7b7b1f0195fc2a4e8f0d01afb73fc25da2664ab93ac12a79760a0bff`
+
+## Loire Valley: traces of paint on limestone (`cma-138014`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1962.28>)
+
+[Original JPEG](public/originals/cma-138014.jpg) · 2,241 × 3,400 pixels · c. 1385–90.
+
+France, Loire Valley, 14th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1962.28.
+
+SHA-256: `26fc9da9be710690c1caa111aeaaf9a5d6ee0176aa091467b50e7869e9e8c35f`
+
+## Lorraine: surviving paint and gilding (`cma-147761`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1974.14>)
+
+[Original JPEG](public/originals/cma-147761.jpg) · 2,128 × 3,400 pixels · c. 1315–20.
+
+France, Lorraine
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 1974.14.
+
+SHA-256: `6212b7d0867315e17e3aafde55199780edf0a57c16a4324077dd8c165544263b`
+
+## Toulouse: apostle with traces of paint (`cma-136281`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1960.170>)
+
+[Original JPEG](public/originals/cma-136281.jpg) · 2,923 × 3,400 pixels · c. 1325–1350.
+
+Southwestern France, Toulouse?, 14th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1960.170.
+
+SHA-256: `355fb2a05313ce68a8845e6773f1ebf7fba8937b5a282a0e0828f5eea7773c9d`
+
+## Roof Boss · 1919.1023 (`cma-99453`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1919.1023>)
+
+[Original JPEG](public/originals/cma-99453.jpg) · 3,400 × 3,304 pixels · 1400s.
+
+Northern Spain, 15th century
+
+Gift of the John Huntington Art and Polytechnic Trust
+
+Accession: 1919.1023.
+
+SHA-256: `4ec122872fb3976e9709372e9a76cd10e7a9c42dd88b8f43048b31058766c0bf`
+
+## Roof Boss · 1919.1024 (`cma-99454`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1919.1024>)
+
+[Original JPEG](public/originals/cma-99454.jpg) · 3,400 × 3,381 pixels · 1400s.
+
+Northern Spain, 15th century
+
+Gift of the John Huntington Art and Polytechnic Trust
+
+Accession: 1919.1024.
+
+SHA-256: `c674ec76573f7298091a3f668278095fcbd4ac8c74b3c3a5f2147dccc24e0a11`
+
+## Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt) · 1946.82 (`cma-125103`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1946.82>)
+
+[Original JPEG](public/originals/cma-125103.jpg) · 3,400 × 3,279 pixels · c. 1495.
+
+Germany, Würzburg, late 15th Century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1946.82.
+
+SHA-256: `5f47413e65fb768ddc9273964d8ab31ef0fffdbda748123f55d5095683828d20`
+
+## Nottingham: painted alabaster relief (`cma-144673`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1969.296>)
+
+[Original JPEG](public/originals/cma-144673.jpg) · 2,627 × 3,400 pixels · 1400s.
+
+England, Nottingham, 15th century
+
+Andrew R. and Martha Holden Jennings Fund
+
+Accession: 1969.296.
+
+SHA-256: `5dbba689d782191d25f2da6271fa7e2e3378d3d97fdc98078a6928229790085f`
+
+## Bohemia: polychrome lindenwood Madonna (`cma-135826`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1959.339>)
+
+[Original JPEG](public/originals/cma-135826.jpg) · 2,418 × 3,400 pixels · c. 1400–1410.
+
+Bohemia, vicinity of Freistadt, 15th century
+
+Gift of Mr. and Mrs. Severance A. Millikin
+
+Accession: 1959.339.
+
+SHA-256: `39ff22e7df9230cb02a9588638fd752b8c0843657d76f5bc33d897f3efb9e9b3`
+
+## Castile and León: mourning Saint John (`cma-112175`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1930.621.1>)
+
+[Original JPEG](public/originals/cma-112175.jpg) · 1,764 × 3,400 pixels · c. 1250–1275.
+
+Spain, Kingdom of Castile and Leon, 13th century
+
+Gift of Mr. and Mrs. Francis F. Prentiss
+
+Accession: 1930.621.1.
+
+SHA-256: `fb697d8ccf5b5c45b2f1d6be92bc14061949af9f538a8eaec25bf9dab8e26421`
+
+## Castile and León: mourning Virgin (`cma-112176`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1930.621.2>)
+
+[Original JPEG](public/originals/cma-112176.jpg) · 1,819 × 3,400 pixels · c. 1250–1275.
+
+Spain, Kingdom of Castile and Leon, 13th century
+
+Gift of Mr. and Mrs. Francis F. Prentiss
+
+Accession: 1930.621.2.
+
+SHA-256: `f1bfaa6fc419d5ea2679eb5dc257e88d919ca994865db36a42371069ee4180f7`
+
+## The Annunciation · 1954.393 (`cma-131820`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1954.393>)
+
+[Original JPEG](public/originals/cma-131820.jpg) · 2,571 × 3,400 pixels · 1380s.
+
+Netherlands, or possibly France, 14th century
+
+Mr. and Mrs. William H. Marlatt Fund
+
+Accession: 1954.393.
+
+SHA-256: `2f8a22e7f3e9dffd9d70da4d490f2be318687da96ce1dfec41cdb4d104ae9c6f`
+
+## The Trinity · 1960.79 (`cma-136507`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1960.79>)
+
+[Original JPEG](public/originals/cma-136507.jpg) · 2,830 × 3,400 pixels · c. 1460.
+
+France, Lyon
+
+Mr. and Mrs. William H. Marlatt Fund
+
+Accession: 1960.79.
+
+SHA-256: `161aa1edd73d63709ed835e5e20e3ee5e7a175358d0a52a00a8c0ea86840a050`
+
+## Coronation of the Virgin · 1929.920 (`cma-111435`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1929.920>)
+
+[Original JPEG](public/originals/cma-111435.jpg) · 2,510 × 3,400 pixels · c. 1410.
+
+Germany
+
+Gift of the Friends of The Cleveland Museum of Art
+
+Accession: 1929.920.
+
+SHA-256: `ca3477cec38703486c8a9d050e79d48d94bbda9668035a7d3447690da00b76ee`
+
+## The Virgin Crowned by Angels · 1968.20 (`cma-143761`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1968.20>)
+
+[Original JPEG](public/originals/cma-143761.jpg) · 1,960 × 3,400 pixels · c. 1450.
+
+Germany, Cologne
+
+John L. Severance Fund
+
+Accession: 1968.20.
+
+SHA-256: `7cc84d16eda8bd839dac6f770b5f71ef9c424786c299479b3966f5b8a54f2c4b`
+
+## Virgin and Child with Saints · 1966.237 (`cma-142472`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1966.237>)
+
+[Original JPEG](public/originals/cma-142472.jpg) · 3,400 × 2,850 pixels · c. 1230s.
+
+Italy
+
+Gift of the John Huntington Art and Polytechnic Trust
+
+Accession: 1966.237.
+
+SHA-256: `114ef56e52c0f6a8ddc1c86afb91b888616b8d439d737aec6c1c85a004716871`
+
+## Icon of the New Testament Trinity · 2016.32 (`cma-283088`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2016.32>)
+
+[Original JPEG](public/originals/cma-283088.jpg) · 3,400 × 1,990 pixels · c. 1450.
+
+Byzantium, Constantinople
+
+Severance and Greta Millikin Trust
+
+Accession: 2016.32.
+
+SHA-256: `d33f8ba563c12b0fe53976a9e7b28ea9354aaadb5008aec67cc618754118c32f`
+
+## Icon of the Mother of God and Infant Christ (Virgin Eleousa) · 2010.154 (`cma-168322`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2010.154>)
+
+[Original JPEG](public/originals/cma-168322.jpg) · 2,488 × 3,400 pixels · c. 1425–50.
+
+Republic of Venice, Kingdom of Candia, Candia (Heraklion, Crete, Greece) or Byzantine Empire, Constantinople (Istanbul, Turkey)
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 2010.154.
+
+SHA-256: `07e4ab054a79315dc54cb488fa9ca2d398aee076aa90feff11582a1d9315df11`
+
+## Portable Triptych Icon · 1961.35 (`cma-136862`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1961.35>)
+
+[Original JPEG](public/originals/cma-136862.jpg) · 3,400 × 1,343 pixels · 1600s.
+
+Byzantium, Russia, Moscow?, Byzantine period, 17th century
+
+Gift of Mrs. Harry F. Stratton
+
+Accession: 1961.35.
+
+SHA-256: `fda5cd376053dbd27ddaf096c41db8e24212b12d4c9201a835307e2c4c6f4a8b`
+
+## Panel from a Cassone: The Race of the Palio in the Streets of Florence · 1916.801 (`cma-97165`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1916.801>)
+
+[Original JPEG](public/originals/cma-97165.jpg) · 3,400 × 1,018 pixels · 1418.
+
+Italy, Florence
+
+Holden Collection
+
+Accession: 1916.801.
+
+SHA-256: `c870c591403a612ec55f1fff88f2b38ce6ff61e72d48f78087d1a0fe9cb5b19c`
+
+## The Annunciation · 1953.660.1 (`cma-130981`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1953.660.1>)
+
+[Original JPEG](public/originals/cma-130981.jpg) · 1,477 × 2,048 pixels · c. 1457.
+
+Spain, Catalonia, 15th century
+
+Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn
+
+Accession: 1953.660.1.
+
+SHA-256: `ecf17b84abddd4431b4b5ccb79133f0309ae0f0b0965b059d69b610926cd28ae`
+
+## Single Miniature Excised from Boccaccio's Des Cleres et nobles femmes: Queen Medusa and Her Court · 1924.1015 (`cma-105933`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1924.1015>)
+
+[Original JPEG](public/originals/cma-105933.jpg) · 2,352 × 3,400 pixels · c. 1470.
+
+France
+
+Gift from J. H. Wade
+
+Accession: 1924.1015.
+
+SHA-256: `780c5ee9dcb44c38a7a9f3ecf003e979c64443a42f61101c927c0bb86cf4f69a`
+
+## Miniature from a Manuscript of the Apocalypse: The War in Heaven · 1983.73.2.b (`cma-151528`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1983.73.2.b>)
+
+[Original JPEG](public/originals/cma-151528.jpg) · 3,400 × 2,832 pixels · c. 1295.
+
+France, Lorraine
+
+John L. Severance Fund
+
+Accession: 1983.73.2.b.
+
+SHA-256: `c80a166f53635c91b68dfae7787157a81c3ecdb572687bf613bb1fb40603b790`
+
+## Bifolium from a Bible: Initial E[t factum est] with Ezekiel · 1959.272 (`cma-135736`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1959.272>)
+
+[Original JPEG](public/originals/cma-135736.jpg) · 3,400 × 2,542 pixels · c. 1290.
+
+France, Paris
+
+The Harold T. Clark Educational Extension Fund
+
+Accession: 1959.272.
+
+SHA-256: `e851b5223f05d7a809205327d1037911ad19da6ff229d146ded296db5e7d5836`
+
+## Leaf from a Book of Hours: Initial D: Massacre of the Innocents (1 of 2 Excised Leaves) · 1999.126 (`cma-160814`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1999.126>)
+
+[Original JPEG](public/originals/cma-160814.jpg) · 1,480 × 2,048 pixels · c. 1300–1330.
+
+Northeastern France or Flanders
+
+The Jeanne Miles Blackburn Collection
+
+Accession: 1999.126.
+
+SHA-256: `370c1e877baff3bddba0abcd930b93d397f204c295d3704e90c2e347f0d74d08`
+
+## Initial E from a Municipal Law Book: The Last Judgment · 1953.637 (`cma-130954`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1953.637>)
+
+[Original JPEG](public/originals/cma-130954.jpg) · 2,898 × 3,400 pixels · c. 1330.
+
+Germany, Regensburg
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1953.637.
+
+SHA-256: `46472568141ed9c124cefd043187cacfec0d08282316512c64a485911a59f5a4`
+
+## Single Leaf Excised from a Gospel Book: The Nativity (recto) · 1933.445.a (`cma-114198`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.445.a>)
+
+[Original JPEG](public/originals/cma-114198.jpg) · 2,354 × 3,400 pixels · c. 1190.
+
+Germany, Helmarshausen Abbey, 12th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1933.445.a.
+
+SHA-256: `2a3fe90bc4ca0f8e72512195b2ea11c4d3b7642f4493dd56bfd9bfb459ed4021`
+
+## Single Leaf Excised from a Gospel Book with Initial L[iber generationis]: St. Matthew (verso) · 1933.445.b (`cma-114199`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.445.b>)
+
+[Original JPEG](public/originals/cma-114199.jpg) · 2,353 × 3,400 pixels · c. 1190.
+
+Germany, Helmarshausen Abbey, 12th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1933.445.b.
+
+SHA-256: `55144fa456a153886ab1db92cac0b084e4a4d94d18ec8c665a44208d3ef5d183`
+
+## Leaf from a Psalter and Prayerbook: Rabbits Dancing (recto) · 2022.101.a (`cma-518771`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2022.101.a>)
+
+[Original JPEG](public/originals/cma-518771.jpg) · 2,790 × 3,400 pixels · c. 1524.
+
+Germany, Hildesheim (?), 16th century
+
+James Parmelee Fund
+
+Accession: 2022.101.a.
+
+SHA-256: `680680a01502189790fc5d48cfe0afd16f9b84ab5c5271362edb031a3f113438`
+
+## Title Page of Abbot Berno's "Tonarius:"  Initial D[omino] · 1952.88 (`cma-130313`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1952.88>)
+
+[Original JPEG](public/originals/cma-130313.jpg) · 2,461 × 3,400 pixels · c.1030.
+
+Germany, Abbey of Reichenau, 11th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1952.88.
+
+SHA-256: `12a5db0d10f55f694ae07807ea8c4a75db999cb3546de67c2bc38844af22eb5e`
+
+## Initial I: Entwined Beast and Serpent: Leaf from a Bible (2 of 2 Excised Leaves) · 2011.52 (`cma-169736`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2011.52>)
+
+[Original JPEG](public/originals/cma-169736.jpg) · 2,613 × 3,400 pixels · c. 1225–50.
+
+England, Glastonbury(?), 13th century
+
+The Jeanne Miles Blackburn Collection
+
+Accession: 2011.52.
+
+SHA-256: `9fd33a7114152a60309400048234643147aaa68292fa7ff67fc5b06a75015670`
+
+## Miniature Excised from a Psalter: The Nativity · 1924.427 (`cma-106344`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1924.427>)
+
+[Original JPEG](public/originals/cma-106344.jpg) · 3,400 × 2,634 pixels · c. 1270.
+
+England, London(?), 13th century
+
+Gift from J. H. Wade
+
+Accession: 1924.427.
+
+SHA-256: `3be8f9db15e6c78c70a3ef1de15e19de753adced179df9f364ee544b145c313c`
+
+## Single Leaf: Table of Consanguinity · 1924.429 (`cma-106346`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1924.429>)
+
+[Original JPEG](public/originals/cma-106346.jpg) · 2,598 × 3,400 pixels · c. 1200.
+
+England
+
+Gift from J. H. Wade
+
+Accession: 1924.429.
+
+SHA-256: `1e58a7d2942a121a1bd8101140f19790387adef6268f0ad8edd32fb19226713a`
+
+## Leaf from a Cocharelli Treatise on the Vices: Acedia and Her Court · 1953.152 (`cma-130388`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1953.152>)
+
+[Original JPEG](public/originals/cma-130388.jpg) · 2,120 × 3,400 pixels · c. 1330.
+
+Italy, Genoa
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1953.152.
+
+SHA-256: `03f2c8a65726c45f1a9a02916707c842c17db8f6ed9c17ea77d25349787c65a7`
+
+## Initial G[audeamus omnes] from a Gradual: The Court of Heaven · 1930.105 (`cma-111528`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1930.105>)
+
+[Original JPEG](public/originals/cma-111528.jpg) · 3,186 × 3,400 pixels · 1371–77.
+
+Italy, Florence
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1930.105.
+
+SHA-256: `be8f1b64998346a6d7fb5f381479f39755fe54ed2c10a325647f6a999e6a26e6`
+
+## Illumination Excised from a Choir Book: Two Female Angels · 1924.430 (`cma-106348`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1924.430>)
+
+[Original JPEG](public/originals/cma-106348.jpg) · 3,041 × 3,400 pixels · c. 1332.
+
+Italy, Siena
+
+Gift from J. H. Wade
+
+Accession: 1924.430.
+
+SHA-256: `6f27ef4abc2e264e2b52e5f9f53c241e1b7fbc8ee86d502bc04b53b85caf8e80`
+
+## Al-Andalus: colored Qur’an folio, recto (`cma-114191`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.440.a>)
+
+[Original JPEG](public/originals/cma-114191.jpg) · 3,400 × 3,221 pixels · 1200s–1300s.
+
+Southern Spain
+
+Edward L. Whittemore Fund
+
+Accession: 1933.440.a.
+
+SHA-256: `d40c28312947bf09707c566682e42102960dbdbec68214cae8a30ecc50a84978`
+
+## Al-Andalus: colored Qur’an folio, verso (`cma-114192`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.440.b>)
+
+[Original JPEG](public/originals/cma-114192.jpg) · 3,400 × 3,304 pixels · 1200s–1300s.
+
+Southern Spain
+
+Edward L. Whittemore Fund
+
+Accession: 1933.440.b.
+
+SHA-256: `66b329d19134684c2c25356174e253313228a30606605dff6cbb7bb2a596a400`
+
+## Leaf from a Missal: The Crucifixion (Frontispiece for the Canon of the Mass) · 1959.254 (`cma-135714`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1959.254>)
+
+[Original JPEG](public/originals/cma-135714.jpg) · 2,596 × 3,400 pixels · c. 1440–1450.
+
+North Netherlands, Augustinian Cloister of Agnietenberg, near Zwolle, 15th century
+
+Mr. and Mrs. William H. Marlatt Fund
+
+Accession: 1959.254.
+
+SHA-256: `9e1e337dbeb57f30818f7ff43ae60a4012d5fb62a5f90572ab9f04d20858e41a`
+
+## Leaf Excised from a Book of Hours: Angel with a Banderole within a Flourished Border (Prayer to the Holy Trinity) · 1999.133 (`cma-160826`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1999.133>)
+
+[Original JPEG](public/originals/cma-160826.jpg) · 2,474 × 3,400 pixels · c. 1475.
+
+North Netherlands, Delft, 15th century
+
+The Jeanne Miles Blackburn Collection
+
+Accession: 1999.133.
+
+SHA-256: `2f15a4b1158f3d5625013c87e553a42465775698557c6c2c201816fba0111dd2`
+
+## Single Miniature Excised from a Missal: The Crucifixion · 1924.1014 (`cma-105932`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1924.1014>)
+
+[Original JPEG](public/originals/cma-105932.jpg) · 2,591 × 3,400 pixels · c. 1385–1390.
+
+Flanders, Bruges
+
+Gift from J. H. Wade
+
+Accession: 1924.1014.
+
+SHA-256: `af351509258e1b5921b67d5da7357c406a522c080468dfb9d9260f9a080e4aa1`
+
+## Book of Hours (Use of Utrecht): fol. 14r, Initial with The Nativity · 1998.124.14.a (`cma-160213`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1998.124.14.a>)
+
+[Original JPEG](public/originals/cma-160213.jpg) · 2,648 × 3,400 pixels · c. 1460–1465.
+
+Netherlands, Utrecht, 15th century
+
+Gift of Milton B. Freudenheim in memory of his wife, Elizabeth Ege Freudenheim
+
+Accession: 1998.124.14.a.
+
+SHA-256: `9b46d12af71f301f2e00d39b4813d892d65644924c24845e142463fc602eeb75`
+
+## Hours of Queen Isabella the Catholic, Queen of Spain:  Fol. 15r · 1963.256.15.a (`cma-138998`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1963.256.15.a>)
+
+[Original JPEG](public/originals/cma-138998.jpg) · 2,331 × 3,400 pixels · c. 1500.
+
+Flanders, Ghent and Bruges, late 15th century
+
+Leonard C. Hanna Jr. Fund
+
+Accession: 1963.256.15.a.
+
+SHA-256: `819b0558cefed33f15252de81a665de49958b0aeb93fa6ac1d288478798d8071`
+
+## Orphrey Band: The Tree of Jesse · 1949.503 (`cma-127182`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1949.503>)
+
+[Original JPEG](public/originals/cma-127182.jpg) · 664 × 3,400 pixels · c. 1350.
+
+England
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1949.503.
+
+SHA-256: `fc5f2cc33522e81d144e2c9ea71dfe200321b1740de6423e7429c163e20c35a0`
+
+## Part of a Chasuble · 1970.124 (`cma-144912`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1970.124>)
+
+[Original JPEG](public/originals/cma-144912.jpg) · 1,821 × 3,400 pixels · c. 1500.
+
+England, London (embroidery) and Italy, Florence (velvet), early 16th century
+
+Gift of The Textile Arts Club
+
+Accession: 1970.124.
+
+SHA-256: `bb42395519e48fbf7afcf6e2d4170849487c036a0145300fda1a6f60fa6c5c11`
+
+## Chasuble with Orphrey Band · 1947.2 (`cma-125238`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1947.2>)
+
+[Original JPEG](public/originals/cma-125238.jpg) · 2,199 × 3,400 pixels · 1500–1520.
+
+England, London (embroidery) and Italy, Florence (velvet), early 16th century
+
+Gift of Walter C. and Alvin W. Littwitz in memory of their father, Max Littwitz
+
+Accession: 1947.2.
+
+SHA-256: `2c9d812867e7cd9e25c0a19b46380040ddecaef27689c6bb70e43840347955a8`
+
+## Coif · 1934.206 (`cma-114589`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1934.206>)
+
+[Original JPEG](public/originals/cma-114589.jpg) · 3,400 × 1,962 pixels · late 1500s.
+
+England, Elizabethan Period, late 16th century
+
+Dudley P. Allen Fund
+
+Accession: 1934.206.
+
+SHA-256: `07e7ecced2fdafada380fdc4544b0fa87395ad7648485180ace9d121c9abf589`
+
+## Floral Panel, Probably from a Curtain · 1933.421 (`cma-114171`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.421>)
+
+[Original JPEG](public/originals/cma-114171.jpg) · 3,400 × 2,965 pixels · early 1600s.
+
+England, James I Period, early 17th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1933.421.
+
+SHA-256: `a8d93349a21bf388190c23fd038138af3c94bec05c4abcb8928a96d199c12ac1`
+
+## Purse · 1946.416 (`cma-124968`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1946.416>)
+
+[Original JPEG](public/originals/cma-124968.jpg) · 2,932 × 3,400 pixels · early 1600s.
+
+England, early 17th century
+
+Gift of The Textile Arts Club
+
+Accession: 1946.416.
+
+SHA-256: `497eb1bbaf11b40ca05608512353efef71bef6d3526bb04cc8763cccd45070d3`
+
+## Man's Nightcap · 1950.352 (`cma-127671`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1950.352>)
+
+[Original JPEG](public/originals/cma-127671.jpg) · 3,358 × 3,400 pixels · late 1500s.
+
+England, Elizabethan Period, late 16th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1950.352.
+
+SHA-256: `2bed5e52fb5efd1542e414297594a8e3678b89bcf2c100e244c9374fac7771cc`
+
+## Long Sampler · 1942.506 (`cma-122190`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1942.506>)
+
+[Original JPEG](public/originals/cma-122190.jpg) · 1,138 × 3,400 pixels · c. 1650–70.
+
+England, 17th century
+
+The Mary Pack McNairy Collection
+
+Accession: 1942.506.
+
+SHA-256: `2539ae290ba839ad178b25b06dd5a1e1408242d75caba9d05da0f9152ee1b8ce`
+
+## Procurator’s Velvet Stole · 1942.829 (`cma-122576`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1942.829>)
+
+[Original JPEG](public/originals/cma-122576.jpg) · 1,970 × 3,400 pixels · c. 1575–1600.
+
+Italy, Venice
+
+Bequest of John L. Severance
+
+Accession: 1942.829.
+
+SHA-256: `639512893b410d5d85379f2ed5800ec5060453be310681ec6944ee1cf86ecca4`
+
+## Four-color Velvet with Medici Armorial in Rosettes · 1943.67 (`cma-123447`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1943.67>)
+
+[Original JPEG](public/originals/cma-123447.jpg) · 785 × 3,400 pixels · 1450–1500.
+
+Italy, Florence
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1943.67.
+
+SHA-256: `264d768be3a875d882e35cfbafb12124186f11b1cee66919f833dbe0ecf94a55`
+
+## Velvet with Pomegranate Pattern · 1973.20 (`cma-147465`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1973.20>)
+
+[Original JPEG](public/originals/cma-147465.jpg) · 962 × 3,400 pixels · 1450–1500.
+
+Italy, Florence
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1973.20.
+
+SHA-256: `57e8aa0eb8871a72c9c11e346016ee94a2d3752d60d9eb674a061b94038d6d5e`
+
+## Six-Color Chasuble Front with Animal Pattern · 1943.66 (`cma-123436`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1943.66>)
+
+[Original JPEG](public/originals/cma-123436.jpg) · 2,659 × 3,400 pixels · 1415–25.
+
+Italy
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1943.66.
+
+SHA-256: `3d390fd93dc9f7bd7e7028bb9ac8b4efa8659a4fa0da6408c0eba2f9e05020fb`
+
+## Polychrome Velvet · 1940.370 (`cma-119493`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1940.370>)
+
+[Original JPEG](public/originals/cma-119493.jpg) · 2,456 × 3,400 pixels · early 1400s.
+
+Italy, early 15th century
+
+Gift of The Textile Arts Club
+
+Accession: 1940.370.
+
+SHA-256: `a059723899de4ac84bf1fd3256d451ddbb044b5d37ac9e0992a25c3bbe92fe0c`
+
+## Spring: Fishing Scene · 1952.544.1 (`cma-130166`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1952.544.1>)
+
+[Original JPEG](public/originals/cma-130166.jpg) · 3,400 × 3,250 pixels · designed c. 1535, woven mid- to late 1600s.
+
+France
+
+Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn
+
+Accession: 1952.544.1.
+
+SHA-256: `514fd1a2c9cac2793fb62cf2b63a1ca630015a34f431321edad9d4edf914a238`
+
+## Winter: Skating Scene · 1952.544.4 (`cma-130169`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1952.544.4>)
+
+[Original JPEG](public/originals/cma-130169.jpg) · 3,400 × 2,201 pixels · designed c. 1535, woven mid- to late 1600s.
+
+France
+
+Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn
+
+Accession: 1952.544.4.
+
+SHA-256: `3a04f770fe319703a97e81af60a36cbc741f3d3f370f142863c6e5453bc3224b`
+
+## Youth (from Chateau de Chaumont set) · 1960.176.2 (`cma-136290`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1960.176.2>)
+
+[Original JPEG](public/originals/cma-136290.jpg) · 3,400 × 2,449 pixels · 1512–15.
+
+France, Lyon(?), early 16th century
+
+John L. Severance Fund
+
+Accession: 1960.176.2.
+
+SHA-256: `1ed03674c4776263352c695277d95de087a4b911b3d0e72ec6b8587675b02732`
+
+## Sweden: woven wool textile (`cma-112182`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1930.628>)
+
+[Original JPEG](public/originals/cma-112182.jpg) · 3,400 × 2,789 pixels · early 19th century.
+
+Sweden, Dalecarlia, early 19th century
+
+Gift of Sara Mattsson
+
+Accession: 1930.628.
+
+SHA-256: `6e2fb424276214dd66d4daba6cbbd16b1f87e15f90e6622b8a6ce43775e7963b`
+
+## Purse · 1919.215 (`cma-99632`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1919.215>)
+
+[Original JPEG](public/originals/cma-99632.jpg) · 3,400 × 3,030 pixels · 1710.
+
+Sweden, 18th century
+
+Gift of Nels Nelson
+
+Accession: 1919.215.
+
+SHA-256: `78ae0f54505226cf8e821d619624da6b859b0f6ad1218cc30ab840bd741e148f`
+
+## Norway: embroidered sampler, 1810 (`cma-123496`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1943.95>)
+
+[Original JPEG](public/originals/cma-123496.jpg) · 3,104 × 3,400 pixels · 1810.
+
+Norway
+
+Gift of George W. Bierce
+
+Accession: 1943.95.
+
+SHA-256: `8df95018256725377e10925de127c19d4f965fc2061d075003b0d4e1cd96b68a`
+
+## Greece or Macedonia: composite silk textile (`cma-95596`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1916.1316>)
+
+[Original JPEG](public/originals/cma-95596.jpg) · 3,304 × 3,400 pixels · 1800s.
+
+Probably Greece or Macedonia
+
+Gift of Mr. and Mrs. J. H. Wade
+
+Accession: 1916.1316.
+
+SHA-256: `a283e8a2a7b35026af91af26ca2e3dcd93a362961e4470bc2f4e83f3ac1d78be`
+
+## Macedonia or Albania: embroidered jacket (`cma-114674`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1934.275>)
+
+[Original JPEG](public/originals/cma-114674.jpg) · 3,400 × 1,247 pixels · c. 1800s.
+
+Macedonia or Albania, 19th century
+
+Gift of the Estate of Samuel E. Dettelbach
+
+Accession: 1934.275.
+
+SHA-256: `e8c50d93858360923ee8341e6adfed55dcdd273316f80e82661e82cbadb417e6`
+
+## Fontein Cave: painted panel 2 (`commons-fontein-2`)
+
+EgorovaSvetlana · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_Drawings_Fontein_Cave_Arikok_National_park_Santa_Cruz_Aruba.jpg>)
+
+[Original JPEG](public/originals/commons-fontein-2.jpg) · 4,320 × 3,240 pixels · Precolonial; individual marks undated.
+
+Indigenous Aruba; Arawak attribution in the source record
+
+[Historical context](<https://www.aruba.com/us/explore/caves>)
+
+SHA-256: `00360ca9e7ca370fc43fa0aa84c77e2cb46fc87febb32f5a8c87dc6832860bcc`
+
+## Fontein Cave: painted panel 4 (`commons-fontein-4`)
+
+EgorovaSvetlana · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_Drawings_Fontein_cave_Arikok_National_park_Santa_Cruz_Aruba.jpg>)
+
+[Original JPEG](public/originals/commons-fontein-4.jpg) · 4,320 × 3,240 pixels · Precolonial; individual marks undated.
+
+Indigenous Aruba; Arawak attribution in the source record
+
+[Historical context](<https://www.aruba.com/us/explore/caves>)
+
+SHA-256: `7aad7027355091954f5c84863de821eb2b8574b83331b1cc133ad757cd4aed03`
+
+## Fontein Cave: painted panel 5 (`commons-fontein-5`)
+
+EgorovaSvetlana · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_drawings_Fontein_Cave_Arikok_National_Park_Santa_Cruz_Aruba.jpg>)
+
+[Original JPEG](public/originals/commons-fontein-5.jpg) · 3,240 × 4,320 pixels · Precolonial; individual marks undated.
+
+Indigenous Aruba; Arawak attribution in the source record
+
+[Historical context](<https://www.aruba.com/us/explore/caves>)
+
+SHA-256: `ef393e98533795fd6a14ac68470e28f51a1e71135425efbf2608ab16143186c3`
+
+## Fontein Cave: painted panel 7 (`commons-fontein-7`)
+
+EgorovaSvetlana · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Native_Arawak_drawings_Fontein_cave_Arikok_National_Park_Santa_Cruz_Aruba.jpg>)
+
+[Original JPEG](public/originals/commons-fontein-7.jpg) · 3,240 × 4,320 pixels · Precolonial; individual marks undated.
+
+Indigenous Aruba; Arawak attribution in the source record
+
+[Historical context](<https://www.aruba.com/us/explore/caves>)
+
+SHA-256: `913ed83f65ea7a159c5241ffc37be3f48488e763ba8d438012a19452fc29962e`
+
+## Cueva de las Maravillas: Taíno pictographs 1 (`commons-maravillas-1`)
+
+Danu Widjajanto · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Ta%C3%ADno_pictographs_Cuevas_de_las_Maravillas.jpg>)
+
+[Original JPEG](public/originals/commons-maravillas-1.jpg) · 4,032 × 3,024 pixels · Precolonial; individual panel undated.
+
+Taíno
+
+[Historical context](<https://es.godominicanrepublic.com/que-hacer/cueva-de-las-maravillas>)
+
+SHA-256: `b84e44c89ee3f2c918cd9c6eeeb34645a9a1e587916c682fedf198338a1cead8`
+
+## Pomier: painted geometric motif (`commons-pomier-pictograph`)
+
+No machine-readable author provided. Espeleogrupo assumed (based on copyright claims). · [CC BY 2.5](<https://creativecommons.org/licenses/by/2.5>) · [Source](<https://commons.wikimedia.org/wiki/File:Pictografia_igneri.jpg>)
+
+[Original JPEG](public/originals/commons-pomier-pictograph.jpg) · 1,704 × 2,272 pixels · Precolonial; individual motif undated.
+
+Indigenous Caribbean; more specific attribution unverified
+
+SHA-256: `9a0efcab97f7db79dc549cb6fdd5d0ca50ebb2db46510ef829aa29994474cc64`
+
+## Mangaia: patterned tapa mask (`commons-mangaia-mask`)
+
+Daderot · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Mask,_Mangaia,_Cook_Islands,_maker_unknown,_c._1900,_tapa_-_Museum_of_New_Zealand_Te_Papa_Tongarewa_-_Wellington,_NZ_-_DSC09751.jpg>)
+
+[Original JPEG](public/originals/commons-mangaia-mask.jpg) · 3,348 × 5,212 pixels · c. 1900.
+
+Mangaian
+
+SHA-256: `d622fdcb0d232f5ae2fa380aadedfbcf305c8a651aaeb3999bdcf988ab57235a`
+
+## Ambrym: painted mask (`commons-ambrym-mask`)
+
+Vassil · [CC0](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Basel_Museum_der_Kulturen_Mask_Vanuatu_25102013.jpg>)
+
+[Original JPEG](public/originals/commons-ambrym-mask.jpg) · 2,230 × 3,802 pixels · Not recorded.
+
+Ambrym; more specific maker attribution not recorded
+
+SHA-256: `3eba554e89ae3676796c0b5641b5a32f8b93d96b5257fea58a786c3942d3ce43`
+
+## Malakula: painted ceremonial mask (`commons-malakula-mask`)
+
+Didier Descouens · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Masque_des_Vanuatu_-_Sav%C3%A8s_MHNT_ETH_AC_NH_66.jpg>)
+
+[Original JPEG](public/originals/commons-malakula-mask.jpg) · 3,749 × 4,912 pixels · Collected in the last quarter of the 19th century; production date unknown.
+
+Malakula; Nalawan attribution in the source record
+
+SHA-256: `09aacf7a4e18aaf93ebbeff60c710a72e1a7dc439b0e2e34453c6cc001dba0e9`
+
+## Pedret: Romanesque mural detail 01 (`commons-pedret-01`)
+
+Francesco Bini · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Absidiole_laterali_di_sant_quirze_de_pedret,_1090-1110_ca.,_01.jpg>)
+
+[Original JPEG](public/originals/commons-pedret-01.jpg) · 4,480 × 6,720 pixels · Late 11th–early 12th century.
+
+Catalan Romanesque; Master of Pedret circle
+
+[Historical context](<https://www.museunacional.cat/es/colleccio/abside-norte-de-pedret/maestro-de-pedret/022991-sub>)
+
+SHA-256: `48d8be04b4ba461f272cc94045cef046310c1ef4a0759a6cbddbf682004bc5d2`
+
+## Pedret: Romanesque mural detail 03 (`commons-pedret-03`)
+
+Francesco Bini · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Absidiole_laterali_di_sant_quirze_de_pedret,_1090-1110_ca.,_03_apostoli_all'ultima_cena.jpg>)
+
+[Original JPEG](public/originals/commons-pedret-03.jpg) · 3,948 × 4,212 pixels · Late 11th–early 12th century.
+
+Catalan Romanesque; Master of Pedret circle
+
+[Historical context](<https://www.museunacional.cat/es/colleccio/abside-norte-de-pedret/maestro-de-pedret/022991-sub>)
+
+SHA-256: `f48ea8ad20de6ab11984556ba6c8d319d0ad4ebc049444cbcc1d461e81617386`
+
+## Pedret: Romanesque mural detail 07 (`commons-pedret-07`)
+
+Francesco Bini · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Absidiole_laterali_di_sant_quirze_de_pedret,_1090-1110_ca.,_07.jpg>)
+
+[Original JPEG](public/originals/commons-pedret-07.jpg) · 6,720 × 4,480 pixels · Late 11th–early 12th century.
+
+Catalan Romanesque; Master of Pedret circle
+
+[Historical context](<https://www.museunacional.cat/es/colleccio/abside-norte-de-pedret/maestro-de-pedret/022991-sub>)
+
+SHA-256: `426f6382766887ac722c6432ffddfeafcc7116411e5c658608a820b995bf5ab7`
+
+## Taüll: painted apse detail 03 (`commons-taull-03`)
+
+Joe Mabel · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Frescos_from_Sant_Climent_de_Ta%C3%BCll_-_detail_03.jpg>)
+
+[Original JPEG](public/originals/commons-taull-03.jpg) · 4,000 × 6,000 pixels · c. 1123.
+
+Catalan Romanesque; Master of Taüll
+
+[Historical context](<https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000>)
+
+SHA-256: `46ac45930579ac23a596f911f2f65c4b29c397c44e582c4be314400f4209d652`
+
+## Taüll: painted apse detail 07 (`commons-taull-07`)
+
+Joe Mabel · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Frescos_from_Sant_Climent_de_Ta%C3%BCll_-_detail_07.jpg>)
+
+[Original JPEG](public/originals/commons-taull-07.jpg) · 6,000 × 4,000 pixels · c. 1123.
+
+Catalan Romanesque; Master of Taüll
+
+[Historical context](<https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000>)
+
+SHA-256: `6ad2fd5f777f2c47fc43f7b3fb2e5a8403a52a1bf29c027fd5b391ece0749e5d`
+
+## Taüll: painted apse detail 10 (`commons-taull-10`)
+
+Joe Mabel · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Frescos_from_Sant_Climent_de_Ta%C3%BCll_-_detail_10.jpg>)
+
+[Original JPEG](public/originals/commons-taull-10.jpg) · 4,000 × 6,000 pixels · c. 1123.
+
+Catalan Romanesque; Master of Taüll
+
+[Historical context](<https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000>)
+
+SHA-256: `7ebdbd0ce172ecc1183116b6e80dfda38146dc36a986c1c736891d795d8cef83`
+
+## Tarquinia: painted banquet (`commons-tarquinia-banquet`)
+
+Sailko · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_banchetto_funebre_02.jpg>)
+
+[Original JPEG](public/originals/commons-tarquinia-banquet.jpg) · 5,472 × 3,648 pixels · 470–460 BCE.
+
+Etruscan
+
+SHA-256: `39c3225d31228ce9fd31601f2f8a9e14004c8d50fe3de8912cbc3b5e430f4ce7`
+
+## Tarquinia: dolphins and waves (`commons-tarquinia-dolphins`)
+
+Sailko · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_delfini_tra_onde_01.jpg>)
+
+[Original JPEG](public/originals/commons-tarquinia-dolphins.jpg) · 5,472 × 3,648 pixels · 470–460 BCE.
+
+Etruscan
+
+SHA-256: `082da425d50e9c344e072421833d7d792f9b83dc7e889369f5c2849077b01995`
+
+## Tarquinia: painted discus thrower (`commons-tarquinia-discus`)
+
+Sailko · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_giochi_funebri_02_lanciatore_di_disco.jpg>)
+
+[Original JPEG](public/originals/commons-tarquinia-discus.jpg) · 5,472 × 3,648 pixels · 470–460 BCE.
+
+Etruscan
+
+SHA-256: `1ae820d29ca3c51459b2c43f55793acb1df57d597f17ee2b1b686b331a03f884`
+
+## Tarquinia: painted chariots (`commons-tarquinia-chariots`)
+
+Sailko · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Tarquinia,_tomba_del_letto_funebre,_470-460_ac.,_giochi_funebri_11_bighe.jpg>)
+
+[Original JPEG](public/originals/commons-tarquinia-chariots.jpg) · 5,472 × 3,648 pixels · 470–460 BCE.
+
+Etruscan
+
+SHA-256: `d923ad5dc711f6a2c18e26f6224f47be3edd36f17141a93e8d6d6ba91ccda7e1`
+
+## Akrotiri: fisherman (`commons-akrotiri-fisherman`)
+
+Zde · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Fisherman_Fresco_from_Akrotiri,_17th_c_BC,_PMTh,_226347.jpg>)
+
+[Original JPEG](public/originals/commons-akrotiri-fisherman.jpg) · 3,544 × 5,328 pixels · Late Bronze Age, 17th–16th century BCE.
+
+Bronze Age Aegean; Cycladic
+
+[Historical context](<https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c191/museum-of-prehistoric-thira>)
+
+SHA-256: `ce5eed56c350c65d0bb7b9a41bb48a1ba066ca80f05c9a6742b5280ed8ff7bd3`
+
+## Akrotiri: ship procession, first panel (`commons-akrotiri-ships-1`)
+
+Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Ship_procession_fresco,_part_1,_Akrotiri,_Greece.jpg>)
+
+[Original JPEG](public/originals/commons-akrotiri-ships-1.jpg) · 3,300 × 1,884 pixels · Late Bronze Age, 17th–16th century BCE.
+
+Bronze Age Aegean; Cycladic
+
+[Historical context](<https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c191/museum-of-prehistoric-thira>)
+
+SHA-256: `2b43ccc8b4563ecb80cdd0b99dc41e9b5b9091db61188dadfc744143e739e15a`
+
+## Akrotiri: ship procession, third panel (`commons-akrotiri-ships-3`)
+
+Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Ship_procession_fresco,_part_3,_Akrotiri,_Greece.jpg>)
+
+[Original JPEG](public/originals/commons-akrotiri-ships-3.jpg) · 3,148 × 1,800 pixels · Late Bronze Age, 17th–16th century BCE.
+
+Bronze Age Aegean; Cycladic
+
+[Historical context](<https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c191/museum-of-prehistoric-thira>)
+
+SHA-256: `f97c69fa279bd2f3372525943e9f3778fbe52367c91b7a2aa5a32eca93a7831e`
+
+## Keldby: painted vault detail 3 (`commons-keldby-3`)
+
+Edelmauswaldgeist · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Keldby_Kirche_3.jpg>)
+
+[Original JPEG](public/originals/commons-keldby-3.jpg) · 3,648 × 5,472 pixels · Medieval cycles, 13th–early 16th century.
+
+Danish medieval church painting; includes Elmelunde Master workshop
+
+[Historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
+
+SHA-256: `af9c22aa6a17e031c646dffa75b08ceead1ade10252f64006742b6c0e0e55f88`
+
+## Keldby: painted vault detail 6 (`commons-keldby-6`)
+
+Edelmauswaldgeist · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Keldby_Kirche_6.jpg>)
+
+[Original JPEG](public/originals/commons-keldby-6.jpg) · 5,472 × 3,648 pixels · Medieval cycles, 13th–early 16th century.
+
+Danish medieval church painting; includes Elmelunde Master workshop
+
+[Historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
+
+SHA-256: `3d7260dcf57173896b54810479fe362e0cf82b0a2417ea22ee973707e15fe164`
+
+## Keldby: painted vault detail 8 (`commons-keldby-8`)
+
+Edelmauswaldgeist · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Keldby_Kirche_8.jpg>)
+
+[Original JPEG](public/originals/commons-keldby-8.jpg) · 5,472 × 3,648 pixels · Medieval cycles, 13th–early 16th century.
+
+Danish medieval church painting; includes Elmelunde Master workshop
+
+[Historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
+
+SHA-256: `e674372dffca0239bf38a355013c73b0a1b6279ee25d33ceaea8fe7ae557d192`
+
+## Keldby: painted vault detail 10 (`commons-keldby-10`)
+
+Edelmauswaldgeist · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Keldby_Kirche_10.jpg>)
+
+[Original JPEG](public/originals/commons-keldby-10.jpg) · 5,472 × 3,648 pixels · Medieval cycles, 13th–early 16th century.
+
+Danish medieval church painting; includes Elmelunde Master workshop
+
+[Historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
+
+SHA-256: `cec810494b81471675ead8a6eb93e2197d407d99d22f5df96b3a0af9f6e8b07f`

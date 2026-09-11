@@ -1,0 +1,325 @@
+{
+  "id": 138014,
+  "accession_number": "1962.28",
+  "share_license_status": "CC0",
+  "tombstone": "Virgin and Child, c. 1385–90. France, Loire Valley, 14th century. Limestone with traces of polychromy; overall: 135.3 x 41.3 x 30.5 cm (53 1/4 x 16 1/4 x 12 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1962.28",
+  "current_location": "109 Gothic Painting and Sculpture",
+  "title": "Virgin and Child",
+  "creation_date": "c. 1385–90",
+  "creation_date_earliest": 1380,
+  "creation_date_latest": 1395,
+  "artists_tags": [],
+  "culture": [
+    "France, Loire Valley, 14th century"
+  ],
+  "technique": "limestone with traces of polychromy",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Gothic",
+  "type": "Sculpture",
+  "measurements": "Overall: 135.3 x 41.3 x 30.5 cm (53 1/4 x 16 1/4 x 12 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.353,
+      "height_inch": 53,
+      "height_inch_fraction": 0.25,
+      "width": 0.413,
+      "width_inch": 16,
+      "width_inch_fraction": 0.25,
+      "depth": 0.305,
+      "depth_inch": 12,
+      "depth_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302276,
+        "title": "Year in Review - 1962",
+        "description": "<i>Year in Review - 1962</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24-November 25, 1962).",
+        "opening_date": "1962-10-24T04:00:00"
+      },
+      {
+        "id": 304213,
+        "title": "Gothic Art 1360-1440",
+        "description": "<i>Gothic Art 1360-1440</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 6-September 15, 1963).",
+        "opening_date": "1963-08-06T04:00:00"
+      },
+      {
+        "id": 300926,
+        "title": "Treasures of Medieval France",
+        "description": "<i>Treasures of Medieval France</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1966-January 29, 1967).",
+        "opening_date": "1966-11-16T05:00:00"
+      },
+      {
+        "id": 180667,
+        "title": "Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art",
+        "description": "<i>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art</i>. National Museum of Bavaria, Munich, Germany (May 10-September 16, 2007); J. Paul Getty Museum, Los Angeles, CA (October 30, 2007-January 20, 2008); Frist Art Museum, Nashville, TN (February 13-June 7, 2009).",
+        "opening_date": "2007-05-10T00:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Mrs. Paul Mallon (d. 1977), New York, NY, sold to the Cleveland Museum of Art).",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1962",
+      "sortorder": null
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1962-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This sculpture was painted over many times over its history, common for medieval sculpture.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "The vibrant naturalism of the Virgin’s face and long flowing hair, as well as the deep, rich folds of drapery are characteristic of the work of itinerant artists from the Netherlands who found employment at the Valois courts of France at Paris, Berry, and Burgundy. Their native styles and attention to realistic detail fused with native French artistic traditions toward the end of the 14th century and took root. The original source of this Virgin and Child is unknown, but its style suggests a relationship with similar sculptures made for churches and abbeys of the Central Loire Valley. The additional influence of the style of the sculptor André Beauneveu has also been noted for this sculpture. His commissions were abundant and his influence widespread. The sculptor of this work appears to have had some knowledge of Beauneveu’s work in the Loire region.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60779270"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1962.28-virgin-and-child"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, S. (1962). Year in Review 1962. <em>The Bulletin of the Cleveland Museum of Art,</em> <em>49</em>(9).",
+      "page_number": "no. 32",
+      "url": "https://www.jstor.org/stable/25151915"
+    },
+    {
+      "citation": "Wixom, W. (1963). A Fourteenth-Century Madonna and Child. <em>The Bulletin of the Cleveland Museum of Art,</em> <em>50</em>(1).",
+      "page_number": "pp. 14-22",
+      "url": "https://www.jstor.org/stable/25151929"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 64",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n88"
+    },
+    {
+      "citation": "Wixom, William D. <em>Treasures from Medieval France. [</em>Cleveland]: Cleveland Museum of Art, 1967.",
+      "page_number": "p. 230-231, 373; no. VI 8",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 64",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n88"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 72",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n92"
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Holger A. Klein. <em>Sacred Gifts and Worldly Treasures: Medieval Masterworks from the Cleveland Museum of Art.</em> Cleveland, Ohio: Cleveland Museum of Art, 2007.",
+      "page_number": "cat. 63, p.176",
+      "url": ""
+    },
+    {
+      "citation": "Eikelmann, Renate, Holger A. Klein, Stephen N. Fliegel, and Virginia Brilliant. <em>The Cleveland Museum of Art: Meisterwerke von 300 bis 1550.</em> München: Hirmer, 2007.",
+      "page_number": "pp. 184-185, no. 66",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1962.28",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_web.jpg",
+      "width": "589",
+      "height": "893",
+      "filesize": "55277",
+      "filename": "1962.28_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_print.jpg",
+      "width": "2241",
+      "height": "3400",
+      "filesize": "680475",
+      "filename": "1962.28_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_full.tif",
+      "width": "4329",
+      "height": "6567",
+      "filesize": "85336228",
+      "filename": "1962.28_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt0_web.jpg",
+        "width": "553",
+        "height": "893",
+        "filesize": "50666"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt0_print.jpg",
+        "width": "2104",
+        "height": "3400",
+        "filesize": "628975"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt0_full.tif",
+        "width": "4128",
+        "height": "6668",
+        "filesize": "82621552"
+      },
+      "date_created": "2012-03-28T14:45:09",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt1_web.jpg",
+        "width": "554",
+        "height": "893",
+        "filesize": "51008"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt1_print.jpg",
+        "width": "2108",
+        "height": "3400",
+        "filesize": "613026"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt1_full.tif",
+        "width": "4136",
+        "height": "6668",
+        "filesize": "82783820"
+      },
+      "date_created": "2012-03-28T15:12:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt2_web.jpg",
+        "width": "504",
+        "height": "893",
+        "filesize": "42186"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt2_print.jpg",
+        "width": "1920",
+        "height": "3400",
+        "filesize": "533044"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt2_full.tif",
+        "width": "3767",
+        "height": "6668",
+        "filesize": "75400264"
+      },
+      "date_created": "2012-03-28T15:40:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt3_web.jpg",
+        "width": "538",
+        "height": "893",
+        "filesize": "45027"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt3_print.jpg",
+        "width": "2047",
+        "height": "3400",
+        "filesize": "576315"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt3_full.tif",
+        "width": "3982",
+        "height": "6612",
+        "filesize": "79024512"
+      },
+      "date_created": "2012-03-28T15:58:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt4_web.jpg",
+        "width": "550",
+        "height": "893",
+        "filesize": "60693"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt4_print.jpg",
+        "width": "2094",
+        "height": "3400",
+        "filesize": "827486"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt4_full.tif",
+        "width": "4064",
+        "height": "6597",
+        "filesize": "80469088"
+      },
+      "date_created": "2012-03-28T17:29:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt5_web.jpg",
+        "width": "532",
+        "height": "893",
+        "filesize": "233430"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt5_print.jpg",
+        "width": "2024",
+        "height": "3400",
+        "filesize": "3021383"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.28/1962.28_alt5_full.tif",
+        "width": "3305",
+        "height": "5553",
+        "filesize": "55087516"
+      },
+      "date_created": "2005-10-27T15:12:21",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 138014,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1962-02-17T00:00:00",
+  "sortable_date": 1380,
+  "date_added_to_oa": null,
+  "date_text": "c. 1385–90",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Madonna and Child"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:16:25.571000"
+}

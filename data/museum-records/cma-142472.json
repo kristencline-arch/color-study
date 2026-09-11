@@ -1,0 +1,359 @@
+{
+  "id": 142472,
+  "accession_number": "1966.237",
+  "share_license_status": "CC0",
+  "tombstone": "Virgin and Child with Saints, c. 1230s. Berlinghiero (Italian, before 1242). Triptych (tabernacle); tempera and gold on poplar panel; overall: 42.6 x 51.5 cm (16 3/4 x 20 1/4 in.); center: 42.8 x 27 cm (16 7/8 x 10 5/8 in.); left: 42.5 x 12.5 cm (16 3/4 x 4 15/16 in.); right: 42.4 x 12 cm (16 11/16 x 4 3/4 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1966.237",
+  "current_location": "105 Byzantine",
+  "title": "Virgin and Child with Saints",
+  "creation_date": "c. 1230s",
+  "creation_date_earliest": 1225,
+  "creation_date_latest": 1235,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "Italy"
+  ],
+  "technique": "triptych (tabernacle); tempera and gold on poplar panel",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Medieval Art",
+  "type": "Painting",
+  "measurements": "Overall: 42.6 x 51.5 cm (16 3/4 x 20 1/4 in.); Center: 42.8 x 27 cm (16 7/8 x 10 5/8 in.); Left: 42.5 x 12.5 cm (16 3/4 x 4 15/16 in.); Right: 42.4 x 12 cm (16 11/16 x 4 3/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.426,
+      "height_inch": 16,
+      "height_inch_fraction": 0.75,
+      "width": 0.515,
+      "width_inch": 20,
+      "width_inch_fraction": 0.25
+    },
+    "center": {
+      "height": 0.428,
+      "height_inch": 16,
+      "height_inch_fraction": 0.875,
+      "width": 0.27,
+      "width_inch": 10,
+      "width_inch_fraction": 0.625
+    },
+    "left": {
+      "height": 0.425,
+      "height_inch": 16,
+      "height_inch_fraction": 0.75,
+      "width": 0.125,
+      "width_inch": 4,
+      "width_inch_fraction": 0.9375
+    },
+    "right": {
+      "height": 0.424,
+      "height_inch": 16,
+      "height_inch_fraction": 0.6875,
+      "width": 0.12,
+      "width_inch": 4,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscribed on central panel flanking Virgin: MP OV.\r\nOn back of panel: XC IC HS NI",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 300917,
+        "title": "Golden Anniversary of Acquisitions",
+        "description": "<i>Golden Anniversary of Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 10-October 16, 1966).",
+        "opening_date": "1966-09-10T04:00:00"
+      },
+      {
+        "id": 301412,
+        "title": "Florence and the Arts: Five Centuries of Patronage",
+        "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+        "opening_date": "1971-07-13T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Golden Anniversary Acquisitions,</em> Cleveland Museum of Art, Cleveland, OH (September 10-October 16, 1966).",
+        "opening_date": "1966-09-10T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Theodore Bonjean, Paris, France)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "(Peter Matthiesen, Matthiesen Gallery, London, England)",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1938",
+      "sortorder": null
+    },
+    {
+      "description": "Adolphe Stoclet (1871-1949), Brussels, Belgium",
+      "citations": [],
+      "footnotes": null,
+      "date": "after 1938",
+      "sortorder": null
+    },
+    {
+      "description": "Mme. Michele Stoclet, Barcelona, Spain",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "(Sale: Sotherby's, London, June 30, 1965, no. 21)",
+      "citations": [],
+      "footnotes": null,
+      "date": "June 30, 1965",
+      "sortorder": null
+    },
+    {
+      "description": "Rudolf J. Heinemann, New York, NY, sold to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "-1966",
+      "sortorder": null
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1966-",
+      "sortorder": 7
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "This tabernacle was recognized as being by Berlinghiero while in the the collection of Adolphe Stoclet, a wealthy Belgian engineer and collector.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This small altarpiece, intended for a domestic interior or private chapel, consists of three panels, allowing it to be folded and easily transported. Surrounding the Virgin and Child in the center are various saints. On the left is Saint Andrew crucified, with St. Francis and St. Paul below; on the right, Christ with the instruments of the Passion, and St. Stephen and St. Lawrence below. The long expressive lines that define the clothing and hands of the figures are typical of Byzantine painting, which spread from Constantinople to Italy in the Middle Ages. Berlinghiero is one of the earliest Italian painters known by name. He lived in Lucca, the most important artistic center in Tuscany before the rise of Siena and Florence. Berlinghiero headed a large, influential workshop that included his sons.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60469574"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1966.237-virgin-and-child-wit"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Garrison, Jr., Edward B. \"A Berlinghieresque Fresco in St. Stefano, Bologna,\" <em>The Art Bulletin </em>XXVIII (1946).",
+      "page_number": "p. 215-219, fig. 7",
+      "url": ""
+    },
+    {
+      "citation": "Offner, Richard, and Klara Steinweg.<em> A Critical and Historical Corpus of Florentine Painting. </em>3,5, 3,5. Florence: Giunti, 1947.",
+      "page_number": "p 48, no. I, p. 56-57, no. 3, p. 207-208, no. 1, p. 252, n. 6, p. 259",
+      "url": ""
+    },
+    {
+      "citation": "Garrison, Jr. Edward B. \"Post-War Discoveries- III: The Madonna di Sotto gli Organi<em>,\" Burlington Magazine</em> LXXXIX (October 1947).",
+      "page_number": "p. 279.",
+      "url": ""
+    },
+    {
+      "citation": "Garrison, Edward B.<em> Italian Romanesque Panel Painting: An Illustrated Index</em>. Florence: L.S. Olschki, 1949.",
+      "page_number": "p.12, 112, no.284",
+      "url": ""
+    },
+    {
+      "citation": "Garrison, Jr. Edward B. “Addenda ad indicem II”, <em>Bollettino D'Art </em>XXXVI (1951).",
+      "page_number": "p. 294, 296, no. 6 (cf., no. 1)",
+      "url": ""
+    },
+    {
+      "citation": "Kaftal, George. <em>Iconography of the Saints in Tuscan Painting</em>. Florence: Sansoni, 1952.",
+      "page_number": "p. xxiii, n. 7, cols 40, 613, 949",
+      "url": ""
+    },
+    {
+      "citation": "Garrison, Edward B. <em>Studies in the History of Mediaeval Italian Painting.</em> Florence: L'Impronta, 1953.",
+      "page_number": "p. 261-264",
+      "url": ""
+    },
+    {
+      "citation": "Valentiner, W.R. “A Madonna by Berlinghiero Berlinghieri”, <em>The North Carolina Museum of Art Bulletin</em> I (1957).",
+      "page_number": "pp. 1-3",
+      "url": ""
+    },
+    {
+      "citation": "Stubblebine, James H. <em>Guido Da Siena.</em> Princeton, N.J.: Princeton University Press, 1964.",
+      "page_number": "fig. 109",
+      "url": ""
+    },
+    {
+      "citation": "Sotheby's (Firm). <em>Important Old Master Paintings</em>. 1965.",
+      "page_number": "p. 20",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 51",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n75"
+    },
+    {
+      "citation": "“‘Golden Anniversary’ Acquisitions by the Cleveland Museum of Art.” <em>The Burlington Magazine</em> 108, no. 764 (1966).",
+      "page_number": "cat. no. 56",
+      "url": "https://www.jstor.org/stable/875138"
+    },
+    {
+      "citation": "Stechow, Wolfgang. \"Cleveland's Golden Anniversary Acquisitions.\" <em>Artnews</em> 65, no. 5 (September 1966): 30-64.",
+      "page_number": "Reproduced p. 32",
+      "url": null
+    },
+    {
+      "citation": "Berenson, Bernard. <em>Italian Pictures of the Renaissance: A List of the Principal Artists and Their Works with an Index of Places : Central Italian and North Italian Schools</em>. London: Phaidon, 1968.",
+      "page_number": "p. 46",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 51",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n73"
+    },
+    {
+      "citation": "Pillsbury, Edmund P. <em>Florence and the Arts; Five Centuries of Patronage.</em> 1971.",
+      "page_number": "no. 1",
+      "url": ""
+    },
+    {
+      "citation": "Fredericksen, Burton B., and Federico Zeri.<em> Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections.</em> Cambridge: Harvard University Press, 1972.",
+      "page_number": "pp. 26, 310, 360, 362, 369, 394, 422, 450, 459, 574",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art.<em> European Paintings Before 1500. </em>Cleveland: The Museum, 1974. .",
+      "page_number": "no 15, fig.15, pl. X",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 62",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n82"
+    },
+    {
+      "citation": "Angiola, E.M. \"Nuovi documenti su Bonaventura e Marco di Berlinghiero,\" <em>Prospettiva</em> (April 1980).",
+      "page_number": "p. 84, n. 2",
+      "url": ""
+    },
+    {
+      "citation": "Ford, Terence.<em> RIdIM/RCMI Inventory of Music Iconography</em>. New York: Research Center for Musical Iconography, 1991.",
+      "page_number": "p. 3 no. 44",
+      "url": ""
+    },
+    {
+      "citation": "Cleveland Museum of Art, and Alan Chong. <em>European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue. </em>Cleveland, Ohio: Cleveland Museum of Art, 1993.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Cook, William R. <em>Images of St. Francis of Assisi: In Painting, Stone and Glass : from the Earliest Images to Ca. 1320 in Italy : a Catalogue.</em> Firenze: L.S. Olschki, 1999.",
+      "page_number": "cat. no. 51, pp. 84-85",
+      "url": ""
+    },
+    {
+      "citation": "Turner, Kay. <em>Beautiful Necessity: The Art and Meaning of Women's Altars.</em> London: Thames &amp; Hudson, 1999.",
+      "page_number": "p. 8",
+      "url": ""
+    },
+    {
+      "citation": "Mauron, Véronique.<em><u> Le signe incarné: ombres et reflets dans l'art contemporain</u></em>. Paris: Hazan, 2001.",
+      "page_number": "p. 261",
+      "url": ""
+    },
+    {
+      "citation": "Pon, Lisa. <em>A Printed Icon: Forlì’s Madonna of the Fire.</em> New York, NY: Cambridge University Press, 2015.",
+      "page_number": "Mentioned and reproduced: p. 20-21, fig. 3",
+      "url": ""
+    },
+    {
+      "citation": "Acidini Luchinat, Cristina, Sandro Bellesi, and Alberto Bruschi. Scoperte e ritorni: scritti in memoria di Alberto Bruschi. Firenze : Edizioni Polistampa 2022. 15",
+      "page_number": "Mentioned and reproduced; p.15, fig. 6",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1966.237",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1966.237/1966.237_web.jpg",
+      "width": "1065",
+      "height": "893",
+      "filesize": "834850",
+      "filename": "1966.237_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1966.237/1966.237_print.jpg",
+      "width": "3400",
+      "height": "2850",
+      "filesize": "7852132",
+      "filename": "1966.237_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1966.237/1966.237_full.tif",
+      "width": "4931",
+      "height": "4133",
+      "filesize": "61175276",
+      "filename": "1966.237_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 142472,
+  "creators": [
+    {
+      "id": 2032,
+      "description": "Berlinghiero (Italian, before 1242)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "Berlinghiero was first recorded in a Lucchese document of 1228 and mentioned as already dead by 1243.  Crowe and Cavlcaselle's mistranslation of the document of 1228 (known only from a 1600s transcription) gave rise to the apparently mistaken assumption that Berlinghiero came from Milan and that his last name was Berlinghieri.  These misconceptions persist despite the thorough review and corrected interpretation of the available sources published by Garrison (1951, I I ff.).  Berlinghiero introduced Byzantine elements into the style of painting in Lucca which dominated that school during the first three-quarters of the 1200s and strongly influenced painting in Pisa and Florence.  Attributions to Berlinghiero are based on his one signed work, a Crucifix, probably painted c. 1210-1220.  Three sons were trained by Belinghiero and works by two of them, Bonaventura and Marco, are known.",
+      "name_in_original_language": null,
+      "death_year": "1242",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1966-05-25T00:00:00",
+  "sortable_date": 1225,
+  "date_added_to_oa": null,
+  "date_text": "c. 1230s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "cover",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": true,
+  "impression": null,
+  "alternate_titles": [
+    "Triptych: The Madonna and Child with Saints"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-04 11:16:29.327000"
+}

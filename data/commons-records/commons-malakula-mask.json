@@ -1,0 +1,110 @@
+{
+  "pageid": 39329892,
+  "ns": 6,
+  "title": "File:Masque des Vanuatu - Savès MHNT ETH AC NH 66.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6345761,
+      "width": 3749,
+      "height": 4912,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Masque_des_Vanuatu_-_Sav%C3%A8s_MHNT_ETH_AC_NH_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Masque_des_Vanuatu_-_Sav%C3%A8s_MHNT_ETH_AC_NH_66.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39329892",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-04-01 05:46:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Masque des Vanuatu - Savès MHNT ETH AC NH 66",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Supported by Wikimedia France|Self-published work|Supported by Projet Phoebus|Media supported by Wikimedia France|Images by Archaeodontosaurus Ethnology|Files with coordinates missing SDC location of creation|Masks of Vanuatu|Muséum de Toulouse 150 ans|Collection of ethnology of the Muséum de Toulouse, Oceania|Muséum de Toulouse:Inventory/Ethnography|Théophile Savès’s collection",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "43.593897",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "1.449230",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mask ceremony of passing grades. In Malekula, ranks companies allow each individual to climb the ranks of the group. This mask depends on the secret community \"Nalawan\". The initiate first undergoes a period of seclusion to learn the dances and the manufacturing techniques of these figures. The last day of the festivities is forbidden to the uninitiated: the man dancing with the acquired mask indicating his rank. Two views of the same object. - two views of the same object\n<dl><dd><dl><dd><b>Population</b> : Vanuatu- Malakula island</dd>\n<dd><b>Date of collection</b>: the nineteenth century (4th Quarter) - Former collection of Théophile Savès</dd>\n<dd><b> Materials</b>: Reed, bamboo, rope, natural pigments, spider web, clay, boar's teeth (<i>Sus scrofa</i>).</dd>\n<dd><b>Size</b> : 114 x 28 cm</dd></dl></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-01-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

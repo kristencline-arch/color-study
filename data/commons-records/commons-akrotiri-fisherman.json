@@ -1,0 +1,92 @@
+{
+  "pageid": 125333451,
+  "ns": 6,
+  "title": "File:Fisherman Fresco from Akrotiri, 17th c BC, PMTh, 226347.jpg",
+  "index": 23,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9518490,
+      "width": 3544,
+      "height": 5328,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fisherman_Fresco_from_Akrotiri%2C_17th_c_BC%2C_PMTh%2C_226347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fisherman_Fresco_from_Akrotiri,_17th_c_BC,_PMTh,_226347.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125333451",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-11-12 15:32:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fisherman Fresco from Akrotiri, 17th c BC, PMTh, 226347",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fisherman fresco (Akrotiri)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Fisherman Fresco from Akrotiri on island of Thera (Santorini). The male may actually be a youth offering fish as part of a religious ceremony rather than a fisherman. From Room 5 of the West House, 17th century BCE.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-09-15 08:42:35",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}
