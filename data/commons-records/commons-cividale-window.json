@@ -1,0 +1,92 @@
+{
+  "pageid": 50634840,
+  "ns": 6,
+  "title": "File:Affreschi intradosso Tempietto Longobardo.jpg",
+  "index": 15,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6945792,
+      "width": 4896,
+      "height": 3672,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Affreschi_intradosso_Tempietto_Longobardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Affreschi_intradosso_Tempietto_Longobardo.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50634840",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-08-12 13:58:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Affreschi intradosso Tempietto Longobardo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Tempietto longobardo (Cividale del Friuli) - Medieval frescos",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A fresco on the intrados of a window in Tempietto Longobardo, Cividale del Friuli.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-08-11 11:14:59",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Giulio1996Cordignano\" title=\"User:Giulio1996Cordignano\">Giulio1996Cordignano</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

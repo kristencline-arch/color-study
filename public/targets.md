@@ -1,6 +1,6 @@
 # Color Study: painted surfaces and textiles to explore
 
-75 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
+84 sourced study leads. Documented means published use of decorrelation stretch; Candidate means a proposed use based on the material, not a validated result from this app. Exploratory examples illustrate limits.
 
 ## 1. Angkor Wat (Cambodia)
 
@@ -1027,3 +1027,129 @@ Mapuche textiles would broaden South America beyond the central Andes. Seek open
 **Interpretation:** The linked record supports the proposed material or site. It does not establish a successful decorrelation result or grant reuse of every image on the page.
 
 [Research or museum record](<https://www.metmuseum.org/art/collection/search/318038>)
+
+## 76. Altxerri / surviving Palaeolithic pigment (Basque Country, Spain)
+
+Candidate | Pigment and engraving on limestone | Look closely
+
+Faint red and black pigment provides original-surface cave photographs. Altxerri B is earlier than the main Magdalenian gallery.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://www.euskadi.eus/es/patrimonio-cultural/cuevas-de-altxerri/web01-ejeduki/es/>)
+
+Included photograph: [Altxerri: large red bison](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-altxerri-big-bison) — 4,272 × 3,204 px. [Source](<https://commons.wikimedia.org/wiki/File:Altxerri_cave_-_Big_Bison.jpg>).
+
+## 77. Pech Merle / spotted horses (Cabrerets, France)
+
+Candidate | Pigment on limestone | Look closely
+
+A credited color photograph of the original horse-and-hand panel broadens the Ice Age selection; keep uneven lighting and the viewing barrier outside the fitted area.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://en.pechmerle.com/>)
+
+Included photograph: [Pech Merle: spotted horses and hands](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-pech-merle-horses) — 2,494 × 1,870 px. [Source](<https://commons.wikimedia.org/wiki/File:Chevaux_ponctu%C3%A9s_de_la_grotte_du_Pech_Merle.jpg>).
+
+## 78. Bernifal / painted signs and a hand stencil (Dordogne, France)
+
+Candidate | Pigment on limestone | Look closely
+
+A small painted sign and faint hand stencil offer difficult original-surface studies. Mineral color and torchlight can dominate the transformation.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://archeologie.culture.gouv.fr/font-de-gaume/fr/les-tectiformes>)
+
+Included photograph: [Bernifal: painted tectiform sign, view 9](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-bernifal-9) — 3,000 × 2,250 px. [Source](<https://commons.wikimedia.org/wiki/File:Grotte_de_Bernifal_9.jpg>).
+
+## 79. Mas-d’Azil / Azilian painted pebble (Ariège, France)
+
+Candidate | Pigment on a pebble | Look closely
+
+The transition from the Ice Age into the Holocene includes small painted objects. Several views of one pebble are supplied in one source image.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://commons.wikimedia.org/wiki/File:Galet_peint_MHNT.PRE.MAZ.15.jpg>)
+
+Included photograph: [Mas-d’Azil: painted Azilian pebble](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-azilian-pebble) — 4,460 × 3,952 px. [Source](<https://commons.wikimedia.org/wiki/File:Galet_peint_MHNT.PRE.MAZ.15.jpg>).
+
+## 80. Early medieval Alpine murals (Müstair, Naturns and Mals)
+
+Candidate | Painted plaster | Look closely
+
+Carolingian and other early medieval mural cycles retain faded figures, ornament and losses. Some historical color reproductions are explicitly identified in the catalog.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://whc.unesco.org/en/list/269/>)
+
+Included photograph: [Müstair: Flight into Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-mustair-flight) — 4,000 × 3,000 px. [Source](<https://commons.wikimedia.org/wiki/File:Klosterkirche_M%C3%BCstair_Flucht_nach_%C3%84gypten.jpg>).
+
+## 81. Castelseprio / early medieval frescoes (Italy)
+
+Candidate | Painted plaster | Look closely
+
+Fine strokes remain in the surviving scenes of Christ’s childhood. The proposed c. 830–950 chronology is debated; it is not a direct date.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_13_sogno_di_giuseppe_3.jpg>)
+
+Included photograph: [Castelseprio: Joseph’s dream](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-castelseprio-joseph) — 5,376 × 3,216 px. [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_13_sogno_di_giuseppe_3.jpg>).
+
+## 82. Santa Maria Antiqua / layers of painting (Roman Forum, Rome, Italy)
+
+Candidate | Painted plaster | Look closely
+
+Superimposed sixth- through ninth-century decorative campaigns show how several periods can survive on one wall.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+Included photograph: [Santa Maria Antiqua: Crucifixion](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-antiqua-crucifix) — 6,000 × 6,102 px. [Source](<https://commons.wikimedia.org/wiki/File:02_Santa_Maria_Antiqua_Crucifix_fresco.jpg>).
+
+## 83. Insular illuminated manuscripts (Ireland and Britain)
+
+Candidate | Ink and pigment on parchment | Look closely
+
+The Book of Durrow and Lindisfarne Gospels provide painted ornament, figures, colored writing and parchment wear in credited scans.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://doi.org/10.48495/wm117t53k>)
+
+Included photograph: [Book of Durrow: f. 125v](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=commons-durrow-125v) — 6,000 × 8,112 px. [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.125v.jpg>).
+
+## 84. Carolingian purple parchment (Germany or northeastern France)
+
+Candidate | Gold and silver ink on purple parchment | Look closely
+
+The recto and verso of a ninth-century gradual bifolium show faint metallic writing and the changing color of the support.
+
+**Photo to seek:** An original color capture or documented library scan, with native resolution, credit, date and explicit reuse terms.
+
+**Interpretation:** Color separation does not reconstruct lost paint, date individual marks, identify pigments or distinguish deliberate damage from other causes.
+
+[Source record and historical context](<https://clevelandart.org/art/1933.446.a>)
+
+Included photograph: [Carolingian gradual: recto](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#sample=cma-114201) — 2,363 × 3,400 px. [Source](<https://clevelandart.org/art/1933.446.a>).

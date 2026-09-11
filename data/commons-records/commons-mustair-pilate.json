@@ -1,0 +1,92 @@
+{
+  "pageid": 56203823,
+  "ns": 6,
+  "title": "File:Klosterkirche Müstair Freske Pilatus wäscht seine Hände.jpg",
+  "index": 20,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 4937216,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Klosterkirche_M%C3%BCstair_Freske_Pilatus_w%C3%A4scht_seine_H%C3%A4nde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Klosterkirche_M%C3%BCstair_Freske_Pilatus_w%C3%A4scht_seine_H%C3%A4nde.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56203823",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-02-12 10:22:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Klosterkirche Müstair Freske Pilatus wäscht seine Hände",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Paintings of Pilate washing his hands|Frescos in the Monastery of Saint John in Müstair",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Klosterkirche Müstair: Pontius Pilatus wäscht seine Hände in Unschuld (Freske an der Südwand)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-08-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Whgler\" title=\"User:Whgler\">Whgler</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

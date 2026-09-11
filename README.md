@@ -1,10 +1,10 @@
 # Color Study
 
-An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 544 photographs, including 169 textiles, a [75-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
+An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 608 photographs, including 169 textiles, a [84-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
 
 Curated metadata and original annotations are [CC0](CATALOG-LICENSE.md); photographs retain their individual licenses. [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) or [view all image credits](CREDITS.md).
 
-[Explore Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=egypt) · [Pompeii & Rome](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=rome) · [Search expansion and remaining gaps](public/photo-search.md)
+[Explore Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=egypt) · [Pompeii & Rome](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=rome) · [Ice Age Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=ice-age-europe) · [Early medieval Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=early-medieval-europe) · [Search expansion and remaining gaps](public/photo-search.md)
 
 ## Use
 
@@ -26,7 +26,7 @@ Each photo has a report link to the GitHub issue form. The contributor receives 
 
 [The NASA article](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) describes the history and applications. This is an independent implementation of the underlying principle, not DStretch or its custom color presets. False-color enhancement amplifies existing signals and noise. It does not recover the original palette, expose paint beneath opaque layers, date marks, identify pigments or prove deliberate damage.
 
-Browse 15 overlapping collections, including Europe, the Caribbean, Oceania and Pacific Islands, Asia, Macedonia, Indigenous North America, scrolls and manuscripts, South America, and Africa beyond Egypt. Museum and source records retain specific cultural attributions and dates. The [coverage review](public/photo-search.md) identifies remaining region and era gaps.
+Browse 17 overlapping collections, with new Ice Age Europe and early medieval Europe groups, including Europe, the Caribbean, Oceania and Pacific Islands, Asia, Macedonia, Indigenous North America, scrolls and manuscripts, South America, and Africa beyond Egypt. Museum and source records retain specific cultural attributions and dates. The [coverage review](public/photo-search.md) identifies remaining region and era gaps.
 
 The collection includes 169 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
 

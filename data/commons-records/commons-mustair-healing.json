@@ -1,0 +1,88 @@
+{
+  "pageid": 6941812,
+  "ns": 6,
+  "title": "File:Meister von Müstair 005.jpg",
+  "index": 9,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 5465032,
+      "width": 2244,
+      "height": 3122,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Meister_von_M%C3%BCstair_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Meister_von_M%C3%BCstair_005.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6941812",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-06-04 16:53:29",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Meister von Müstair 005",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Healing of a deaf-mute|PD-Art (PD-old-70)|PD-Art (PD-old default)|9th-century frescos|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Frescos in the Monastery of Saint John in Müstair",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Jesus healing a deaf-mute (Mark 7:31-37).  Carolingian fresco on the north wall of the nave of the Monastery Church of St. John in Müstair, Switzerland, ca. 825.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "circa 825",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Jean Hubert et al., <i>Europe in the Dark Ages</i> (London: Thames &amp; Hudson, 1969), p.  151.",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "file: <a href=\"//commons.wikimedia.org/wiki/User:Jdsteakley\" title=\"User:Jdsteakley\">James Steakley</a>; artwork: unknown",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

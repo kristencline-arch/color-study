@@ -1,0 +1,92 @@
+{
+  "pageid": 28363529,
+  "ns": 6,
+  "title": "File:Altxerri cave - Black Bison.jpg",
+  "index": 8,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3112669,
+      "width": 4272,
+      "height": 3204,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Altxerri_cave_-_Black_Bison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Altxerri_cave_-_Black_Bison.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28363529",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-17 23:25:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Altxerri cave - Black Bison",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Altxerri Cave|Taken with Hasselblad H3D II-39|Bison in prehistoric art|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC source of file",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bison painted black which hardly see the head and the tail. The rest of the figure has been covered by a calcareous concretion.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-12-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/gipuzkoakultura/4398510937/\">https://www.flickr.com/photos/gipuzkoakultura/4398510937/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gipuzkoakultura/\">GipuzkoaKultura</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

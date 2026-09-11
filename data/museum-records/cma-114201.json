@@ -1,0 +1,214 @@
+{
+  "id": 114201,
+  "accession_number": "1933.446.a",
+  "share_license_status": "CC0",
+  "tombstone": "Bifolium Excised from a Carolingian Gradual (recto), c. 830–60. Germany or Northeastern France, 9th century. Gold and silver ink on purple parchment; sheet: 29 x 10 cm (11 7/16 x 3 15/16 in.); framed: 39.4 x 52.1 x 3.2 cm (15 1/2 x 20 1/2 x 1 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1933.446.a",
+  "current_location": null,
+  "title": "Bifolium Excised from a Carolingian Gradual (recto)",
+  "creation_date": "c. 830–60",
+  "creation_date_earliest": 830,
+  "creation_date_latest": 860,
+  "artists_tags": [],
+  "culture": [
+    "Germany or Northeastern France, 9th century"
+  ],
+  "technique": "gold and silver ink on purple parchment",
+  "support_materials": [],
+  "department": "Medieval Art",
+  "collection": "MED - Manuscript Illuminations",
+  "type": "Manuscript",
+  "measurements": "Sheet: 29 x 10 cm (11 7/16 x 3 15/16 in.); Framed: 39.4 x 52.1 x 3.2 cm (15 1/2 x 20 1/2 x 1 1/4 in.)",
+  "dimensions": {
+    "sheet": {
+      "height": 0.29,
+      "height_inch": 11,
+      "height_inch_fraction": 0.4375,
+      "width": 0.1,
+      "width_inch": 3,
+      "width_inch_fraction": 0.9375
+    },
+    "framed": {
+      "height": 0.394,
+      "height_inch": 15,
+      "height_inch_fraction": 0.5,
+      "width": 0.521,
+      "width_inch": 20,
+      "width_inch_fraction": 0.5,
+      "depth": 0.032,
+      "depth_inch": 1,
+      "depth_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Cathedral of Paderborn(?)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Convent of Kenmade, Westphalia",
+      "citations": [],
+      "footnotes": null,
+      "date": "1777    ",
+      "sortorder": null
+    },
+    {
+      "description": "Count of Kesselstadt",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Private Collection, Westphalia (until 1933)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    },
+    {
+      "description": "Cathedral of Paderborn(?); Convent of Kemnade, Westphalia (1777); Count of Kesselstadt; Private Collection, Westphalia (unitl 1933)",
+      "citations": [],
+      "footnotes": null,
+      "date": null,
+      "sortorder": null
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This rare leaf comes from a cantatorium or gradual, a book containing the chants to be sung during the Mass. Other leaves from the same book survive in Berlin and Trier. A bifolium, or double-leaf, does not contain decorated letters but rather \"emphasized\" letters. These were enlarged and pushed out into the margins to call attention to the eye. Such emphasized letters originated in late classical times and were the precursor to the decorated initial developed by medieval scribes. The purple-stained vellum (now faded to a deep pink) with its text written in gold and silver inks (now turned black) suggested great luxury with its sumptuous appearance. In Mediterranean regions, the purple dye was obtained from murex, a shellfish dye. In northern Europe, plant dyes were used as an alternative. Combined with the use of gold and silver ink a spectacular appearance was achieved that is traceable back to classical antiquity.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80006912"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1933.446.a-bifolium-excised-fro"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 44",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n68"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 44",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n66"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 49",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n69"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1933.446.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_web.jpg",
+      "width": "626",
+      "height": "900",
+      "filesize": "317821",
+      "filename": "1933.446.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_print.jpg",
+      "width": "2363",
+      "height": "3400",
+      "filesize": "3675323",
+      "filename": "1933.446.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_full.tif",
+      "width": "8412",
+      "height": "12106",
+      "filesize": "305534332",
+      "filename": "1933.446.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt0_web.jpg",
+        "width": "641",
+        "height": "900",
+        "filesize": "215372"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt0_print.jpg",
+        "width": "2423",
+        "height": "3400",
+        "filesize": "2244023"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt0_full.tif",
+        "width": "3670",
+        "height": "5150",
+        "filesize": "56741980"
+      },
+      "date_created": "2014-07-02T13:34:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt1_web.jpg",
+        "width": "623",
+        "height": "900",
+        "filesize": "223486"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt1_print.jpg",
+        "width": "2352",
+        "height": "3400",
+        "filesize": "2935170"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.446.a/1933.446.a_alt1_full.tif",
+        "width": "5304",
+        "height": "7666",
+        "filesize": "122012648"
+      },
+      "date_created": "2014-07-01T15:49:20",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 114201,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1933-12-28T00:00:00",
+  "sortable_date": 830,
+  "date_added_to_oa": null,
+  "date_text": "c. 830–60",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1933.446",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:00:09.618000"
+}

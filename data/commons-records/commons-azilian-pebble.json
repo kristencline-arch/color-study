@@ -1,0 +1,110 @@
+{
+  "pageid": 19441216,
+  "ns": 6,
+  "title": "File:Galet peint MHNT.PRE.MAZ.15.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 10924234,
+      "width": 4460,
+      "height": 3952,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Galet_peint_MHNT.PRE.MAZ.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Galet_peint_MHNT.PRE.MAZ.15.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19441216",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-05-14 16:39:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Galet peint MHNT.PRE.MAZ.15",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Jean Miquel|Self-published work|Supported by Projet Phoebus|Media supported by Wikimedia France|Collection of prehistory of the Muséum de Toulouse|Red stripes|Azilian painted pebbles|Images by Archaeodontosaurus Prehistory|Files with coordinates missing SDC location of creation|France photographs taken on 2012-05-14|Artifacts with black background|Files with Assessments template missing SDC Commons valued image assessment|Assessment tagged valued image pages missing scope|Art from Mas d'Azil cave",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "43.593897",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "1.449230",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Painted pebble\n<dl><dd><dl><dd>Stage :  <a href=\"https://en.wikipedia.org/wiki/Azilian\" class=\"extiw\" title=\"en:Azilian\">Azilian</a> (from -12 000 Ma to – 9 500 ans befort present)</dd>\n<dd>Locality: <a href=\"https://en.wikipedia.org/wiki/Le_Mas-d%27Azil\" class=\"extiw\" title=\"en:Le Mas-d'Azil\">Le Mas-d'Azil</a>, <a href=\"https://en.wikipedia.org/wiki/Ari%C3%A8ge\" class=\"extiw\" title=\"en:Ariège\">Ariège</a> department, France</dd>\n<dd>Former  collection  of French naturalist JEAN MIQUEL (1859-1940)</dd>\n<dd>Different views of the same specimen.</dd></dl></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 14 May 2012",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\">Self-photographed</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

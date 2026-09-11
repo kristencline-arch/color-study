@@ -4634,5 +4634,21 @@
     "region": "Oceania",
     "category": "Textiles",
     "notes": "Study surviving dyed and embroidered patterns alongside the weave. Color separation also amplifies stains, wear, lighting and differences between fibers; it does not identify dyes or reconstruct the original colors."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114201,
+    "short_title": "Carolingian gradual: recto",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Gold and silver ink on purple parchment, c. 830–860. This is one side of the same surviving bifolium as its companion view. Study worn ink, the dyed parchment and folds; false color does not identify the metal or restore the ninth-century palette."
+  },
+  {
+    "provider": "cma",
+    "object_id": 114202,
+    "short_title": "Carolingian gradual: verso",
+    "region": "Europe",
+    "category": "Paintings and manuscripts",
+    "notes": "Gold and silver ink on purple parchment, c. 830–860. This is one side of the same surviving bifolium as its companion view. Study worn ink, the dyed parchment and folds; false color does not identify the metal or restore the ninth-century palette."
   }
 ]

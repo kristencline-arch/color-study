@@ -1,0 +1,84 @@
+{
+  "pageid": 4760727,
+  "ns": 6,
+  "title": "File:Bern, Burgerbibliothek, Cod. 348 (8v).jpg",
+  "index": 15,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9479165,
+      "width": 6132,
+      "height": 8176,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bern%2C_Burgerbibliothek%2C_Cod._348_%288v%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bern,_Burgerbibliothek,_Cod._348_(8v).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4760727",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-12-31 21:24:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bern, Burgerbibliothek, Cod. 348 (8v)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Carolingian manuscripts|Four Living Creatures|Hand of God|PD Old|CC-PD-Mark|820s works in the Carolingian Empire|820s illuminated manuscripts|Symbols of Evangelists in miniatures",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bern, Burgerbibliothek, Cod. 348 (8v)\n<p>Fleury, um 820\n</p>\nEvangelistensymbole und die Hand Gottes",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>Florentine Mütherich, Joachim E. Gaehde: Karolingische Buchmalerei. Prestel, München 1979. S. 52. \n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://www.e-codices.unifr.ch/en/bbb/0348/8v/0/Sequence-36\">http://www.e-codices.unifr.ch/en/bbb/0348/8v/0/Sequence-36</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

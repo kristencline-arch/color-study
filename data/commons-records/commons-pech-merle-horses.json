@@ -1,0 +1,92 @@
+{
+  "pageid": 147463039,
+  "ns": 6,
+  "title": "File:Chevaux ponctués de la grotte du Pech Merle.jpg",
+  "index": 9,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1025278,
+      "width": 2494,
+      "height": 1870,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chevaux_ponctu%C3%A9s_de_la_grotte_du_Pech_Merle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chevaux_ponctu%C3%A9s_de_la_grotte_du_Pech_Merle.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147463039",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-04-17 15:37:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Chevaux ponctués de la grotte du Pech Merle",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Grotte du Pech Merle|Prehistoric art in France|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Chevaux ponctués de la grotte du Pech Merle",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-04-11",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:C%C3%A9r%C3%A9ales_Killer\" title=\"User:Céréales Killer\">Céréales Killer</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

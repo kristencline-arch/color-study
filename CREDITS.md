@@ -1,6 +1,6 @@
 # Color Study photograph credits
 
-544 photographs. Each original retains its own license. The code is MIT; the project’s original catalog annotations and compilation are CC0. Raw provider snapshots retain their source terms.
+608 photographs. Each original retains its own license. The code is MIT; the project’s original catalog annotations and compilation are CC0. Raw provider snapshots retain their source terms.
 
 Thumbnails and showcase previews are resized derivatives. Enhanced comparisons change the colors using RGB decorrelation stretch. Retain attribution, the license link and a modification notice when sharing derivatives. No endorsement is implied.
 
@@ -25,6 +25,102 @@ Rogers Fund, 1903
 Accession: 03.14.6.
 
 SHA-256: `f5fe705f0f49d99bfdb70983bc41f519cf781634b5f7ea49e87c57bdda3dca5f`
+
+## Altxerri: large red bison (`commons-altxerri-big-bison`)
+
+José Latova Fernández-Luna / ASF Imagen, via GipuzkoaKultura · [CC BY-SA 2.0](<https://creativecommons.org/licenses/by-sa/2.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Altxerri_cave_-_Big_Bison.jpg>)
+
+[Original JPEG](public/originals/commons-altxerri-big-bison.jpg) · 4,272 × 3,204 pixels · Upper Palaeolithic; Altxerri B, earlier than the main Magdalenian gallery.
+
+Upper Palaeolithic
+
+[Historical context](<https://www.euskadi.eus/es/patrimonio-cultural/cuevas-de-altxerri/web01-ejeduki/es/>)
+
+SHA-256: `da885070ff28726b12decdb024012f0867075d82963a91ef0e9bfe5a557f3caa`
+
+## Book of Durrow: f. 125v (`commons-durrow-125v`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.125v.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-125v.jpg) · 6,000 × 8,112 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `ef6bc7190260920e59d34a5aecb99d77aa5e028bdfeb99009ec32b84f4c86bce`
+
+## Castelseprio: Joseph’s dream (`commons-castelseprio-joseph`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_13_sogno_di_giuseppe_3.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-joseph.jpg) · 5,376 × 3,216 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `9dda4d03ea2d3d322112d6a764450daddab4036ee6d074a7d319d2c411458549`
+
+## Müstair: Flight into Egypt (`commons-mustair-flight`)
+
+Whgler · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Klosterkirche_M%C3%BCstair_Flucht_nach_%C3%84gypten.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-flight.jpg) · 4,000 × 3,000 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `eff9870a2a4c4585a02edae80549691062e3d761ae3209b9566ab9f65718ae13`
+
+## Carolingian gradual: recto (`cma-114201`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.446.a>)
+
+[Original JPEG](public/originals/cma-114201.jpg) · 2,363 × 3,400 pixels · c. 830–60.
+
+Germany or Northeastern France, 9th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1933.446.a.
+
+SHA-256: `feac4526536f185cb157ec5414e965993537c93fec33517b6790214a3cac83be`
+
+## Pech Merle: spotted horses and hands (`commons-pech-merle-horses`)
+
+Céréales Killer · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Chevaux_ponctu%C3%A9s_de_la_grotte_du_Pech_Merle.jpg>)
+
+[Original JPEG](public/originals/commons-pech-merle-horses.jpg) · 2,494 × 1,870 pixels · Upper Palaeolithic; spotted-horse panel approximately 29,000 years old.
+
+Upper Palaeolithic; Gravettian
+
+[Historical context](<https://en.pechmerle.com/>)
+
+SHA-256: `916ab8bb3e37f502c4181f5f0ce1c5337d7f4b47ece9e32b69fce906236510b3`
+
+## Bernifal: painted tectiform sign, view 9 (`commons-bernifal-9`)
+
+Thilo Parg · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Grotte_de_Bernifal_9.jpg>)
+
+[Original JPEG](public/originals/commons-bernifal-9.jpg) · 3,000 × 2,250 pixels · Upper Palaeolithic; individual mark not directly dated.
+
+Upper Palaeolithic
+
+[Historical context](<https://archeologie.culture.gouv.fr/font-de-gaume/fr/les-tectiformes>)
+
+SHA-256: `7b911bda3bae28c73a55109463216bf194ba29abe42c09336954c0187e6b1b07`
+
+## Lindisfarne Gospels: Chi Rho page, f. 29r (`commons-lindisfarne-chi-rho`)
+
+British Library; manuscript associated with Eadfrith of Lindisfarne · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:LindisfarneChiRiho.jpg>)
+
+[Original JPEG](public/originals/commons-lindisfarne-chi-rho.jpg) · 2,905 × 4,056 pixels · Early 8th century.
+
+Insular; Anglo-Saxon
+
+[Historical context](<https://searcharchives.bl.uk/catalog/040-001102725>)
+
+SHA-256: `5ea2e4da4cc7f2d23ea5f514e1c0fe219b881ef0df2dbfbeb5c5c81b6a8947a6`
 
 ## Taüll: painted apse detail 01 (`commons-taull-01`)
 
@@ -372,100 +468,6 @@ Accession: 2013.318.a.
 
 SHA-256: `67bfeaf59443abd973733e7987caf8aafc9063b7d9d2511a89d336227f38198e`
 
-## Paracas or Nasca: patterned tunic (`cma-163708`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2005.16>)
-
-[Original JPEG](public/originals/cma-163708.jpg) · 3,400 × 2,513 pixels · 410–540 CE (radiocarbon date, 93% probability).
-
-Peru, South Coast, Paracas or Nasca?
-
-Dudley P. Allen Fund
-
-Accession: 2005.16.
-
-SHA-256: `ba1905d9504387bf8a0fd07215fa7915d27b78b485621f9fac5610a846f78334`
-
-## Kurbinovo: painted wall detail 020 (`commons-kurbinovo-020`)
-
-Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Freska_vo_Sv._Georgij_vo_Kurbinovo_020.JPG>)
-
-[Original JPEG](public/originals/commons-kurbinovo-020.jpg) · 1,536 × 2,048 pixels · 1191.
-
-Byzantine church painting
-
-[Historical context](<https://whc.unesco.org/en/tentativelists/6492/>)
-
-SHA-256: `085f402dcf5a1906c9932a31369e49f972e1e896ca80fda281a6e90e7dcd2f25`
-
-## Painted cotton goddess (`cma-294034`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2017.56>)
-
-[Original JPEG](public/originals/cma-294034.jpg) · 3,400 × 3,140 pixels · 800–500 BCE.
-
-Andes, south coast, Ica Valley?, Chavín style
-
-Severance and Greta Millikin Purchase Fund
-
-Accession: 2017.56.
-
-SHA-256: `2a0c1783091641001d7649c6b9788dfd5a7a84e9168aed76035fae20f5da1ce8`
-
-## Sasanian wall painting: veiled woman (`met-324017`)
-
-The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/324017>)
-
-[Original JPEG](public/originals/met-324017.jpg) · 4,000 × 3,506 pixels · ca. 7th century CE.
-
-Sasanian
-
-Rogers Fund, 1945
-
-Accession: 45.99.1.
-
-SHA-256: `dca6666e2e26f6dc18105cafa800fbc26e0a3b295f02030a27c28a53c0c55a96`
-
-## Diyala: painted figures on Scarlet Ware (`commons-scarlet-ware-6`)
-
-Osama Shukir Muhammed Amin FRCP(Glasg) · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg>)
-
-[Original JPEG](public/originals/commons-scarlet-ware-6.jpg) · 3,435 × 3,639 pixels · Early Dynastic; third millennium BCE (see source date).
-
-SHA-256: `2c20a71bb98b8d566cf5b7ce9b184c0f1d237fa7702610c22aeb3cc6b71e0ec1`
-
-## Nome gods carrying offerings (`cma-136667`)
-
-Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1961.205>)
-
-[Original JPEG](public/originals/cma-136667.jpg) · 3,400 × 1,870 pixels · c. 1391–1353 BCE.
-
-Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE)
-
-John L. Severance Fund
-
-Accession: 1961.205.
-
-SHA-256: `b474a195dfe0b684699b37edde976edfb96119841a04b891fe53902a1f7f4b00`
-
-## Pompeii: chariot fresco (`commons-pompeii-5`)
-
-Gary Todd from Xinzheng, China · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Chariot_Fresco_(48443667287).jpg>)
-
-[Original JPEG](public/originals/commons-pompeii-5.jpg) · 6,000 × 4,000 pixels · Roman, before 79 CE.
-
-SHA-256: `781607a58607dfaa7abef744cb369f104f5e278d11463aef010c2b46e88a398f`
-
-## Painted marble sphinx (`marble-sphinx`)
-
-The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/248501>)
-
-[Original JPEG](public/originals/marble-sphinx.jpg) · 1,893 × 4,000 pixels · Not recorded.
-
-Not recorded
-
-SHA-256: `58a4384548febc601266be28d06065ddeffb5a5ce0d4acf8848916441f09db32`
-
 ## Bhimbetka, India (`bhimbetka-paintings`)
 
 Bernard Gagnon · [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_03.jpg>)
@@ -495,6 +497,16 @@ José Luiz · [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0>) �
 Not recorded
 
 SHA-256: `05fc57e229c603a31d1fd5a308bec163b9a9617af014f73e89500c0752f28e90`
+
+## Painted marble sphinx (`marble-sphinx`)
+
+The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/248501>)
+
+[Original JPEG](public/originals/marble-sphinx.jpg) · 1,893 × 4,000 pixels · Not recorded.
+
+Not recorded
+
+SHA-256: `58a4384548febc601266be28d06065ddeffb5a5ce0d4acf8848916441f09db32`
 
 ## Pyramid of Unas (`unas-pyramid`)
 
@@ -565,6 +577,20 @@ Lori Johnston / RMS Titanic Expedition 2003 / NOAA Ocean Exploration · [Public 
 Not recorded
 
 SHA-256: `3f94a0d3d3c63b7a42e7709b3bb8ea9974cd3be90a25a7012887a77e8018684f`
+
+## Painted cotton goddess (`cma-294034`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2017.56>)
+
+[Original JPEG](public/originals/cma-294034.jpg) · 3,400 × 3,140 pixels · 800–500 BCE.
+
+Andes, south coast, Ica Valley?, Chavín style
+
+Severance and Greta Millikin Purchase Fund
+
+Accession: 2017.56.
+
+SHA-256: `2a0c1783091641001d7649c6b9788dfd5a7a84e9168aed76035fae20f5da1ce8`
 
 ## Resist-dyed biblical hanging (`cma-128462`)
 
@@ -2179,6 +2205,20 @@ Accession: 1975.268.166a–d.
 
 SHA-256: `96ac6b1f870a7c5252e6e509a9481eb8921aca11982a7b8043d3a8c07b7aa2af`
 
+## Nome gods carrying offerings (`cma-136667`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1961.205>)
+
+[Original JPEG](public/originals/cma-136667.jpg) · 3,400 × 1,870 pixels · c. 1391–1353 BCE.
+
+Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE)
+
+John L. Severance Fund
+
+Accession: 1961.205.
+
+SHA-256: `b474a195dfe0b684699b37edde976edfb96119841a04b891fe53902a1f7f4b00`
+
 ## Minnefer in painted limestone (`cma-126198`)
 
 Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1948.420>)
@@ -3019,6 +3059,20 @@ Accession: 03.14.12.
 
 SHA-256: `c91aa3622b1b6c33a231398fcfefb638a52e6407c56c29bb55c5230b2168078f`
 
+## Sasanian wall painting: veiled woman (`met-324017`)
+
+The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/324017>)
+
+[Original JPEG](public/originals/met-324017.jpg) · 4,000 × 3,506 pixels · ca. 7th century CE.
+
+Sasanian
+
+Rogers Fund, 1945
+
+Accession: 45.99.1.
+
+SHA-256: `dca6666e2e26f6dc18105cafa800fbc26e0a3b295f02030a27c28a53c0c55a96`
+
 ## Sasanian wall painting: male head (`met-324018`)
 
 The Metropolitan Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://www.metmuseum.org/art/collection/search/324018>)
@@ -3729,6 +3783,14 @@ Gary Todd from Xinzheng, China · [Public domain](<https://creativecommons.org/p
 
 SHA-256: `9bb92763c2945d44a2458b7799df6c36e181989f807e0cc42cc33e7b99a99c90`
 
+## Pompeii: chariot fresco (`commons-pompeii-5`)
+
+Gary Todd from Xinzheng, China · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Chariot_Fresco_(48443667287).jpg>)
+
+[Original JPEG](public/originals/commons-pompeii-5.jpg) · 6,000 × 4,000 pixels · Roman, before 79 CE.
+
+SHA-256: `781607a58607dfaa7abef744cb369f104f5e278d11463aef010c2b46e88a398f`
+
 ## House of Menander: Room 15 (`commons-pompeii-6`)
 
 Gary Todd from Xinzheng, China · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Fresco_(48442834532).jpg>)
@@ -3776,6 +3838,14 @@ Osama Shukir Muhammed Amin FRCP(Glasg) · [CC BY-SA 4.0](<https://creativecommon
 [Original JPEG](public/originals/commons-scarlet-ware-5.jpg) · 2,977 × 3,168 pixels · Early Dynastic; third millennium BCE (see source date).
 
 SHA-256: `86cff296e2c11b06fcb74d81d5d3b6c0c50badd03b0f56381d2ab2f2c0663399`
+
+## Diyala: painted figures on Scarlet Ware (`commons-scarlet-ware-6`)
+
+Osama Shukir Muhammed Amin FRCP(Glasg) · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Polychrome_painted_jar,_geometric_designs_and_naked_women,_of_the_so-called_%22Scarlet_Ware%22._From_Tell_Agrab,_Diyala_Valley,_Iraq._2900-2700_BCE._Iraq_Museum,_Baghdad.jpg>)
+
+[Original JPEG](public/originals/commons-scarlet-ware-6.jpg) · 3,435 × 3,639 pixels · Early Dynastic; third millennium BCE (see source date).
+
+SHA-256: `2c20a71bb98b8d566cf5b7ce9b184c0f1d237fa7702610c22aeb3cc6b71e0ec1`
 
 ## Early Mesopotamia: painted Scarlet Ware 7 (`commons-scarlet-ware-7`)
 
@@ -4372,6 +4442,20 @@ The Norweb Collection
 Accession: 1940.530.
 
 SHA-256: `e4ffb51da114ee37ee3f8084acc22f877ab982878f057baba30965622988ec52`
+
+## Paracas or Nasca: patterned tunic (`cma-163708`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/2005.16>)
+
+[Original JPEG](public/originals/cma-163708.jpg) · 3,400 × 2,513 pixels · 410–540 CE (radiocarbon date, 93% probability).
+
+Peru, South Coast, Paracas or Nasca?
+
+Dudley P. Allen Fund
+
+Accession: 2005.16.
+
+SHA-256: `ba1905d9504387bf8a0fd07215fa7915d27b78b485621f9fac5610a846f78334`
 
 ## Andes: Border Fragment with Birds and Flowers (`cma-126272`)
 
@@ -5700,6 +5784,18 @@ Byzantine church painting
 [Historical context](<https://whc.unesco.org/en/tentativelists/6492/>)
 
 SHA-256: `b3b3b3233dc6388ee803dd458c3f138cb8d2540da24366a4ca6b4dacb2b4e153`
+
+## Kurbinovo: painted wall detail 020 (`commons-kurbinovo-020`)
+
+Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Freska_vo_Sv._Georgij_vo_Kurbinovo_020.JPG>)
+
+[Original JPEG](public/originals/commons-kurbinovo-020.jpg) · 1,536 × 2,048 pixels · 1191.
+
+Byzantine church painting
+
+[Historical context](<https://whc.unesco.org/en/tentativelists/6492/>)
+
+SHA-256: `085f402dcf5a1906c9932a31369e49f972e1e896ca80fda281a6e90e7dcd2f25`
 
 ## Kurbinovo: painted wall detail 033 (`commons-kurbinovo-033`)
 
@@ -7168,3 +7264,643 @@ Danish medieval church painting; includes Elmelunde Master workshop
 [Historical context](<https://www.visitdenmark.com/denmark/plan-your-trip/keldby-church-gdk615276>)
 
 SHA-256: `cec810494b81471675ead8a6eb93e2197d407d99d22f5df96b3a0af9f6e8b07f`
+
+## Altxerri: black bison beneath mineral deposits (`commons-altxerri-black-bison`)
+
+GipuzkoaKultura · [CC BY-SA 2.0](<https://creativecommons.org/licenses/by-sa/2.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Altxerri_cave_-_Black_Bison.jpg>)
+
+[Original JPEG](public/originals/commons-altxerri-black-bison.jpg) · 4,272 × 3,204 pixels · Late Magdalenian; main gallery, approximately 14,500–11,700 years BP.
+
+Upper Palaeolithic
+
+[Historical context](<https://www.euskadi.eus/es/patrimonio-cultural/cuevas-de-altxerri/web01-ejeduki/es/>)
+
+SHA-256: `3dcc42233a0d5f5d70b04623028dc8e049f6eea7a17d3afc76694e1d7273c82d`
+
+## Altxerri: engraved bison with a black painted patch (`commons-altxerri-bison`)
+
+GipuzkoaKultura · [CC BY-SA 2.0](<https://creativecommons.org/licenses/by-sa/2.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Altxerri_cave_-_Bison.jpg>)
+
+[Original JPEG](public/originals/commons-altxerri-bison.jpg) · 4,272 × 3,204 pixels · Late Magdalenian; main gallery, approximately 14,500–11,700 years BP.
+
+Upper Palaeolithic
+
+[Historical context](<https://www.euskadi.eus/es/patrimonio-cultural/cuevas-de-altxerri/web01-ejeduki/es/>)
+
+SHA-256: `7e24ebfc9a141eaaa28ed5bd5b293fb889a9a4d0796eed76891134068fd43168`
+
+## Müstair: Pilate washing his hands (`commons-mustair-pilate`)
+
+Whgler · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Klosterkirche_M%C3%BCstair_Freske_Pilatus_w%C3%A4scht_seine_H%C3%A4nde.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-pilate.jpg) · 4,000 × 3,000 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `a3e152351782d2e0500b47d2bfa253038bae2ba6fc7bbd9da76b962a6ce05ea6`
+
+## Müstair: feeding the five thousand (`commons-mustair-feeding`)
+
+Whgler · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:M%C3%BCstair_Freske_Die_Speisung_der_5000.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-feeding.jpg) · 4,000 × 3,000 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `da549574968c90bde47123fbe774f310ab3bbeaf1bf0ff084816d008c6c0bb03`
+
+## Müstair: Christ blessing children (`commons-mustair-children`)
+
+Whgler · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:M%C3%BCstair_Freske_Jesus_segnet_die_Kinder.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-children.jpg) · 4,000 × 3,000 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `cbdcf52eef83a8db0b43638f1096df2cc7786d855e975cd3cc07d053e0541092`
+
+## Müstair: healing a deaf man (`commons-mustair-healing`)
+
+file: James Steakley ; artwork: unknown · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Meister_von_M%C3%BCstair_005.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-healing.jpg) · 2,244 × 3,122 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `7aaa443157f70293a4e0bfb2dfc00003552bfc4b1388a832e5474881685584b9`
+
+## Müstair: Harrowing of Hell (`commons-mustair-harrowing`)
+
+file: James Steakley ; artwork: unknown · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Meister_von_M%C3%BCstair_006.jpg>)
+
+[Original JPEG](public/originals/commons-mustair-harrowing.jpg) · 1,876 × 1,449 pixels · First half of the 9th century.
+
+Carolingian
+
+[Historical context](<https://whc.unesco.org/en/list/269/>)
+
+SHA-256: `515ff2e6a9183f4ecbacbd7462513799dc17041347c13dae46c1a3dbdd6c861d`
+
+## Naturns: figure on the south wall (`commons-prokulus-24`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-24-Suedwand-Schaukler-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-24.jpg) · 3,072 × 3,332 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `cccffe82f9e4c4b1a6e3b648984f12ab13b9e08f58940eaacf967f72e1f13504`
+
+## Naturns: six figures on the south wall (`commons-prokulus-28`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-28-Suedwand-sechs_Gestalten-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-28.jpg) · 3,748 × 2,857 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `76e3a40acd073662e332c65ea28695ea6c59007f08ca31420d159180d98681c9`
+
+## Naturns: saints on the north wall (`commons-prokulus-38`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-38-Nordwand-Heilige-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-38.jpg) · 3,914 × 2,823 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `009709ad5dcc112248c7d7f9b9a00b285870b368e1131a7644d45bc04747b930`
+
+## Naturns: painted altar niche (`commons-prokulus-44`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-44-Altarnische-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-44.jpg) · 3,072 × 3,805 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `49ce918ba480d9006e6d1191091932d03eeab04089ec17588aaa9b84c0a3da26`
+
+## Naturns: painted arch (`commons-prokulus-50`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-50-Bogen_Altarnische-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-50.jpg) · 3,072 × 4,080 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `1a2570a03c01015ceb0712ec83de3306e9cf3f463d102df3d7bdf00b4ca50088`
+
+## Naturns: angel on the east wall (`commons-prokulus-60`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-60-Ostwand-Engel-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-60.jpg) · 3,072 × 4,080 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `14d00d935225fef49e8b4473794d0c5c51d0087e2bc3bd75a6c396d9b32b6ba9`
+
+## Naturns: cattle on the west wall (`commons-prokulus-70`)
+
+Gerd Eichmann · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns-St_Prokulus-70-Westwand-12_Kuehe_teilweise-2023-gje.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-70.jpg) · 3,072 × 2,747 pixels · Early medieval cycle; usually dated to the late 8th century.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `a841255f18df44dd1acac2ef73ac3b9a023d3af96b7653416a087b6f0d6a9b31`
+
+## Naturns: painted apse fragment (`commons-prokulus-stucco`)
+
+Wolfgang Sauber · [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Naturns_St.Proculus-Museum_-_Verputz_Apsis.jpg>)
+
+[Original JPEG](public/originals/commons-prokulus-stucco.jpg) · 1,710 × 2,052 pixels · Early medieval; exact date not established.
+
+Early medieval Alpine painting
+
+[Historical context](<https://cultura.gov.it/luogo/museo-san-procolo>)
+
+SHA-256: `17ba5d98ec162f88dc74af73138cbb0abafcf6fa05b42099f6102ed320c40118`
+
+## Mals: donor presenting the chapel (`commons-mals-donor`)
+
+Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Malles_venosta,_il_donatore_offre_la_cappella.jpg>)
+
+[Original JPEG](public/originals/commons-mals-donor.jpg) · 2,166 × 1,949 pixels · c. 825.
+
+Carolingian
+
+[Historical context](<https://www.suedtirol.info/en/en/experiences-and-events/plp-experiences/experiences-south-tyrol/pdp-experience.smgpoibd6e19d047d90fa125fc517b8a565423.st--benedikt-s-church.malles-mals>)
+
+SHA-256: `8166ae63a12ab87e0ddfa5c383fbac27dc827f6fdc75ae04446e088eb6308dbd`
+
+## Mals: scenes of martyrdom (`commons-mals-martyrdom`)
+
+file: James Steakley ; artwork: unknown · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Scenes_of_martyrdom.jpg>)
+
+[Original JPEG](public/originals/commons-mals-martyrdom.jpg) · 2,278 × 1,482 pixels · c. 825.
+
+Carolingian
+
+[Historical context](<https://www.suedtirol.info/en/en/experiences-and-events/plp-experiences/experiences-south-tyrol/pdp-experience.smgpoibd6e19d047d90fa125fc517b8a565423.st--benedikt-s-church.malles-mals>)
+
+SHA-256: `ef4ea94eaa016bcd6f3f32f5432680ce72187998b9097002c91622f0c9297fba`
+
+## Mals: scenes from saints’ lives (`commons-mals-saints`)
+
+file: James Steakley ; artwork: unknown · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Scenes_of_saints'_lives.jpg>)
+
+[Original JPEG](public/originals/commons-mals-saints.jpg) · 2,292 × 1,486 pixels · c. 825.
+
+Carolingian
+
+[Historical context](<https://www.suedtirol.info/en/en/experiences-and-events/plp-experiences/experiences-south-tyrol/pdp-experience.smgpoibd6e19d047d90fa125fc517b8a565423.st--benedikt-s-church.malles-mals>)
+
+SHA-256: `04dee952482cddb835dddb5b327475900dc65bf349315b95310b30c9ab0c976e`
+
+## Castelseprio: archangels and prepared throne (`commons-castelseprio-throne`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_12_arcone_con_arcangeli_ed_etimasia_2.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-throne.jpg) · 5,472 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `1c9748e7ebf9718427bda87e415c6229f8f655b8e56df65fa94f02ad5c85561a`
+
+## Castelseprio: Christ in a medallion (`commons-castelseprio-christ`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_13_pantocratore_2.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-christ.jpg) · 5,472 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `c8e7b5abec22789a915b022e99d30907c69fb5592730e01a9fb455cc95963696`
+
+## Castelseprio: journey to Bethlehem (`commons-castelseprio-bethlehem`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_14_viaggio_a_betlemme_1.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-bethlehem.jpg) · 4,416 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `b6a2b84eec24dadc19d168ba33551516185ab641b40741e80a09cb5042653ba4`
+
+## Castelseprio: Nativity (`commons-castelseprio-nativity`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_15_nativit%C3%A0_2.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-nativity.jpg) · 4,712 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `6a5f8466e08f745f5fb0ba7f13bff47b29f99e393b6e0c34417b5e9281a18c7b`
+
+## Castelseprio: midwives (`commons-castelseprio-midwives`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_15_nativit%C3%A0_5_levatrici.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-midwives.jpg) · 5,472 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `e6bcd39b80e9f6ba1a5bc12fd7a1738fce67a39cbf8353906def3f9220a8d081`
+
+## Castelseprio: presentation in the temple (`commons-castelseprio-temple`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_17_presentazione_di_ges%C3%B9_al_tempio_3.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-temple.jpg) · 3,648 × 5,472 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `3ffa52d6abc443b61fe13261bd89c0d1f6eb695e05bc4bfe256b8a2666bed7e8`
+
+## Castelseprio: surviving painted curtain (`commons-castelseprio-curtain`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Maestro_di_castelseprio,_storie_dell'infanzia_di_cristo,_datazione_incerta_tra_l'830_e_il_950_dc_ca.,_20_resti_di_un_tendaggio_1.jpg>)
+
+[Original JPEG](public/originals/commons-castelseprio-curtain.jpg) · 5,472 × 3,648 pixels · Early medieval; proposed date c. 830–950, debated.
+
+Early medieval; Byzantine artistic connections
+
+SHA-256: `27c611fc6f6aeb3b59c95c75801713de531987fcd5aa091c47e5e5950eca4ef5`
+
+## Santa Maria Antiqua: Madonna (`commons-antiqua-madonna`)
+
+NateBergin · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:01_Santa_Maria_Antiqua_Madonna.jpg>)
+
+[Original JPEG](public/originals/commons-antiqua-madonna.jpg) · 5,001 × 6,000 pixels · 6th–9th-century painting campaigns; exact layer varies.
+
+Early medieval Rome; Byzantine traditions
+
+[Historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+SHA-256: `bab0cc208e5f042ec4777ce8d357aeea91a11da2fb3241b2545309cd48d03e7e`
+
+## Santa Maria Antiqua: Crucifixion (`commons-antiqua-crucifix`)
+
+NateBergin · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:02_Santa_Maria_Antiqua_Crucifix_fresco.jpg>)
+
+[Original JPEG](public/originals/commons-antiqua-crucifix.jpg) · 6,000 × 6,102 pixels · 6th–9th-century painting campaigns; exact layer varies.
+
+Early medieval Rome; Byzantine traditions
+
+[Historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+SHA-256: `626aaef44d20fcffeb8c39c5e50f8560959ee12d30974a75eb78358281551464`
+
+## Santa Maria Antiqua: surviving mural figures (`commons-antiqua-mural`)
+
+NateBergin · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:03_Santa_Maria_Antiqua_Mural.jpg>)
+
+[Original JPEG](public/originals/commons-antiqua-mural.jpg) · 6,000 × 4,431 pixels · 6th–9th-century painting campaigns; exact layer varies.
+
+Early medieval Rome; Byzantine traditions
+
+[Historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+SHA-256: `58eea5b07be3becd4f869224851c3979b530b2755511cac89360993b2debe5bb`
+
+## Santa Maria Antiqua: atrium fragment 1 (`commons-antiqua-atrium-1`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Atrio_di_santa_maria_antiqua,_gi%C3%A0_peristilio_di_domiziano,_frammenti_di_affreschi_dell'VIII-IX_secolo_01.jpg>)
+
+[Original JPEG](public/originals/commons-antiqua-atrium-1.jpg) · 2,048 × 2,580 pixels · 6th–9th-century painting campaigns; exact layer varies.
+
+Early medieval Rome; Byzantine traditions
+
+[Historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+SHA-256: `43d9b2bdb32b5dc99818cad7af1c845aa5bf15eb764ea30cbe3377f946cbd732`
+
+## Santa Maria Antiqua: atrium fragment 2 (`commons-antiqua-atrium-3`)
+
+Sailko · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Atrio_di_santa_maria_antiqua,_gi%C3%A0_peristilio_di_domiziano,_frammenti_di_affreschi_dell'VIII-IX_secolo_03.jpg>)
+
+[Original JPEG](public/originals/commons-antiqua-atrium-3.jpg) · 2,304 × 3,456 pixels · 6th–9th-century painting campaigns; exact layer varies.
+
+Early medieval Rome; Byzantine traditions
+
+[Historical context](<https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/>)
+
+SHA-256: `5588bcbf269edfed0c0396f9a6260e3cf14cb6fdf17300bd2f4ec32f5681474e`
+
+## Cividale: Christ and archangels (`commons-cividale-christ`)
+
+Wolfgang Sauber · [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Cividale_Tempietto_Longobardo_-_Westportal_Fresco.jpg>)
+
+[Original JPEG](public/originals/commons-cividale-christ.jpg) · 2,560 × 1,712 pixels · 8th century.
+
+Lombard
+
+SHA-256: `c4ef868cdbc7ba062edee9d70f3b03bd20bdd3cce7d2c70bbfdc876ce735ab0c`
+
+## Cividale: painted window intrados (`commons-cividale-window`)
+
+Giulio1996Cordignano · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Affreschi_intradosso_Tempietto_Longobardo.jpg>)
+
+[Original JPEG](public/originals/commons-cividale-window.jpg) · 4,896 × 3,672 pixels · 8th century.
+
+Lombard
+
+SHA-256: `6f11eee22540840a515bb954f78ce7e78c7a9a1719a4efcc93052bb281df27a2`
+
+## Reichenau: raising of Lazarus (`commons-reichenau-lazarus`)
+
+Wolfgang Sauber · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Reichenau_St.Georg_-_Fresko_8_Lazarus.jpg>)
+
+[Original JPEG](public/originals/commons-reichenau-lazarus.jpg) · 4,000 × 3,000 pixels · 10th century.
+
+Ottonian
+
+[Historical context](<https://whc.unesco.org/en/list/974/>)
+
+SHA-256: `44128b9eebef28a4d48a7598879cd81cdbacfbcdb7cf380cee8de05e925561df`
+
+## Reichenau: painted abbot (`commons-reichenau-abbot`)
+
+Wolfgang Sauber · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Reichenau_St.Georg_-_Fresko_Abt.jpg>)
+
+[Original JPEG](public/originals/commons-reichenau-abbot.jpg) · 4,000 × 3,000 pixels · 10th century.
+
+Ottonian
+
+[Historical context](<https://whc.unesco.org/en/list/974/>)
+
+SHA-256: `df437b429b732c24c116d96bdf250952e0fbd13e832fd41047db073cff6aba44`
+
+## Reichenau: saint beside the choir, left (`commons-reichenau-saint-left`)
+
+Wolfgang Sauber · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Reichenau_St.Georg_-_Fresko_Chorbogen_links_1.jpg>)
+
+[Original JPEG](public/originals/commons-reichenau-saint-left.jpg) · 2,664 × 3,576 pixels · 10th century.
+
+Ottonian
+
+[Historical context](<https://whc.unesco.org/en/list/974/>)
+
+SHA-256: `7afdcb34513b652f1412a742258c25409cca453b09a571f48b427d8fd4e55c9d`
+
+## Reichenau: saint beside the choir, right (`commons-reichenau-saint-right`)
+
+Wolfgang Sauber · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Reichenau_St.Georg_-_Fresko_Chorbogen_rechts_1.jpg>)
+
+[Original JPEG](public/originals/commons-reichenau-saint-right.jpg) · 2,370 × 3,996 pixels · 10th century.
+
+Ottonian
+
+[Historical context](<https://whc.unesco.org/en/list/974/>)
+
+SHA-256: `0921752178e96e5c4d6ed95f1ed708478ca4db1e845f91705aae9640467fdcaa`
+
+## Lindisfarne Gospels: opening of Luke, f. 139r (`commons-lindisfarne-luke`)
+
+British Library; manuscript associated with Eadfrith of Lindisfarne · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Lindisfarne_Gospels_folio_139r.jpg>)
+
+[Original JPEG](public/originals/commons-lindisfarne-luke.jpg) · 2,896 × 4,000 pixels · Early 8th century.
+
+Insular; Anglo-Saxon
+
+[Historical context](<https://searcharchives.bl.uk/catalog/040-001102725>)
+
+SHA-256: `61f86cf48892e8387aafc7f01389bea6c6656673e3ae76a1ce84e52ea2ca0d1e`
+
+## Lindisfarne Gospels: Mark, f. 93v (`commons-lindisfarne-mark`)
+
+British Library; manuscript associated with Eadfrith of Lindisfarne · [CC0](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:St._Mark_-_Lindisfarne_Gospels_(710-721),_f.93v_-_BL_Cotton_MS_Nero_D_IV.jpg>)
+
+[Original JPEG](public/originals/commons-lindisfarne-mark.jpg) · 1,517 × 2,134 pixels · Early 8th century.
+
+Insular; Anglo-Saxon
+
+[Historical context](<https://searcharchives.bl.uk/catalog/040-001102725>)
+
+SHA-256: `6ffe5702d383d345d0c4c61dd3b82fea0c43918fb66c891ac72b591b4456616f`
+
+## Lindisfarne Gospels: Matthew, f. 25v (`commons-lindisfarne-matthew`)
+
+British Library; manuscript associated with Eadfrith of Lindisfarne · [CC0](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:St._Matthew_-_Lindisfarne_Gospels_(710-721),_f.25v_-_BL_Cotton_MS_Nero_D_IV.jpg>)
+
+[Original JPEG](public/originals/commons-lindisfarne-matthew.jpg) · 1,366 × 1,925 pixels · Early 8th century.
+
+Insular; Anglo-Saxon
+
+[Historical context](<https://searcharchives.bl.uk/catalog/040-001102725>)
+
+SHA-256: `d8cf823533b4f4233a7942db103000658470ddfef22a710c442360edc15f3fd3`
+
+## Book of Durrow: f. 21v (`commons-durrow-21v`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.21v.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-21v.jpg) · 5,915 × 8,205 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `0d2b3dfe58d6b1ba8e53436f7a432b5e00983583243efa651f42bbb4fcb0f9e7`
+
+## Book of Durrow: f. 124v (`commons-durrow-124v`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.124v.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-124v.jpg) · 5,974 × 8,213 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `fe93f121beed89fd5a816c82efca45b74d17fb1c91ad3fd07bddebbb29a4681e`
+
+## Stockholm Codex Aureus: Matthew and ornament (`commons-canterbury-aureus`)
+
+Unknown 8th century artist or artists. · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:CodexAureusCanterburyFolios9v10r.jpg>)
+
+[Original JPEG](public/originals/commons-canterbury-aureus.jpg) · 1,844 × 1,131 pixels · Mid-8th century.
+
+Insular; Anglo-Saxon
+
+SHA-256: `552d1a70f768e28599b19f7497b67e1ddc69ff16100cbf8575bee0c6a746c907`
+
+## Reims: purple and gold psalter (`commons-reims-purple-psalter`)
+
+Brigade Piron · [CC BY 3.0](<https://creativecommons.org/licenses/by/3.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Purple_and_Gold_Psalter_(Rheims,_ca_9th_century).jpg>)
+
+[Original JPEG](public/originals/commons-reims-purple-psalter.jpg) · 8,000 × 6,000 pixels · 9th century.
+
+Carolingian
+
+SHA-256: `66c7de11555197774d07242826c353d2745a0dd8c2e1b7515a611627ed9f28ed`
+
+## Carolingian arithmetic: the quadrivium (`commons-bamberg-quadrivium`)
+
+Unknown author Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Bamberg,_Cod._Misc._Class._5,_9v.jpg>)
+
+[Original JPEG](public/originals/commons-bamberg-quadrivium.jpg) · 2,568 × 3,256 pixels · c. 845.
+
+Carolingian
+
+SHA-256: `978ef51983be006514abe8335ffd3601d0750d8b83f14b1825a8e6f3582b30b6`
+
+## Fleury: evangelist symbols and the hand of God (`commons-fleury-symbols`)
+
+Burgerbibliothek Bern, Cod. 348, f. 8v; via e-codices and Wikimedia Commons · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Bern,_Burgerbibliothek,_Cod._348_(8v).jpg>)
+
+[Original JPEG](public/originals/commons-fleury-symbols.jpg) · 6,132 × 8,176 pixels · c. 820.
+
+Carolingian
+
+SHA-256: `34331e5d3ab32c9abc5fb498e07eec181c3897ead6abe68b696c5253b6bc68d8`
+
+## Carolingian scholars on a manuscript leaf (`commons-aachen-scholars`)
+
+Anonymous Unknown author · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Vaticana,_Pal._lat._1564_(2r).jpg>)
+
+[Original JPEG](public/originals/commons-aachen-scholars.jpg) · 2,856 × 4,056 pixels · c. 825.
+
+Carolingian
+
+SHA-256: `eac7aaf4f8ff112037d285900b41490e6ec843e8e049b19431bf218100be8edc`
+
+## Morgan Beatus: vision of the Lamb (`commons-morgan-beatus-lamb`)
+
+The Morgan Library & Museum, MS M.644; via iDAI and Wikimedia Commons · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Morgan_Beatus,_Vision_of_the_Lamb.jpg>)
+
+[Original JPEG](public/originals/commons-morgan-beatus-lamb.jpg) · 2,888 × 3,768 pixels · Mid-10th century.
+
+Mozarabic; Maius (Magius)
+
+SHA-256: `04732e68a1ca2b039c6a6e4e5dff5d43abcbe611f69946455c4300a1d364e3d6`
+
+## Morgan Beatus: musicians with the Lamb, f. 174v (`commons-morgan-beatus-musicians`)
+
+Maius (Magius); The Morgan Library & Museum, MS M.644; Wikimedia Commons scan crop · [Public domain](<https://creativecommons.org/publicdomain/mark/1.0/>) · [Source](<https://commons.wikimedia.org/wiki/File:Morgan_Beatus_or_B_Pierpont,_174v.jpg>)
+
+[Original JPEG](public/originals/commons-morgan-beatus-musicians.jpg) · 2,696 × 4,184 pixels · Mid-10th century.
+
+Mozarabic; Maius (Magius)
+
+SHA-256: `4cc473cf1507c64e0a2401fdad56ab82d147b0d0538ae62e8e9804d7af6b6e09`
+
+## Book of Durrow: f. 192v (`commons-durrow-192v`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.192v.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-192v.jpg) · 6,001 × 8,272 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `850004b25694853b87b306904ab6fb23602b1af223d230bf03387bd844fca0f3`
+
+## Book of Durrow: f. 193r (`commons-durrow-193r`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.193r.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-193r.jpg) · 6,200 × 8,272 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `422cbc0128c555a0c1b71d5d492ebca7a3ba260da6a37a33036730cbe397bbc4`
+
+## Book of Durrow: f. 248r (`commons-durrow-248r`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.248r.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-248r.jpg) · 6,200 × 8,272 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `b488eadb3b9b5cdf67a1ccf5e112ebe2f0caea8795723d2d7cbc3a4c40749969`
+
+## Book of Durrow: f. 85v (`commons-durrow-85v`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.85v.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-85v.jpg) · 6,007 × 8,177 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `105fa3b81702dcdc1d322116a2d4514e07a2b44eea5fec361f2c0c463d52b53a`
+
+## Book of Durrow: f. 86r (`commons-durrow-86r`)
+
+Trinity College Dublin Library, Digital Collections Department · [CC BY 4.0](<https://creativecommons.org/licenses/by/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.86r.jpg>)
+
+[Original JPEG](public/originals/commons-durrow-86r.jpg) · 6,030 × 8,272 pixels · c. 700.
+
+Insular; place of production debated
+
+[Historical context](<https://doi.org/10.48495/wm117t53k>)
+
+SHA-256: `a72740c78399a64d0eb44ff6d6c6cedba62b001f8e15f7ff86278864ae515cf2`
+
+## Bernifal: hand stencil (`commons-bernifal-6`)
+
+Thilo Parg · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Grotte_de_Bernifal_6.jpg>)
+
+[Original JPEG](public/originals/commons-bernifal-6.jpg) · 2,250 × 3,000 pixels · Upper Palaeolithic; individual mark not directly dated.
+
+Upper Palaeolithic
+
+[Historical context](<https://archeologie.culture.gouv.fr/font-de-gaume/fr/les-tectiformes>)
+
+SHA-256: `2b3c4c29b29f22ff9e3071df9db4e970ceb626d486df341317d0dd9a2ad1bd92`
+
+## Mas-d’Azil: painted Azilian pebble (`commons-azilian-pebble`)
+
+Didier Descouens · [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>) · [Source](<https://commons.wikimedia.org/wiki/File:Galet_peint_MHNT.PRE.MAZ.15.jpg>)
+
+[Original JPEG](public/originals/commons-azilian-pebble.jpg) · 4,460 × 3,952 pixels · Azilian; Late Glacial–early Holocene transition.
+
+Azilian
+
+SHA-256: `1e27e728640215024af98e06e62ba780fc12c96c31a69d49feaa55263c2d828d`
+
+## Carolingian gradual: verso (`cma-114202`)
+
+Cleveland Museum of Art · [CC0 / Public domain](<https://creativecommons.org/publicdomain/zero/1.0/>) · [Source](<https://clevelandart.org/art/1933.446.b>)
+
+[Original JPEG](public/originals/cma-114202.jpg) · 2,351 × 3,400 pixels · c. 830–860.
+
+Germany or Northeastern France, 9th century
+
+Purchase from the J. H. Wade Fund
+
+Accession: 1933.446.b.
+
+SHA-256: `c45e7046aaef459642a4f818fc70e8a082f73bba18d01f5d78df4c382485902e`

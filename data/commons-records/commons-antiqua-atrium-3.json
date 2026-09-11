@@ -1,0 +1,92 @@
+{
+  "pageid": 55927366,
+  "ns": 6,
+  "title": "File:Atrio di santa maria antiqua, già peristilio di domiziano, frammenti di affreschi dell'VIII-IX secolo 03.jpg",
+  "index": 34,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6633304,
+      "width": 2304,
+      "height": 3456,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Atrio_di_santa_maria_antiqua%2C_gi%C3%A0_peristilio_di_domiziano%2C_frammenti_di_affreschi_dell%27VIII-IX_secolo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atrio_di_santa_maria_antiqua,_gi%C3%A0_peristilio_di_domiziano,_frammenti_di_affreschi_dell%27VIII-IX_secolo_03.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55927366",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-02-05 23:27:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Atrio di santa maria antiqua, già peristilio di domiziano, frammenti di affreschi dell'VIII-IX secolo 03",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Artworks without Wikidata item|Self-published work|Photographs by User:Sailko|All media supported by Wikimedia CH|Images by Sailko - Supported by Wikimedia CH|Photographs of paintings by User:Sailko|Byzantine frescos in Santa Maria Antiqua (Rome)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Byzantine frescos in Santa Maria Antiqua (Rome)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1 June 2016, 11:51:28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pageid": 153352956,
+  "ns": 6,
+  "title": "File:Morgan Beatus or B Pierpont, 174v.jpg",
+  "index": 7,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 9332503,
+      "width": 2696,
+      "height": 4184,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Morgan_Beatus_or_B_Pierpont%2C_174v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Morgan_Beatus_or_B_Pierpont,_174v.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153352956",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-09-30 02:01:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Morgan Beatus or B Pierpont, 174v",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Illustrated Beatus manuscripts|Beatus Pierpont|Magius|Medieval Cythara|PD-Art (PD-old-70)|PD-Art (PD-old default)|CC-PD-Mark|Adoration of the Lamb on Mount Sion by the 144-thousand|PD-Art missing SDC copyright status|PD-old missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Folio 174v from Morgan Beatus (B Pierpont), showing musicians making a joyful noise for The Lamb (Jesus). This image taken from scans of the original, cropped, without further editing.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "925-968 AD",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://arachne.dainst.org/entity/3175486\">https://arachne.dainst.org/entity/3175486</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q55999961\" class=\"extiw\" title=\"d:Q55999961\"><span title=\"Spanish illuminator, active circa 926-968\">Maius</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

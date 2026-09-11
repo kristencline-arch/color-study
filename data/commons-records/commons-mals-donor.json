@@ -1,0 +1,106 @@
+{
+  "pageid": 3669795,
+  "ns": 6,
+  "title": "File:Malles venosta, il donatore offre la cappella.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 5005069,
+      "width": 2166,
+      "height": 1949,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Malles_venosta%2C_il_donatore_offre_la_cappella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Malles_venosta,_il_donatore_offre_la_cappella.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3669795",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2008-03-06 19:42:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Malles venosta, il donatore offre la cappella",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-Art (PD-old-100)|Template Unknown (author)|CC-PD-Mark|Cultural heritage monuments in South Tyrol with known IDs|Files with coordinates missing SDC location of creation|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Romanesque frescos in South Tyrol|Carolingian frescos in Italy|St. Benedikt, Mals - Interior",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "46.690331",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "10.539527",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<table cellspacing=\"0\" style=\"width:550px; text-align:center; color:#000; background:#ddd; border:1px solid #bbb; margin:1px;\" dir=\"ltr\" class=\"layouttemplate\">\n<tbody><tr><td style=\"width:44px; height:22px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Distinctive_emblem_for_cultural_property.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Distinctive_emblem_for_cultural_property.svg/20px-Distinctive_emblem_for_cultural_property.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"16\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Distinctive_emblem_for_cultural_property.svg/40px-Distinctive_emblem_for_cultural_property.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"600\"></a></span>  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Suedtirol_CoA.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Suedtirol_CoA.svg/20px-Suedtirol_CoA.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Suedtirol_CoA.svg/40px-Suedtirol_CoA.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"500\" data-file-height=\"626\"></a></span></td>\n<td style=\"font-size:8pt; padding:1pt; line-height:1.1em;\"> This media shows the cultural heritage monument with the number <a rel=\"nofollow\" class=\"external text\" href=\"https://kulturgueter.provinz.bz.it/de/landesdenkmalamt/monumentbrowser-suche/15779\">15779</a> in South Tyrol. (<a class=\"external text\" href=\"https://tools.wmflabs.org/hub/P8543:15779?site=wikidata\">Wikidata</a>)\n</td>\n</tr></tbody></table>Malles_venosta,_il_donatore_offre_la_cappella",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "V-VI century",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "book: G. Pischel, <i>Storia Universale dell'Arte</i>, Vol. 2, Mondadori, Verona 1966",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "pd-Art",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "pageid": 48990393,
+  "ns": 6,
+  "title": "File:Reichenau St.Georg - Fresko Abt.jpg",
+  "index": 30,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6004158,
+      "width": 4000,
+      "height": 3000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Reichenau_St.Georg_-_Fresko_Abt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reichenau_St.Georg_-_Fresko_Abt.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48990393",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-05-24 15:27:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Reichenau St.Georg - Fresko Abt",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Abbots of Kloster Reichenau|Self-published work|Romanesque frescos of St. George (Reichenau)|Frescos of abbots",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Reichenau ( Baden-Württemberg ). Oberzell village: Church of Saint George - Fresco ( 10th century ) of an abbot.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-03-21 16:02:39",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xenophon\" title=\"User:Xenophon\">Wolfgang Sauber</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

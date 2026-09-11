@@ -1,0 +1,88 @@
+{
+  "pageid": 4760594,
+  "ns": 6,
+  "title": "File:Vaticana, Pal. lat. 1564 (2r).jpg",
+  "index": 12,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1578651,
+      "width": 2856,
+      "height": 4056,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vaticana%2C_Pal._lat._1564_%282r%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vaticana,_Pal._lat._1564_(2r).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4760594",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2008-09-10 18:39:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Vaticana, Pal. lat. 1564 (2r)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Carolingian manuscripts|PD Old|CC-PD-Mark|820s works in the Carolingian Empire|820s illuminated manuscripts",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Vaticana, Pal. lat. 1564 (2r)\n<p>(Aachen (?), um 825)\n</p>\nGelehrtenrunde",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "9<sup>th</sup> century<div style=\"display: none;\">date QS:P,+850-00-00T00:00:00Z/7</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "799. Kunst und Kultur der Karolingerzeit, Ausstellungskatalog, hrsg. v. Christoph Stiegemann und Matthias Wemhoff, Band 2, S. 718.",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

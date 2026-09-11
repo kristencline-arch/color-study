@@ -1,0 +1,88 @@
+{
+  "pageid": 153860310,
+  "ns": 6,
+  "title": "File:Morgan Beatus, Vision of the Lamb.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 11129184,
+      "width": 2888,
+      "height": 3768,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Morgan_Beatus%2C_Vision_of_the_Lamb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Morgan_Beatus,_Vision_of_the_Lamb.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153860310",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-10-13 04:55:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Morgan Beatus, Vision of the Lamb",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Illustrated Beatus manuscripts|Agnus Dei|Beatus Pierpont|Magius|Medieval Cythara|PD-Art (PD-old-100)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Lutes in art|Vision of the Lamb",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Vision of the Lamb, the four cherubim and the 24 elders, from the Morgan Beatus, Ms. 644",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "925-968 A.D.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>Morgan Beatus, MS. 644\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://objects.auxiliary.idai.world/Tei-Viewer/cgi-bin/teiviewer.php?manifest=BOOK-ZID1340556\">https://objects.auxiliary.idai.world/Tei-Viewer/cgi-bin/teiviewer.php?manifest=BOOK-ZID1340556</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q55999961\" class=\"extiw\" title=\"d:Q55999961\"><span title=\"Spanish illuminator, active circa 926-968\">Maius</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -2,18 +2,20 @@
 
 September 11, 2026 · [Open the gallery](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) · [Download the database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all)
 
-This expansion adds **107 reviewed photographs**, from 437 to **544**: **93 European**, **eight Caribbean** and **six Oceanian** additions. The collection now includes **169 textiles**, **92 scroll or manuscript views**, 15 overlapping collections and 75 sourced study leads. Unchanged original JPEGs total 2.19 GiB.
+This sweep adds **64 reviewed images**, from 544 to **608**. [Ice Age Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=ice-age-europe) contains **six original cave views and one Azilian transition object**. [Early medieval Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=early-medieval-europe) adds **57 views** of murals and manuscripts. The gallery now includes 169 textiles, 113 scroll or manuscript views, 17 overlapping collections and 84 sourced study leads. Unchanged source JPEGs total 2.58 GiB.
 
-The library contains 422 museum API imports, 111 additional field or archive photographs and the original eleven studies. Counts are photographs: different views, fragments and manuscript leaves can belong to the same artifact. They are not counts of unique objects or cultural traditions.
+The library contains 424 museum API imports, 173 additional field or archive images and the original eleven studies. Counts describe images; several views, fragments or leaves can belong to one artifact.
 
 ## Browse by place or material
 
-| Collection | Photographs | Included material |
+| Collection | Images | Included material |
 | --- | ---: | --- |
 | [Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=egypt) | 93 | Painted tombs, decorated coffins, sculpture, papyri and woven garments. |
-| [Pompeii & Rome](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=rome) | 33 | Fresco details and painted rooms from Pompeii, Boscoreale and Boscotrecase. |
+| [Pompeii & Rome](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=rome) | 38 | Ancient and early medieval painted walls from Pompeii, the Roman villas and Santa Maria Antiqua. |
 | [Ancient Greece](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=greece) | 26 | Bronze Age Aegean frescoes, painted marble, funerary panels and polychrome terracotta. |
-| [Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=europe) | 156 | Aegean and Etruscan frescoes, medieval polychromy, illuminated pages and woven color. |
+| [Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=europe) | 220 | Ice Age pigment, early medieval murals, illuminated pages, polychrome sculpture and woven color. |
+| [Ice Age Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=ice-age-europe) | 7 | Original Palaeolithic cave pigment, plus an Azilian painted pebble from the transition into the Holocene. |
+| [Early medieval Europe](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=early-medieval-europe) | 57 | Carolingian and Ottonian murals, Lombard painting, Insular manuscripts and gold ink on purple parchment. |
 | [Babylon & Sumer](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=mesopotamia) | 9 | Babylonian glazed brick, Early Dynastic painted pottery and earlier Ubaid vessels. |
 | [Persia & Iran](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=persia) | 15 | Sasanian wall paintings, glazed friezes from Susa, textiles and manuscripts. |
 | [Textiles](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=textiles) | 169 | Dyed, woven, embroidered and painted cloth, from ancient cotton to historic barkcloth. |
@@ -22,7 +24,7 @@ The library contains 422 museum API imports, 111 additional field or archive pho
 | [Oceania & Pacific Islands](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=oceania) | 25 | Barkcloth, dyed fiber and painted works from Pacific islands and Australia. |
 | [Caribbean](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=caribbean) | 8 | Indigenous painted cave panels from Aruba and the Dominican Republic. |
 | [Indigenous North America](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=indigenous-north-america) | 23 | Diné and Hopi textiles, Tlingit and Haida painted works, and Ancestral Pueblo pottery. |
-| [Scrolls & manuscripts](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=manuscripts) | 92 | Colored ink, painted parchment, palm-leaf books and scrolls on silk and paper. |
+| [Scrolls & manuscripts](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=manuscripts) | 113 | Colored ink, painted parchment, palm-leaf books and scrolls on silk and paper. |
 | [South America](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=south-america) | 41 | Paracas, Nasca and Wari cloth, painted Andean ceramics and rock paintings. |
 | [Africa beyond Egypt](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection=africa) | 42 | Ethiopian manuscript pages, dyed and embroidered cloth, Nubian murals and San painting. |
 
@@ -30,9 +32,12 @@ Geographic groups overlap. A culture label alone does not establish where an obj
 
 ## What was added
 
-- **Europe:** painted medieval wood, limestone and alabaster; Etruscan and Bronze Age Aegean frescoes; Romanesque murals from Taüll and Pedret; Danish church painting; illuminated parchment from England, France, German regions, Italy, the Low Countries and southern Spain; velvet, embroidery and tapestry. The [Taüll museum record](https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/master-taull/015966-000) dates the original mural ensemble to around 1123. Included photographs show museum fragments, not the church’s modern projections.
-- **Caribbean:** five Fontein Cave photographs from Aruba, two Taíno pictograph views at Cueva de las Maravillas, and one geometric pictograph at El Pomier in the Dominican Republic. Individual panels remain undated where the source does not establish a date. The Pomier uploader’s mixed Igneri/Ciboney attribution is explicitly unverified.
-- **Pacific islands:** a Tongan ngatu, a Mangaian poncho and mask, painted masks from Ambrym and Malakula in Vanuatu, and a dyed woman’s sash from the Caroline Islands. These are historic works with individual dates or explicit uncertainty; “Indigenous” does not mean “ancient.”
+- **Original Ice Age cave surfaces:** three Altxerri photographs, the spotted-horse panel at Pech Merle, and a hand stencil and painted sign at Bernifal. The [Basque Government’s Altxerri record](https://www.euskadi.eus/es/patrimonio-cultural/cuevas-de-altxerri/web01-ejeduki/es/) distinguishes the main Magdalenian gallery from the earlier red bison in Altxerri B. [Pech Merle’s site](https://en.pechmerle.com/) describes the paintings in their original cave setting. These sources do not directly date every mark in a photograph.
+- **The Ice Age transition:** one painted Azilian pebble from Mas-d’Azil, shown from several sides in a single source photograph. It belongs to the Late Glacial–early Holocene transition and is not assigned an invented exact age.
+- **Early medieval murals:** Müstair, Naturns, Mals, Castelseprio, Santa Maria Antiqua, Cividale and Reichenau. [UNESCO dates Müstair’s Carolingian cycle](https://whc.unesco.org/en/list/269/) to the first half of the ninth century. [Santa Maria Antiqua’s archaeological record](https://colosseo.it/en/marvels/santa-maria-antiqua-with-the-oratory-of-the-forty-martyrs-and-the-ramp-of-domitian/) describes successive sixth- through ninth-century painting campaigns. The chronology of Castelseprio and parts of the Alpine material remains qualified.
+- **Illuminated manuscripts:** eight painted Book of Durrow pages, four Lindisfarne pages, two Morgan Beatus views, the Stockholm Codex Aureus, Carolingian manuscript leaves and two sides of a purple-parchment gradual bifolium. Durrow originals reach roughly 8,200 pixels on the long edge. The [British Library catalog](https://searcharchives.bl.uk/catalog/040-001102725) supplies context for the Lindisfarne Gospels. The [Durrow digitization](https://doi.org/10.48495/wm117t53k) retains Trinity College Dublin Library credit and CC BY 4.0 terms.
+
+The previous Europe, Caribbean and Pacific additions remain available. This sweep focuses on the earlier European periods the gallery lacked.
 
 ## Regions still missing or thin
 
@@ -40,7 +45,7 @@ Geographic groups overlap. A culture label alone does not establish where an obj
 | --- | --- |
 | Wider Caribbean | Aruba and the Dominican Republic are a start. Puerto Rico, Cuba, Jamaica, Haiti, the Bahamas and the Lesser Antilles still need usable images. Prioritize pictographs and painted Saladoid or other documented ceramic traditions. [Mona field research](https://www.antiquity.ac.uk/projgall/samson338/) distinguishes painted designs from incised marks. |
 | More Pacific islands | Niue, the Solomon Islands, the Marquesas, and much of Micronesia remain thin or absent. Palau beam photographs were found but withheld because their source flags image-license verification. [Te Papa’s Niue hiapo](https://collections.tepapa.govt.nz/object/83487) is a concrete next lead; its original file and item rights still need import review. |
-| Northern and eastern Europe | British wall painting, Baltic and Sámi textiles, eastern European painted wood, and earlier medieval work are underrepresented. [Kempley](https://www.english-heritage.org.uk/visit/places/st-marys-church-kempley/history/) offers documented surviving murals and a history of whitewashing. |
+| Northern and eastern Europe | British wall painting, Viking, Baltic and Sámi textiles, and eastern European painted wood remain underrepresented. The new early medieval group is strongest in Alpine and Italian murals and Insular manuscripts. [Kempley](https://www.english-heritage.org.uk/visit/places/st-marys-church-kempley/history/) offers documented surviving murals and a history of whitewashing. |
 | Central America and Mesoamerica | Only 11 existing photographs use the Mesoamerica region. Seek more Maya mural details, painted ceramics, Mixtec and other painted manuscripts, and Indigenous community context. |
 | South America beyond the central Andes | The current 41-photo group is dominated by Andean material. Seek [Mapuche garments](https://www.metmuseum.org/art/collection/search/318038), Amazonian painted objects, and Colombian, Ecuadorian and Brazilian material. |
 | Africa beyond the current clusters | Seek more West and Central African painted surfaces, Sahelian manuscripts and textiles, and southern African painting. Several Ethiopian manuscript images come from one Gospel book, so image count overstates the variety of books. |
@@ -52,10 +57,10 @@ Geographic groups overlap. A culture label alone does not establish where an obj
 
 | Era or tradition | Coverage after this batch |
 | --- | --- |
-| European Upper Palaeolithic / Ice Age painting | Still a major gap. The reviewed Pech Merle and Altamira images were museum replicas; the Font-de-Gaume candidate showed the entrance. Seek documented photographs of original painted surfaces. |
+| European Upper Palaeolithic / Ice Age painting | Now six original cave-surface views from three sites, plus a separate Azilian transition object. Wider coverage of France, Iberia and the Urals is still needed; many high-resolution search results are replicas or cave entrances. |
 | Neolithic and early Bronze Age | A few examples exist, including a Vinča figurine; much wider coverage of painted pottery, textiles and shelters is needed. |
 | Later Bronze Age and Classical Mediterranean | Four Akrotiri and four Etruscan fresco views add to substantial Greek and Roman holdings. More original Minoan and Mycenaean detail would help. |
-| Early medieval Europe, roughly 500–1000 CE | Sparse compared with Romanesque and Gothic work. Seek painted manuscripts, wooden objects and surviving wall painting. |
+| Early medieval Europe, roughly 500–1000 CE | Now 57 images of sixth- through tenth-century murals and manuscripts. Northern and eastern Europe, secular painted objects and color photographs of Viking textiles remain thin. |
 | Romanesque, Gothic and Renaissance | Much stronger now through polychrome sculpture, murals, manuscripts and dyed textiles. |
 | Historic Indigenous work and periods of colonial contact | Pacific works mostly date to the nineteenth or early twentieth century, or have unknown production dates. The collection still needs broader community-led documentation and older material where surviving pigment and suitable images exist. |
 
@@ -63,9 +68,11 @@ These time bands are browsing aids for the named regions, not a universal chrono
 
 ## Review, rights and interpretation
 
-All additions were visually reviewed, retain their native JPEG bytes and have source links, credits, dimensions, hashes and item-level rights evidence. Two heavily color-cast Fontein views were withheld. The library has no duplicate native-image hashes. Eight new deterministic comparisons show exactly how the mathematical transform changes the photographs.
+Accepted images were visually reviewed and retain their native JPEG bytes, source links, credits, dimensions, hashes and item-level rights evidence. Cave entrances, unverified replicas, a grayscale Oseberg textile image, blank or mostly uncolored pages, and redundant views were withheld. Ten new deterministic comparisons record the mathematical transforms and hashes.
 
-Photograph rights and artwork rights can differ. Four Taüll photographs use Joe Mabel’s CC BY-SA 4.0 grant, despite a public-domain artwork summary. The existing Afrasiyab boat photograph is corrected to CC BY-SA 3.0. Saved page revisions preserve that evidence. Unresolved Palau beam images were not imported.
+Some Müstair, Mals and Carolingian manuscript images are published color reproductions and are explicitly described as such. Printing, prior photography and scanning may affect their colors. Library scans preserve the manuscript’s surviving condition, not an inferred original palette. The Stockholm Codex Aureus file is a documented two-folio composite; the painted pebble photograph contains multiple views of one object.
+
+Photograph rights and artwork rights can differ. This batch preserves the listed photograph grants and credits alongside the public-domain artworks. Existing separate photographer-license evidence for Taüll and Afrasiyab remains intact.
 
 Museum originals retain CC0/public-domain terms. Other photographs retain their own licenses, including attribution and share-alike requirements. Thumbnails and comparisons are derivatives; retain the license, source credit and modification notice. The code is MIT, and original catalog annotations and compilation are CC0. Raw provider snapshots retain their source terms. [Full image credits](https://github.com/kristencline-arch/color-study/blob/main/CREDITS.md) · [Catalog documentation](https://github.com/kristencline-arch/color-study/blob/main/CATALOG.md).
 

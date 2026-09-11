@@ -1,0 +1,91 @@
+{
+  "pageid": 187119268,
+  "ns": 6,
+  "title": "File:IE TCD MS 57 f.125v.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 13549378,
+      "width": 6000,
+      "height": 8112,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/IE_TCD_MS_57_f.125v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.125v.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187119268",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-03-26 16:08:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "IE TCD MS 57 f.125v",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Book of Durrow",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Book of Durrow f.125v. Manuscript originally created c. 700.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.48495/wm117t53k\">https://doi.org/10.48495/wm117t53k</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Trinity College Dublin Library, Digital Collections Department",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}
