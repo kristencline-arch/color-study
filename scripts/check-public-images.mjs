@@ -1,6 +1,6 @@
 // A bounded, read-only rotating check. Never downloads full native images.
 import {readFile} from 'node:fs/promises';
-const sources = JSON.parse(await readFile(new URL('../public/sources.json', import.meta.url)));
+const [sources, release] = await Promise.all(['sources.json', 'photo-release.json'].map(async name => JSON.parse(await readFile(new URL('../public/' + name, import.meta.url)))));
 const args = new Map(process.argv.slice(2).map(value => {const [key, ...rest] = value.split('='); return [key, rest.join('=')];}));
 const origin = args.get('--origin') || 'https://color-study-painted-surfaces.kristen368163.chatgpt.site';
 const limit = Number(args.get('--limit') || 24);
@@ -16,7 +16,11 @@ await Promise.all(Array.from({length: 3}, async () => {
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
         const response = await fetch(new URL('/' + job.path, origin), {method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(20000)});
-        if (!response.ok || !/^image\//.test(response.headers.get('content-type') || '')) throw new Error(`HTTP ${response.status}, ${response.headers.get('content-type')}`);
+        const contentType = (response.headers.get('content-type') || '').split(';')[0].trim();
+        // GitHub sometimes serves JPEGs as generic binary data. Accept that
+        // header only for the exact immutable original recorded in this release.
+        const pinnedOriginal = job.path.startsWith('originals/') && response.url === new URL(job.path, release.public_base_url).href;
+        if (!response.ok || !(/^image\//.test(contentType) || (contentType === 'application/octet-stream' && pinnedOriginal))) throw new Error(`HTTP ${response.status}, ${contentType}`);
         results.push({...job, status: response.status}); failure = null; break;
       } catch (error) {failure = error.message;}
     }
