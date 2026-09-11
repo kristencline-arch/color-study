@@ -1,0 +1,19 @@
+{
+  "pageid": 150866243,
+  "ns": 6,
+  "title": "File:Ancient Roman fresco medallion with portraits of a man and a woman (Villa Arianna, Stabiae).jpg",
+  "revisions": [
+    {
+      "revid": 1079434385,
+      "parentid": 1053703779,
+      "timestamp": "2025-08-31T18:08:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Fresco fragment depicting a medallion set into a diamond shape, with portraits of a man and a woman. The man seems to be whispering into the woman's ear; very similar to medallions from the House of the Golden Bracelet in Pompeii. From the Villa Arianna, ancient Stabiae. \n\n1st century CE. Stabia Archaeological Museum (64179)}}\n|date=2024-05-04 13:45:00\n|source={{own}}\n|author=[[User:Chappsnet|Chappsnet]]\n|permission=\n|other versions=\n}}\n{{Location|40.685078|14.489153|heading:274.9833984375}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Stabiae]]\n[[Category:Frescoes from Villa Arianna in the Archaeological Museum of Stabia]]"
+        }
+      }
+    }
+  ]
+}

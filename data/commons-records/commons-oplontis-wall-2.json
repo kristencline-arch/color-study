@@ -1,0 +1,92 @@
+{
+  "pageid": 29163955,
+  "ns": 6,
+  "title": "File:Fresco Oplontis 02.jpg",
+  "index": 6,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 5753237,
+      "width": 5184,
+      "height": 3456,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fresco_Oplontis_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fresco_Oplontis_02.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29163955",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-10-24 09:17:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fresco Oplontis 02",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 600D|Self-published work|Cubiculum. Villa Poppaea|Ancient Roman frescos. Villa Poppaea",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Torre Annunziata (Oplontis) Villa de Popea. Fresco.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-07-02 12:10:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\">Miguel Hermoso Cuesta</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

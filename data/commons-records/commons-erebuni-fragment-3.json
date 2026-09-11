@@ -1,0 +1,93 @@
+{
+  "pageid": 86124360,
+  "ns": 6,
+  "title": "File:Urartaean fresco 3 mus erebuni.jpg",
+  "index": 4,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 7927721,
+      "width": 4928,
+      "height": 3264,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Urartaean_fresco_3_mus_erebuni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Urartaean_fresco_3_mus_erebuni.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86124360",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-01-20 13:04:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Urartaean fresco 3 mus erebuni",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Files with no machine-readable author|Erebuni Museum|Uploaded with pattypan|Artworks without Wikidata item|Items with VRTS permission confirmed|Media donated by Livius|Livius2020|Livius - Armenië",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nErebuni, Urartaean wall painting of animals</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "14 July 2017, 08:19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jona_Lendering\" class=\"extiw\" title=\"w:en:Jona Lendering\"><span title=\"Dutch historian\">Jona Lendering</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This media file is from <a rel=\"nofollow\" class=\"external text\" href=\"http://www.livius.org\">Livius</a>, donated in the context of a partnership program.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "durrow",
+    "title": "Book of Durrow",
+    "scope": "manuscript",
+    "photo_ids": [
+      "commons-durrow-21v",
+      "commons-durrow-124v",
+      "commons-durrow-125v",
+      "commons-durrow-192v",
+      "commons-durrow-193r",
+      "commons-durrow-248r",
+      "commons-durrow-85v",
+      "commons-durrow-86r"
+    ]
+  },
+  {
+    "id": "lindisfarne",
+    "title": "Lindisfarne Gospels",
+    "scope": "manuscript",
+    "photo_ids": [
+      "commons-lindisfarne-chi-rho",
+      "commons-lindisfarne-luke",
+      "commons-lindisfarne-mark",
+      "commons-lindisfarne-matthew"
+    ]
+  },
+  {
+    "id": "gunda-gunde",
+    "title": "Gunda Gunde Gospel book",
+    "scope": "manuscript",
+    "photo_ids": [
+      "commons-gunda-gunde-153v",
+      "commons-gunda-gunde-2r",
+      "commons-gunda-gunde-2v",
+      "commons-gunda-gunde-3r",
+      "commons-gunda-gunde-4v",
+      "commons-gunda-gunde-5r",
+      "commons-gunda-gunde-59v",
+      "commons-gunda-gunde-60v",
+      "commons-gunda-gunde-96v",
+      "commons-gunda-gunde-197r",
+      "commons-gunda-gunde-199r",
+      "commons-gunda-gunde-209r"
+    ]
+  },
+  {
+    "id": "purple-gradual",
+    "title": "Purple-parchment gradual: two sides of one bifolium",
+    "scope": "object",
+    "photo_ids": [
+      "cma-114201",
+      "cma-114202"
+    ]
+  },
+  {
+    "id": "julia-felix",
+    "title": "Pompeii: paintings from the House of Julia Felix",
+    "scope": "site",
+    "photo_ids": [
+      "commons-pompeii-1",
+      "commons-pompeii-2",
+      "commons-pompeii-3",
+      "commons-pompeii-4"
+    ]
+  },
+  {
+    "id": "nefertari",
+    "title": "Tomb of Nefertari",
+    "scope": "site",
+    "photo_ids": [
+      "commons-nefertari-07",
+      "commons-nefertari-11",
+      "commons-nefertari-17",
+      "commons-nefertari-35",
+      "commons-nefertari-41",
+      "commons-nefertari-48",
+      "commons-nefertari-57",
+      "commons-nefertari-63",
+      "commons-nefertari-66",
+      "commons-nefertari-68",
+      "commons-nefertari-70"
+    ]
+  },
+  {
+    "id": "altxerri",
+    "title": "Altxerri cave: different painted panels",
+    "scope": "site",
+    "photo_ids": [
+      "commons-altxerri-big-bison",
+      "commons-altxerri-black-bison",
+      "commons-altxerri-bison"
+    ]
+  },
+  {
+    "id": "bernifal",
+    "title": "Bernifal cave",
+    "scope": "site",
+    "photo_ids": [
+      "commons-bernifal-6",
+      "commons-bernifal-9"
+    ]
+  },
+  {
+    "id": "castelseprio",
+    "title": "Castelseprio: Santa Maria foris portas",
+    "scope": "site",
+    "photo_ids": [
+      "commons-castelseprio-throne",
+      "commons-castelseprio-christ",
+      "commons-castelseprio-joseph",
+      "commons-castelseprio-bethlehem",
+      "commons-castelseprio-nativity",
+      "commons-castelseprio-midwives",
+      "commons-castelseprio-temple",
+      "commons-castelseprio-curtain"
+    ]
+  },
+  {
+    "id": "santa-maria-antiqua",
+    "title": "Santa Maria Antiqua: successive painting campaigns",
+    "scope": "site",
+    "photo_ids": [
+      "commons-antiqua-madonna",
+      "commons-antiqua-crucifix",
+      "commons-antiqua-mural",
+      "commons-antiqua-atrium-1",
+      "commons-antiqua-atrium-3"
+    ]
+  },
+  {
+    "id": "taull",
+    "title": "Sant Climent de Taüll",
+    "scope": "site",
+    "photo_ids": [
+      "commons-taull-01",
+      "commons-taull-03",
+      "commons-taull-07",
+      "commons-taull-10"
+    ]
+  },
+  {
+    "id": "akrotiri",
+    "title": "Akrotiri frescoes",
+    "scope": "site",
+    "photo_ids": [
+      "commons-akrotiri-fisherman",
+      "commons-akrotiri-spring",
+      "commons-akrotiri-ships-1",
+      "commons-akrotiri-ships-3"
+    ]
+  },
+  {
+    "id": "morgan-beatus",
+    "title": "Morgan Beatus",
+    "scope": "manuscript",
+    "photo_ids": [
+      "commons-morgan-beatus-lamb",
+      "commons-morgan-beatus-musicians"
+    ]
+  },
+  {
+    "id": "amenemhat",
+    "title": "Amenemhat tomb (BH 2), Beni Hasan",
+    "scope": "site",
+    "photo_ids": [
+      "commons-beni-hassan-16",
+      "commons-beni-hassan-17",
+      "commons-beni-hassan-18",
+      "commons-beni-hassan-19",
+      "commons-beni-hassan-20"
+    ]
+  },
+  {
+    "id": "herculaneum",
+    "title": "Herculaneum: paintings from the town",
+    "scope": "site",
+    "photo_ids": [
+      "commons-herculaneum-chiron",
+      "commons-herculaneum-telephus",
+      "commons-herculaneum-lyre",
+      "commons-herculaneum-23",
+      "commons-herculaneum-28",
+      "commons-herculaneum-29"
+    ]
+  },
+  {
+    "id": "oplontis",
+    "title": "Villa A, Oplontis",
+    "scope": "site",
+    "photo_ids": [
+      "commons-oplontis-bird",
+      "commons-oplontis-cherries",
+      "commons-oplontis-figs",
+      "commons-oplontis-peacock",
+      "commons-oplontis-pigeon",
+      "commons-oplontis-wall-1",
+      "commons-oplontis-wall-2",
+      "commons-oplontis-wall-3"
+    ]
+  },
+  {
+    "id": "stabiae",
+    "title": "Stabian villas: detached painted panels",
+    "scope": "site",
+    "photo_ids": [
+      "commons-stabiae-flora",
+      "commons-stabiae-diana",
+      "commons-stabiae-leda",
+      "commons-stabiae-tray",
+      "commons-stabiae-portraits"
+    ]
+  },
+  {
+    "id": "mari-investiture",
+    "title": "Investiture painting, Louvre AO 19826",
+    "scope": "object",
+    "photo_ids": [
+      "commons-mari-investiture-1",
+      "commons-mari-investiture-2",
+      "commons-mari-investiture-4"
+    ]
+  },
+  {
+    "id": "erebuni",
+    "title": "Erebuni: Urartian wall-painting fragments",
+    "scope": "site",
+    "photo_ids": [
+      "commons-erebuni-fragment-1",
+      "commons-erebuni-fragment-2",
+      "commons-erebuni-fragment-3"
+    ]
+  },
+  {
+    "id": "faras",
+    "title": "Faras: paintings from the cathedral",
+    "scope": "site",
+    "photo_ids": [
+      "commons-faras-petros",
+      "commons-faras-georgios",
+      "commons-faras-archangel",
+      "commons-faras-eleusa"
+    ]
+  }
+]

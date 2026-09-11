@@ -1,0 +1,93 @@
+{
+  "pageid": 3173368,
+  "ns": 6,
+  "title": "File:Pazyryk saddlecloth.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 936840,
+      "width": 2496,
+      "height": 1444,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pazyryk_saddlecloth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pazyryk_saddlecloth.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3173368",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2007-12-02 10:04:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pazyryk saddlecloth",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pazyryk culture|PD-Art (PD-old-70)|PD-Art (PD-old default)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Iron Age textiles|Elk in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "saddlecloth depicting an elk (moose) from Pasyryk, Altay Mountains",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "first millenium B.C.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Gold der Skythen aus der Leninburger Eremitage, Munich 1984, p. 191",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Schreiber\" title=\"User:Schreiber\">User:Schreiber</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

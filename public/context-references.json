@@ -1,0 +1,105 @@
+[
+  {
+    "id": "phrasikleia-reconstruction",
+    "study_ids": [
+      "marble-sphinx"
+    ],
+    "kind": "Research reconstruction / separate object",
+    "title": "How polychromy research approaches original appearance",
+    "description": "This photograph shows a modern experimental reconstruction of Phrasikleia, a different Greek sculpture. It is not a result produced by Color Study. The Met’s Chroma exhibition explains reconstructions informed by analytical techniques and historical research, including work on its sphinx.",
+    "image": "references/phrasikleia-reconstruction.webp",
+    "original_file": "references/phrasikleia-reconstruction-original.jpg",
+    "image_source": "https://commons.wikimedia.org/wiki/File:Experimental_color_reconstruction_of_the_Greek_grave_statue_of_Phrasikleia.jpg",
+    "author": "Aquaplaning",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://www.metmuseum.org/exhibitions/chroma",
+    "original_sha256": "185683c2033a81ae3523df00b42ca2a28774af042a3e53b6477ef12050e91f7d",
+    "modifications": "Resized photographic preview; unmodified source JPEG retained."
+  },
+  {
+    "id": "beni-hasan-context",
+    "study_ids": [
+      "commons-beni-hassan-16",
+      "commons-beni-hassan-17",
+      "commons-beni-hassan-18",
+      "commons-beni-hassan-19",
+      "commons-beni-hassan-20"
+    ],
+    "kind": "Site context",
+    "title": "Amenemhat’s painted tomb",
+    "description": "Egypt’s Ministry of Tourism and Antiquities describes the tomb’s wall scenes and decorated ceiling. These photographs show their surviving condition under artificial lighting.",
+    "source": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat"
+  },
+  {
+    "id": "nasa-method",
+    "study_ids": [
+      "commons-beni-hassan-16",
+      "commons-beni-hassan-17",
+      "commons-beni-hassan-18",
+      "commons-beni-hassan-19",
+      "commons-beni-hassan-20"
+    ],
+    "kind": "Published technique",
+    "title": "The NASA Spinoff story",
+    "description": "The article describes decorrelation stretch applied at Angkor Wat and Beni Hassan. Color Study independently implements RGB covariance analysis; it does not reproduce all DStretch color spaces.",
+    "source": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images"
+  },
+  {
+    "id": "mari-context",
+    "study_ids": [
+      "commons-mari-investiture-1",
+      "commons-mari-investiture-2",
+      "commons-mari-investiture-4"
+    ],
+    "kind": "Object and conservation context",
+    "title": "One restored painting, several photographs",
+    "description": "The Louvre identifies the painting as restored and records its findspot in court 106 of the palace at Mari. Compare the three views while keeping reflections and restored areas in mind.",
+    "source": "https://collections.louvre.fr/en/ark:/53355/cl010144553"
+  },
+  {
+    "id": "faras-context",
+    "study_ids": [
+      "commons-faras-saint-anne",
+      "commons-faras-petros",
+      "commons-faras-georgios",
+      "commons-faras-archangel",
+      "commons-faras-eleusa"
+    ],
+    "kind": "Conservation context",
+    "title": "Paintings moved from a cathedral",
+    "description": "The National Museum in Warsaw explains the Nubian rescue campaign and presents the paintings in relation to their former architectural setting. A detached fragment’s current display is part of its history.",
+    "source": "https://www.mnw.art.pl/en/collections/permanent-galleries/faras-gallery/"
+  },
+  {
+    "id": "oplontis-context",
+    "study_ids": [
+      "commons-oplontis-bird",
+      "commons-oplontis-cherries",
+      "commons-oplontis-figs",
+      "commons-oplontis-peacock",
+      "commons-oplontis-pigeon",
+      "commons-oplontis-wall-1",
+      "commons-oplontis-wall-2",
+      "commons-oplontis-wall-3"
+    ],
+    "kind": "Archaeological context",
+    "title": "The decorated rooms of Villa A",
+    "description": "The archaeological park describes Villa A at Oplontis, its phases and surviving decoration. The site’s name and association with Poppaea are not an identification of a painter.",
+    "source": "https://pompeiisites.org/en/oplontis/"
+  },
+  {
+    "id": "stabiae-context",
+    "study_ids": [
+      "commons-stabiae-flora",
+      "commons-stabiae-diana",
+      "commons-stabiae-leda",
+      "commons-stabiae-tray",
+      "commons-stabiae-portraits"
+    ],
+    "kind": "Conservation context",
+    "title": "From villa walls to museum panels",
+    "description": "The archaeological park documents excavation and the removal of frescoes for preservation. The present photograph records a panel after that history, including surviving losses.",
+    "source": "https://pompeiisites.org/en/stabiae/history-of-the-excavation/"
+  }
+]

@@ -6,6 +6,7 @@ import type { R2Bucket } from "@cloudflare/workers-types";
 import { handleCommunity } from "../server/community.mjs";
 import { handleCatalog } from "../server/catalog.mjs";
 import { handleMuseumImage } from "../server/museum-images.mjs";
+import { handleReports } from "../server/reports.mjs";
 
 interface Env {
   ASSETS: { fetch(request: Request): Promise<Response> };
@@ -33,6 +34,8 @@ interface ExecutionContext {
 
 const worker = {
   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
+    const report = await handleReports(request, env);
+    if (report) return report;
     const museumImage = handleMuseumImage(request);
     if (museumImage) return museumImage;
     const catalog = await handleCatalog(request, env);

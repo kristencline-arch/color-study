@@ -1,0 +1,19 @@
+{
+  "pageid": 54982296,
+  "ns": 6,
+  "title": "File:Faras - Bishop Petros with Saint Peter - Google Art Project.jpg",
+  "revisions": [
+    {
+      "revid": 1249108191,
+      "parentid": 1028093646,
+      "timestamp": "2026-07-19T08:35:11Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata         = Q21374914\n |artist           = {{Anonymous|Faras}} \n |title            = {{title|en=Bishop Petros with Saint Peter.\n                            |fr=L'évêque Petros avec Saint Pierre.\n                            |pl=Biskup Petros ze Świętym Piotrem Apostołem.}}\n |description      = \n |date             = {{other date|between|974|997}}\n |medium           = {{Technique|tempera|plaster}}\n |dimensions       = {{size|cm|244.5|113|5}} \n |institution      = {{Institution:National Museum, Warsaw}}\n |location         = {{floor|0}}\n |accession number = 234031\n |object history   = {{ProvenanceEvent|time=1964|type=transfer|newowner={{National Museum in Warsaw}}}}\n |credit line      = \n |inscriptions     = \n |notes            = Greek inscription: ''Saint (Peter) the Apostle Martyr of the Cross / Father Petros Bishop Metropolitan of Pakhoras (Faras) / (may he live) many years''. Fragment from the Chapel of the Bishops.\n |references       = [https://www.pinterest.co.uk/pin/418905202840941782 www.pinterest.co.uk]\n[http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=32813 cyfrowe.mnw.art.pl]\n |source           = {{From Google Cultural Institute|6QEYbeT25j9iqw}}\n |permission       =\n |other_versions   = \n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-100-expired}}\n\n{{DEFAULTSORT:0974-0997; Bishop Petros}}\n[[Category:Bishop Petros with Saint Peter]]\n[[Category:Google Art Project works in National Museum in Warsaw]]"
+        }
+      }
+    }
+  ]
+}

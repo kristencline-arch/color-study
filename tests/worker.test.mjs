@@ -75,6 +75,33 @@ test('invalid regions and stale image requests fail without returning an enhance
   await h.send({type: 'export', imageId: 2}); assert.equal(h.last().type, 'error');
 });
 
+test('native close-up layers align with the original crop and the full-resolution export', async () => {
+  const h = harness(), image = bitmap(80, 120);
+  await h.send({type: 'load', imageId: 1, blob: blobFor(image)});
+  const settings = {targetStd: 34, maxGain: 8}, region = [.1, .1, .9, .9];
+  await h.send({type: 'export', imageId: 1, settings, region});
+  const full = JSON.parse(await h.last().blob.text()), matrix = h.last().fit.matrix;
+  await h.send({type: 'viewport', imageId: 1, settings, region, viewport: [.25, .25, .75, .75], outputWidth: 40});
+  const reply = h.last();
+  assert.equal(reply.type, 'viewport');
+  assert.deepEqual(reply.fit.matrix, matrix);
+  const original = JSON.parse(await reply.originalPreview.text()), enhanced = JSON.parse(await reply.preview.text());
+  assert.equal(original.width, 40); assert.equal(original.height, 60);
+  const expectedOriginal = [], expectedEnhanced = [];
+  for (let y = 30; y < 90; y++) {
+    expectedOriginal.push(...image.pixels.subarray((y * 80 + 20) * 4, (y * 80 + 60) * 4));
+    expectedEnhanced.push(...full.pixels.slice((y * 80 + 20) * 4, (y * 80 + 60) * 4));
+  }
+  assert.deepEqual(original.pixels, expectedOriginal);
+  assert.deepEqual(enhanced.pixels, expectedEnhanced);
+  for (const viewport of [[.7, .2, .1, .4], [0, 0, 2, 1], [0, 0, NaN, 1]]) {
+    await h.send({type: 'viewport', imageId: 1, settings, region, viewport, outputWidth: 100});
+    assert.equal(h.last().type, 'error');
+  }
+  await h.send({type: 'viewport', imageId: 1, settings, viewport: [0, 0, 1, 1], outputWidth: 100000});
+  assert.equal(h.last().type, 'error');
+});
+
 test('a slow old image cannot replace the latest selection', async () => {
   let finishOld;
   const h = harness(blob => blob.slow ? new Promise(resolve => {finishOld = resolve;}) : Promise.resolve(blob.bitmap));

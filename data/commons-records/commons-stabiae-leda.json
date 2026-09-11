@@ -1,0 +1,105 @@
+{
+  "pageid": 148890288,
+  "ns": 6,
+  "title": "File:Fresco of Leda and the Swan, from the Villa Arianna, Stabiae.jpg",
+  "index": 19,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 5948377,
+      "width": 2586,
+      "height": 3046,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Fresco_of_Leda_and_the_Swan%2C_from_the_Villa_Arianna%2C_Stabiae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fresco_of_Leda_and_the_Swan,_from_the_Villa_Arianna,_Stabiae.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148890288",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-05-30 17:44:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fresco of Leda and the Swan, from the Villa Arianna, Stabiae",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images with watermarks|Self-published work|Files with coordinates missing SDC location of creation|Leda (MN 9546, from Stabiae, Villa Arianna)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.853353",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.251182",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fresco of Leda and the swan (Zeus in disguise), from the ancient Roman Villa Arianna in Stabiae.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-01 14:01:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chappsnet\" title=\"User:Chappsnet\">Chappsnet</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

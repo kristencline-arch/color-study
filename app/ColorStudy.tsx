@@ -2,19 +2,22 @@
 
 /* eslint-disable @next/next/no-img-element -- Blob previews must stay local; study thumbnails are already resized assets. */
 
-import { useCallback, useEffect, useRef, useState, type CSSProperties, type PointerEvent } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import sourceData from "../public/sources.json";
 import targets from "../public/targets.json";
 import collections from "../public/collections.json";
 import Showcase from "./Showcase";
+import StudyViewer from "./StudyViewer";
+import StudyContext from "./StudyContext";
+import {catalogHref, readCatalogFilters, readStudyRegion, studyHref} from "./catalog-location.mjs";
 import Catalog from "./Catalog";
 import Community, {type CommunityPhoto} from "./Community";
-import { NASA_ARTICLE, REPOSITORY, BUY_ME_A_COFFEE } from "./links";
+import { NASA_ARTICLE, REPOSITORY, BUY_ME_A_COFFEE, NIGHTINGALE_OS } from "./links";
 
 type Region = [number, number, number, number];
 type Settings = { targetStd: number; maxGain: number };
 type Fit = { fitClippedFraction: number; sampleCount: number; independentColorAxes: number; width: number; height: number; sourceSHA256: string; [key: string]: unknown };
-type Reply = { jobId: number; type: string; imageId: number; width: number; height: number; originalPreview: Blob; preview: Blob; blob: Blob; fit: Fit; error?: string; progress?: number };
+type Reply = { jobId: number; type: string; imageId: number; width: number; height: number; originalPreview: Blob; preview: Blob; blob: Blob; fit: Fit; error?: string; progress?: number; viewport: Region };
 type Photo = { name: string; sampleId?: string; communityId?: string; author?: string; source?: string; originalURL?: string; notes?: string; license?: string; licenseURL?: string; imageId: number; width: number; height: number };
 type Sample = Pick<(typeof sourceData)[number], "id" | "title" | "original_file" | "source_page" | "author" | "license" | "license_url" | "focus_box_fraction"> & {notes?: string; communityId?: string};
 const labels: Record<string, string> = Object.fromEntries(sourceData.map(item => [item.id, item.short_title]));
@@ -32,19 +35,18 @@ function asCommunitySample(photo: CommunityPhoto): Sample {
   return {id: photo.id, communityId: photo.id, title: photo.title, original_file: `api/community/${photo.id}/image`, source_page: photo.image_url, author: photo.author, license: photo.license, license_url: photo.license_url, focus_box_fraction: [.2, .2, .8, .8], notes: `${photo.location}. ${photo.description} Contributor-submitted photograph; context and credit are supplied by the contributor.`};
 }
 
-export default function ColorStudy() {
-  const [tab, setTab] = useState("showcase");
+export default function ColorStudy({initialStudyId}: {initialStudyId?: string} = {}) {
+  const [tab, setTab] = useState(initialStudyId ? "lab" : "showcase");
   const [communityOpened, setCommunityOpened] = useState(false);
-  const [catalogOpened, setCatalogOpened] = useState(false);
   const [catalogCollection, setCatalogCollection] = useState("");
+  const catalogLocation = useRef<string | null>(null);
   const [photo, setPhoto] = useState<Photo | null>(null);
   const [before, setBefore] = useState("");
   const [afterURL, setAfter] = useState("");
   const [settings, setSettings] = useState<Settings>(DEFAULTS);
   const [region, setRegion] = useState<Region | null>(null);
-  const [draftRegion, setDraftRegion] = useState<Region | null>(null);
+  const [focusArea, setFocusArea] = useState<Region | null>(null);
   const [selecting, setSelecting] = useState(false);
-  const [split, setSplit] = useState(50);
   const [loading, setLoading] = useState(false);
   const [exporting, setExporting] = useState(false);
   const [progress, setProgress] = useState(0);
@@ -59,15 +61,12 @@ export default function ColorStudy() {
   const [filter, setFilter] = useState("All");
   const [shareURL, setShareURL] = useState("");
   const [dragging, setDragging] = useState(false);
-  const [frameSize, setFrameSize] = useState({ width: 0, height: 0 });
   const workerRef = useRef<Worker | null>(null);
   const pending = useRef(new Map<number, { resolve: (reply: Reply) => void; reject: (error: Error) => void }>());
   const jobSequence = useRef(0), loadSequence = useRef(0), renderSequence = useRef(0);
   const urls = useRef({ before: "", after: "" });
   const mounted = useRef(true);
   const inputRef = useRef<HTMLInputElement>(null);
-  const stageRef = useRef<HTMLDivElement>(null), frameRef = useRef<HTMLDivElement>(null);
-  const pointerStart = useRef<[number, number] | null>(null);
   const fetchController = useRef<AbortController | null>(null);
   const busy = loading || exporting;
 
@@ -95,7 +94,7 @@ export default function ColorStudy() {
     renderSequence.current++;
     fetchController.current?.abort();
     const controller = new AbortController(); fetchController.current = controller;
-    setLoading(true); setError(""); setNotice(""); setSelecting(false); setDraftRegion(null);
+    setLoading(true); setError(""); setNotice(""); setSelecting(false);
     try {
       let blob: Blob;
       if (file) blob = file;
@@ -109,7 +108,7 @@ export default function ColorStudy() {
       if (!mounted.current || imageId !== loadSequence.current) return;
       replaceURL("before", result.originalPreview); replaceURL("after");
       setPhoto({ name: file?.name || sample!.title, sampleId: sample?.communityId ? undefined : sample?.id, communityId: sample?.communityId, author: sample?.author, source: sample?.source_page, originalURL: sample ? `/${sample.original_file}` : undefined, notes: sample?.notes, license: sample?.license, licenseURL: sample?.license_url, imageId, width: result.width, height: result.height });
-      setSettings(initial?.settings || DEFAULTS); setRegion(initial?.region || null); setRendered({key: "", fit: null}); setSplit(50);
+      setFocusArea(null); setSettings(initial?.settings || DEFAULTS); setRegion(initial?.region || null); setRendered({key: "", fit: null});
     } catch (reason) {
       if (mounted.current && imageId === loadSequence.current) setError(errorText(reason));
     } finally { if (mounted.current && imageId === loadSequence.current) setLoading(false); }
@@ -142,17 +141,17 @@ export default function ColorStudy() {
         const hash = window.location.hash.slice(1);
         if (["targets", "method", "community", "collection", "lab"].includes(hash)) setTab(hash);
         if (hash === "community") setCommunityOpened(true);
-        if (hash === "collection") setCatalogOpened(true);
-        const params = new URLSearchParams(hash);
+        const params = new URLSearchParams(window.location.search);
+        for (const [key, value] of new URLSearchParams(hash)) if (!params.has(key)) params.set(key, value);
+        if (initialStudyId) params.set("sample", initialStudyId);
         if (params.has("collection")) {
           const selected = collections.find(item => item.id === params.get("collection"));
-          setCatalogCollection(selected?.id || ""); setTab("collection"); setCatalogOpened(true);
+          setCatalogCollection(selected?.id || ""); setTab("collection");
         }
         const sample = sourceData.find(item => item.id === params.get("sample")) || sourceData.find(item => item.id === "cueva-hands")!;
-        const strength = Number(params.get("strength") || 42), gain = Number(params.get("gain") || 12);
+        const strength = Number(params.get("strength") || (initialStudyId ? 34 : 42)), gain = Number(params.get("gain") || 12);
         const initialSettings = { targetStd: Number.isFinite(strength) ? Math.max(12, Math.min(65, strength)) : 42, maxGain: Number.isFinite(gain) ? Math.max(3, Math.min(24, gain)) : 12 };
-        const values = params.get("area")?.split(",").map(Number);
-        const initialRegion = values?.length === 4 && values.every(value => Number.isFinite(value) && value >= 0 && value <= 1) && values[2] > values[0] && values[3] > values[1] ? values as Region : null;
+        const initialRegion = readStudyRegion(params.get("area"), initialStudyId ? sample.focus_box_fraction : null) as Region | null;
         if (params.has("community")) {
           setTab("lab"); setLoading(true);
           const id = params.get("community")!;
@@ -167,13 +166,16 @@ export default function ColorStudy() {
         }
       } catch (reason) { setError(errorText(reason)); setLoading(false); }
     }, 0);
+    const restoreHistory = () => window.location.reload();
+    window.addEventListener("popstate", restoreHistory);
     return () => {
+      window.removeEventListener("popstate", restoreHistory);
       clearTimeout(startup); mounted.current = false;
       worker?.terminate(); workerRef.current = null; fetchController.current?.abort();
       for (const task of tasks.values()) task.reject(new Error("Image lab closed."));
       tasks.clear(); Object.values(previewURLs).forEach(url => { if (url) URL.revokeObjectURL(url); });
     };
-  }, [loadPhoto]);
+  }, [loadPhoto, initialStudyId]);
 
   useEffect(() => {
     if (!photo || loading) return;
@@ -190,36 +192,27 @@ export default function ColorStudy() {
     return () => { clearTimeout(timer); disposed = true; };
   }, [photo, settings, region, loading, renderKey, request, replaceURL]);
 
-  useEffect(() => {
-    if (tab !== "lab" || !stageRef.current || !photo) return;
-    const stage = stageRef.current;
-    const resize = () => {
-      const scale = Math.min(1, (stage.clientWidth - 36) / photo.width, (stage.clientHeight - 36) / photo.height);
-      setFrameSize({ width: Math.max(1, photo.width * scale), height: Math.max(1, photo.height * scale) });
-    };
-    const observer = new ResizeObserver(resize); observer.observe(stage); resize();
-    return () => observer.disconnect();
-  }, [photo, tab]);
+  const renderViewport = useCallback(async (viewport: Region, outputWidth: number) => {
+    const result = await request("viewport", {imageId: photo?.imageId, settings, region, viewport, outputWidth});
+    return {originalPreview: result.originalPreview, preview: result.preview, viewport: result.viewport};
+  }, [photo?.imageId, settings, region, request]);
 
-  function switchTab(next: string, loadDefault = true) { setTab(next); if (next === "community") setCommunityOpened(true); if (next === "collection") setCatalogOpened(true); setShareURL(""); window.history.replaceState(null, "", next === "showcase" ? window.location.pathname : next === "collection" && catalogCollection ? `#collection=${catalogCollection}` : `#${next}`); window.scrollTo({top: 0, behavior: "auto"}); if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!); }
-  function openCollection(id = "") {const selected = collections.find(item => item.id === id)?.id || ""; setCatalogCollection(selected); switchTab("collection"); window.history.replaceState(null, "", selected ? `#collection=${selected}` : "#collection");}
+  function switchTab(next: string, loadDefault = true) {
+    if (tab === "collection") catalogLocation.current = window.location.href;
+    setTab(next); if (next === "community") setCommunityOpened(true); setShareURL("");
+    const target = next === "collection" ? catalogHref(readCatalogFilters(catalogLocation.current || window.location.href), catalogCollection) : next === "showcase" ? "/" : `/#${next}`;
+    window.history.pushState(null, "", target); window.scrollTo({top: 0, behavior: "auto"});
+    if (next === "lab" && loadDefault && !photo && !loading) void loadPhoto(sourceData.find(item => item.id === "cueva-hands")!);
+  }
+  function openCollection(id = "") {
+    const selected = collections.find(item => item.id === id)?.id || "";
+    const filters = readCatalogFilters(tab === "collection" ? window.location.href : "/"); filters.page = 1;
+    setCatalogCollection(selected); setTab("collection"); setShareURL("");
+    window.history.pushState(null, "", catalogHref(filters, selected)); window.scrollTo({top: 0, behavior: "auto"});
+  }
   function pickFile(file?: File) { if (file && !exporting) { switchTab("lab", false); void loadPhoto(undefined, file); } }
-  function openStudy(id: string) {const sample = sourceData.find(item => item.id === id); if (sample) {switchTab("lab", false); void loadPhoto(sample, undefined, {settings: {targetStd: 34, maxGain: 12}, region: sample.focus_box_fraction as Region});}}
+  function openStudy(id: string) {const sample = sourceData.find(item => item.id === id); if (sample) {if (tab === "collection") catalogLocation.current = window.location.href; setTab("lab"); setShareURL(""); window.history.pushState(null, "", studyHref(id)); window.scrollTo({top: 0, behavior: "auto"}); void loadPhoto(sample, undefined, {settings: {targetStd: 34, maxGain: 12}, region: sample.focus_box_fraction as Region});}}
   function openCommunity(photo: CommunityPhoto) {switchTab("lab", false); void loadPhoto(asCommunitySample(photo));}
-  function point(event: PointerEvent<HTMLDivElement>): [number, number] {
-    const rect = frameRef.current!.getBoundingClientRect();
-    return [Math.max(0, Math.min(1, (event.clientX - rect.left) / rect.width)), Math.max(0, Math.min(1, (event.clientY - rect.top) / rect.height))];
-  }
-  function rectangle(start: [number, number], end: [number, number]): Region { return [Math.min(start[0], end[0]), Math.min(start[1], end[1]), Math.max(start[0], end[0]), Math.max(start[1], end[1])]; }
-  function startSelection(event: PointerEvent<HTMLDivElement>) { if (!selecting || busy) return; pointerStart.current = point(event); event.currentTarget.setPointerCapture(event.pointerId); setDraftRegion(rectangle(pointerStart.current, pointerStart.current)); }
-  function moveSelection(event: PointerEvent<HTMLDivElement>) { if (pointerStart.current) setDraftRegion(rectangle(pointerStart.current, point(event))); }
-  function endSelection(event: PointerEvent<HTMLDivElement>) {
-    if (!pointerStart.current) return;
-    const box = rectangle(pointerStart.current, point(event)); pointerStart.current = null; setDraftRegion(null);
-    if (box[2] - box[0] < .01 || box[3] - box[1] < .01) { setNotice("Drag a larger rectangle, or use the center-area button."); return; }
-    setRegion(box); setSelecting(false); setNotice("");
-  }
-
   function recipe(result: Fit = fit!) { return { app: "Color Study", createdUTC: new Date().toISOString(), source: photo, settings, selectedArea: region, processing: result, interpretation: "False-color enhancement of existing pixels. Not evidence of new markings or original pigment color." }; }
   async function exportImage() {
     if (!photo || !fit || busy || processing) return;
@@ -233,12 +226,12 @@ export default function ColorStudy() {
   }
   function saveRecipe() { if (fit) download(new Blob([JSON.stringify(recipe(), null, 2)], { type: "application/json" }), "color-study-processing.json"); }
   async function share() {
-    const url = new URL(window.location.origin + window.location.pathname);
-    if (tab !== "lab" && tab !== "showcase") url.hash = tab === "collection" && catalogCollection ? `collection=${catalogCollection}` : tab;
+    const url = new URL(tab === "collection" ? window.location.href : window.location.origin + "/");
+    if (tab !== "lab" && tab !== "showcase") url.hash = tab;
     else if (tab === "lab" && (photo?.sampleId || photo?.communityId)) {
       const params = new URLSearchParams({ [photo.communityId ? "community" : "sample"]: photo.communityId || photo.sampleId!, strength: String(settings.targetStd), gain: String(settings.maxGain) });
       if (region) params.set("area", region.map(value => value.toFixed(5)).join(","));
-      url.hash = params.toString();
+      if (photo.sampleId) {const study = new URL(studyHref(photo.sampleId, settings, region), url.origin); url.pathname = study.pathname; url.search = study.search; url.hash = "";} else url.hash = params.toString();
     }
     if (navigator.share) {
       try { await navigator.share({title: "Color Study", text: "Look a little closer. Explore textiles and surviving paint, try your own photograph, and help grow an open photo collection.", url: url.href}); return; }
@@ -252,7 +245,6 @@ export default function ColorStudy() {
     download(new Blob([content], { type: "text/markdown" }), "color-study-targets.md");
   }
   const visibleTargets = targets.filter(item => (filter === "All" || item.kind === filter) && `${item.name} ${item.location} ${item.material} ${item.why}`.toLowerCase().includes(query.toLowerCase()));
-  const activeRegion = draftRegion || region;
   const selectedSample = sourceData.find(item => item.id === photo?.sampleId);
 
   return <div className="app-shell">
@@ -267,7 +259,7 @@ export default function ColorStudy() {
     {notice && <div className="message notice" role="status">{notice}<button onClick={() => setNotice("")} aria-label="Dismiss notice">&#215;</button></div>}
     <main>
       {tab === "showcase" && <Showcase onCollection={openCollection} onStudy={openStudy} onLab={() => switchTab("lab")} onCommunity={() => switchTab("community")} onGuide={() => switchTab("targets")} onShare={share} />}
-      {catalogOpened && <div hidden={tab !== "collection"}><Catalog key={catalogCollection} collection={catalogCollection} onCollection={openCollection} onStudy={openStudy} onContribute={() => switchTab("community")} /></div>}
+      {tab === "collection" && <div><Catalog key={catalogCollection} collection={catalogCollection} onCollection={openCollection} onStudy={openStudy} onContribute={() => switchTab("community")} /></div>}
       {communityOpened && <div hidden={tab !== "community"}><Community onPhoto={openCommunity} onShare={share} /></div>}
       {tab === "lab" && <div className="lab" onDragOver={event => { if (event.dataTransfer.types.includes("Files")) { event.preventDefault(); setDragging(true); } }} onDragLeave={event => { if (!event.currentTarget.contains(event.relatedTarget as Node)) setDragging(false); }} onDrop={event => { event.preventDefault(); setDragging(false); pickFile(event.dataTransfer.files[0]); }}>
         {dragging && <div className="drop-overlay">Drop a photograph to begin.</div>}
@@ -275,7 +267,7 @@ export default function ColorStudy() {
           <div className="intro-block"><p className="eyebrow">A PHOTOGRAPHIC FIELD LAB</p><h1>Look a little<br /><em>closer.</em></h1><p>Explore surviving paint in murals, cave art and sculpture. Start with a study or your own photograph.</p></div>
           <button className="button import-button" disabled={exporting} onClick={() => inputRef.current?.click()}><span aria-hidden="true">+</span> Open your photo</button>
           <p className="local-note"><span className="status-dot" /> Your photo stays in this browser.</p>
-          <div className="control-section"><p className="section-label">01 / CHOOSE A STUDY</p><div className="sample-grid">{sourceData.filter(item => item.study_type === "paint").slice(0, 6).map(item => <button key={item.id} className={`sample ${photo?.sampleId === item.id ? "chosen" : ""}`} disabled={busy} onClick={() => void loadPhoto(item)} aria-pressed={photo?.sampleId === item.id}><img src={`/thumbnails/${item.id}.jpg`} alt="" /><span>{labels[item.id]}</span></button>)}</div><label className="study-picker" htmlFor="study">Browse all {sourceData.length} photographs<select id="study" disabled={busy} value={photo?.sampleId || ""} onChange={event => { const chosen = sourceData.find(item => item.id === event.target.value); if (chosen) void loadPhoto(chosen); }}><option value="" disabled>Select a study</option>{[["textile", "Textiles / dyes and painted cloth"], ["paint", "Painted surfaces"], ["limits", "Technique limits / original studies"]].map(([group, title]) => <optgroup key={group} label={title}>{sourceData.filter(item => item.study_type === group).map(item => <option key={item.id} value={item.id}>{item.short_title} · {(item.expected_dimensions[0] * item.expected_dimensions[1] / 1000000).toFixed(1)} MP</option>)}</optgroup>)}</select></label></div>
+          <div className="control-section"><p className="section-label">01 / CHOOSE A STUDY</p><div className="sample-grid">{sourceData.filter(item => item.study_type === "paint").slice(0, 6).map(item => <button key={item.id} className={`sample ${photo?.sampleId === item.id ? "chosen" : ""}`} disabled={busy} onClick={() => openStudy(item.id)} aria-pressed={photo?.sampleId === item.id}><img src={`/thumbnails/${item.id}.jpg`} alt="" /><span>{labels[item.id]}</span></button>)}</div><label className="study-picker" htmlFor="study">Browse all {sourceData.length} photographs<select id="study" disabled={busy} value={photo?.sampleId || ""} onChange={event => { const chosen = sourceData.find(item => item.id === event.target.value); if (chosen) openStudy(chosen.id); }}><option value="" disabled>Select a study</option>{[["textile", "Textiles / dyes and painted cloth"], ["paint", "Painted surfaces"], ["limits", "Technique limits / original studies"]].map(([group, title]) => <optgroup key={group} label={title}>{sourceData.filter(item => item.study_type === group).map(item => <option key={item.id} value={item.id}>{item.short_title} · {(item.expected_dimensions[0] * item.expected_dimensions[1] / 1000000).toFixed(1)} MP</option>)}</optgroup>)}</select></label></div>
           <fieldset className="control-section" disabled={!photo || busy}>
             <legend className="section-label">02 / ADJUST THE COLOR</legend>
             <label className="slider-label" htmlFor="strength">Color separation <output>{settings.targetStd}</output></label><input id="strength" type="range" min="12" max="65" value={settings.targetStd} onChange={event => setSettings(old => ({ ...old, targetStd: Number(event.target.value) }))} /><div className="range-captions"><span>Gentle</span><span>Strong</span></div>
@@ -287,24 +279,20 @@ export default function ColorStudy() {
             <p className="help">{selecting ? "Drag a rectangle on the photo, or use the center area below." : region ? "The transform is fitted to your rectangle and applied to the full photo." : "Use a selected surface to keep other colors from dominating the calculation."}</p>
             <div className="small-actions"><button type="button" onClick={() => { setRegion([.2, .2, .8, .8]); setSelecting(false); }}>Use center area</button>{selectedSample && <button type="button" onClick={() => { setRegion(selectedSample.focus_box_fraction as Region); setSettings(old => ({ ...old, targetStd: 34 })); setSelecting(false); }}>Study area</button>}</div>
           </fieldset>
-          <div className="sidebar-bottom"><button className="text-button" disabled={busy} onClick={() => { setSettings(DEFAULTS); setRegion(null); setSelecting(false); setSplit(50); }}>Reset adjustments</button><button className="text-button" disabled={!fit || busy || processing} onClick={saveRecipe}>Save record</button></div>
+          <details className="keyboard-area"><summary>Set fitting area with the keyboard</summary><form key={region?.join(",") || "whole"} onSubmit={event => {
+            event.preventDefault(); if (busy || !photo) return; const values = new FormData(event.currentTarget); const box = ["left", "top", "right", "bottom"].map(key => Number(values.get(key)) / 100) as Region;
+            if (box.some(x => !Number.isFinite(x) || x < 0 || x > 1) || box[2] - box[0] < .01 || box[3] - box[1] < .01) {setNotice("Use an area at least 1% wide and high, with right after left and bottom after top."); return;}
+            setRegion(box); setSelecting(false); setNotice("");
+          }}><div className="area-inputs">{["left", "top", "right", "bottom"].map((label, index) => <label key={label}>{label} (%)<input aria-label={`Area ${label} (%)`} name={label} type="number" min="0" max="100" step="0.1" required defaultValue={Math.round((region || [.2, .2, .8, .8])[index] * 1000) / 10} /></label>)}</div><button className="button ghost" disabled={!photo || busy}>Apply area</button></form></details>
+          <div className="sidebar-bottom"><button className="text-button" disabled={busy} onClick={() => { setSettings(DEFAULTS); setRegion(null); setSelecting(false); }}>Reset adjustments</button><button className="text-button" disabled={!fit || busy || processing} onClick={saveRecipe}>Save record</button></div>
         </aside>
         <section className="workspace" aria-label="Before and after image comparison">
           <div className="workspace-heading"><div><p className="eyebrow">{photo?.communityId ? "FROM THE COMMUNITY COLLECTION" : photo?.sampleId ? "FROM THE STUDY COLLECTION" : "YOUR PHOTOGRAPH"}</p><h2>{photo ? photo.sampleId ? labels[photo.sampleId] : photo.name : "Preparing the image lab"}</h2></div><button className="button export-button" onClick={exportImage} disabled={!fit || busy || processing}>{exporting ? `Exporting ${progress}%` : "Export PNG"}<span aria-hidden="true">&#8595;</span></button></div>
-          <div className="viewer-toolbar"><div className="comparison-modes" role="group" aria-label="Comparison mode">{[[100, "Original"], [50, "Compare"], [0, "Enhanced"]].map(([value, label]) => <button key={label} disabled={!after} aria-pressed={split === value} className={split === value ? "selected" : ""} onClick={() => { setSplit(Number(value)); setSelecting(false); }}>{label}</button>)}</div><span className="false-color-badge"><span /> False-color enhancement</span></div>
-          <div className="stage" ref={stageRef}>
-            {before && <div className="image-frame" ref={frameRef} style={{ width: frameSize.width || "100%", height: frameSize.height || "100%", "--split": `${split}%` } as CSSProperties}>
-              <img className="original-image" src={before} alt={`Original photograph: ${photo?.name}`} draggable={false} />
-              {after && <img className="enhanced-image" src={after} alt={`False-color enhancement of ${photo?.name}`} draggable={false} />}
-              {after && !selecting && <><span className="divider" aria-hidden="true"><span className="divider-grip">&#8249; &#8250;</span></span><input className="comparison-range" type="range" min="0" max="100" step="0.1" value={split} aria-label="Before and after divider" aria-valuetext={`${Math.round(split)} percent original`} onChange={event => setSplit(Number(event.target.value))} /></>}
-              {activeRegion && <div className="selection-box" style={{ left: `${activeRegion[0] * 100}%`, top: `${activeRegion[1] * 100}%`, width: `${(activeRegion[2] - activeRegion[0]) * 100}%`, height: `${(activeRegion[3] - activeRegion[1]) * 100}%` }}><span>Fitting area</span></div>}
-              {selecting && <div className="selection-layer" onPointerDown={startSelection} onPointerMove={moveSelection} onPointerUp={endSelection} onPointerCancel={() => { pointerStart.current = null; setDraftRegion(null); }} tabIndex={0} role="group" aria-label="Draw a fitting area; Escape cancels, Enter uses center area" onKeyDown={event => { if (event.key === "Escape") setSelecting(false); if (event.key === "Enter") { setRegion([.2, .2, .8, .8]); setSelecting(false); } }} />}
-              <span className="image-badge original-badge">Original</span>{after && <span className="image-badge enhanced-badge">Enhanced</span>}
-            </div>}
-            {(loading || processing || exporting) && <div className="processing-status" role="status"><span className="spinner" />{loading ? "Opening original photo..." : exporting ? `Rendering full resolution: ${progress}%` : "Calculating color separation..."}</div>}
-          </div>
+          {photo && before && <StudyViewer key={photo.imageId} width={photo.width} height={photo.height} name={photo.name} before={before} after={after} renderKey={renderKey} busy={busy || processing} selecting={selecting} region={region} focusArea={focusArea} onRegion={box => {setRegion(box); setSelecting(false);}} onCancelSelection={() => setSelecting(false)} renderViewport={renderViewport} />}
+          {(loading || processing || exporting) && <p className="viewer-help" role="status">{loading ? "Opening original photo…" : exporting ? `Rendering full resolution: ${progress}%` : "Calculating color separation…"}</p>}
           <div className="image-footer"><span>{photo ? `${photo.width.toLocaleString()} x ${photo.height.toLocaleString()} source pixels` : "Loading study"}</span><span>{selecting ? "Draw on the image to choose a surface" : "Drag the divider to compare"}</span><span>{photo ? `${(photo.width * photo.height / 1000000).toFixed(1)} MP / native export` : "Native-size export"}</span></div>
           {photo && <div className="source-caption"><p>{photo.notes || "Imported photos are processed locally in this tab. They are not uploaded or included in shared links."}</p><div>{photo.author && <>Photo: {photo.author}<br /><a href={photo.source} target="_blank" rel="noopener noreferrer">Original source</a><span> / </span><a href={photo.licenseURL} target="_blank" rel="noopener noreferrer">{photo.license}</a></>}{photo.originalURL && <><br /><a href={photo.originalURL} download>Download source photo</a><br />Enhancements change color; keep this credit and license with shared images.</>}{!photo.author && "Your original file remains unchanged."}</div></div>}
+          {photo?.sampleId && <StudyContext id={photo.sampleId} onInspect={box => {setRegion(box); setFocusArea([...box]); setSelecting(false);}} />}
           {fit && <div className="analysis-foot"><span><i /> {fit.sampleCount.toLocaleString()} color samples</span><span>{(fit.fitClippedFraction * 100).toFixed(1)}% of fitted samples reach a display limit</span>{fit.independentColorAxes < 2 && <span>Limited independent color information</span>}</div>}
         </section>
       </div>}
@@ -314,12 +302,12 @@ export default function ColorStudy() {
         <p className="guide-note"><strong>Still underrepresented:</strong> more original Ice Age cave photographs, Viking and Baltic textiles, eastern European painted objects, the wider Caribbean, many Pacific islands, Central America, and South America beyond the Andes. <a href="/photo-search.md">See the region and era coverage review ↗</a></p>
         <div className="guide-filters"><label className="search-field"><span className="sr-only">Search targets</span><input type="search" placeholder="Search a place, country or material..." value={query} onChange={event => setQuery(event.target.value)} /></label><div className="filter-buttons" role="group" aria-label="Evidence filter">{["All", "Documented", "Candidate", "Exploratory"].map(kind => <button key={kind} className={filter === kind ? "selected" : ""} aria-pressed={filter === kind} onClick={() => setFilter(kind)}>{kind}</button>)}</div></div>
         <p className="results-count" aria-live="polite">{visibleTargets.length} {visibleTargets.length === 1 ? "target" : "targets"}</p>
-        <div className="target-grid">{visibleTargets.map(item => <article className="target-card" key={item.name}><div className="target-card-top"><span className={`evidence-badge ${item.kind.toLowerCase()}`}>{item.kind}</span><span>{item.priority}</span></div><p className="eyebrow">{item.location}</p><h2>{item.name}</h2><p className="material">{item.material}</p><p>{item.why}</p><details><summary>What to photograph</summary><p>{item.photo}</p><p className="target-caveat">{item.caveat}</p></details><div className="target-links"><a href={item.source} target="_blank" rel="noopener noreferrer" title={item.sourceLabel}>Source &amp; evidence <span aria-hidden="true">&#8599;</span></a>{item.sample && <button disabled={busy} onClick={() => { switchTab("lab", false); void loadPhoto(sourceData.find(sample => sample.id === item.sample)!); }}>Try study photo <span aria-hidden="true">&#8594;</span></button>}</div></article>)}</div>
+        <div className="target-grid">{visibleTargets.map(item => <article className="target-card" key={item.name}><div className="target-card-top"><span className={`evidence-badge ${item.kind.toLowerCase()}`}>{item.kind}</span><span>{item.priority}</span></div><p className="eyebrow">{item.location}</p><h2>{item.name}</h2><p className="material">{item.material}</p><p>{item.why}</p><details><summary>What to photograph</summary><p>{item.photo}</p><p className="target-caveat">{item.caveat}</p></details><div className="target-links"><a href={item.source} target="_blank" rel="noopener noreferrer" title={item.sourceLabel}>Source &amp; evidence <span aria-hidden="true">&#8599;</span></a>{item.sample && <button disabled={busy} onClick={() => openStudy(item.sample!)}>Try study photo <span aria-hidden="true">&#8594;</span></button>}</div></article>)}</div>
         {!visibleTargets.length && <p className="empty-results">No matching targets. Try a different place or material.</p>}
         <p className="guide-note">For damaged or overpainted works, compare dated photographs and conservation records. Enhancement alone cannot determine whether a loss was intentional or recover paint hidden by an opaque layer. Candidate ratings are suggestions, not confirmed uses at those sites or claims of undiscovered art. The sources support the site or material description. Use images whose licenses allow modification, and retain their credits when sharing an enhancement.</p>
       </section>}
       {tab === "method" && <section className="method-page"><p className="eyebrow">THE TECHNIQUE</p><h1>A new view.<br /><em>The same pixels.</em></h1><div className="method-grid"><div><h2>Color carries clues.</h2><p>In many photographs, red, green and blue change together. Their shared brightness variation can hide much smaller differences in color. Decorrelation stretch separates those directions of variation, expands them, and maps the result back into RGB.</p><p>NASA’s <a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images" target="_blank" rel="noopener noreferrer">article about ancient images</a> describes the technique behind DStretch. This app implements its underlying principle independently, using regularized RGB covariance analysis. It does not reproduce DStretch’s custom color spaces.</p></div><div><h2>Make a useful comparison.</h2><ol><li>Open an original color photograph or a study example.</li><li>Adjust color separation gently. The amplification limit helps restrain weak signals.</li><li>Select a surface if unrelated colors dominate the full image.</li><li>Compare against the original and export a PNG with a separate processing record.</li></ol></div><div><h2>What the result means.</h2><p>The output is false color. It may clarify surviving pigment and faded outlines, and can also amplify lighting, surface staining and noise. Reconstructing original appearance requires separate evidence about pigments, conservation and missing areas. It does not identify pigments, date markings, see through walls or recover information absent from the original.</p><p>Grayscale images offer little independent color information. Engravings with no pigment may be better studied with controlled lighting or 3D methods.</p></div><div><h2>Your images stay with you.</h2><p>In the image lab, imported files are decoded and processed locally in a browser worker. Closing the tab clears the working image. The separate contribution form publishes a JPEG copy only after you choose to share it and agree to its public reuse license.</p><p>Previews are reduced for responsiveness. Exports apply the same fitted transform to every source pixel at its decoded native size, up to 64 MP and a 16,000-pixel edge, subject to browser memory. The record includes the file hash, matrix, sample region, settings and source credit.</p></div></div><details className="technical-details"><summary>The calculation and its limits</summary><p>For mean color mu and covariance C = V diag(lambda) V^T, the transform is A = V diag(gain) V^T, with gain = min(limit, strength / sqrt(max(lambda, 4))). Output color is A(x - mu) + (127.5, 127.5, 127.5), clipped and rounded to 8-bit RGB. A two-unit noise floor and the amplification limit regularize weak axes.</p><p>A nearest-neighbor grid with a longest edge of 720 pixels estimates the fitting colors. Nearly transparent pixels, deep shadows and near-clipped channels are excluded from fitting; the fitted transform is applied to the whole image. Display-limit statistics refer to retained fitting samples only. Browser decoding handles orientation and converts the working canvas to sRGB; results can differ slightly from other decoders or DStretch presets.</p><p><a href="https://www.dstretch.com/AlgorithmDescription.html" target="_blank" rel="noopener noreferrer">Read Jon Harman’s algorithm description</a> or <a href="/dcs-core.mjs" target="_blank" rel="noopener">inspect the app’s implementation</a>.</p></details></section>}
     </main>
-    <footer className="app-footer"><span>Color Study <span className="footer-dot">/</span> Look a little closer.</span><div className="footer-links"><button className="text-button" onClick={() => switchTab("method")}>How it works</button><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">NASA article ↗</a><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Open source on GitHub ↗</a><a href={BUY_ME_A_COFFEE} target="_blank" rel="noopener noreferrer">Buy me a coffee ↗</a><button className="text-button" onClick={share}>Share the link ↗</button></div></footer>
+    <footer className="app-footer"><span>Color Study <span className="footer-dot">/</span> Look a little closer.</span><div className="footer-links"><span className="other-projects">Other projects: <a href={NIGHTINGALE_OS} target="_blank" rel="noopener noreferrer">Nightingale OS ↗</a></span><button className="text-button" onClick={() => switchTab("method")}>How it works</button><a href={NASA_ARTICLE} target="_blank" rel="noopener noreferrer">NASA article ↗</a><a href={REPOSITORY} target="_blank" rel="noopener noreferrer">Open source on GitHub ↗</a><a href={BUY_ME_A_COFFEE} target="_blank" rel="noopener noreferrer">Buy me a coffee ↗</a><button className="text-button" onClick={share}>Share the link ↗</button></div></footer>
   </div>;
 }

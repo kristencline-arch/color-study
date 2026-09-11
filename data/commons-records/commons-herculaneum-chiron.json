@@ -1,0 +1,92 @@
+{
+  "pageid": 138538760,
+  "ns": 6,
+  "title": "File:Achilles and Chiron fresco from the Basilica (Herculaneum).jpg",
+  "index": 6,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1380316,
+      "width": 1713,
+      "height": 1684,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Achilles_and_Chiron_fresco_from_the_Basilica_%28Herculaneum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Achilles_and_Chiron_fresco_from_the_Basilica_(Herculaneum).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138538760",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-10-06 07:06:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Achilles and Chiron fresco from the Basilica (Herculaneum)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Achilles and Chiron fresco from the Basilica (Herculaneum)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Achilles and Chiron fresco from the Basilica (Herculaneum), Museo Archeologico (Naples)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-09-28 09:21:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

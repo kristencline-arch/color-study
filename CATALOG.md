@@ -2,14 +2,14 @@
 
 [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) · [Download the database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all) · [Image files](public/originals/)
 
-The September 2026 collection contains **608 photographs and scans, including 169 textiles and 113 scroll or manuscript views**. There are 424 museum API imports, 173 additional field or archive images, and the original eleven studies. This batch adds 64 images: six original Palaeolithic cave views, one Azilian painted pebble from the Late Glacial–early Holocene transition, and 57 early medieval views. Two new collections make these periods directly browsable. Europe now has 220 images; Pompeii and Rome has 38, including five early medieval Santa Maria Antiqua views. The 17 groupings overlap and count images rather than unique artifacts. See the [region and era coverage review](public/photo-search.md).
+The September 2026 collection contains **648 photographs and scans, including 171 textiles and 115 scroll or manuscript views**. There are 424 museum API imports, 213 additional field or archive images, and the original eleven studies. The latest 40 additions include Amenemhat’s tomb at Beni Hasan, Herculaneum, Oplontis, Stabiae, Mari, Erebuni, Dunhuang, Faras, Pazyryk and a Khmer sculpture with later lacquer. There are 56 prepared comparisons and 17 overlapping collections. Counts describe photographs, not unique artifacts. See the [coverage review](public/photo-search.md).
 
 This is a curated starting collection, not a comprehensive inventory of ancient art. Images were selected for surviving dyes or paint, useful resolution, available original bytes and clear reuse rights. The two existing technique-limit examples remain explicitly labeled. Visually similar Teotihuacán fragments from Cleveland and Chicago are separate objects, with different accession numbers and dimensions.
 
 ## Files and licenses
 
 - `public/sources.json` is the complete curated catalog. Stable IDs keep existing study links working.
-- `public/originals/` holds unmodified museum or source JPEGs. The 608 originals total approximately 2,643 MiB. Four Keldby originals use the JPEG-based MPO container: their auxiliary images are preserved, and the study uses the first image (`study_frame: 0`). The importer validates cached files as well as new downloads. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
+- `public/originals/` holds unmodified museum or source JPEGs. The 648 originals total approximately 2,853 MiB. Four Keldby originals use the JPEG-based MPO container: their auxiliary images are preserved, and the study uses the first image (`study_frame: 0`). The importer validates cached files as well as new downloads. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
 - `public/thumbnails/` contains resized, orientation-corrected sRGB derivatives. Original bytes are unchanged.
 - `data/museum-selection.json` records the explicit selection, categories and study guidance.
 - `data/museum-records/` contains museum API snapshots, including image-rights flags, dates and accession numbers. Chicago image-service snapshots retain the advertised native dimensions.
@@ -49,7 +49,7 @@ Museum dates are not independently established by this project. Legacy photograp
 
 ```text
 /api/catalog?collection=egypt&category=Textiles
-/api/catalog?collection=rome
+/api/catalog?collection=rome&from=-100&to=79
 /api/catalog?category=Textiles&region=Andes
 /api/catalog?q=painted%20cotton&before=500
 /api/catalog?provider=Cleveland%20Museum%20of%20Art&sort=oldest&page=2
@@ -57,9 +57,9 @@ Museum dates are not independently established by this project. Legacy photograp
 /api/catalog/cma-294034
 ```
 
-`collection` accepts the IDs in `public/collections.json`: `egypt`, `rome`, `greece`, `europe`, `ice-age-europe`, `early-medieval-europe`, `mesopotamia`, `persia`, `textiles`, `asia`, `macedonia`, `oceania`, `caribbean`, `indigenous-north-america`, `manuscripts`, `south-america`, `africa`. It combines with the other filters. Unknown collection IDs return 400. Shared collection links use `#collection=egypt`, for example.
+`collection` accepts the IDs in `public/collections.json`: `egypt`, `rome`, `greece`, `europe`, `ice-age-europe`, `early-medieval-europe`, `mesopotamia`, `persia`, `textiles`, `asia`, `macedonia`, `oceania`, `caribbean`, `indigenous-north-america`, `manuscripts`, `south-america`, `africa`. It combines with the other filters. Unknown collection IDs return 400. New shared collection links use `/?collection=egypt#collection` and retain other filters. Older `#collection=egypt` links still work.
 
-`q` matches all supplied words, case- and accent-insensitively, as literal text. `before` accepts 500, 1000 or 1500 and uses the latest year of an object's range; undated records are excluded. `sort` accepts `featured`, `oldest` or `newest`. Date sorts place undated records last. `download=all` exports all matching records. API responses add absolute image, thumbnail and lab-study links.
+`q` matches all supplied words, case- and accent-insensitively, as literal text. `before` accepts 500, 1000 or 1500 and uses the latest year of an object's range; undated records are excluded. `from` and `to` accept integer calendar years from -50000 to 2100, excluding zero. A record must have each required bound; its dated interval must overlap the requested range. An inverted range is rejected. The existing strict `before` filter can be combined with these bounds. `sort` accepts `featured`, `oldest` or `newest`. Date sorts place undated records last. `download=all` exports all matching records. API responses add absolute image, thumbnail and lab-study links.
 
 `GET /api/dataset?download=all` exports the curated catalog plus the complete live community collection. Version 2 retains the existing `curated` and `contributions` arrays and adds `catalog_revision` and `curated_metadata_license`. The paginated alternative at `/api/dataset` includes the curated catalog only on the first page. No private removal keys, internal storage keys or rate-limit identifiers are exported.
 
@@ -92,3 +92,11 @@ Commons can summarize an ancient artwork as public domain while the photographer
 ## Ice Age and early medieval image context
 
 The Ice Age group contains original cave-surface photographs from Altxerri, Pech Merle and Bernifal, plus one clearly labeled Azilian transition object. Dates in years BP remain in their original convention; approximate cultural attribution is not converted into a falsely precise calendar date. The source collage of the Azilian pebble shows several views of one object. Early medieval additions include library scans and six explicitly identified published color reproductions; printing and scanning can affect their recorded colors. These are not new direct captures of the walls. The original source files remain unmodified.
+
+## Study navigation, context and reports
+
+`public/object-groups.json` groups related images by site, object or manuscript. It does not claim a complete unique-object census. `public/study-notes.json` provides observation prompts and normalized rectangles; `public/context-references.json` separates external research and reconstructions from ancient source photographs. `public/social-previews.json` records source hashes, credits, licenses and any comparison settings used in sharing cards.
+
+Curated `study_url` values use `/study/<id>`. Optional `strength`, `gain` and `area` parameters preserve processing settings; `area=whole` explicitly restores whole-image fitting. A region changes the fitting sample, not the original bytes. Both viewer layers share the same pan and magnification, and the worker processes a bounded native crop for detailed viewing.
+
+`POST /api/reports` accepts a private, bounded report without a visitor account. Owner-only GET/PATCH endpoints use the existing server admin token. Reports never enter the public dataset or automatically remove a photograph. See [OWNER-GUIDE.md](OWNER-GUIDE.md).

@@ -92,7 +92,7 @@ test('curated collections preserve explicit membership, combine with materials a
 test('detail links open the selected lab study and export only the filtered public records', async () => {
   const {photo} = await page('/api/catalog/cma-294034');
   assert.equal(photo.id, 'cma-294034');
-  assert.equal(new URL(photo.study_url).hash, '#sample=cma-294034');
+  assert.equal(new URL(photo.study_url).pathname, '/study/cma-294034');
   assert.equal(photo.image_url, origin + '/originals/cma-294034.jpg');
   assert.ok(photo.master_dimensions[0] > photo.expected_dimensions[0]);
   assert.equal(photo.master_format, 'TIFF');
@@ -114,6 +114,15 @@ test('invalid filters fail clearly, unknown IDs stay missing and public catalog 
   assert.equal((await send('/api/catalog/no-such-photo')).status, 404);
   for (const method of ['POST', 'DELETE', 'PUT']) assert.equal((await send('/api/catalog/cma-294034', {method})).status, 405);
   assert.equal((await send('/api/catalog', undefined, {})).status, 503);
+});
+
+test('BCE and CE date intervals include overlapping ranges and preserve legacy before filters', async () => {
+  const result = await page('/api/catalog?from=-1000&to=500&download=all');
+  const expected = sources.filter(p => p.year_end !== null && p.year_start !== null && p.year_end >= -1000 && p.year_start <= 500);
+  assert.deepEqual(new Set(result.photos.map(p => p.id)), new Set(expected.map(p => p.id)));
+  const combined = await page('/api/catalog?collection=egypt&category=Textiles&from=-3000&to=1000&download=all');
+  assert.ok(combined.photos.every(p => p.collections.includes('egypt') && p.category === 'Textiles' && p.year_end >= -3000 && p.year_start <= 1000));
+  for (const query of ['from=0', 'to=1.5', 'from=500&to=-500', 'from=-50001', 'to=99999', 'from=1%20OR%201']) assert.equal((await send('/api/catalog?' + query)).status, 400);
 });
 
 test('imported museum and field originals resolve to the exact archived image release without arbitrary redirects', async () => {

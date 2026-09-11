@@ -1,0 +1,88 @@
+{
+  "pageid": 6238089,
+  "ns": 6,
+  "title": "File:Herculaneum - Lyre and Cupids.jpg",
+  "index": 20,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1267424,
+      "width": 1473,
+      "height": 2620,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Herculaneum_-_Lyre_and_Cupids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herculaneum_-_Lyre_and_Cupids.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6238089",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-03-15 14:34:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Herculaneum - Lyre and Cupids",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Paintings of Cupid|PD-Art (PD-old-100)|Featured pictures on Wikipedia, Hebrew|CC-PD-Mark|Lyres in art|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Files with Assessments template missing SDC Commons no value quality assessment|Cupids in ancient Roman art|Cupid presenting wreath|Ancient Roman frescos from the Augusteum-Basilica (Herculanum)|Ancient Roman frescos of Herculanum|Cupid with lyre",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Herculanum (deposit) - Cupids playing with a lyre.\nRoman fresco from Herculanum (perhaps the Basilica) (detail).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-03-15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Filippo Coarelli (ed.): Pompeji. Hirmer, München 2002, <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3-7774-9530-1\" title=\"Special:BookSources/3-7774-9530-1\">3-7774-9530-1</a>, p. 167",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "WolfgangRieger",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

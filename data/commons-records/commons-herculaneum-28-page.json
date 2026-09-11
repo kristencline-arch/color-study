@@ -1,0 +1,19 @@
+{
+  "pageid": 142948188,
+  "ns": 6,
+  "title": "File:Herculaneum 20230625 28.jpg",
+  "revisions": [
+    {
+      "revid": 1265817753,
+      "parentid": 1131797679,
+      "timestamp": "2026-08-23T02:54:26Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Herculaneum}}\n|date=2023-06-25 11:24:50\n|source={{own}}\n|author=Argo Navis\n|permission=\n|other versions=\n}}\n{{Location|40.806778|14.347732}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Ancient Roman frescos in Herculaneum]]"
+        }
+      }
+    }
+  ]
+}

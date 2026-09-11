@@ -1,0 +1,19 @@
+{
+  "pageid": 14740332,
+  "ns": 6,
+  "title": "File:Pazyryk.jpg",
+  "revisions": [
+    {
+      "revid": 1262398831,
+      "parentid": 781745701,
+      "timestamp": "2026-08-16T22:05:49Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|Description    ={{nl|1=Pazyryk tapijt. ± 300/500 v.chr.}}\n|Source         ={{own}}\n|Author         =[[User:VincentKeers|VincentKeers]]\n|Date           =\n|Permission     =\n|other_versions =\n}}\n\n== {{int:license-header}} ==\n{{PD-Art-100}}\n{{self|Cc-zero}}\n\n[[Category:Perzisch tapijt]]\n[[Category:Pazyryk carpet]]\n[[Category:Iron Age textiles]]"
+        }
+      }
+    }
+  ]
+}

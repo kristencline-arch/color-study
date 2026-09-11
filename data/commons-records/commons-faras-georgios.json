@@ -1,0 +1,88 @@
+{
+  "pageid": 74851876,
+  "ns": 6,
+  "title": "File:Georgios III (Faras).jpg",
+  "index": 11,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3390689,
+      "width": 2380,
+      "height": 5288,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Georgios_III_%28Faras%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Georgios_III_(Faras).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74851876",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-12-04 19:14:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Georgios III (Faras)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Faras|PD-old-100-expired|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|George III of Makuria",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wall painting of king Georgios III (late 10th century) of Makuria, Faras.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "circa 1000<div style=\"display: none;\">date QS:P,+1000-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "François-Xavier Fauvelle (2017): \"Das goldene Rhinozeros: Afrika im Mittelalter\"",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

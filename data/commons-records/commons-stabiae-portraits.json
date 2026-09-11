@@ -1,0 +1,105 @@
+{
+  "pageid": 150866243,
+  "ns": 6,
+  "title": "File:Ancient Roman fresco medallion with portraits of a man and a woman (Villa Arianna, Stabiae).jpg",
+  "index": 13,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 4825169,
+      "width": 2559,
+      "height": 2559,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ancient_Roman_fresco_medallion_with_portraits_of_a_man_and_a_woman_%28Villa_Arianna%2C_Stabiae%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_fresco_medallion_with_portraits_of_a_man_and_a_woman_(Villa_Arianna,_Stabiae).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150866243",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-07-26 23:50:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ancient Roman fresco medallion with portraits of a man and a woman (Villa Arianna, Stabiae)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Stabiae|Self-published work|Files with coordinates missing SDC location of creation|Frescoes from Villa Arianna in the Archaeological Museum of Stabia",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.685078",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.489153",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fresco fragment depicting a medallion set into a diamond shape, with portraits of a man and a woman. The man seems to be whispering into the woman's ear; very similar to medallions from the House of the Golden Bracelet in Pompeii. From the Villa Arianna, ancient Stabiae. \n1st century CE. Stabia Archaeological Museum (64179)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-04 13:45:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chappsnet\" title=\"User:Chappsnet\">Chappsnet</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

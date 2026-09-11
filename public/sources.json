@@ -10512,7 +10512,7 @@
       3614
     ],
     "size_bytes": 4949875,
-    "catalog_order": 1,
+    "catalog_order": 11,
     "collections": [
       "rome",
       "europe"
@@ -14806,7 +14806,7 @@
       931
     ],
     "size_bytes": 2556655,
-    "catalog_order": 30,
+    "catalog_order": 303,
     "collections": [
       "asia",
       "manuscripts"
@@ -14865,7 +14865,7 @@
       363
     ],
     "size_bytes": 86072,
-    "catalog_order": 303,
+    "catalog_order": 304,
     "collections": [
       "asia",
       "manuscripts"
@@ -14924,7 +14924,7 @@
       311
     ],
     "size_bytes": 807681,
-    "catalog_order": 304,
+    "catalog_order": 305,
     "collections": [
       "asia",
       "manuscripts"
@@ -14983,7 +14983,7 @@
       2300
     ],
     "size_bytes": 4899872,
-    "catalog_order": 305,
+    "catalog_order": 306,
     "collections": [
       "asia",
       "manuscripts"
@@ -15042,7 +15042,7 @@
       3400
     ],
     "size_bytes": 3802796,
-    "catalog_order": 306,
+    "catalog_order": 307,
     "collections": [
       "asia",
       "manuscripts"
@@ -15101,7 +15101,7 @@
       3400
     ],
     "size_bytes": 2488950,
-    "catalog_order": 307,
+    "catalog_order": 308,
     "collections": [
       "asia",
       "manuscripts"
@@ -15160,7 +15160,7 @@
       3400
     ],
     "size_bytes": 1181413,
-    "catalog_order": 308,
+    "catalog_order": 309,
     "collections": [
       "asia",
       "manuscripts"
@@ -15219,7 +15219,7 @@
       3400
     ],
     "size_bytes": 1388268,
-    "catalog_order": 309,
+    "catalog_order": 310,
     "collections": [
       "asia",
       "manuscripts"
@@ -15278,7 +15278,7 @@
       3400
     ],
     "size_bytes": 1126202,
-    "catalog_order": 31,
+    "catalog_order": 311,
     "collections": [
       "asia",
       "manuscripts"
@@ -15337,7 +15337,7 @@
       3400
     ],
     "size_bytes": 1575553,
-    "catalog_order": 310,
+    "catalog_order": 312,
     "collections": [
       "asia",
       "manuscripts"
@@ -15396,7 +15396,7 @@
       1915
     ],
     "size_bytes": 1047967,
-    "catalog_order": 311,
+    "catalog_order": 313,
     "collections": [
       "asia"
     ]
@@ -15454,7 +15454,7 @@
       3400
     ],
     "size_bytes": 1724725,
-    "catalog_order": 312,
+    "catalog_order": 314,
     "collections": [
       "asia"
     ]
@@ -15512,7 +15512,7 @@
       2080
     ],
     "size_bytes": 1392674,
-    "catalog_order": 313,
+    "catalog_order": 315,
     "collections": [
       "asia",
       "manuscripts"
@@ -15571,7 +15571,7 @@
       1353
     ],
     "size_bytes": 1034415,
-    "catalog_order": 314,
+    "catalog_order": 316,
     "collections": [
       "asia",
       "manuscripts"
@@ -15630,7 +15630,7 @@
       3400
     ],
     "size_bytes": 1600282,
-    "catalog_order": 315,
+    "catalog_order": 317,
     "collections": [
       "asia",
       "manuscripts"
@@ -15689,7 +15689,7 @@
       3400
     ],
     "size_bytes": 4808227,
-    "catalog_order": 316,
+    "catalog_order": 318,
     "collections": [
       "asia",
       "manuscripts"
@@ -15748,7 +15748,7 @@
       3400
     ],
     "size_bytes": 2264614,
-    "catalog_order": 317,
+    "catalog_order": 319,
     "collections": [
       "asia",
       "manuscripts"
@@ -15807,7 +15807,7 @@
       2658
     ],
     "size_bytes": 2602538,
-    "catalog_order": 22,
+    "catalog_order": 32,
     "collections": [
       "asia",
       "manuscripts"
@@ -15866,7 +15866,7 @@
       3400
     ],
     "size_bytes": 1864418,
-    "catalog_order": 318,
+    "catalog_order": 320,
     "collections": [
       "asia",
       "manuscripts"
@@ -15925,7 +15925,7 @@
       352
     ],
     "size_bytes": 556080,
-    "catalog_order": 319,
+    "catalog_order": 321,
     "collections": [
       "asia",
       "manuscripts"
@@ -15984,7 +15984,7 @@
       344
     ],
     "size_bytes": 525445,
-    "catalog_order": 320,
+    "catalog_order": 322,
     "collections": [
       "asia",
       "manuscripts"
@@ -16043,7 +16043,7 @@
       325
     ],
     "size_bytes": 505832,
-    "catalog_order": 321,
+    "catalog_order": 323,
     "collections": [
       "asia",
       "manuscripts"
@@ -16102,7 +16102,7 @@
       508
     ],
     "size_bytes": 826309,
-    "catalog_order": 322,
+    "catalog_order": 324,
     "collections": [
       "asia",
       "manuscripts"
@@ -16161,7 +16161,7 @@
       508
     ],
     "size_bytes": 804086,
-    "catalog_order": 323,
+    "catalog_order": 325,
     "collections": [
       "asia",
       "manuscripts"
@@ -16220,7 +16220,7 @@
       508
     ],
     "size_bytes": 622899,
-    "catalog_order": 324,
+    "catalog_order": 326,
     "collections": [
       "asia",
       "manuscripts"
@@ -16279,7 +16279,7 @@
       508
     ],
     "size_bytes": 777596,
-    "catalog_order": 29,
+    "catalog_order": 327,
     "collections": [
       "asia",
       "manuscripts"
@@ -16338,7 +16338,7 @@
       508
     ],
     "size_bytes": 817350,
-    "catalog_order": 325,
+    "catalog_order": 328,
     "collections": [
       "asia",
       "manuscripts"
@@ -16397,7 +16397,7 @@
       744
     ],
     "size_bytes": 941189,
-    "catalog_order": 326,
+    "catalog_order": 329,
     "collections": [
       "asia",
       "manuscripts"
@@ -16456,7 +16456,7 @@
       916
     ],
     "size_bytes": 1131547,
-    "catalog_order": 327,
+    "catalog_order": 330,
     "collections": [
       "asia",
       "manuscripts"
@@ -16515,7 +16515,7 @@
       621
     ],
     "size_bytes": 721653,
-    "catalog_order": 328,
+    "catalog_order": 331,
     "collections": [
       "asia",
       "manuscripts"
@@ -16574,7 +16574,7 @@
       793
     ],
     "size_bytes": 1125172,
-    "catalog_order": 329,
+    "catalog_order": 332,
     "collections": [
       "asia",
       "manuscripts"
@@ -16633,7 +16633,7 @@
       1205
     ],
     "size_bytes": 1698837,
-    "catalog_order": 330,
+    "catalog_order": 333,
     "collections": [
       "asia",
       "manuscripts"
@@ -16692,7 +16692,7 @@
       1520
     ],
     "size_bytes": 1920616,
-    "catalog_order": 331,
+    "catalog_order": 334,
     "collections": [
       "asia",
       "manuscripts"
@@ -16751,7 +16751,7 @@
       2623
     ],
     "size_bytes": 5405845,
-    "catalog_order": 332,
+    "catalog_order": 335,
     "collections": [
       "asia",
       "manuscripts"
@@ -16810,7 +16810,7 @@
       3400
     ],
     "size_bytes": 2863331,
-    "catalog_order": 35,
+    "catalog_order": 336,
     "collections": [
       "asia",
       "manuscripts"
@@ -16869,7 +16869,7 @@
       3400
     ],
     "size_bytes": 4565769,
-    "catalog_order": 333,
+    "catalog_order": 337,
     "collections": [
       "asia",
       "manuscripts"
@@ -16928,7 +16928,7 @@
       3400
     ],
     "size_bytes": 2721464,
-    "catalog_order": 334,
+    "catalog_order": 338,
     "collections": [
       "asia",
       "manuscripts"
@@ -16987,7 +16987,7 @@
       919
     ],
     "size_bytes": 1823113,
-    "catalog_order": 335,
+    "catalog_order": 339,
     "collections": [
       "asia",
       "manuscripts"
@@ -17046,7 +17046,7 @@
       919
     ],
     "size_bytes": 1652216,
-    "catalog_order": 336,
+    "catalog_order": 340,
     "collections": [
       "asia",
       "manuscripts"
@@ -17105,7 +17105,7 @@
       919
     ],
     "size_bytes": 1647980,
-    "catalog_order": 337,
+    "catalog_order": 341,
     "collections": [
       "asia",
       "manuscripts"
@@ -17164,7 +17164,7 @@
       919
     ],
     "size_bytes": 1644890,
-    "catalog_order": 338,
+    "catalog_order": 342,
     "collections": [
       "asia",
       "manuscripts"
@@ -17223,7 +17223,7 @@
       919
     ],
     "size_bytes": 1805759,
-    "catalog_order": 339,
+    "catalog_order": 343,
     "collections": [
       "asia",
       "manuscripts"
@@ -17282,7 +17282,7 @@
       919
     ],
     "size_bytes": 1645244,
-    "catalog_order": 340,
+    "catalog_order": 344,
     "collections": [
       "asia",
       "manuscripts"
@@ -17341,7 +17341,7 @@
       3266
     ],
     "size_bytes": 3790573,
-    "catalog_order": 341,
+    "catalog_order": 345,
     "collections": [
       "asia"
     ]
@@ -17399,7 +17399,7 @@
       927
     ],
     "size_bytes": 554456,
-    "catalog_order": 342,
+    "catalog_order": 346,
     "collections": [
       "textiles",
       "south-america"
@@ -17458,7 +17458,7 @@
       2513
     ],
     "size_bytes": 4673977,
-    "catalog_order": 343,
+    "catalog_order": 347,
     "collections": [
       "textiles",
       "south-america"
@@ -17517,7 +17517,7 @@
       1055
     ],
     "size_bytes": 2918960,
-    "catalog_order": 344,
+    "catalog_order": 348,
     "collections": [
       "textiles",
       "south-america"
@@ -17576,7 +17576,7 @@
       3396
     ],
     "size_bytes": 12752761,
-    "catalog_order": 345,
+    "catalog_order": 349,
     "collections": [
       "textiles",
       "south-america"
@@ -17635,7 +17635,7 @@
       3400
     ],
     "size_bytes": 3426194,
-    "catalog_order": 346,
+    "catalog_order": 350,
     "collections": [
       "textiles",
       "south-america"
@@ -17694,7 +17694,7 @@
       2174
     ],
     "size_bytes": 2671622,
-    "catalog_order": 347,
+    "catalog_order": 351,
     "collections": [
       "textiles",
       "south-america"
@@ -17753,7 +17753,7 @@
       2762
     ],
     "size_bytes": 5652604,
-    "catalog_order": 348,
+    "catalog_order": 352,
     "collections": [
       "textiles",
       "south-america"
@@ -17812,7 +17812,7 @@
       3017
     ],
     "size_bytes": 1026172,
-    "catalog_order": 349,
+    "catalog_order": 353,
     "collections": [
       "textiles",
       "south-america"
@@ -17871,7 +17871,7 @@
       1474
     ],
     "size_bytes": 4698459,
-    "catalog_order": 350,
+    "catalog_order": 354,
     "collections": [
       "textiles",
       "south-america"
@@ -17930,7 +17930,7 @@
       1730
     ],
     "size_bytes": 1919036,
-    "catalog_order": 351,
+    "catalog_order": 355,
     "collections": [
       "textiles",
       "south-america"
@@ -17989,7 +17989,7 @@
       2556
     ],
     "size_bytes": 7046449,
-    "catalog_order": 352,
+    "catalog_order": 356,
     "collections": [
       "textiles",
       "south-america"
@@ -18048,7 +18048,7 @@
       3400
     ],
     "size_bytes": 1386377,
-    "catalog_order": 353,
+    "catalog_order": 357,
     "collections": [
       "textiles",
       "south-america"
@@ -18107,7 +18107,7 @@
       3400
     ],
     "size_bytes": 1510195,
-    "catalog_order": 354,
+    "catalog_order": 358,
     "collections": [
       "textiles",
       "south-america"
@@ -18166,7 +18166,7 @@
       801
     ],
     "size_bytes": 2298449,
-    "catalog_order": 355,
+    "catalog_order": 359,
     "collections": [
       "textiles",
       "south-america"
@@ -18225,7 +18225,7 @@
       1163
     ],
     "size_bytes": 2739039,
-    "catalog_order": 356,
+    "catalog_order": 360,
     "collections": [
       "textiles",
       "south-america"
@@ -18284,7 +18284,7 @@
       3400
     ],
     "size_bytes": 1923858,
-    "catalog_order": 357,
+    "catalog_order": 361,
     "collections": [
       "textiles",
       "south-america"
@@ -18343,7 +18343,7 @@
       3320
     ],
     "size_bytes": 2866042,
-    "catalog_order": 358,
+    "catalog_order": 362,
     "collections": [
       "textiles",
       "south-america"
@@ -18402,7 +18402,7 @@
       3400
     ],
     "size_bytes": 2760146,
-    "catalog_order": 359,
+    "catalog_order": 363,
     "collections": [
       "textiles",
       "south-america"
@@ -18461,7 +18461,7 @@
       3400
     ],
     "size_bytes": 3048517,
-    "catalog_order": 23,
+    "catalog_order": 33,
     "collections": [
       "textiles",
       "south-america"
@@ -18520,7 +18520,7 @@
       3400
     ],
     "size_bytes": 6172598,
-    "catalog_order": 360,
+    "catalog_order": 364,
     "collections": [
       "south-america"
     ]
@@ -18578,7 +18578,7 @@
       3400
     ],
     "size_bytes": 6309815,
-    "catalog_order": 361,
+    "catalog_order": 365,
     "collections": [
       "south-america"
     ]
@@ -18636,7 +18636,7 @@
       3400
     ],
     "size_bytes": 2519898,
-    "catalog_order": 362,
+    "catalog_order": 366,
     "collections": [
       "south-america"
     ]
@@ -18694,7 +18694,7 @@
       3400
     ],
     "size_bytes": 5023807,
-    "catalog_order": 363,
+    "catalog_order": 367,
     "collections": [
       "south-america"
     ]
@@ -18752,7 +18752,7 @@
       2758
     ],
     "size_bytes": 6093099,
-    "catalog_order": 364,
+    "catalog_order": 368,
     "collections": [
       "south-america"
     ]
@@ -18810,7 +18810,7 @@
       3085
     ],
     "size_bytes": 2487077,
-    "catalog_order": 365,
+    "catalog_order": 369,
     "collections": [
       "south-america"
     ]
@@ -18868,7 +18868,7 @@
       2330
     ],
     "size_bytes": 3663169,
-    "catalog_order": 366,
+    "catalog_order": 370,
     "collections": [
       "south-america"
     ]
@@ -18926,7 +18926,7 @@
       1933
     ],
     "size_bytes": 1997339,
-    "catalog_order": 367,
+    "catalog_order": 371,
     "collections": [
       "south-america"
     ]
@@ -18984,7 +18984,7 @@
       3400
     ],
     "size_bytes": 5404804,
-    "catalog_order": 368,
+    "catalog_order": 372,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19042,7 +19042,7 @@
       3400
     ],
     "size_bytes": 1186132,
-    "catalog_order": 369,
+    "catalog_order": 373,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19100,7 +19100,7 @@
       2037
     ],
     "size_bytes": 586771,
-    "catalog_order": 25,
+    "catalog_order": 35,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19158,7 +19158,7 @@
       2658
     ],
     "size_bytes": 5341266,
-    "catalog_order": 370,
+    "catalog_order": 374,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19216,7 +19216,7 @@
       2377
     ],
     "size_bytes": 4732604,
-    "catalog_order": 371,
+    "catalog_order": 375,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19274,7 +19274,7 @@
       3016
     ],
     "size_bytes": 6921757,
-    "catalog_order": 372,
+    "catalog_order": 376,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19332,7 +19332,7 @@
       3400
     ],
     "size_bytes": 4778749,
-    "catalog_order": 373,
+    "catalog_order": 377,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19390,7 +19390,7 @@
       2561
     ],
     "size_bytes": 3630167,
-    "catalog_order": 26,
+    "catalog_order": 378,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19449,7 +19449,7 @@
       2535
     ],
     "size_bytes": 5968625,
-    "catalog_order": 374,
+    "catalog_order": 379,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19508,7 +19508,7 @@
       2461
     ],
     "size_bytes": 4965995,
-    "catalog_order": 375,
+    "catalog_order": 380,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19567,7 +19567,7 @@
       2618
     ],
     "size_bytes": 4046880,
-    "catalog_order": 376,
+    "catalog_order": 381,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19626,7 +19626,7 @@
       2911
     ],
     "size_bytes": 6399127,
-    "catalog_order": 377,
+    "catalog_order": 382,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19685,7 +19685,7 @@
       3400
     ],
     "size_bytes": 5824934,
-    "catalog_order": 378,
+    "catalog_order": 383,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19744,7 +19744,7 @@
       2523
     ],
     "size_bytes": 6883974,
-    "catalog_order": 379,
+    "catalog_order": 384,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19803,7 +19803,7 @@
       3400
     ],
     "size_bytes": 6215487,
-    "catalog_order": 380,
+    "catalog_order": 385,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19862,7 +19862,7 @@
       3400
     ],
     "size_bytes": 5709672,
-    "catalog_order": 381,
+    "catalog_order": 386,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19921,7 +19921,7 @@
       3400
     ],
     "size_bytes": 5599271,
-    "catalog_order": 382,
+    "catalog_order": 387,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19980,7 +19980,7 @@
       2715
     ],
     "size_bytes": 7039922,
-    "catalog_order": 383,
+    "catalog_order": 388,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20039,7 +20039,7 @@
       2808
     ],
     "size_bytes": 7112340,
-    "catalog_order": 384,
+    "catalog_order": 389,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20098,7 +20098,7 @@
       3400
     ],
     "size_bytes": 5514967,
-    "catalog_order": 385,
+    "catalog_order": 390,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20157,7 +20157,7 @@
       3400
     ],
     "size_bytes": 2637793,
-    "catalog_order": 386,
+    "catalog_order": 391,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20216,7 +20216,7 @@
       3400
     ],
     "size_bytes": 1181131,
-    "catalog_order": 387,
+    "catalog_order": 392,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20275,7 +20275,7 @@
       699
     ],
     "size_bytes": 1012916,
-    "catalog_order": 388,
+    "catalog_order": 393,
     "collections": [
       "textiles",
       "oceania"
@@ -20334,7 +20334,7 @@
       3009
     ],
     "size_bytes": 3867540,
-    "catalog_order": 389,
+    "catalog_order": 394,
     "collections": [
       "textiles",
       "oceania"
@@ -20393,7 +20393,7 @@
       1126
     ],
     "size_bytes": 1320814,
-    "catalog_order": 390,
+    "catalog_order": 395,
     "collections": [
       "textiles",
       "oceania"
@@ -20452,7 +20452,7 @@
       923
     ],
     "size_bytes": 966503,
-    "catalog_order": 391,
+    "catalog_order": 396,
     "collections": [
       "textiles",
       "oceania"
@@ -20511,7 +20511,7 @@
       791
     ],
     "size_bytes": 540820,
-    "catalog_order": 392,
+    "catalog_order": 397,
     "collections": [
       "textiles",
       "oceania"
@@ -20570,7 +20570,7 @@
       1674
     ],
     "size_bytes": 1610317,
-    "catalog_order": 393,
+    "catalog_order": 398,
     "collections": [
       "textiles",
       "oceania"
@@ -20629,7 +20629,7 @@
       2379
     ],
     "size_bytes": 2671142,
-    "catalog_order": 27,
+    "catalog_order": 399,
     "collections": [
       "textiles",
       "oceania"
@@ -20688,7 +20688,7 @@
       3400
     ],
     "size_bytes": 2535070,
-    "catalog_order": 394,
+    "catalog_order": 400,
     "collections": [
       "textiles",
       "oceania"
@@ -20747,7 +20747,7 @@
       2093
     ],
     "size_bytes": 1734130,
-    "catalog_order": 395,
+    "catalog_order": 401,
     "collections": [
       "oceania"
     ]
@@ -20805,7 +20805,7 @@
       1925
     ],
     "size_bytes": 2521591,
-    "catalog_order": 396,
+    "catalog_order": 402,
     "collections": [
       "oceania"
     ]
@@ -20863,7 +20863,7 @@
       3400
     ],
     "size_bytes": 2145774,
-    "catalog_order": 24,
+    "catalog_order": 34,
     "collections": [
       "oceania"
     ]
@@ -20921,7 +20921,7 @@
       3400
     ],
     "size_bytes": 1142914,
-    "catalog_order": 397,
+    "catalog_order": 403,
     "collections": [
       "oceania"
     ]
@@ -20979,7 +20979,7 @@
       3400
     ],
     "size_bytes": 2090149,
-    "catalog_order": 398,
+    "catalog_order": 404,
     "collections": [
       "oceania"
     ]
@@ -21037,7 +21037,7 @@
       3400
     ],
     "size_bytes": 766065,
-    "catalog_order": 399,
+    "catalog_order": 405,
     "collections": [
       "oceania"
     ]
@@ -21095,7 +21095,7 @@
       3400
     ],
     "size_bytes": 1090523,
-    "catalog_order": 400,
+    "catalog_order": 406,
     "collections": [
       "oceania"
     ]
@@ -21153,7 +21153,7 @@
       599
     ],
     "size_bytes": 1452857,
-    "catalog_order": 28,
+    "catalog_order": 407,
     "collections": [
       "textiles",
       "africa"
@@ -21212,7 +21212,7 @@
       1021
     ],
     "size_bytes": 2873492,
-    "catalog_order": 401,
+    "catalog_order": 408,
     "collections": [
       "textiles",
       "africa"
@@ -21271,7 +21271,7 @@
       3211
     ],
     "size_bytes": 5229811,
-    "catalog_order": 402,
+    "catalog_order": 409,
     "collections": [
       "textiles",
       "africa"
@@ -21330,7 +21330,7 @@
       2029
     ],
     "size_bytes": 3200544,
-    "catalog_order": 403,
+    "catalog_order": 410,
     "collections": [
       "textiles",
       "africa"
@@ -21389,7 +21389,7 @@
       1264
     ],
     "size_bytes": 3100039,
-    "catalog_order": 404,
+    "catalog_order": 411,
     "collections": [
       "textiles",
       "africa"
@@ -21448,7 +21448,7 @@
       1835
     ],
     "size_bytes": 3210871,
-    "catalog_order": 405,
+    "catalog_order": 412,
     "collections": [
       "textiles",
       "africa"
@@ -21507,7 +21507,7 @@
       662
     ],
     "size_bytes": 1256651,
-    "catalog_order": 406,
+    "catalog_order": 413,
     "collections": [
       "textiles",
       "africa"
@@ -21566,7 +21566,7 @@
       430
     ],
     "size_bytes": 634201,
-    "catalog_order": 407,
+    "catalog_order": 414,
     "collections": [
       "textiles",
       "africa"
@@ -21625,7 +21625,7 @@
       3400
     ],
     "size_bytes": 4668850,
-    "catalog_order": 34,
+    "catalog_order": 415,
     "collections": [
       "textiles",
       "africa"
@@ -21684,7 +21684,7 @@
       1850
     ],
     "size_bytes": 4346945,
-    "catalog_order": 408,
+    "catalog_order": 416,
     "collections": [
       "textiles",
       "africa"
@@ -21743,7 +21743,7 @@
       3400
     ],
     "size_bytes": 2881557,
-    "catalog_order": 409,
+    "catalog_order": 417,
     "collections": [
       "textiles",
       "africa"
@@ -21802,7 +21802,7 @@
       731
     ],
     "size_bytes": 1954014,
-    "catalog_order": 410,
+    "catalog_order": 418,
     "collections": [
       "textiles",
       "africa"
@@ -21861,7 +21861,7 @@
       2705
     ],
     "size_bytes": 3725790,
-    "catalog_order": 411,
+    "catalog_order": 419,
     "collections": [
       "textiles",
       "africa"
@@ -21920,7 +21920,7 @@
       2369
     ],
     "size_bytes": 2445685,
-    "catalog_order": 412,
+    "catalog_order": 420,
     "collections": [
       "textiles",
       "africa"
@@ -21979,7 +21979,7 @@
       3390
     ],
     "size_bytes": 5797514,
-    "catalog_order": 413,
+    "catalog_order": 421,
     "collections": [
       "textiles",
       "africa"
@@ -22038,7 +22038,7 @@
       3125
     ],
     "size_bytes": 4702580,
-    "catalog_order": 414,
+    "catalog_order": 422,
     "collections": [
       "textiles",
       "africa"
@@ -22097,7 +22097,7 @@
       1860
     ],
     "size_bytes": 2221224,
-    "catalog_order": 415,
+    "catalog_order": 423,
     "collections": [
       "textiles",
       "africa"
@@ -22156,7 +22156,7 @@
       2612
     ],
     "size_bytes": 2478025,
-    "catalog_order": 416,
+    "catalog_order": 424,
     "collections": [
       "textiles",
       "africa"
@@ -22215,7 +22215,7 @@
       3400
     ],
     "size_bytes": 2367807,
-    "catalog_order": 417,
+    "catalog_order": 425,
     "collections": [
       "africa"
     ]
@@ -22273,7 +22273,7 @@
       3400
     ],
     "size_bytes": 3266090,
-    "catalog_order": 418,
+    "catalog_order": 426,
     "collections": [
       "africa"
     ]
@@ -22331,7 +22331,7 @@
       3400
     ],
     "size_bytes": 1950372,
-    "catalog_order": 419,
+    "catalog_order": 427,
     "collections": [
       "africa"
     ]
@@ -22389,7 +22389,7 @@
       3400
     ],
     "size_bytes": 1483896,
-    "catalog_order": 420,
+    "catalog_order": 428,
     "collections": [
       "africa"
     ]
@@ -22447,7 +22447,7 @@
       3400
     ],
     "size_bytes": 4524665,
-    "catalog_order": 421,
+    "catalog_order": 429,
     "collections": [
       "africa"
     ]
@@ -22505,7 +22505,7 @@
       3400
     ],
     "size_bytes": 5795533,
-    "catalog_order": 33,
+    "catalog_order": 430,
     "collections": [
       "textiles",
       "asia"
@@ -22564,7 +22564,7 @@
       3400
     ],
     "size_bytes": 4426371,
-    "catalog_order": 422,
+    "catalog_order": 431,
     "collections": [
       "textiles",
       "asia"
@@ -22623,7 +22623,7 @@
       1274
     ],
     "size_bytes": 1418180,
-    "catalog_order": 423,
+    "catalog_order": 432,
     "collections": [
       "textiles",
       "asia"
@@ -22682,7 +22682,7 @@
       3400
     ],
     "size_bytes": 2771277,
-    "catalog_order": 424,
+    "catalog_order": 433,
     "collections": [
       "textiles",
       "asia"
@@ -22741,7 +22741,7 @@
       1348
     ],
     "size_bytes": 1649673,
-    "catalog_order": 425,
+    "catalog_order": 434,
     "collections": [
       "textiles",
       "asia"
@@ -22800,7 +22800,7 @@
       3400
     ],
     "size_bytes": 4281257,
-    "catalog_order": 426,
+    "catalog_order": 435,
     "collections": [
       "textiles",
       "asia"
@@ -22860,7 +22860,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 427
+    "catalog_order": 436
   },
   {
     "id": "commons-agios-pediment",
@@ -22916,7 +22916,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 428
+    "catalog_order": 437
   },
   {
     "id": "commons-agios-left-guard",
@@ -22972,7 +22972,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 429
+    "catalog_order": 438
   },
   {
     "id": "commons-agios-right-guard",
@@ -23028,7 +23028,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 430
+    "catalog_order": 439
   },
   {
     "id": "commons-agios-left-detail",
@@ -23084,7 +23084,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 32
+    "catalog_order": 440
   },
   {
     "id": "commons-agios-right-detail",
@@ -23140,7 +23140,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 431
+    "catalog_order": 441
   },
   {
     "id": "commons-palmettes-ceiling",
@@ -23196,7 +23196,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 432
+    "catalog_order": 442
   },
   {
     "id": "commons-palmettes-flowers",
@@ -23252,7 +23252,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 20
+    "catalog_order": 30
   },
   {
     "id": "commons-palmettes-tendrils",
@@ -23308,7 +23308,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 433
+    "catalog_order": 443
   },
   {
     "id": "commons-palmettes-vault-detail",
@@ -23364,7 +23364,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 434
+    "catalog_order": 444
   },
   {
     "id": "commons-nerezi-north-wall",
@@ -23419,7 +23419,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 435
+    "catalog_order": 445
   },
   {
     "id": "commons-nerezi-west-wall",
@@ -23474,7 +23474,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 436
+    "catalog_order": 446
   },
   {
     "id": "commons-nerezi-apse",
@@ -23529,7 +23529,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 437
+    "catalog_order": 447
   },
   {
     "id": "commons-nerezi-orans",
@@ -23583,7 +23583,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 438
+    "catalog_order": 448
   },
   {
     "id": "commons-kurbinovo-constantine-helena",
@@ -23638,7 +23638,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 439
+    "catalog_order": 449
   },
   {
     "id": "commons-kurbinovo-0101",
@@ -23693,7 +23693,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 440
+    "catalog_order": 450
   },
   {
     "id": "commons-kurbinovo-020",
@@ -23748,7 +23748,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 441
+    "catalog_order": 451
   },
   {
     "id": "commons-kurbinovo-033",
@@ -23803,7 +23803,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 442
+    "catalog_order": 452
   },
   {
     "id": "commons-kurbinovo-055",
@@ -23858,7 +23858,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 443
+    "catalog_order": 453
   },
   {
     "id": "commons-gunda-gunde-153v",
@@ -23914,7 +23914,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 444
+    "catalog_order": 454
   },
   {
     "id": "commons-gunda-gunde-2r",
@@ -23970,7 +23970,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 445
+    "catalog_order": 455
   },
   {
     "id": "commons-gunda-gunde-2v",
@@ -24026,7 +24026,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 446
+    "catalog_order": 456
   },
   {
     "id": "commons-gunda-gunde-3r",
@@ -24082,7 +24082,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 447
+    "catalog_order": 457
   },
   {
     "id": "commons-gunda-gunde-4v",
@@ -24138,7 +24138,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 448
+    "catalog_order": 458
   },
   {
     "id": "commons-gunda-gunde-5r",
@@ -24194,7 +24194,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 21
+    "catalog_order": 31
   },
   {
     "id": "commons-gunda-gunde-59v",
@@ -24250,7 +24250,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 449
+    "catalog_order": 459
   },
   {
     "id": "commons-gunda-gunde-60v",
@@ -24306,7 +24306,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 450
+    "catalog_order": 460
   },
   {
     "id": "commons-gunda-gunde-96v",
@@ -24362,7 +24362,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 451
+    "catalog_order": 461
   },
   {
     "id": "commons-gunda-gunde-197r",
@@ -24418,7 +24418,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 452
+    "catalog_order": 462
   },
   {
     "id": "commons-gunda-gunde-199r",
@@ -24474,7 +24474,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 453
+    "catalog_order": 463
   },
   {
     "id": "commons-gunda-gunde-209r",
@@ -24530,7 +24530,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 454
+    "catalog_order": 464
   },
   {
     "id": "cma-149790",
@@ -24585,7 +24585,7 @@
       3400
     ],
     "size_bytes": 2821557,
-    "catalog_order": 455,
+    "catalog_order": 465,
     "collections": [
       "europe"
     ]
@@ -24643,7 +24643,7 @@
       3400
     ],
     "size_bytes": 756567,
-    "catalog_order": 456,
+    "catalog_order": 466,
     "collections": [
       "europe"
     ]
@@ -24701,7 +24701,7 @@
       3400
     ],
     "size_bytes": 707739,
-    "catalog_order": 457,
+    "catalog_order": 467,
     "collections": [
       "europe"
     ]
@@ -24759,7 +24759,7 @@
       1848
     ],
     "size_bytes": 856895,
-    "catalog_order": 458,
+    "catalog_order": 468,
     "collections": [
       "europe"
     ]
@@ -24817,7 +24817,7 @@
       3400
     ],
     "size_bytes": 494037,
-    "catalog_order": 459,
+    "catalog_order": 469,
     "collections": [
       "europe"
     ]
@@ -24875,7 +24875,7 @@
       3400
     ],
     "size_bytes": 1702203,
-    "catalog_order": 460,
+    "catalog_order": 470,
     "collections": [
       "europe"
     ]
@@ -24933,7 +24933,7 @@
       3400
     ],
     "size_bytes": 988853,
-    "catalog_order": 461,
+    "catalog_order": 471,
     "collections": [
       "europe"
     ]
@@ -24991,7 +24991,7 @@
       2545
     ],
     "size_bytes": 6679296,
-    "catalog_order": 462,
+    "catalog_order": 472,
     "collections": [
       "europe"
     ]
@@ -25049,7 +25049,7 @@
       3400
     ],
     "size_bytes": 4742058,
-    "catalog_order": 12,
+    "catalog_order": 22,
     "collections": [
       "europe"
     ]
@@ -25107,7 +25107,7 @@
       3400
     ],
     "size_bytes": 683889,
-    "catalog_order": 463,
+    "catalog_order": 473,
     "collections": [
       "europe"
     ]
@@ -25165,7 +25165,7 @@
       3400
     ],
     "size_bytes": 5006319,
-    "catalog_order": 464,
+    "catalog_order": 474,
     "collections": [
       "europe"
     ]
@@ -25223,7 +25223,7 @@
       3400
     ],
     "size_bytes": 5305539,
-    "catalog_order": 465,
+    "catalog_order": 475,
     "collections": [
       "europe"
     ]
@@ -25281,7 +25281,7 @@
       3304
     ],
     "size_bytes": 3875268,
-    "catalog_order": 466,
+    "catalog_order": 476,
     "collections": [
       "europe"
     ]
@@ -25339,7 +25339,7 @@
       3381
     ],
     "size_bytes": 4113679,
-    "catalog_order": 467,
+    "catalog_order": 477,
     "collections": [
       "europe"
     ]
@@ -25397,7 +25397,7 @@
       3279
     ],
     "size_bytes": 1419375,
-    "catalog_order": 468,
+    "catalog_order": 478,
     "collections": [
       "europe"
     ]
@@ -25455,7 +25455,7 @@
       3400
     ],
     "size_bytes": 5968154,
-    "catalog_order": 469,
+    "catalog_order": 479,
     "collections": [
       "europe"
     ]
@@ -25513,7 +25513,7 @@
       3400
     ],
     "size_bytes": 5021113,
-    "catalog_order": 470,
+    "catalog_order": 480,
     "collections": [
       "europe"
     ]
@@ -25571,7 +25571,7 @@
       3400
     ],
     "size_bytes": 3444993,
-    "catalog_order": 471,
+    "catalog_order": 481,
     "collections": [
       "europe"
     ]
@@ -25629,7 +25629,7 @@
       3400
     ],
     "size_bytes": 3615641,
-    "catalog_order": 472,
+    "catalog_order": 482,
     "collections": [
       "europe"
     ]
@@ -25687,7 +25687,7 @@
       3400
     ],
     "size_bytes": 8977329,
-    "catalog_order": 473,
+    "catalog_order": 483,
     "collections": [
       "europe"
     ]
@@ -25745,7 +25745,7 @@
       3400
     ],
     "size_bytes": 8508548,
-    "catalog_order": 474,
+    "catalog_order": 484,
     "collections": [
       "europe"
     ]
@@ -25803,7 +25803,7 @@
       3400
     ],
     "size_bytes": 7844965,
-    "catalog_order": 475,
+    "catalog_order": 485,
     "collections": [
       "europe"
     ]
@@ -25861,7 +25861,7 @@
       3400
     ],
     "size_bytes": 5009427,
-    "catalog_order": 476,
+    "catalog_order": 486,
     "collections": [
       "europe"
     ]
@@ -25919,7 +25919,7 @@
       2850
     ],
     "size_bytes": 7855545,
-    "catalog_order": 477,
+    "catalog_order": 487,
     "collections": [
       "europe"
     ]
@@ -25977,7 +25977,7 @@
       1990
     ],
     "size_bytes": 3144380,
-    "catalog_order": 478,
+    "catalog_order": 488,
     "collections": [
       "europe"
     ]
@@ -26035,7 +26035,7 @@
       3400
     ],
     "size_bytes": 3165798,
-    "catalog_order": 479,
+    "catalog_order": 489,
     "collections": [
       "europe"
     ]
@@ -26093,7 +26093,7 @@
       1343
     ],
     "size_bytes": 3760778,
-    "catalog_order": 480,
+    "catalog_order": 490,
     "collections": [
       "europe"
     ]
@@ -26151,7 +26151,7 @@
       1018
     ],
     "size_bytes": 2960481,
-    "catalog_order": 481,
+    "catalog_order": 491,
     "collections": [
       "europe"
     ]
@@ -26209,7 +26209,7 @@
       2048
     ],
     "size_bytes": 3162107,
-    "catalog_order": 482,
+    "catalog_order": 492,
     "collections": [
       "europe"
     ]
@@ -26267,7 +26267,7 @@
       3400
     ],
     "size_bytes": 2788343,
-    "catalog_order": 483,
+    "catalog_order": 493,
     "collections": [
       "europe",
       "manuscripts"
@@ -26326,7 +26326,7 @@
       2832
     ],
     "size_bytes": 7967948,
-    "catalog_order": 484,
+    "catalog_order": 494,
     "collections": [
       "europe",
       "manuscripts"
@@ -26385,7 +26385,7 @@
       2542
     ],
     "size_bytes": 3092548,
-    "catalog_order": 485,
+    "catalog_order": 495,
     "collections": [
       "europe",
       "manuscripts"
@@ -26444,7 +26444,7 @@
       2048
     ],
     "size_bytes": 2932525,
-    "catalog_order": 486,
+    "catalog_order": 496,
     "collections": [
       "europe",
       "manuscripts"
@@ -26503,7 +26503,7 @@
       3400
     ],
     "size_bytes": 4390189,
-    "catalog_order": 487,
+    "catalog_order": 497,
     "collections": [
       "europe",
       "manuscripts"
@@ -26562,7 +26562,7 @@
       3400
     ],
     "size_bytes": 4363240,
-    "catalog_order": 488,
+    "catalog_order": 498,
     "collections": [
       "europe",
       "manuscripts"
@@ -26621,7 +26621,7 @@
       3400
     ],
     "size_bytes": 3975451,
-    "catalog_order": 489,
+    "catalog_order": 499,
     "collections": [
       "europe",
       "manuscripts"
@@ -26680,7 +26680,7 @@
       3400
     ],
     "size_bytes": 4612102,
-    "catalog_order": 490,
+    "catalog_order": 500,
     "collections": [
       "europe",
       "manuscripts"
@@ -26739,7 +26739,7 @@
       3400
     ],
     "size_bytes": 4442625,
-    "catalog_order": 491,
+    "catalog_order": 501,
     "collections": [
       "europe",
       "manuscripts"
@@ -26798,7 +26798,7 @@
       3400
     ],
     "size_bytes": 7092215,
-    "catalog_order": 14,
+    "catalog_order": 24,
     "collections": [
       "europe",
       "manuscripts"
@@ -26857,7 +26857,7 @@
       3400
     ],
     "size_bytes": 1968485,
-    "catalog_order": 492,
+    "catalog_order": 502,
     "collections": [
       "europe",
       "manuscripts"
@@ -26916,7 +26916,7 @@
       2634
     ],
     "size_bytes": 8325635,
-    "catalog_order": 493,
+    "catalog_order": 503,
     "collections": [
       "europe",
       "manuscripts"
@@ -26975,7 +26975,7 @@
       3400
     ],
     "size_bytes": 3332907,
-    "catalog_order": 494,
+    "catalog_order": 504,
     "collections": [
       "europe",
       "manuscripts"
@@ -27034,7 +27034,7 @@
       3400
     ],
     "size_bytes": 6712845,
-    "catalog_order": 495,
+    "catalog_order": 505,
     "collections": [
       "europe",
       "manuscripts"
@@ -27093,7 +27093,7 @@
       3400
     ],
     "size_bytes": 2951220,
-    "catalog_order": 496,
+    "catalog_order": 506,
     "collections": [
       "europe",
       "manuscripts"
@@ -27152,7 +27152,7 @@
       3400
     ],
     "size_bytes": 2779930,
-    "catalog_order": 497,
+    "catalog_order": 507,
     "collections": [
       "europe",
       "manuscripts"
@@ -27211,7 +27211,7 @@
       3221
     ],
     "size_bytes": 6842231,
-    "catalog_order": 498,
+    "catalog_order": 508,
     "collections": [
       "europe",
       "manuscripts"
@@ -27270,7 +27270,7 @@
       3304
     ],
     "size_bytes": 7009940,
-    "catalog_order": 499,
+    "catalog_order": 509,
     "collections": [
       "europe",
       "manuscripts"
@@ -27329,7 +27329,7 @@
       3400
     ],
     "size_bytes": 2443859,
-    "catalog_order": 500,
+    "catalog_order": 510,
     "collections": [
       "europe",
       "manuscripts"
@@ -27388,7 +27388,7 @@
       3400
     ],
     "size_bytes": 2079632,
-    "catalog_order": 501,
+    "catalog_order": 511,
     "collections": [
       "europe",
       "manuscripts"
@@ -27447,7 +27447,7 @@
       3400
     ],
     "size_bytes": 3389059,
-    "catalog_order": 502,
+    "catalog_order": 512,
     "collections": [
       "europe",
       "manuscripts"
@@ -27506,7 +27506,7 @@
       3400
     ],
     "size_bytes": 2320860,
-    "catalog_order": 503,
+    "catalog_order": 513,
     "collections": [
       "europe",
       "manuscripts"
@@ -27565,7 +27565,7 @@
       3400
     ],
     "size_bytes": 2834145,
-    "catalog_order": 504,
+    "catalog_order": 514,
     "collections": [
       "europe",
       "manuscripts"
@@ -27624,7 +27624,7 @@
       3400
     ],
     "size_bytes": 1236957,
-    "catalog_order": 505,
+    "catalog_order": 515,
     "collections": [
       "europe",
       "textiles"
@@ -27683,7 +27683,7 @@
       3400
     ],
     "size_bytes": 4472191,
-    "catalog_order": 506,
+    "catalog_order": 516,
     "collections": [
       "europe",
       "textiles"
@@ -27742,7 +27742,7 @@
       3400
     ],
     "size_bytes": 2945001,
-    "catalog_order": 507,
+    "catalog_order": 517,
     "collections": [
       "europe",
       "textiles"
@@ -27801,7 +27801,7 @@
       1962
     ],
     "size_bytes": 4387981,
-    "catalog_order": 508,
+    "catalog_order": 518,
     "collections": [
       "europe",
       "textiles"
@@ -27860,7 +27860,7 @@
       2965
     ],
     "size_bytes": 7179628,
-    "catalog_order": 509,
+    "catalog_order": 519,
     "collections": [
       "europe",
       "textiles"
@@ -27919,7 +27919,7 @@
       3400
     ],
     "size_bytes": 1669737,
-    "catalog_order": 510,
+    "catalog_order": 520,
     "collections": [
       "europe",
       "textiles"
@@ -27978,7 +27978,7 @@
       3400
     ],
     "size_bytes": 7307534,
-    "catalog_order": 511,
+    "catalog_order": 521,
     "collections": [
       "europe",
       "textiles"
@@ -28037,7 +28037,7 @@
       3400
     ],
     "size_bytes": 3572070,
-    "catalog_order": 512,
+    "catalog_order": 522,
     "collections": [
       "europe",
       "textiles"
@@ -28096,7 +28096,7 @@
       3400
     ],
     "size_bytes": 2150102,
-    "catalog_order": 513,
+    "catalog_order": 523,
     "collections": [
       "europe",
       "textiles"
@@ -28155,7 +28155,7 @@
       3400
     ],
     "size_bytes": 2309118,
-    "catalog_order": 514,
+    "catalog_order": 524,
     "collections": [
       "europe",
       "textiles"
@@ -28214,7 +28214,7 @@
       3400
     ],
     "size_bytes": 3174293,
-    "catalog_order": 515,
+    "catalog_order": 525,
     "collections": [
       "europe",
       "textiles"
@@ -28273,7 +28273,7 @@
       3400
     ],
     "size_bytes": 1964477,
-    "catalog_order": 17,
+    "catalog_order": 27,
     "collections": [
       "europe",
       "textiles"
@@ -28332,7 +28332,7 @@
       3400
     ],
     "size_bytes": 6611180,
-    "catalog_order": 516,
+    "catalog_order": 526,
     "collections": [
       "europe",
       "textiles"
@@ -28391,7 +28391,7 @@
       3400
     ],
     "size_bytes": 2715349,
-    "catalog_order": 517,
+    "catalog_order": 527,
     "collections": [
       "europe",
       "textiles"
@@ -28450,7 +28450,7 @@
       3250
     ],
     "size_bytes": 5096478,
-    "catalog_order": 518,
+    "catalog_order": 528,
     "collections": [
       "europe",
       "textiles"
@@ -28509,7 +28509,7 @@
       2201
     ],
     "size_bytes": 3555427,
-    "catalog_order": 519,
+    "catalog_order": 529,
     "collections": [
       "europe",
       "textiles"
@@ -28568,7 +28568,7 @@
       2449
     ],
     "size_bytes": 8254503,
-    "catalog_order": 520,
+    "catalog_order": 530,
     "collections": [
       "europe",
       "textiles"
@@ -28627,7 +28627,7 @@
       2789
     ],
     "size_bytes": 9086022,
-    "catalog_order": 521,
+    "catalog_order": 531,
     "collections": [
       "europe",
       "textiles"
@@ -28686,7 +28686,7 @@
       3030
     ],
     "size_bytes": 2361744,
-    "catalog_order": 522,
+    "catalog_order": 532,
     "collections": [
       "europe",
       "textiles"
@@ -28745,7 +28745,7 @@
       3400
     ],
     "size_bytes": 6556272,
-    "catalog_order": 523,
+    "catalog_order": 533,
     "collections": [
       "europe",
       "textiles"
@@ -28804,7 +28804,7 @@
       3400
     ],
     "size_bytes": 8147307,
-    "catalog_order": 524,
+    "catalog_order": 534,
     "collections": [
       "europe",
       "textiles",
@@ -28864,7 +28864,7 @@
       1247
     ],
     "size_bytes": 2035171,
-    "catalog_order": 525,
+    "catalog_order": 535,
     "collections": [
       "europe",
       "textiles",
@@ -28924,7 +28924,7 @@
       3400
     ],
     "size_bytes": 1427241,
-    "catalog_order": 18,
+    "catalog_order": 28,
     "collections": [
       "textiles",
       "oceania"
@@ -28982,7 +28982,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 526,
+    "catalog_order": 536,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29039,7 +29039,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 527,
+    "catalog_order": 537,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29096,7 +29096,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 528,
+    "catalog_order": 538,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29153,7 +29153,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 11,
+    "catalog_order": 21,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29210,7 +29210,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 529,
+    "catalog_order": 539,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29267,7 +29267,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 530,
+    "catalog_order": 540,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29324,7 +29324,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 16,
+    "catalog_order": 26,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29380,7 +29380,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 531,
+    "catalog_order": 541,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29437,7 +29437,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 19,
+    "catalog_order": 29,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29494,7 +29494,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 532,
+    "catalog_order": 542,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29552,7 +29552,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 13,
+    "catalog_order": 23,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29608,7 +29608,7 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 533,
+    "catalog_order": 543,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29664,7 +29664,7 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 534,
+    "catalog_order": 544,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29721,7 +29721,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 535,
+    "catalog_order": 545,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29778,7 +29778,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 536,
+    "catalog_order": 546,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29835,7 +29835,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 537,
+    "catalog_order": 547,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29900,7 +29900,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 10,
+    "catalog_order": 20,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29965,7 +29965,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 538,
+    "catalog_order": 548,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30030,7 +30030,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 539,
+    "catalog_order": 549,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30095,7 +30095,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 540,
+    "catalog_order": 550,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30151,7 +30151,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 541,
+    "catalog_order": 551,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30207,7 +30207,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 542,
+    "catalog_order": 552,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30263,7 +30263,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 543,
+    "catalog_order": 553,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30319,7 +30319,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 544,
+    "catalog_order": 554,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30377,7 +30377,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 545,
+    "catalog_order": 555,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30435,7 +30435,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 15,
+    "catalog_order": 25,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30493,7 +30493,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 546,
+    "catalog_order": 556,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30551,7 +30551,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 547,
+    "catalog_order": 557,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30608,7 +30608,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 548,
+    "catalog_order": 558,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30665,7 +30665,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 549,
+    "catalog_order": 559,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30722,7 +30722,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 550,
+    "catalog_order": 560,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30779,7 +30779,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 551,
+    "catalog_order": 561,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30840,7 +30840,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 2
+    "catalog_order": 12
   },
   {
     "id": "commons-altxerri-black-bison",
@@ -30898,7 +30898,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 552
+    "catalog_order": 562
   },
   {
     "id": "commons-altxerri-bison",
@@ -30956,7 +30956,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 553
+    "catalog_order": 563
   },
   {
     "id": "commons-pech-merle-horses",
@@ -31014,7 +31014,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 7
+    "catalog_order": 17
   },
   {
     "id": "commons-mustair-flight",
@@ -31072,7 +31072,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 5
+    "catalog_order": 15
   },
   {
     "id": "commons-mustair-pilate",
@@ -31130,7 +31130,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 554
+    "catalog_order": 564
   },
   {
     "id": "commons-mustair-feeding",
@@ -31188,7 +31188,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 555
+    "catalog_order": 565
   },
   {
     "id": "commons-mustair-children",
@@ -31246,7 +31246,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 556
+    "catalog_order": 566
   },
   {
     "id": "commons-mustair-healing",
@@ -31304,7 +31304,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 557
+    "catalog_order": 567
   },
   {
     "id": "commons-mustair-harrowing",
@@ -31362,7 +31362,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 558
+    "catalog_order": 568
   },
   {
     "id": "commons-prokulus-24",
@@ -31420,7 +31420,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 559
+    "catalog_order": 569
   },
   {
     "id": "commons-prokulus-28",
@@ -31478,7 +31478,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 560
+    "catalog_order": 570
   },
   {
     "id": "commons-prokulus-38",
@@ -31536,7 +31536,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 561
+    "catalog_order": 571
   },
   {
     "id": "commons-prokulus-44",
@@ -31594,7 +31594,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 562
+    "catalog_order": 572
   },
   {
     "id": "commons-prokulus-50",
@@ -31652,7 +31652,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 563
+    "catalog_order": 573
   },
   {
     "id": "commons-prokulus-60",
@@ -31710,7 +31710,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 564
+    "catalog_order": 574
   },
   {
     "id": "commons-prokulus-70",
@@ -31768,7 +31768,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 565
+    "catalog_order": 575
   },
   {
     "id": "commons-prokulus-stucco",
@@ -31826,7 +31826,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 566
+    "catalog_order": 576
   },
   {
     "id": "commons-mals-donor",
@@ -31884,7 +31884,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 567
+    "catalog_order": 577
   },
   {
     "id": "commons-mals-martyrdom",
@@ -31942,7 +31942,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 568
+    "catalog_order": 578
   },
   {
     "id": "commons-mals-saints",
@@ -32000,7 +32000,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 569
+    "catalog_order": 579
   },
   {
     "id": "commons-castelseprio-throne",
@@ -32057,7 +32057,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 570
+    "catalog_order": 580
   },
   {
     "id": "commons-castelseprio-christ",
@@ -32114,7 +32114,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 571
+    "catalog_order": 581
   },
   {
     "id": "commons-castelseprio-joseph",
@@ -32171,7 +32171,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 4
+    "catalog_order": 14
   },
   {
     "id": "commons-castelseprio-bethlehem",
@@ -32228,7 +32228,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 572
+    "catalog_order": 582
   },
   {
     "id": "commons-castelseprio-nativity",
@@ -32285,7 +32285,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 573
+    "catalog_order": 583
   },
   {
     "id": "commons-castelseprio-midwives",
@@ -32342,7 +32342,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 574
+    "catalog_order": 584
   },
   {
     "id": "commons-castelseprio-temple",
@@ -32399,7 +32399,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 575
+    "catalog_order": 585
   },
   {
     "id": "commons-castelseprio-curtain",
@@ -32456,7 +32456,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 576
+    "catalog_order": 586
   },
   {
     "id": "commons-antiqua-madonna",
@@ -32515,7 +32515,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 577
+    "catalog_order": 587
   },
   {
     "id": "commons-antiqua-crucifix",
@@ -32574,7 +32574,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 578
+    "catalog_order": 588
   },
   {
     "id": "commons-antiqua-mural",
@@ -32633,7 +32633,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 579
+    "catalog_order": 589
   },
   {
     "id": "commons-antiqua-atrium-1",
@@ -32692,7 +32692,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 580
+    "catalog_order": 590
   },
   {
     "id": "commons-antiqua-atrium-3",
@@ -32751,7 +32751,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 581
+    "catalog_order": 591
   },
   {
     "id": "commons-cividale-christ",
@@ -32808,7 +32808,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 582
+    "catalog_order": 592
   },
   {
     "id": "commons-cividale-window",
@@ -32865,7 +32865,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 583
+    "catalog_order": 593
   },
   {
     "id": "commons-reichenau-lazarus",
@@ -32923,7 +32923,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 584
+    "catalog_order": 594
   },
   {
     "id": "commons-reichenau-abbot",
@@ -32981,7 +32981,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 585
+    "catalog_order": 595
   },
   {
     "id": "commons-reichenau-saint-left",
@@ -33039,7 +33039,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 586
+    "catalog_order": 596
   },
   {
     "id": "commons-reichenau-saint-right",
@@ -33097,7 +33097,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 587
+    "catalog_order": 597
   },
   {
     "id": "commons-lindisfarne-chi-rho",
@@ -33156,7 +33156,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 9
+    "catalog_order": 19
   },
   {
     "id": "commons-lindisfarne-luke",
@@ -33215,7 +33215,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 588
+    "catalog_order": 598
   },
   {
     "id": "commons-lindisfarne-mark",
@@ -33274,7 +33274,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 589
+    "catalog_order": 599
   },
   {
     "id": "commons-lindisfarne-matthew",
@@ -33333,7 +33333,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 590
+    "catalog_order": 600
   },
   {
     "id": "commons-durrow-21v",
@@ -33392,7 +33392,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 591
+    "catalog_order": 601
   },
   {
     "id": "commons-durrow-124v",
@@ -33451,7 +33451,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 592
+    "catalog_order": 602
   },
   {
     "id": "commons-canterbury-aureus",
@@ -33509,7 +33509,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 593
+    "catalog_order": 603
   },
   {
     "id": "commons-reims-purple-psalter",
@@ -33567,7 +33567,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 594
+    "catalog_order": 604
   },
   {
     "id": "commons-bamberg-quadrivium",
@@ -33625,7 +33625,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 595
+    "catalog_order": 605
   },
   {
     "id": "commons-fleury-symbols",
@@ -33683,7 +33683,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 596
+    "catalog_order": 606
   },
   {
     "id": "commons-aachen-scholars",
@@ -33741,7 +33741,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 597
+    "catalog_order": 607
   },
   {
     "id": "commons-morgan-beatus-lamb",
@@ -33799,7 +33799,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 598
+    "catalog_order": 608
   },
   {
     "id": "commons-morgan-beatus-musicians",
@@ -33857,7 +33857,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 599
+    "catalog_order": 609
   },
   {
     "id": "commons-durrow-125v",
@@ -33916,7 +33916,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 3
+    "catalog_order": 13
   },
   {
     "id": "commons-durrow-192v",
@@ -33975,7 +33975,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 600
+    "catalog_order": 610
   },
   {
     "id": "commons-durrow-193r",
@@ -34034,7 +34034,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 601
+    "catalog_order": 611
   },
   {
     "id": "commons-durrow-248r",
@@ -34093,7 +34093,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 602
+    "catalog_order": 612
   },
   {
     "id": "commons-durrow-85v",
@@ -34152,7 +34152,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 603
+    "catalog_order": 613
   },
   {
     "id": "commons-durrow-86r",
@@ -34211,7 +34211,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 604
+    "catalog_order": 614
   },
   {
     "id": "commons-bernifal-6",
@@ -34269,7 +34269,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 605
+    "catalog_order": 615
   },
   {
     "id": "commons-bernifal-9",
@@ -34327,7 +34327,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 8
+    "catalog_order": 18
   },
   {
     "id": "commons-azilian-pebble",
@@ -34384,7 +34384,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 606
+    "catalog_order": 616
   },
   {
     "id": "cma-114201",
@@ -34439,7 +34439,7 @@
       3400
     ],
     "size_bytes": 3665602,
-    "catalog_order": 6,
+    "catalog_order": 16,
     "collections": [
       "europe",
       "early-medieval-europe",
@@ -34499,11 +34499,2430 @@
       3400
     ],
     "size_bytes": 2099138,
-    "catalog_order": 607,
+    "catalog_order": 617,
     "collections": [
       "europe",
       "early-medieval-europe",
       "manuscripts"
     ]
+  },
+  {
+    "id": "commons-beni-hassan-16",
+    "short_title": "Beni Hassan: Amenemhat tomb, view 16",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Egypt",
+    "location": "Amenemhat tomb (BH 2), Beni Hasan, Egypt",
+    "culture": "Middle Kingdom Egypt, 12th Dynasty",
+    "object_date": "Reign of Senusret I, approximately 1965–1920 BCE",
+    "year_start": -1965,
+    "year_end": -1920,
+    "notes": "Surviving painted walls inside Amenemhat’s tomb, identified as BH 2 by the photographer. Uneven warm artificial lighting affects the recorded color; compare painted marks with cracks and shaded areas.",
+    "context_url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat",
+    "title": "Beni Hassan: Amenemhat tomb, view 16",
+    "source_title": "Beni Hassan 16.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Olaf Tausch",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_16.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABeni+Hassan+16.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Beni_Hassan_16.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-beni-hassan-16.json",
+      "page_snapshot": "data/commons-records/commons-beni-hassan-16-page.json",
+      "page_revision_id": 1081610672,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1081610672"
+    },
+    "photographed": "2014-10-12",
+    "original_file": "originals/commons-beni-hassan-16.jpg",
+    "expected_dimensions": [
+      4560,
+      3422
+    ],
+    "encoded_dimensions": [
+      4560,
+      3422
+    ],
+    "size_bytes": 8120084,
+    "sha256": "12f6592635e37dc3a00c37e53525515fde94921d0bbe7378a4418fe373a6110e",
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-beni-hassan-16.jpg",
+    "collections": [
+      "egypt"
+    ],
+    "catalog_order": 618
+  },
+  {
+    "id": "commons-beni-hassan-17",
+    "short_title": "Beni Hassan: Amenemhat tomb, view 17",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Egypt",
+    "location": "Amenemhat tomb (BH 2), Beni Hasan, Egypt",
+    "culture": "Middle Kingdom Egypt, 12th Dynasty",
+    "object_date": "Reign of Senusret I, approximately 1965–1920 BCE",
+    "year_start": -1965,
+    "year_end": -1920,
+    "notes": "Surviving painted walls inside Amenemhat’s tomb, identified as BH 2 by the photographer. Uneven warm artificial lighting affects the recorded color; compare painted marks with cracks and shaded areas.",
+    "context_url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat",
+    "title": "Beni Hassan: Amenemhat tomb, view 17",
+    "source_title": "Beni Hassan 17.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Olaf Tausch",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_17.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABeni+Hassan+17.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Beni_Hassan_17.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-beni-hassan-17.json",
+      "page_snapshot": "data/commons-records/commons-beni-hassan-17-page.json",
+      "page_revision_id": 1084430096,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1084430096"
+    },
+    "photographed": "2014-10-12",
+    "original_file": "originals/commons-beni-hassan-17.jpg",
+    "expected_dimensions": [
+      3953,
+      2961
+    ],
+    "encoded_dimensions": [
+      3953,
+      2961
+    ],
+    "size_bytes": 5964146,
+    "sha256": "2c9290c1fe4f3b7e4eebb9dd77234ae8b6704a1c5edb513480d5d4851bab4e1b",
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-beni-hassan-17.jpg",
+    "collections": [
+      "egypt"
+    ],
+    "catalog_order": 619
+  },
+  {
+    "id": "commons-beni-hassan-18",
+    "short_title": "Beni Hassan: Amenemhat tomb, view 18",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.05,
+      0.1,
+      0.91,
+      0.79
+    ],
+    "region": "Egypt",
+    "location": "Amenemhat tomb (BH 2), Beni Hasan, Egypt",
+    "culture": "Middle Kingdom Egypt, 12th Dynasty",
+    "object_date": "Reign of Senusret I, approximately 1965–1920 BCE",
+    "year_start": -1965,
+    "year_end": -1920,
+    "notes": "Surviving painted walls inside Amenemhat’s tomb, identified as BH 2 by the photographer. Uneven warm artificial lighting affects the recorded color; compare painted marks with cracks and shaded areas.",
+    "context_url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat",
+    "title": "Beni Hassan: Amenemhat tomb, view 18",
+    "source_title": "Beni Hassan 18.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Olaf Tausch",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_18.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABeni+Hassan+18.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Beni_Hassan_18.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-beni-hassan-18.json",
+      "page_snapshot": "data/commons-records/commons-beni-hassan-18-page.json",
+      "page_revision_id": 1084430100,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1084430100"
+    },
+    "photographed": "2014-10-12",
+    "original_file": "originals/commons-beni-hassan-18.jpg",
+    "expected_dimensions": [
+      4430,
+      3320
+    ],
+    "encoded_dimensions": [
+      4430,
+      3320
+    ],
+    "size_bytes": 8037045,
+    "sha256": "63caa912ab5341edad305c35f897c493ed123798c411fb7ab9a65272f4c80f94",
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-beni-hassan-18.jpg",
+    "collections": [
+      "egypt"
+    ],
+    "catalog_order": 620
+  },
+  {
+    "id": "commons-beni-hassan-19",
+    "short_title": "Beni Hassan: Amenemhat tomb, view 19",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.07,
+      0.03,
+      0.96,
+      0.78
+    ],
+    "region": "Egypt",
+    "location": "Amenemhat tomb (BH 2), Beni Hasan, Egypt",
+    "culture": "Middle Kingdom Egypt, 12th Dynasty",
+    "object_date": "Reign of Senusret I, approximately 1965–1920 BCE",
+    "year_start": -1965,
+    "year_end": -1920,
+    "notes": "Surviving painted walls inside Amenemhat’s tomb, identified as BH 2 by the photographer. Uneven warm artificial lighting affects the recorded color; compare painted marks with cracks and shaded areas.",
+    "context_url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat",
+    "title": "Beni Hassan: Amenemhat tomb, view 19",
+    "source_title": "Beni Hassan 19.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Olaf Tausch",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_19.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABeni+Hassan+19.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Beni_Hassan_19.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-beni-hassan-19.json",
+      "page_snapshot": "data/commons-records/commons-beni-hassan-19-page.json",
+      "page_revision_id": 1084430103,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1084430103"
+    },
+    "photographed": "2014-10-12",
+    "original_file": "originals/commons-beni-hassan-19.jpg",
+    "expected_dimensions": [
+      2619,
+      3483
+    ],
+    "encoded_dimensions": [
+      2619,
+      3483
+    ],
+    "size_bytes": 4448895,
+    "sha256": "c5c000a486bf8d78e4d04914a9d439731e96948c89b50f932bf69a132633c2bd",
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-beni-hassan-19.jpg",
+    "collections": [
+      "egypt"
+    ],
+    "catalog_order": 1
+  },
+  {
+    "id": "commons-beni-hassan-20",
+    "short_title": "Beni Hassan: Amenemhat tomb, view 20",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Egypt",
+    "location": "Amenemhat tomb (BH 2), Beni Hasan, Egypt",
+    "culture": "Middle Kingdom Egypt, 12th Dynasty",
+    "object_date": "Reign of Senusret I, approximately 1965–1920 BCE",
+    "year_start": -1965,
+    "year_end": -1920,
+    "notes": "Surviving painted walls inside Amenemhat’s tomb, identified as BH 2 by the photographer. Uneven warm artificial lighting affects the recorded color; compare painted marks with cracks and shaded areas.",
+    "context_url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat",
+    "title": "Beni Hassan: Amenemhat tomb, view 20",
+    "source_title": "Beni Hassan 20.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Olaf Tausch",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_20.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABeni+Hassan+20.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Beni_Hassan_20.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-beni-hassan-20.json",
+      "page_snapshot": "data/commons-records/commons-beni-hassan-20-page.json",
+      "page_revision_id": 1084430105,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1084430105"
+    },
+    "photographed": "2014-10-12",
+    "original_file": "originals/commons-beni-hassan-20.jpg",
+    "expected_dimensions": [
+      4301,
+      3225
+    ],
+    "encoded_dimensions": [
+      4301,
+      3225
+    ],
+    "size_bytes": 7247578,
+    "sha256": "40a38f3baec15a589ebf7297c8288ffe328ddba22968f66348d1bb54590c9af3",
+    "encoded_format": "MPO",
+    "frame_count": 2,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-beni-hassan-20.jpg",
+    "collections": [
+      "egypt"
+    ],
+    "catalog_order": 621
+  },
+  {
+    "id": "commons-herculaneum-chiron",
+    "short_title": "Herculaneum: Achilles and Chiron",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "title": "Herculaneum: Achilles and Chiron",
+    "source_title": "Achilles and Chiron fresco from the Basilica (Herculaneum).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Yair Haklai",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Achilles_and_Chiron_fresco_from_the_Basilica_(Herculaneum).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AAchilles+and+Chiron+fresco+from+the+Basilica+%28Herculaneum%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Achilles_and_Chiron_fresco_from_the_Basilica_%28Herculaneum%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-herculaneum-chiron.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-chiron-page.json",
+      "page_revision_id": 969812072,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=969812072"
+    },
+    "photographed": "2023-09-28 09:21:09",
+    "original_file": "originals/commons-herculaneum-chiron.jpg",
+    "expected_dimensions": [
+      1713,
+      1684
+    ],
+    "encoded_dimensions": [
+      1713,
+      1684
+    ],
+    "size_bytes": 1380316,
+    "sha256": "6f75eb907e6085e4a6f1a7660fca2259c9c96af4c6321b2fdbe65a08425c80ef",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-chiron.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 622
+  },
+  {
+    "id": "commons-herculaneum-telephus",
+    "short_title": "Herculaneum: Heracles and Telephus",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.1,
+      0.08,
+      0.92,
+      0.9
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "title": "Herculaneum: Heracles and Telephus",
+    "source_title": "Heracles and Telephus fresco from the Basilica (Herculaneum).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Yair Haklai",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Heracles_and_Telephus_fresco_from_the_Basilica_(Herculaneum).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AHeracles+and+Telephus+fresco+from+the+Basilica+%28Herculaneum%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Heracles_and_Telephus_fresco_from_the_Basilica_%28Herculaneum%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-herculaneum-telephus.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-telephus-page.json",
+      "page_revision_id": 977041074,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=977041074"
+    },
+    "photographed": "2023-09-28 09:17:00",
+    "original_file": "originals/commons-herculaneum-telephus.jpg",
+    "expected_dimensions": [
+      1908,
+      2345
+    ],
+    "encoded_dimensions": [
+      1908,
+      2345
+    ],
+    "size_bytes": 2486757,
+    "sha256": "f2c887331ec9d4e241c0c83bdefe0f7e140839f0a460d3bcbbb47ab30c159fa5",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-telephus.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 7
+  },
+  {
+    "id": "commons-herculaneum-lyre",
+    "short_title": "Herculaneum: Cupids with a lyre",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "Published color reproduction from Filippo Coarelli (ed.), Pompeji (2002), p. 167. Printing and scanning affect the colors. The source tentatively places the panel in the Basilica.",
+    "title": "Herculaneum: Cupids with a lyre",
+    "source_title": "Herculaneum - Lyre and Cupids.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "WolfgangRieger",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Herculaneum_-_Lyre_and_Cupids.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AHerculaneum+-+Lyre+and+Cupids.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Herculaneum_-_Lyre_and_Cupids.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-herculaneum-lyre.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-lyre-page.json",
+      "page_revision_id": 1154749311,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1154749311"
+    },
+    "photographed": "2009-03-15",
+    "original_file": "originals/commons-herculaneum-lyre.jpg",
+    "expected_dimensions": [
+      1473,
+      2620
+    ],
+    "encoded_dimensions": [
+      1473,
+      2620
+    ],
+    "size_bytes": 1267424,
+    "sha256": "59c80a26289950f5c9ff059adc49a5da23780672d6c1f4406a3418ecff4b2b31",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-lyre.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 623
+  },
+  {
+    "id": "commons-herculaneum-23",
+    "short_title": "Herculaneum: red painted room",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "title": "Herculaneum: red painted room",
+    "source_title": "Herculaneum 20230625 23.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Argo Navis",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Herculaneum_20230625_23.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AHerculaneum+20230625+23.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Herculaneum_20230625_23.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-herculaneum-23.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-23-page.json",
+      "page_revision_id": 1131839942,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1131839942"
+    },
+    "photographed": "2023-06-25 11:19:35",
+    "original_file": "originals/commons-herculaneum-23.jpg",
+    "expected_dimensions": [
+      4000,
+      3000
+    ],
+    "encoded_dimensions": [
+      4000,
+      3000
+    ],
+    "size_bytes": 2964071,
+    "sha256": "2f71c620cf0948ec366fb26b08d684945340422c3704123541083929c9d9e677",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-23.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 624
+  },
+  {
+    "id": "commons-herculaneum-28",
+    "short_title": "Herculaneum: painted interior, view 28",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "title": "Herculaneum: painted interior, view 28",
+    "source_title": "Herculaneum 20230625 28.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Argo Navis",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Herculaneum_20230625_28.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AHerculaneum+20230625+28.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Herculaneum_20230625_28.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-herculaneum-28.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-28-page.json",
+      "page_revision_id": 1265817753,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1265817753"
+    },
+    "photographed": "2023-06-25 11:24:50",
+    "original_file": "originals/commons-herculaneum-28.jpg",
+    "expected_dimensions": [
+      4000,
+      3000
+    ],
+    "encoded_dimensions": [
+      4000,
+      3000
+    ],
+    "size_bytes": 3904012,
+    "sha256": "e8e55bd26ce1416d86bc26e52c1d56627235228e80eaf068e2a375033e695cae",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-28.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 625
+  },
+  {
+    "id": "commons-herculaneum-29",
+    "short_title": "Herculaneum: painted interior, view 29",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "culture": "Roman",
+    "object_date": "Roman; before the eruption of 79 CE",
+    "year_start": null,
+    "year_end": 79,
+    "notes": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "title": "Herculaneum: painted interior, view 29",
+    "source_title": "Herculaneum 20230625 29.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Argo Navis",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Herculaneum_20230625_29.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AHerculaneum+20230625+29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Herculaneum_20230625_29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-herculaneum-29.json",
+      "page_snapshot": "data/commons-records/commons-herculaneum-29-page.json",
+      "page_revision_id": 1131797569,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1131797569"
+    },
+    "photographed": "2023-06-25 11:25:09",
+    "original_file": "originals/commons-herculaneum-29.jpg",
+    "expected_dimensions": [
+      4000,
+      3000
+    ],
+    "encoded_dimensions": [
+      4000,
+      3000
+    ],
+    "size_bytes": 3100116,
+    "sha256": "7319e03cd9c4d9c5d0b906e76d355fc8c9095b95c3161ba1371e127cd03f7923",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-herculaneum-29.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 626
+  },
+  {
+    "id": "commons-oplontis-bird",
+    "short_title": "Oplontis: a bird on pale plaster",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.08,
+      0.05,
+      0.91,
+      0.9
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: a bird on pale plaster",
+    "source_title": "Bird ancient roman fresco Oplontis Italy.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jebulon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bird_ancient_roman_fresco_Oplontis_Italy.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABird+ancient+roman+fresco+Oplontis+Italy.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bird_ancient_roman_fresco_Oplontis_Italy.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-oplontis-bird.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-bird-page.json",
+      "page_revision_id": 1178329668,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1178329668"
+    },
+    "photographed": "2015-07-22 11:45:17",
+    "original_file": "originals/commons-oplontis-bird.jpg",
+    "expected_dimensions": [
+      4250,
+      2953
+    ],
+    "encoded_dimensions": [
+      4250,
+      2953
+    ],
+    "size_bytes": 9018460,
+    "sha256": "4a661e17f140d1f233b536883c2bb326911378ba07dc1d1072451cb9b813db3d",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-bird.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 627
+  },
+  {
+    "id": "commons-oplontis-cherries",
+    "short_title": "Oplontis: bird and cherries",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: bird and cherries",
+    "source_title": "Bird and cherries fresco Oplontis.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jebulon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bird_and_cherries_fresco_Oplontis.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABird+and+cherries+fresco+Oplontis.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bird_and_cherries_fresco_Oplontis.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-oplontis-cherries.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-cherries-page.json",
+      "page_revision_id": 1178329666,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1178329666"
+    },
+    "photographed": "2015-07-22 10:39:24",
+    "original_file": "originals/commons-oplontis-cherries.jpg",
+    "expected_dimensions": [
+      3653,
+      2260
+    ],
+    "encoded_dimensions": [
+      3653,
+      2260
+    ],
+    "size_bytes": 6253303,
+    "sha256": "f873ca56b073a2c9fd6653c03d6fa902c0a3d6c53e5f2d20f527b56514887e62",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-cherries.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 628
+  },
+  {
+    "id": "commons-oplontis-figs",
+    "short_title": "Oplontis: bird eating figs",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: bird eating figs",
+    "source_title": "Fresco bird figs Villa Poppaea Oplontis Italy.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jebulon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_bird_figs_Villa_Poppaea_Oplontis_Italy.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+bird+figs+Villa+Poppaea+Oplontis+Italy.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fresco_bird_figs_Villa_Poppaea_Oplontis_Italy.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-oplontis-figs.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-figs-page.json",
+      "page_revision_id": 1178329675,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1178329675"
+    },
+    "photographed": "2015-07-22 10:38:53",
+    "original_file": "originals/commons-oplontis-figs.jpg",
+    "expected_dimensions": [
+      3798,
+      2270
+    ],
+    "encoded_dimensions": [
+      3798,
+      2270
+    ],
+    "size_bytes": 6817615,
+    "sha256": "0565ead688ef15cde2c7b470d6a34c55d81a2df4e06b957f08a4c88c7f31882c",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-figs.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 629
+  },
+  {
+    "id": "commons-oplontis-peacock",
+    "short_title": "Oplontis: peacock and fountain",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: peacock and fountain",
+    "source_title": "Fresco peecock fountain Oplontis.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jebulon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_peecock_fountain_Oplontis.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+peecock+fountain+Oplontis.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fresco_peecock_fountain_Oplontis.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-oplontis-peacock.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-peacock-page.json",
+      "page_revision_id": 1178329683,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1178329683"
+    },
+    "photographed": "2015-07-22 10:46:35",
+    "original_file": "originals/commons-oplontis-peacock.jpg",
+    "expected_dimensions": [
+      2924,
+      4298
+    ],
+    "encoded_dimensions": [
+      2924,
+      4298
+    ],
+    "size_bytes": 11270470,
+    "sha256": "af13968b6a0f595bb185814b3330e2da957d51cf45564172977ed2e187f7bba7",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-peacock.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 630
+  },
+  {
+    "id": "commons-oplontis-pigeon",
+    "short_title": "Oplontis: pigeon in a painted garden",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: pigeon in a painted garden",
+    "source_title": "Fresco pigeon Oplontis.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jebulon",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_pigeon_Oplontis.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+pigeon+Oplontis.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fresco_pigeon_Oplontis.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-oplontis-pigeon.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-pigeon-page.json",
+      "page_revision_id": 1178329684,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1178329684"
+    },
+    "photographed": "2015-07-22 10:40:14",
+    "original_file": "originals/commons-oplontis-pigeon.jpg",
+    "expected_dimensions": [
+      2973,
+      2309
+    ],
+    "encoded_dimensions": [
+      2973,
+      2309
+    ],
+    "size_bytes": 5693159,
+    "sha256": "660429bcb9cdc50554e86240616a48e019136b4f2858400372cc76d73d728cfc",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-pigeon.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 631
+  },
+  {
+    "id": "commons-oplontis-wall-1",
+    "short_title": "Oplontis: peacock detail",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: peacock detail",
+    "source_title": "Fresco Oplontis 01.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Miguel Hermoso Cuesta",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_Oplontis_01.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+Oplontis+01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fresco_Oplontis_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-oplontis-wall-1.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-wall-1-page.json",
+      "page_revision_id": 1261450559,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261450559"
+    },
+    "photographed": "2013-07-02 11:44:16",
+    "original_file": "originals/commons-oplontis-wall-1.jpg",
+    "expected_dimensions": [
+      5184,
+      3456
+    ],
+    "encoded_dimensions": [
+      5184,
+      3456
+    ],
+    "size_bytes": 5707563,
+    "sha256": "6ee21b25f3279df0eeb1b4bd5991abfc398705d371de6dbdb79c609f8424937c",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-wall-1.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 632
+  },
+  {
+    "id": "commons-oplontis-wall-2",
+    "short_title": "Oplontis: faded wall decoration",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.1,
+      0.92,
+      0.87
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: faded wall decoration",
+    "source_title": "Fresco Oplontis 02.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Miguel Hermoso Cuesta",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_Oplontis_02.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+Oplontis+02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fresco_Oplontis_02.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-oplontis-wall-2.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-wall-2-page.json",
+      "page_revision_id": 1261450563,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261450563"
+    },
+    "photographed": "2013-07-02 12:10:17",
+    "original_file": "originals/commons-oplontis-wall-2.jpg",
+    "expected_dimensions": [
+      5184,
+      3456
+    ],
+    "encoded_dimensions": [
+      5184,
+      3456
+    ],
+    "size_bytes": 5753237,
+    "sha256": "7929a8170495fbb748ba4af8e79f02511b0cc66e3679bc7d78fc713e265de6fd",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-wall-2.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 2
+  },
+  {
+    "id": "commons-oplontis-wall-3",
+    "short_title": "Oplontis: painted ceiling detail",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "culture": "Roman",
+    "object_date": "Late 1st century BCE–1st century CE; before 79 CE",
+    "year_start": -50,
+    "year_end": 79,
+    "notes": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "context_url": "https://pompeiisites.org/en/oplontis/",
+    "title": "Oplontis: painted ceiling detail",
+    "source_title": "Fresco Oplontis 03.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Miguel Hermoso Cuesta",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_Oplontis_03.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+Oplontis+03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Fresco_Oplontis_03.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-oplontis-wall-3.json",
+      "page_snapshot": "data/commons-records/commons-oplontis-wall-3-page.json",
+      "page_revision_id": 1261450569,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261450569"
+    },
+    "photographed": "2013-07-02 12:13:11",
+    "original_file": "originals/commons-oplontis-wall-3.jpg",
+    "expected_dimensions": [
+      4636,
+      3456
+    ],
+    "encoded_dimensions": [
+      4636,
+      3456
+    ],
+    "size_bytes": 5154642,
+    "sha256": "95150b49f41e60015991eaa9538f0ed656f089f704bd4adf184c127a86b24903",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-oplontis-wall-3.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 633
+  },
+  {
+    "id": "commons-stabiae-flora",
+    "short_title": "Stabiae: Flora from Villa Arianna",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.06,
+      0.89,
+      0.92
+    ],
+    "region": "Italy",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "culture": "Roman",
+    "object_date": "1st century CE; before 79 CE",
+    "year_start": 1,
+    "year_end": 79,
+    "notes": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "context_url": "https://pompeiisites.org/en/stabiae/",
+    "accession_number": "8834",
+    "title": "Stabiae: Flora from Villa Arianna",
+    "source_title": "Flora MAN Napoli Inv8834.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Marie-Lan Nguyen (Jastrow)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Flora_MAN_Napoli_Inv8834.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFlora+MAN+Napoli+Inv8834.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Flora_MAN_Napoli_Inv8834.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-stabiae-flora.json",
+      "page_snapshot": "data/commons-records/commons-stabiae-flora-page.json",
+      "page_revision_id": 969732506,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=969732506"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-stabiae-flora.jpg",
+    "expected_dimensions": [
+      2626,
+      3500
+    ],
+    "encoded_dimensions": [
+      2626,
+      3500
+    ],
+    "size_bytes": 7689388,
+    "sha256": "6f7e0088f18d2f9d40f502488cb0245a1378e4fcd41686d8f6f3bb9b4c9fedd7",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-stabiae-flora.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 8
+  },
+  {
+    "id": "commons-stabiae-diana",
+    "short_title": "Stabiae: Diana with bow and arrow",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "culture": "Roman",
+    "object_date": "1st century CE; before 79 CE",
+    "year_start": 1,
+    "year_end": 79,
+    "notes": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "context_url": "https://pompeiisites.org/en/stabiae/",
+    "title": "Stabiae: Diana with bow and arrow",
+    "source_title": "Fresco of Diana with bow and arrow, from the Villa Arianna, Stabiae.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Chappsnet",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_of_Diana_with_bow_and_arrow,_from_the_Villa_Arianna,_Stabiae.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+of+Diana+with+bow+and+arrow%2C+from+the+Villa+Arianna%2C+Stabiae.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fresco_of_Diana_with_bow_and_arrow%2C_from_the_Villa_Arianna%2C_Stabiae.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-stabiae-diana.json",
+      "page_snapshot": "data/commons-records/commons-stabiae-diana-page.json",
+      "page_revision_id": 1261456033,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261456033"
+    },
+    "photographed": "2024-05-01 14:01:31",
+    "original_file": "originals/commons-stabiae-diana.jpg",
+    "expected_dimensions": [
+      2834,
+      3778
+    ],
+    "encoded_dimensions": [
+      2834,
+      3778
+    ],
+    "size_bytes": 6491749,
+    "sha256": "cd62bf1fa861517a3864f28f1ec9765867779f391ff047d226bbc87c71290343",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-stabiae-diana.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 634
+  },
+  {
+    "id": "commons-stabiae-leda",
+    "short_title": "Stabiae: Leda and the swan",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "culture": "Roman",
+    "object_date": "1st century CE; before 79 CE",
+    "year_start": 1,
+    "year_end": 79,
+    "notes": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "context_url": "https://pompeiisites.org/en/stabiae/",
+    "title": "Stabiae: Leda and the swan",
+    "source_title": "Fresco of Leda and the Swan, from the Villa Arianna, Stabiae.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Chappsnet",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_of_Leda_and_the_Swan,_from_the_Villa_Arianna,_Stabiae.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+of+Leda+and+the+Swan%2C+from+the+Villa+Arianna%2C+Stabiae.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Fresco_of_Leda_and_the_Swan%2C_from_the_Villa_Arianna%2C_Stabiae.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-stabiae-leda.json",
+      "page_snapshot": "data/commons-records/commons-stabiae-leda-page.json",
+      "page_revision_id": 1261456307,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261456307"
+    },
+    "photographed": "2024-05-01 14:01:09",
+    "original_file": "originals/commons-stabiae-leda.jpg",
+    "expected_dimensions": [
+      2586,
+      3046
+    ],
+    "encoded_dimensions": [
+      2586,
+      3046
+    ],
+    "size_bytes": 5948377,
+    "sha256": "4a209cee367384651b6e7b1cc3417df344f1c6c34b52b7f437afc4284d934c10",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-stabiae-leda.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 635
+  },
+  {
+    "id": "commons-stabiae-tray",
+    "short_title": "Stabiae: woman with an offering tray",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "culture": "Roman",
+    "object_date": "1st century CE; before 79 CE",
+    "year_start": 1,
+    "year_end": 79,
+    "notes": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "context_url": "https://pompeiisites.org/en/stabiae/",
+    "title": "Stabiae: woman with an offering tray",
+    "source_title": "Fresco of a woman with a tray from the Villa San Marco, ancient Stabiae.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Chappsnet",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_of_a_woman_with_a_tray_from_the_Villa_San_Marco,_ancient_Stabiae.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFresco+of+a+woman+with+a+tray+from+the+Villa+San+Marco%2C+ancient+Stabiae.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fresco_of_a_woman_with_a_tray_from_the_Villa_San_Marco%2C_ancient_Stabiae.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-stabiae-tray.json",
+      "page_snapshot": "data/commons-records/commons-stabiae-tray-page.json",
+      "page_revision_id": 1261457090,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1261457090"
+    },
+    "photographed": "2024-05-04 13:25:21",
+    "original_file": "originals/commons-stabiae-tray.jpg",
+    "expected_dimensions": [
+      1931,
+      2996
+    ],
+    "encoded_dimensions": [
+      1931,
+      2996
+    ],
+    "size_bytes": 4283235,
+    "sha256": "edc41d96ba75edfb2888ca5edd101330d1b8d5b0ce7866bc8b7513e3c5b77a3e",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-stabiae-tray.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 636
+  },
+  {
+    "id": "commons-stabiae-portraits",
+    "short_title": "Stabiae: paired portrait medallion",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Italy",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "culture": "Roman",
+    "object_date": "1st century CE; before 79 CE",
+    "year_start": 1,
+    "year_end": 79,
+    "notes": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "context_url": "https://pompeiisites.org/en/stabiae/",
+    "title": "Stabiae: paired portrait medallion",
+    "source_title": "Ancient Roman fresco medallion with portraits of a man and a woman (Villa Arianna, Stabiae).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Chappsnet",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_fresco_medallion_with_portraits_of_a_man_and_a_woman_(Villa_Arianna,_Stabiae).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AAncient+Roman+fresco+medallion+with+portraits+of+a+man+and+a+woman+%28Villa+Arianna%2C+Stabiae%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ancient_Roman_fresco_medallion_with_portraits_of_a_man_and_a_woman_%28Villa_Arianna%2C_Stabiae%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-stabiae-portraits.json",
+      "page_snapshot": "data/commons-records/commons-stabiae-portraits-page.json",
+      "page_revision_id": 1079434385,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1079434385"
+    },
+    "photographed": "2024-05-04 13:45:00",
+    "original_file": "originals/commons-stabiae-portraits.jpg",
+    "expected_dimensions": [
+      2559,
+      2559
+    ],
+    "encoded_dimensions": [
+      2559,
+      2559
+    ],
+    "size_bytes": 4825169,
+    "sha256": "3b7ecc5ce409857cfe4d803fce184535133871a1503156c9739deb062d230add",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-stabiae-portraits.jpg",
+    "collections": [
+      "rome",
+      "europe"
+    ],
+    "catalog_order": 637
+  },
+  {
+    "id": "commons-mari-investiture-1",
+    "short_title": "Mari: the Investiture painting",
+    "category": "Painted walls and caves",
+    "material": "Painted earthen wall surface",
+    "focus_box_fraction": [
+      0.04,
+      0.05,
+      0.96,
+      0.9
+    ],
+    "region": "Mesopotamia",
+    "location": "Royal palace, court 106, Mari, Syria; Musée du Louvre, AO 19826",
+    "culture": "Amorite",
+    "object_date": "2000–1800 BCE, current Louvre catalog range",
+    "year_start": -2000,
+    "year_end": -1800,
+    "accession_number": "AO 19826",
+    "notes": "A view of the restored Investiture painting from Mari. All three views show the same object. The date range follows the current Louvre record; the Commons upload uses an older circa 1700 BCE attribution. Reflections and restoration are not newly recovered pigment.",
+    "context_url": "https://collections.louvre.fr/en/ark:/53355/cl010144553",
+    "title": "Mari: the Investiture painting",
+    "source_title": "Investiture of Zimri-Lim Louvre AO19826 n01.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Marie-Lan Nguyen (Jastrow)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Investiture_of_Zimri-Lim_Louvre_AO19826_n01.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AInvestiture+of+Zimri-Lim+Louvre+AO19826+n01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Investiture_of_Zimri-Lim_Louvre_AO19826_n01.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-mari-investiture-1.json",
+      "page_snapshot": "data/commons-records/commons-mari-investiture-1-page.json",
+      "page_revision_id": 1177136949,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1177136949"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-mari-investiture-1.jpg",
+    "expected_dimensions": [
+      3807,
+      2538
+    ],
+    "encoded_dimensions": [
+      3807,
+      2538
+    ],
+    "size_bytes": 8399308,
+    "sha256": "1b7519ec0de1c868e470a0989b846ab3f82e5497899a93ad3fce623b4781f0b9",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-mari-investiture-1.jpg",
+    "collections": [
+      "mesopotamia",
+      "asia"
+    ],
+    "catalog_order": 4
+  },
+  {
+    "id": "commons-mari-investiture-2",
+    "short_title": "Mari: Investiture detail, view 2",
+    "category": "Painted walls and caves",
+    "material": "Painted earthen wall surface",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Mesopotamia",
+    "location": "Royal palace, court 106, Mari, Syria; Musée du Louvre, AO 19826",
+    "culture": "Amorite",
+    "object_date": "2000–1800 BCE, current Louvre catalog range",
+    "year_start": -2000,
+    "year_end": -1800,
+    "accession_number": "AO 19826",
+    "notes": "A view of the restored Investiture painting from Mari. All three views show the same object. The date range follows the current Louvre record; the Commons upload uses an older circa 1700 BCE attribution. Reflections and restoration are not newly recovered pigment.",
+    "context_url": "https://collections.louvre.fr/en/ark:/53355/cl010144553",
+    "title": "Mari: Investiture detail, view 2",
+    "source_title": "Investiture of Zimri-Lim Louvre AO19826 n02.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Marie-Lan Nguyen (Jastrow)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Investiture_of_Zimri-Lim_Louvre_AO19826_n02.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AInvestiture+of+Zimri-Lim+Louvre+AO19826+n02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Investiture_of_Zimri-Lim_Louvre_AO19826_n02.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-mari-investiture-2.json",
+      "page_snapshot": "data/commons-records/commons-mari-investiture-2-page.json",
+      "page_revision_id": 1177136950,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1177136950"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-mari-investiture-2.jpg",
+    "expected_dimensions": [
+      4182,
+      2775
+    ],
+    "encoded_dimensions": [
+      4182,
+      2775
+    ],
+    "size_bytes": 13282741,
+    "sha256": "0f447cf813375c44db98eb8e860c2e71a5c4063eab5d2ecd6e8d2f5fdfc675a8",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-mari-investiture-2.jpg",
+    "collections": [
+      "mesopotamia",
+      "asia"
+    ],
+    "catalog_order": 638
+  },
+  {
+    "id": "commons-mari-investiture-4",
+    "short_title": "Mari: Investiture detail, view 4",
+    "category": "Painted walls and caves",
+    "material": "Painted earthen wall surface",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Mesopotamia",
+    "location": "Royal palace, court 106, Mari, Syria; Musée du Louvre, AO 19826",
+    "culture": "Amorite",
+    "object_date": "2000–1800 BCE, current Louvre catalog range",
+    "year_start": -2000,
+    "year_end": -1800,
+    "accession_number": "AO 19826",
+    "notes": "A view of the restored Investiture painting from Mari. All three views show the same object. The date range follows the current Louvre record; the Commons upload uses an older circa 1700 BCE attribution. Reflections and restoration are not newly recovered pigment.",
+    "context_url": "https://collections.louvre.fr/en/ark:/53355/cl010144553",
+    "title": "Mari: Investiture detail, view 4",
+    "source_title": "Investiture of Zimri-Lim Louvre AO19826 n04.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Marie-Lan Nguyen (Jastrow)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Investiture_of_Zimri-Lim_Louvre_AO19826_n04.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AInvestiture+of+Zimri-Lim+Louvre+AO19826+n04.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Investiture_of_Zimri-Lim_Louvre_AO19826_n04.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-mari-investiture-4.json",
+      "page_snapshot": "data/commons-records/commons-mari-investiture-4-page.json",
+      "page_revision_id": 1177136954,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1177136954"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-mari-investiture-4.jpg",
+    "expected_dimensions": [
+      3757,
+      2496
+    ],
+    "encoded_dimensions": [
+      3757,
+      2496
+    ],
+    "size_bytes": 9170159,
+    "sha256": "327e2f4f9ab220c72aa52bab0c0e2b4529d350cd52a5bf1da6634cb5f1bc53ab",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-mari-investiture-4.jpg",
+    "collections": [
+      "mesopotamia",
+      "asia"
+    ],
+    "catalog_order": 639
+  },
+  {
+    "id": "commons-erebuni-fragment-1",
+    "short_title": "Erebuni: painted fragment 1",
+    "category": "Painted walls and caves",
+    "material": "Painted wall fragment",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Armenia",
+    "location": "Erebuni Museum, Yerevan, Armenia",
+    "culture": "Urartian",
+    "object_date": "Urartian; precise date of this fragment not established",
+    "notes": "Surviving colored wall-painting fragment in a dark museum display. Fit within the fragment and exclude its frame. Strong enhancement may amplify low-light noise; the broad cultural attribution is not a direct date for the fragment.",
+    "title": "Erebuni: painted fragment 1",
+    "source_title": "Urartaean fresco 1 mus erebuni.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jona Lendering / Livius",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Urartaean_fresco_1_mus_erebuni.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AUrartaean+fresco+1+mus+erebuni.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Urartaean_fresco_1_mus_erebuni.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-erebuni-fragment-1.json",
+      "page_snapshot": "data/commons-records/commons-erebuni-fragment-1-page.json",
+      "page_revision_id": 490814177,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=490814177"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-erebuni-fragment-1.jpg",
+    "expected_dimensions": [
+      4928,
+      3264
+    ],
+    "encoded_dimensions": [
+      4928,
+      3264
+    ],
+    "size_bytes": 7891572,
+    "sha256": "f5d4b47fcad032299d2a7ed0b3fe9c62a2234b0c60bbbca079fbc43ec44409f7",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-erebuni-fragment-1.jpg",
+    "collections": [
+      "asia"
+    ],
+    "catalog_order": 640,
+    "year_start": null,
+    "year_end": null
+  },
+  {
+    "id": "commons-erebuni-fragment-2",
+    "short_title": "Erebuni: painted fragment 2",
+    "category": "Painted walls and caves",
+    "material": "Painted wall fragment",
+    "focus_box_fraction": [
+      0.2,
+      0.15,
+      0.82,
+      0.8
+    ],
+    "region": "Armenia",
+    "location": "Erebuni Museum, Yerevan, Armenia",
+    "culture": "Urartian",
+    "object_date": "Urartian; precise date of this fragment not established",
+    "notes": "Surviving colored wall-painting fragment in a dark museum display. Fit within the fragment and exclude its frame. Strong enhancement may amplify low-light noise; the broad cultural attribution is not a direct date for the fragment.",
+    "title": "Erebuni: painted fragment 2",
+    "source_title": "Urartaean fresco 2 mus erebuni.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jona Lendering / Livius",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Urartaean_fresco_2_mus_erebuni.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AUrartaean+fresco+2+mus+erebuni.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Urartaean_fresco_2_mus_erebuni.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-erebuni-fragment-2.json",
+      "page_snapshot": "data/commons-records/commons-erebuni-fragment-2-page.json",
+      "page_revision_id": 490814218,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=490814218"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-erebuni-fragment-2.jpg",
+    "expected_dimensions": [
+      4928,
+      3264
+    ],
+    "encoded_dimensions": [
+      4928,
+      3264
+    ],
+    "size_bytes": 8151326,
+    "sha256": "e0ca53d7f44583213747b51a77358d085bd11832ad08d8908c98657186f15964",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-erebuni-fragment-2.jpg",
+    "collections": [
+      "asia"
+    ],
+    "catalog_order": 10,
+    "year_start": null,
+    "year_end": null
+  },
+  {
+    "id": "commons-erebuni-fragment-3",
+    "short_title": "Erebuni: painted fragment 3",
+    "category": "Painted walls and caves",
+    "material": "Painted wall fragment",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Armenia",
+    "location": "Erebuni Museum, Yerevan, Armenia",
+    "culture": "Urartian",
+    "object_date": "Urartian; precise date of this fragment not established",
+    "notes": "Surviving colored wall-painting fragment in a dark museum display. Fit within the fragment and exclude its frame. Strong enhancement may amplify low-light noise; the broad cultural attribution is not a direct date for the fragment.",
+    "title": "Erebuni: painted fragment 3",
+    "source_title": "Urartaean fresco 3 mus erebuni.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Jona Lendering / Livius",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Urartaean_fresco_3_mus_erebuni.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AUrartaean+fresco+3+mus+erebuni.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Urartaean_fresco_3_mus_erebuni.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-erebuni-fragment-3.json",
+      "page_snapshot": "data/commons-records/commons-erebuni-fragment-3-page.json",
+      "page_revision_id": 482468673,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=482468673"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-erebuni-fragment-3.jpg",
+    "expected_dimensions": [
+      4928,
+      3264
+    ],
+    "encoded_dimensions": [
+      4928,
+      3264
+    ],
+    "size_bytes": 7927721,
+    "sha256": "303ca618bfafbb9fd66ff1dda6309ca3480cab3909b5b16cf79062503dbe1891",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-erebuni-fragment-3.jpg",
+    "collections": [
+      "asia"
+    ],
+    "catalog_order": 641,
+    "year_start": null,
+    "year_end": null
+  },
+  {
+    "id": "commons-mogao-bhaisajyaguru",
+    "short_title": "Dunhuang: Bhaisajyaguru, Cave 322",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "China",
+    "location": "Mogao Cave 322, Dunhuang, Gansu, China",
+    "culture": "Early Tang",
+    "object_date": "Early Tang, 618–649 CE in source catalog",
+    "year_start": 618,
+    "year_end": 649,
+    "notes": "Color reproduction of the Bhaisajyaguru mural on the east wall of Cave 322. The source capture date and color calibration are not established. Compare worn outlines with surface damage; do not treat intensified color as an original palette.",
+    "title": "Dunhuang: Bhaisajyaguru, Cave 322",
+    "source_title": "Bhaisajyaguru mural from Mogao Cave 322, Dunhuang.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Unidentified photograph of an anonymous Early Tang mural; via Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bhaisajyaguru_mural_from_Mogao_Cave_322,_Dunhuang.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABhaisajyaguru+mural+from+Mogao+Cave+322%2C+Dunhuang.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bhaisajyaguru_mural_from_Mogao_Cave_322%2C_Dunhuang.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-mogao-bhaisajyaguru.json",
+      "page_snapshot": "data/commons-records/commons-mogao-bhaisajyaguru-page.json",
+      "page_revision_id": 1073276334,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1073276334"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-mogao-bhaisajyaguru.jpg",
+    "expected_dimensions": [
+      1850,
+      2831
+    ],
+    "encoded_dimensions": [
+      1850,
+      2831
+    ],
+    "size_bytes": 3228105,
+    "sha256": "04602f73f72960c19b1f2875c15eb66f64deb7137e1433cbe05e42766486c06a",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-mogao-bhaisajyaguru.jpg",
+    "collections": [
+      "asia"
+    ],
+    "catalog_order": 642
+  },
+  {
+    "id": "commons-dunhuang-mara",
+    "short_title": "Dunhuang: the assaults of Mara",
+    "category": "Paintings and manuscripts",
+    "material": "Ink and color on silk, with gold",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "China",
+    "location": "Dunhuang, China; Musée Guimet, MG 17655",
+    "culture": "Five Dynasties",
+    "object_date": "First half of the 10th century CE",
+    "year_start": 900,
+    "year_end": 950,
+    "accession_number": "MG 17655",
+    "notes": "Published color reproduction of a Buddhist painting from Dunhuang, preserved as supplied. Scanning and printing can affect color. The museum identifies this as the assaults of Mara.",
+    "context_url": "https://www.guimet.fr/en/our-collections/buddhist-china-central-asia/assaults-mara",
+    "title": "Dunhuang: the assaults of Mara",
+    "source_title": "Dunhuang Mara Budda.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Musée Guimet; published scan uploaded by Евгений Ардаев",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Dunhuang_Mara_Budda.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ADunhuang+Mara+Budda.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Dunhuang_Mara_Budda.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-dunhuang-mara.json",
+      "page_snapshot": "data/commons-records/commons-dunhuang-mara-page.json",
+      "page_revision_id": 1215061840,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1215061840"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-dunhuang-mara.jpg",
+    "expected_dimensions": [
+      1964,
+      2523
+    ],
+    "encoded_dimensions": [
+      1964,
+      2523
+    ],
+    "size_bytes": 2566042,
+    "sha256": "c51a7e5eb4c0e8e8aad16591552264222006bf24374093065e7e9ceb335275af",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-dunhuang-mara.jpg",
+    "collections": [
+      "asia",
+      "manuscripts"
+    ],
+    "catalog_order": 643
+  },
+  {
+    "id": "commons-dunhuang-vaishravana",
+    "short_title": "Dunhuang: Vaisravana crossing the waters",
+    "category": "Paintings and manuscripts",
+    "material": "Ink and color on silk",
+    "focus_box_fraction": [
+      0.08,
+      0.08,
+      0.92,
+      0.94
+    ],
+    "region": "China",
+    "location": "Mogao Cave 17, Dunhuang, China; British Museum",
+    "culture": "Tang dynasty",
+    "object_date": "9th century CE, current British Museum catalog",
+    "year_start": 800,
+    "year_end": 899,
+    "accession_number": "1919,0101,0.45",
+    "notes": "Color reproduction of Vaisravana standing on clouds above the water, carrying a halberd and a cloud-borne stupa. The visual identification and ninth-century date follow British Museum 1919,0101,0.45; the Commons file title gives a different date. This is not the separate painting of Vaisravana on horseback.",
+    "context_url": "https://www.britishmuseum.org/collection/object/A_1919-0101-0-45",
+    "title": "Dunhuang: Vaisravana crossing the waters",
+    "source_title": "Vaishravana riding across the waters. 61,8x54,7cm From Dunhuang, Cave17. Five Dynasties, mid-10th century AD. British Museum..jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "British Museum; via Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vaishravana_riding_across_the_waters._61,8x54,7cm_From_Dunhuang,_Cave17._Five_Dynasties,_mid-10th_century_AD._British_Museum..jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AVaishravana+riding+across+the+waters.+61%2C8x54%2C7cm+From+Dunhuang%2C+Cave17.+Five+Dynasties%2C+mid-10th+century+AD.+British+Museum..jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Vaishravana_riding_across_the_waters._61%2C8x54%2C7cm_From_Dunhuang%2C_Cave17._Five_Dynasties%2C_mid-10th_century_AD._British_Museum..jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-dunhuang-vaishravana.json",
+      "page_snapshot": "data/commons-records/commons-dunhuang-vaishravana-page.json",
+      "page_revision_id": 1222600414,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1222600414"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-dunhuang-vaishravana.jpg",
+    "expected_dimensions": [
+      1388,
+      1968
+    ],
+    "encoded_dimensions": [
+      1388,
+      1968
+    ],
+    "size_bytes": 1069041,
+    "sha256": "b74b3d0eb30557d0db297d3f6e072d2155316b61a85c7e7cb8e73dc7bd37bb2e",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-dunhuang-vaishravana.jpg",
+    "collections": [
+      "asia",
+      "manuscripts"
+    ],
+    "catalog_order": 6
+  },
+  {
+    "id": "commons-faras-petros",
+    "short_title": "Faras: Bishop Petros and Saint Peter",
+    "category": "Painted walls and caves",
+    "material": "Tempera on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Nubia",
+    "location": "Faras, present-day Sudan; National Museum in Warsaw where identified in source",
+    "culture": "Medieval Nubian",
+    "object_date": "974–997 CE",
+    "year_start": 974,
+    "year_end": 997,
+    "notes": "A surviving Nubian wall painting from Faras. Detached fragments and their losses are part of the object’s conservation history. Compare surviving painted passages with the current plaster surface.",
+    "context_url": "https://www.mnw.art.pl/en/collections/permanent-galleries/faras-gallery/",
+    "title": "Faras: Bishop Petros and Saint Peter",
+    "source_title": "Faras - Bishop Petros with Saint Peter - Google Art Project.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "National Museum in Warsaw / Google Art Project",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Faras_-_Bishop_Petros_with_Saint_Peter_-_Google_Art_Project.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFaras+-+Bishop+Petros+with+Saint+Peter+-+Google+Art+Project.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Faras_-_Bishop_Petros_with_Saint_Peter_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-faras-petros.json",
+      "page_snapshot": "data/commons-records/commons-faras-petros-page.json",
+      "page_revision_id": 1249108191,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1249108191"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-faras-petros.jpg",
+    "expected_dimensions": [
+      2952,
+      5704
+    ],
+    "encoded_dimensions": [
+      2952,
+      5704
+    ],
+    "size_bytes": 8904996,
+    "sha256": "9c2306ba8ee1baac38c4c85cd233e6081e88fe18402ec3d4da62ce0a0135fb24",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-faras-petros.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 644
+  },
+  {
+    "id": "commons-faras-georgios",
+    "short_title": "Faras: King Georgios III",
+    "category": "Painted walls and caves",
+    "material": "Tempera on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Nubia",
+    "location": "Faras, present-day Sudan; National Museum in Warsaw where identified in source",
+    "culture": "Medieval Nubian",
+    "object_date": "Late 10th century CE",
+    "year_start": 950,
+    "year_end": 1000,
+    "notes": "Published color reproduction in François-Xavier Fauvelle, Das goldene Rhinozeros (2017). Printing and scanning affect the recorded colors; this is not a newly calibrated capture of the mural.",
+    "context_url": "https://www.mnw.art.pl/en/collections/permanent-galleries/faras-gallery/",
+    "title": "Faras: King Georgios III",
+    "source_title": "Georgios III (Faras).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Published reproduction in François-Xavier Fauvelle, Das goldene Rhinozeros (2017); via Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Georgios_III_(Faras).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AGeorgios+III+%28Faras%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Georgios_III_%28Faras%29.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-faras-georgios.json",
+      "page_snapshot": "data/commons-records/commons-faras-georgios-page.json",
+      "page_revision_id": 1100270155,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1100270155"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-faras-georgios.jpg",
+    "expected_dimensions": [
+      2380,
+      5288
+    ],
+    "encoded_dimensions": [
+      2380,
+      5288
+    ],
+    "size_bytes": 3390689,
+    "sha256": "826815494347faa1598f78219c0f35588ad777851617fe4ccbe96a8f75ce1fce",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-faras-georgios.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 645
+  },
+  {
+    "id": "commons-faras-archangel",
+    "short_title": "Faras: fragment of an archangel",
+    "category": "Painted walls and caves",
+    "material": "Tempera on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.08,
+      0.91,
+      0.92
+    ],
+    "region": "Nubia",
+    "location": "Faras, present-day Sudan; National Museum in Warsaw where identified in source",
+    "culture": "Medieval Nubian",
+    "object_date": "Third quarter of the 10th century CE",
+    "year_start": 950,
+    "year_end": 975,
+    "notes": "A surviving Nubian wall painting from Faras. Detached fragments and their losses are part of the object’s conservation history. Compare surviving painted passages with the current plaster surface.",
+    "context_url": "https://www.mnw.art.pl/en/collections/permanent-galleries/faras-gallery/",
+    "title": "Faras: fragment of an archangel",
+    "source_title": "Autor nieznany, Archanioł (fragment postaci). Malowidło ścienne.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "National Museum in Warsaw; via Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Autor_nieznany,_Archanio%C5%82_(fragment_postaci)._Malowid%C5%82o_%C5%9Bcienne.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AAutor+nieznany%2C+Archanio%C5%82+%28fragment+postaci%29.+Malowid%C5%82o+%C5%9Bcienne.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Autor_nieznany%2C_Archanio%C5%82_%28fragment_postaci%29._Malowid%C5%82o_%C5%9Bcienne.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-faras-archangel.json",
+      "page_snapshot": "data/commons-records/commons-faras-archangel-page.json",
+      "page_revision_id": 979104387,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=979104387"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-faras-archangel.jpg",
+    "expected_dimensions": [
+      1324,
+      2500
+    ],
+    "encoded_dimensions": [
+      1324,
+      2500
+    ],
+    "size_bytes": 639522,
+    "sha256": "0d7d9dccc869b6b462a99777f3acff8f917058620d34eb5cdee9891dc6c5f7bd",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-faras-archangel.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 3
+  },
+  {
+    "id": "commons-faras-eleusa",
+    "short_title": "Faras: Virgin and Child in a niche",
+    "category": "Painted walls and caves",
+    "material": "Tempera on plaster",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Nubia",
+    "location": "Faras, present-day Sudan; National Museum in Warsaw where identified in source",
+    "culture": "Medieval Nubian",
+    "object_date": "12th century CE",
+    "year_start": 1100,
+    "year_end": 1199,
+    "notes": "A surviving Nubian wall painting from Faras. Detached fragments and their losses are part of the object’s conservation history. Compare surviving painted passages with the current plaster surface.",
+    "context_url": "https://www.mnw.art.pl/en/collections/permanent-galleries/faras-gallery/",
+    "title": "Faras: Virgin and Child in a niche",
+    "source_title": "Nieznany - Malowidło ścienne z niszy - Matka Boska Eleusa.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "National Museum in Warsaw; via Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nieznany_-_Malowid%C5%82o_%C5%9Bcienne_z_niszy_-_Matka_Boska_Eleusa.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ANieznany+-+Malowid%C5%82o+%C5%9Bcienne+z+niszy+-+Matka+Boska+Eleusa.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nieznany_-_Malowid%C5%82o_%C5%9Bcienne_z_niszy_-_Matka_Boska_Eleusa.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-faras-eleusa.json",
+      "page_snapshot": "data/commons-records/commons-faras-eleusa-page.json",
+      "page_revision_id": 802478375,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=802478375"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-faras-eleusa.jpg",
+    "expected_dimensions": [
+      1758,
+      2500
+    ],
+    "encoded_dimensions": [
+      1758,
+      2500
+    ],
+    "size_bytes": 1175191,
+    "sha256": "13e6237bdc8d1d7c06ff3c3e26b4018888cf27b5ebb374d6b254f73d662107d3",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-faras-eleusa.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 646
+  },
+  {
+    "id": "commons-pazyryk-saddlecloth",
+    "short_title": "Pazyryk: felt saddlecloth with an elk",
+    "category": "Textiles",
+    "material": "Dyed felt with appliqué",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.88,
+      0.88
+    ],
+    "region": "Central Asia",
+    "location": "Pazyryk, Altai Mountains; State Hermitage Museum",
+    "culture": "Pazyryk",
+    "object_date": "First millennium BCE; precise object date not established",
+    "year_start": -1000,
+    "year_end": -1,
+    "notes": "Published color reproduction of a felt saddlecloth with an elk motif, from Gold der Skythen aus der Leningrader Eremitage (1984), p. 191. Printing, scanning and faded dyes all affect the recorded color.",
+    "title": "Pazyryk: felt saddlecloth with an elk",
+    "source_title": "Pazyryk saddlecloth.jpg",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "User:Schreiber",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pazyryk_saddlecloth.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3APazyryk+saddlecloth.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pazyryk_saddlecloth.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-pazyryk-saddlecloth.json",
+      "page_snapshot": "data/commons-records/commons-pazyryk-saddlecloth-page.json",
+      "page_revision_id": 1221768724,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1221768724"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-pazyryk-saddlecloth.jpg",
+    "expected_dimensions": [
+      2496,
+      1444
+    ],
+    "encoded_dimensions": [
+      2496,
+      1444
+    ],
+    "size_bytes": 936840,
+    "sha256": "f459fa0e9bc795ef7bdecd454a8a6a9666cfa52e9cd5c77728b74784598270a5",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-pazyryk-saddlecloth.jpg",
+    "collections": [
+      "textiles",
+      "asia"
+    ],
+    "catalog_order": 647
+  },
+  {
+    "id": "commons-pazyryk-carpet",
+    "short_title": "Pazyryk: knotted wool carpet",
+    "category": "Textiles",
+    "material": "Knotted wool",
+    "focus_box_fraction": [
+      0.12,
+      0.08,
+      0.9,
+      0.93
+    ],
+    "region": "Central Asia",
+    "location": "Pazyryk, Altai Mountains; State Hermitage Museum",
+    "culture": "Pazyryk",
+    "object_date": "5th–4th century BCE",
+    "year_start": -500,
+    "year_end": -301,
+    "notes": "Photograph of the Pazyryk carpet. The museum describes faded reds, blues, greens and yellows. Compare the woven pattern and worn areas without interpreting a false-color result as identified dyes.",
+    "title": "Pazyryk: knotted wool carpet",
+    "source_title": "Pazyryk.jpg",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "VincentKeers",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pazyryk.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3APazyryk.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pazyryk.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-pazyryk-carpet.json",
+      "page_snapshot": "data/commons-records/commons-pazyryk-carpet-page.json",
+      "page_revision_id": 1262398831,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1262398831"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-pazyryk-carpet.jpg",
+    "expected_dimensions": [
+      2305,
+      2160
+    ],
+    "encoded_dimensions": [
+      2305,
+      2160
+    ],
+    "size_bytes": 9671588,
+    "sha256": "075208f972cc240f4e7213b83a1ecfbe63748b824a1ec12b097a93a5bff78656",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-pazyryk-carpet.jpg",
+    "collections": [
+      "textiles",
+      "asia"
+    ],
+    "catalog_order": 5
+  },
+  {
+    "id": "commons-angkor-style-deity",
+    "short_title": "Khmer female deity: later red lacquer",
+    "category": "Painted sculpture and relief",
+    "material": "Sandstone with later black and red lacquer and traces of gilding",
+    "focus_box_fraction": [
+      0.18,
+      0.24,
+      0.88,
+      0.8
+    ],
+    "region": "Cambodia",
+    "location": "Cambodia, exact findspot unknown; Musée Guimet, MG 14919",
+    "culture": "Khmer, Angkor Wat style",
+    "object_date": "Sculpture: third quarter of the 12th century; coating later",
+    "year_start": 1150,
+    "year_end": 1175,
+    "notes": "The source identifies a later lacquer coating on a 12th-century Khmer sculpture. This is Angkor Wat style, with unknown exact provenance; it is not a photograph of hidden paintings at Angkor Wat. Date filtering refers to the sculpture, not its later coating.",
+    "title": "Khmer female deity: later red lacquer",
+    "source_title": "Cambogia, divinità femminile policroma, prov. ignota, stile di angkor vat, 1100-1175.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "sailko",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cambogia,_divinit%C3%A0_femminile_policroma,_prov._ignota,_stile_di_angkor_vat,_1100-1175.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACambogia%2C+divinit%C3%A0+femminile+policroma%2C+prov.+ignota%2C+stile+di+angkor+vat%2C+1100-1175.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cambogia%2C_divinit%C3%A0_femminile_policroma%2C_prov._ignota%2C_stile_di_angkor_vat%2C_1100-1175.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-11",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-angkor-style-deity.json",
+      "page_snapshot": "data/commons-records/commons-angkor-style-deity-page.json",
+      "page_revision_id": 846363228,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=846363228"
+    },
+    "photographed": "2012-10-17 09:47:55",
+    "original_file": "originals/commons-angkor-style-deity.jpg",
+    "expected_dimensions": [
+      688,
+      2336
+    ],
+    "encoded_dimensions": [
+      688,
+      2336
+    ],
+    "size_bytes": 657899,
+    "sha256": "848ac82d174fac90b4483e8a29b06c63b6e0c571b244c6325eaa02bf3b99f6e7",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-angkor-style-deity.jpg",
+    "collections": [
+      "asia"
+    ],
+    "catalog_order": 9
   }
 ]

@@ -1,0 +1,105 @@
+{
+  "pageid": 48623064,
+  "ns": 6,
+  "title": "File:Fresco peecock fountain Oplontis.jpg",
+  "index": 5,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 11270470,
+      "width": 2924,
+      "height": 4298,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fresco_peecock_fountain_Oplontis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fresco_peecock_fountain_Oplontis.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48623064",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-05-07 17:13:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fresco peecock fountain Oplontis",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Paintings of fountains|Self-published work|Files with coordinates missing SDC location of creation|Irelli-Aoyagi-De Caro-Pappalardo 471|Peacocks in ancient Roman frescos",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.757030",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.452571",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fresco in Villa Poppea, Oplontis, Italy",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-07-22 10:46:35",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

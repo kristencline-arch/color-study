@@ -1,0 +1,92 @@
+{
+  "pageid": 138570342,
+  "ns": 6,
+  "title": "File:Heracles and Telephus fresco from the Basilica (Herculaneum).jpg",
+  "index": 7,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2486757,
+      "width": 1908,
+      "height": 2345,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Heracles_and_Telephus_fresco_from_the_Basilica_%28Herculaneum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Heracles_and_Telephus_fresco_from_the_Basilica_(Herculaneum).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138570342",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-10-07 07:16:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Heracles and Telephus fresco from the Basilica (Herculaneum)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Heracles and Telephus fresco from the Basilica (Herculaneum)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Heracles and Telephus fresco from the Basilica (Herculaneum), Museo Archeologico Nazionale di Napoli",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-09-28 09:17:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

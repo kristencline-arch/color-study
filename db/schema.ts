@@ -22,6 +22,16 @@ export const communityLimits = sqliteTable("community_limits", {
   used: integer("used").notNull(),
 });
 
+export const photoReports = sqliteTable("photo_reports", {
+  id: text("id").primaryKey(),
+  createdAt: text("created_at").notNull(),
+  photoId: text("photo_id").notNull(),
+  photoType: text("photo_type").notNull(),
+  reason: text("reason").notNull(),
+  details: text("details").notNull(),
+  status: text("status").notNull().default("open"),
+}, table => [index("photo_reports_status").on(table.status, table.createdAt, table.id)]);
+
 export const catalogReleases = sqliteTable("catalog_releases", {
   id: text("id").primaryKey(),
   createdAt: text("created_at").notNull(),

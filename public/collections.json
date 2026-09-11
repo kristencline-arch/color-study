@@ -97,14 +97,19 @@
       "commons-ramesses-vi-chamber",
       "commons-ramesses-vi-ceiling",
       "commons-ramesses-i",
-      "commons-nebamun-hunting"
+      "commons-nebamun-hunting",
+      "commons-beni-hassan-16",
+      "commons-beni-hassan-17",
+      "commons-beni-hassan-18",
+      "commons-beni-hassan-19",
+      "commons-beni-hassan-20"
     ],
-    "count": 93
+    "count": 98
   },
   {
     "id": "rome",
     "label": "Pompeii & Rome",
-    "description": "Ancient and early medieval painted walls from Pompeii, the Roman villas and Santa Maria Antiqua.",
+    "description": "Painted rooms and panels from Pompeii, Herculaneum, Oplontis, Stabiae, Roman villas and early medieval Rome.",
     "cover": "met-247010",
     "photo_ids": [
       "pompeii-vettii",
@@ -144,9 +149,28 @@
       "commons-antiqua-crucifix",
       "commons-antiqua-mural",
       "commons-antiqua-atrium-1",
-      "commons-antiqua-atrium-3"
+      "commons-antiqua-atrium-3",
+      "commons-herculaneum-chiron",
+      "commons-herculaneum-telephus",
+      "commons-herculaneum-lyre",
+      "commons-herculaneum-23",
+      "commons-herculaneum-28",
+      "commons-herculaneum-29",
+      "commons-oplontis-bird",
+      "commons-oplontis-cherries",
+      "commons-oplontis-figs",
+      "commons-oplontis-peacock",
+      "commons-oplontis-pigeon",
+      "commons-oplontis-wall-1",
+      "commons-oplontis-wall-2",
+      "commons-oplontis-wall-3",
+      "commons-stabiae-flora",
+      "commons-stabiae-diana",
+      "commons-stabiae-leda",
+      "commons-stabiae-tray",
+      "commons-stabiae-portraits"
     ],
-    "count": 38
+    "count": 57
   },
   {
     "id": "greece",
@@ -408,9 +432,28 @@
       "commons-bernifal-9",
       "commons-azilian-pebble",
       "cma-114201",
-      "cma-114202"
+      "cma-114202",
+      "commons-herculaneum-chiron",
+      "commons-herculaneum-telephus",
+      "commons-herculaneum-lyre",
+      "commons-herculaneum-23",
+      "commons-herculaneum-28",
+      "commons-herculaneum-29",
+      "commons-oplontis-bird",
+      "commons-oplontis-cherries",
+      "commons-oplontis-figs",
+      "commons-oplontis-peacock",
+      "commons-oplontis-pigeon",
+      "commons-oplontis-wall-1",
+      "commons-oplontis-wall-2",
+      "commons-oplontis-wall-3",
+      "commons-stabiae-flora",
+      "commons-stabiae-diana",
+      "commons-stabiae-leda",
+      "commons-stabiae-tray",
+      "commons-stabiae-portraits"
     ],
-    "count": 220
+    "count": 239
   },
   {
     "id": "ice-age-europe",
@@ -508,9 +551,12 @@
       "commons-scarlet-ware-4",
       "commons-scarlet-ware-5",
       "commons-scarlet-ware-6",
-      "commons-scarlet-ware-7"
+      "commons-scarlet-ware-7",
+      "commons-mari-investiture-1",
+      "commons-mari-investiture-2",
+      "commons-mari-investiture-4"
     ],
-    "count": 9
+    "count": 12
   },
   {
     "id": "persia",
@@ -710,9 +756,11 @@
       "cma-94850",
       "commons-mangaia-poncho",
       "commons-mangaia-mask",
-      "commons-tonga-ngatu"
+      "commons-tonga-ngatu",
+      "commons-pazyryk-saddlecloth",
+      "commons-pazyryk-carpet"
     ],
-    "count": 169
+    "count": 171
   },
   {
     "id": "asia",
@@ -856,9 +904,21 @@
       "cma-149971",
       "cma-156262",
       "cma-156065",
-      "cma-107853"
+      "cma-107853",
+      "commons-mari-investiture-1",
+      "commons-mari-investiture-2",
+      "commons-mari-investiture-4",
+      "commons-erebuni-fragment-1",
+      "commons-erebuni-fragment-2",
+      "commons-erebuni-fragment-3",
+      "commons-mogao-bhaisajyaguru",
+      "commons-dunhuang-mara",
+      "commons-dunhuang-vaishravana",
+      "commons-pazyryk-saddlecloth",
+      "commons-pazyryk-carpet",
+      "commons-angkor-style-deity"
     ],
-    "count": 137
+    "count": 149
   },
   {
     "id": "macedonia",
@@ -1091,9 +1151,11 @@
       "commons-durrow-85v",
       "commons-durrow-86r",
       "cma-114201",
-      "cma-114202"
+      "cma-114202",
+      "commons-dunhuang-mara",
+      "commons-dunhuang-vaishravana"
     ],
-    "count": 113
+    "count": 115
   },
   {
     "id": "south-america",
@@ -1192,8 +1254,12 @@
       "commons-gunda-gunde-96v",
       "commons-gunda-gunde-197r",
       "commons-gunda-gunde-199r",
-      "commons-gunda-gunde-209r"
+      "commons-gunda-gunde-209r",
+      "commons-faras-petros",
+      "commons-faras-georgios",
+      "commons-faras-archangel",
+      "commons-faras-eleusa"
     ],
-    "count": 42
+    "count": 46
   }
 ]

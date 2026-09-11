@@ -1,0 +1,19 @@
+{
+  "pageid": 74851876,
+  "ns": 6,
+  "title": "File:Georgios III (Faras).jpg",
+  "revisions": [
+    {
+      "revid": 1100270155,
+      "parentid": 1100270111,
+      "timestamp": "2025-10-16T12:58:40Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Wall painting of king Georgios III (late 10th century) of Makuria, Faras.}}\n|date={{other date|~|1000}}\n|source=François-Xavier Fauvelle (2017): \"Das goldene Rhinozeros: Afrika im Mittelalter\"\n|author={{unknown|author}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-expired}}\n\n[[Category:George III of Makuria]]\n[[Category:Faras]]"
+        }
+      }
+    }
+  ]
+}

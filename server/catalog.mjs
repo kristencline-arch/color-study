@@ -31,6 +31,17 @@ function filters(params, revision) {
     if (!['500', '1000', '1500'].includes(before)) throw invalid('Choose a valid date range.');
     where.push('year_end < ?'); args.push(Number(before));
   }
+  const dates = {};
+  for (const key of ['from', 'to']) {
+    const value = params.get(key);
+    if (value) {
+      if (!/^-?\d{1,5}$/.test(value) || Number(value) < -50000 || Number(value) > 2100 || Number(value) === 0) throw invalid('Use years from 50000 BCE to 2100 CE. Negative years mean BCE; there is no year zero.');
+      dates[key] = Number(value);
+    }
+  }
+  if (dates.from !== undefined && dates.to !== undefined && dates.from > dates.to) throw invalid('The starting year must be before the ending year.');
+  if (dates.from !== undefined) {where.push('year_end >= ?'); args.push(dates.from);}
+  if (dates.to !== undefined) {where.push('year_start <= ?'); args.push(dates.to);}
   return {where: where.join(' AND '), args};
 }
 

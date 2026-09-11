@@ -1,0 +1,19 @@
+{
+  "pageid": 3173368,
+  "ns": 6,
+  "title": "File:Pazyryk saddlecloth.jpg",
+  "revisions": [
+    {
+      "revid": 1221768724,
+      "parentid": 859952801,
+      "timestamp": "2026-05-28T17:27:18Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|Description=saddlecloth depicting an elk (moose) from Pasyryk, Altay Mountains\n|Source=Gold der Skythen aus der Leninburger Eremitage, Munich 1984, p. 191\n|Date=first millenium B.C.\n|Author=[[User:Schreiber]]\n|Permission=public domain\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-Art}}\n\n[[Category:Pazyryk culture]]\n[[Category:Iron Age textiles]]\n[[Category:Elk in art]]"
+        }
+      }
+    }
+  ]
+}

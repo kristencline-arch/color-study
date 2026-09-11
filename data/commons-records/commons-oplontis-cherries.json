@@ -1,0 +1,105 @@
+{
+  "pageid": 48622218,
+  "ns": 6,
+  "title": "File:Bird and cherries fresco Oplontis.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6253303,
+      "width": 3653,
+      "height": 2260,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bird_and_cherries_fresco_Oplontis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bird_and_cherries_fresco_Oplontis.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48622218",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-05-07 16:39:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bird and cherries fresco Oplontis",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Cracks|Self-published work|Red background|Files with coordinates missing SDC location of creation|Birds in ancient Roman painting|Ancient Roman frescos. Villa Poppaea|Frescos of fruits",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.757030",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.452571",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A bird with fruits, ancient roman fresco of Villa Poppea, Oplontis, Italy.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-07-22 10:39:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

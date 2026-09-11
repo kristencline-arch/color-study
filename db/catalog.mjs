@@ -55,7 +55,7 @@ export function publicCatalogPhoto(row, origin) {
   return {...source, category: row.category, region: row.region, provider: row.provider,
     image_url: `${origin}/${source.original_file}`,
     thumbnail_url: `${origin}/thumbnails/${source.id}.jpg`,
-    study_url: `${origin}/#sample=${encodeURIComponent(source.id)}`};
+    study_url: `${origin}/study/${encodeURIComponent(source.id)}`};
 }
 
 export async function allCatalogPhotos(catalog, origin) {

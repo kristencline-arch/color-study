@@ -1,6 +1,6 @@
 # Color Study
 
-An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 608 photographs, including 169 textiles, a [84-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
+An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 648 photographs, including 171 textiles, a [91-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
 
 Curated metadata and original annotations are [CC0](CATALOG-LICENSE.md); photographs retain their individual licenses. [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) or [view all image credits](CREDITS.md).
 
@@ -28,7 +28,7 @@ Each photo has a report link to the GitHub issue form. The contributor receives 
 
 Browse 17 overlapping collections, with new Ice Age Europe and early medieval Europe groups, including Europe, the Caribbean, Oceania and Pacific Islands, Asia, Macedonia, Indigenous North America, scrolls and manuscripts, South America, and Africa beyond Egypt. Museum and source records retain specific cultural attributions and dates. The [coverage review](public/photo-search.md) identifies remaining region and era gaps.
 
-The collection includes 169 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
+The collection includes 171 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
 
 ## Validation
 
@@ -55,3 +55,19 @@ Website showcase previews are resized originals and mathematical color enhanceme
 Operators can set a server-only `COMMUNITY_ADMIN_TOKEN` of at least 32 characters and send `DELETE /api/community/{id}` with `Authorization: Bearer <token>` to remove a reported contribution. The token is never part of the public site, image records or database download. Keep it in the hosting service’s secret settings, not in Git.
 
 The production website loads imported museum and field JPEGs from the pinned GitHub image release in `public/photo-release.json`; all original files remain in this repository. Thumbnails, comparisons and the D1 catalog are hosted with the website. The build omits only generated imported JPEG copies from the deployment archive to respect its size limit.
+
+## Guided studies and sharing
+
+Every curated image has a `/study/<id>` page with a photographic social preview, source credit and license. Sixteen studies include 32 detail prompts; 20 related-view groups distinguish site views and manuscript pages from counts of unique objects. The browser viewer supports synchronized pan, pinch and keyboard zoom, 100% detail, and keyboard-entered fitting rectangles. Native viewport tiles and exports use the same fitted transform.
+
+Share preserves the study’s settings and selected surface, including a whole-image fit. Collection links retain search, date range, material, provider, sort and page. Negative years mean BCE; the new `from`/`to` filters include overlapping dated ranges. Browser Back restores the saved URL by reloading it.
+
+The contribution page includes a photography guide and specific requests. Public uploads remain immediate under CC BY 4.0. A separate accountless report form saves concerns privately for the owner; see [report operations](OWNER-GUIDE.md). Research reconstructions are labeled separately from original photographs and mathematical enhancements.
+
+The footer links to [Nightingale OS](https://nightingaleos.com/) under Other projects. [Sharing notes](SHARING.md) provide a short description and representative study links.
+
+## Maintenance
+
+GitHub verification builds the app and runs lint, TypeScript and the tests on pushes and pull requests. A weekly read-only check samples 24 photographs, checking their original, thumbnail and social-card responses. It does not download the full image archive or publish reports. Run `node scripts/check-public-images.mjs --limit=24 --offset=0` for a fixed sample. The workflow uses standard public GitHub runners.
+
+After changing sources or prepared comparisons, regenerate photographic sharing cards with `python3 scripts/build-social-previews.py`; this also refreshes the sitemap. The script uses real source photographs and the recorded transforms, preserving credits in both the card and `public/social-previews.json`. It does not create synthetic historical imagery.

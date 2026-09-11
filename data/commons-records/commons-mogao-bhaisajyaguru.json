@@ -1,0 +1,88 @@
+{
+  "pageid": 146364150,
+  "ns": 6,
+  "title": "File:Bhaisajyaguru mural from Mogao Cave 322, Dunhuang.jpg",
+  "index": 20,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3228105,
+      "width": 1850,
+      "height": 2831,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bhaisajyaguru_mural_from_Mogao_Cave_322%2C_Dunhuang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bhaisajyaguru_mural_from_Mogao_Cave_322,_Dunhuang.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146364150",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-03-14 02:43:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bhaisajyaguru mural from Mogao Cave 322, Dunhuang",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Khakkhara|PD-old-100-expired|Three Sages of the East|PD-Art (PD-old-100-expired)|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Chatras|Buddhist paintings of the Tang Dynasty|Cave 322, Mogao Caves",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "​敦煌莫高窟第322窟东壁药师佛初唐壁画",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 618 and 649",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://zhuanlan.zhihu.com/p/497881880\">https://zhuanlan.zhihu.com/p/497881880</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

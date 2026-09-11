@@ -1,0 +1,19 @@
+{
+  "pageid": 113004311,
+  "ns": 6,
+  "title": "File:Experimental color reconstruction of the Greek grave statue of Phrasikleia.jpg",
+  "revisions": [
+    {
+      "revid": 1237428428,
+      "parentid": 662517250,
+      "timestamp": "2026-06-24T07:34:27Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Natural pigments, goldleaf, lead-tinfoil on 3D print (PMMA)}}\n|date=2021-12-02\n|source={{own}}\n|author=[[User:Aquaplaning|Aquaplaning]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Bunte Götter exhibition]]\n[[Category:Polychromy]]"
+        }
+      }
+    }
+  ]
+}

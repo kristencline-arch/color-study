@@ -11,8 +11,45 @@ test('production worker renders the photographic showcase, public links and shar
   const response = await worker.fetch(new Request('https://color-study.example/', {headers: {accept: 'text/html', host: 'color-study.example'}}), {ASSETS: {fetch: async () => new Response('Not found', {status: 404})}}, {waitUntil() {}, passThroughOnException() {}});
   assert.equal(response.status, 200);
   const html = (await response.text()).replace(/<!--.*?-->/g, "");
-  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'Explore the collection', `${sources.filter(source => source.study_type === 'textile').length} textiles`, 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/commons-nefertari-68-original.webp', '/showcase/commons-nefertari-68-enhanced.webp', 'Choose a collection.', 'Babylon &amp; Sumer', 'Persia &amp; Iran', '/api/dataset', '/api/catalog', 'og:image', 'https://color-study.example/og.png']) assert.ok(html.includes(label), label);
+  for (const label of ['Color Study', 'Try the image lab', 'Contribute', 'Share Color Study', 'Explore the collection', `${sources.filter(source => source.study_type === 'textile').length} textiles`, 'https://github.com/kristencline-arch/color-study', 'https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images', '/showcase/commons-nefertari-68-original.webp', '/showcase/commons-nefertari-68-enhanced.webp', 'Choose a collection.', 'Babylon &amp; Sumer', 'Persia &amp; Iran', '/api/dataset', '/api/catalog', 'og:image', 'https://color-study.example/social/commons-nefertari-68.jpg', 'Other projects:', 'https://nightingaleos.com/']) assert.ok(html.includes(label), label);
   assert.doesNotMatch(html, /Your site is taking shape|Starter Project|codex-preview|react-loading-skeleton/);
+});
+
+test('individual study pages render their own title, canonical URL and photographic metadata', async () => {
+  const {default: worker} = await import('../dist/server/index.js');
+  const env = {ASSETS: {fetch: async () => new Response('Not found', {status: 404})}}, ctx = {waitUntil() {}, passThroughOnException() {}};
+  for (const id of ['commons-beni-hassan-19', 'commons-durrow-125v']) {
+    const response = await worker.fetch(new Request(`https://color-study.example/study/${id}`, {headers: {accept: 'text/html', host: 'color-study.example'}}), env, ctx);
+    assert.equal(response.status, 200);
+    const html = await response.text();
+    assert.ok(html.includes(`https://color-study.example/social/${id}.jpg`));
+    assert.ok(html.includes(`https://color-study.example/study/${id}`));
+    assert.ok(html.includes(sources.find(s => s.id === id).short_title));
+    assert.ok(html.includes('application/ld+json'));
+  }
+  const missing = await worker.fetch(new Request('https://color-study.example/study/missing-photo', {headers: {accept: 'text/html'}}), env, ctx);
+  assert.equal(missing.status, 404);
+});
+
+test('guided studies and social cards preserve valid source relationships and credits', async () => {
+  const read = async path => JSON.parse(await readFile(new URL('../public/' + path, import.meta.url)));
+  const [notes, groups, cards, references] = await Promise.all(['study-notes.json', 'object-groups.json', 'social-previews.json', 'context-references.json'].map(read));
+  const ids = new Set(sources.map(s => s.id));
+  for (const [id, prompts] of Object.entries(notes)) {
+    assert.ok(ids.has(id));
+    for (const note of prompts) {assert.ok(note.title && note.text); assert.ok(note.box.every(v => v >= 0 && v <= 1)); assert.ok(note.box[0] < note.box[2] && note.box[1] < note.box[3]);}
+  }
+  for (const group of groups) {assert.ok(['site', 'object', 'manuscript'].includes(group.scope)); assert.ok(group.photo_ids.every(id => ids.has(id))); assert.equal(new Set(group.photo_ids).size, group.photo_ids.length);}
+  assert.equal(cards.length, sources.length);
+  for (const card of cards) {
+    const source = sources.find(s => s.id === card.id); assert.equal(card.source_sha256, source.sha256); assert.equal(card.credit, source.author); assert.equal(card.license, source.license);
+    const bytes = await readFile(new URL('../public/' + card.file, import.meta.url)); assert.equal(createHash('sha256').update(bytes).digest('hex'), card.sha256);
+    await access(new URL('../dist/client/' + card.file, import.meta.url));
+  }
+  for (const reference of references) {
+    assert.ok(reference.study_ids.every(id => ids.has(id))); assert.match(reference.source, /^https:\/\//);
+    if (reference.image) {assert.ok(reference.author && reference.license_url && reference.image_source); await access(new URL('../public/' + reference.image, import.meta.url)); assert.ok(!ids.has(reference.id), 'A research reconstruction is separate from the original-image catalog');}
+  }
 });
 
 test('showcase comparisons retain source hashes, the fitted transform and packaged previews', async () => {

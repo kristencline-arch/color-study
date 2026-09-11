@@ -72,16 +72,22 @@ for source in json.loads((root / 'public/sources.json').read_text()):
             assert source['encoded_format'] == 'MPO' and source['frame_count'] == image.n_frames
             assert source['study_frame'] == image.tell() == 0
         assert list(image.size) == source['encoded_dimensions'], source['id']
-        displayed = ImageOps.exif_transpose(image)
-        assert list(displayed.size) == source['expected_dimensions'], source['id']
-        rotated += image.size != displayed.size
+        # Unrotated JPEG dimensions are available in the image header. Decode
+        # the actual rotated photographs to exercise Pillow's display behavior
+        # without allocating every full-resolution image in this growing set.
+        if image.getexif().get(274, 1) != 1:
+            with ImageOps.exif_transpose(image) as displayed:
+                assert list(displayed.size) == source['expected_dimensions'], source['id']
+                rotated += image.size != displayed.size
+        else:
+            assert list(image.size) == source['expected_dimensions'], source['id']
     with Image.open(root / 'public' / source['thumbnail_file']) as thumbnail:
         width, height = source['expected_dimensions']
         assert max(thumbnail.size) <= 720, source['id']
         assert abs(thumbnail.width / thumbnail.height - width / height) < .015, source['id']
     count += 1
 print(json.dumps(dict(count=count, rotated=rotated)))
-`], {cwd: new URL('../', import.meta.url), encoding: 'utf8', timeout: 30000});
+`], {cwd: new URL('../', import.meta.url), encoding: 'utf8', timeout: 60000});
   const value = JSON.parse(result);
   assert.equal(value.count, selection.length);
   assert.ok(value.rotated > 0, 'exercise original images with a rotated EXIF orientation');

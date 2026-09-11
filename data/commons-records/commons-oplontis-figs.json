@@ -1,0 +1,105 @@
+{
+  "pageid": 44867363,
+  "ns": 6,
+  "title": "File:Fresco bird figs Villa Poppaea Oplontis Italy.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6817615,
+      "width": 3798,
+      "height": 2270,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fresco_bird_figs_Villa_Poppaea_Oplontis_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fresco_bird_figs_Villa_Poppaea_Oplontis_Italy.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44867363",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-11-08 10:47:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fresco bird figs Villa Poppaea Oplontis Italy",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Red background|Files with coordinates missing SDC location of creation|1st-century frescos in Naples|Birds in ancient Roman painting|Ancient Roman frescos. Villa Poppaea|Figs in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.757027",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.452790",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fresco <i>in situ</i> and life size of a bird eating figs, Villa Poppaea, Oplontis, Italy.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-07-22 10:38:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jebulon\" title=\"User:Jebulon\">Jebulon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

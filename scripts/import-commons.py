@@ -150,6 +150,7 @@ def main():
         assert author, f"Missing image credit: {key}"
         source = {**{k: v for k, v in spec.items() if k not in ["file_title", "expected_license", "photo_credit"]},
                   "title": spec["short_title"], "source_title": spec["file_title"][5:],
+                  "year_start": spec.get("year_start"), "year_end": spec.get("year_end"),
                   "study_type": "textile" if spec["category"] == "Textiles" else "paint",
                   "provider": spec.get("provider", "Wikimedia Commons"), "author": author,
                   "source_page": "https://commons.wikimedia.org/wiki/" + quote(spec["file_title"].replace(" ", "_"), safe=":()_-.,'"),

@@ -1,0 +1,105 @@
+{
+  "pageid": 148891348,
+  "ns": 6,
+  "title": "File:Fresco of a woman with a tray from the Villa San Marco, ancient Stabiae.jpg",
+  "index": 16,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 4283235,
+      "width": 1931,
+      "height": 2996,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fresco_of_a_woman_with_a_tray_from_the_Villa_San_Marco%2C_ancient_Stabiae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fresco_of_a_woman_with_a_tray_from_the_Villa_San_Marco,_ancient_Stabiae.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148891348",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-05-30 18:26:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fresco of a woman with a tray from the Villa San Marco, ancient Stabiae",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Villa San Marco (Stabiae)|Images with watermarks|Offerings|Peplos|Self-published work|Ancient Roman frescos in Stabiae|Files with coordinates missing SDC location of creation|Ancient Roman frescos from Stabiae in the Museo Archeologico (Naples)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "40.685087",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "14.489225",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The peplos-clad woman in this fresco is labeled as an 'offerant', which is appropriate since she's carrying a silver offering tray with herbs, food, and other implements to perform a ritual offering to the gods. Found in the diaetae ('day rooms') facing the gardens at the ancient Villa San Marco, in Stabiae. The villa was destroyed by the same eruption of Vesuvius that destroyed Pompeii in 79 CE.\n<p>Stabia Archaeological Museum (Libero d'Orsi)\n</p>\nFresco from the collection of the Museo Archeologico Nazionale di Napoli (National Archaeological Museum of Naples), inv. 8890a.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-04 13:25:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chappsnet\" title=\"User:Chappsnet\">Chappsnet</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.study-viewer { min-width: 0; }
+.zoom-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; padding: .6rem 1rem; border-bottom: 1px solid var(--line, #ded7ca); background: #f7f4ed; }
+.zoom-toolbar button { min-height: 40px; min-width: 42px; padding: .4rem .65rem; border: 1px solid #b7afa0; border-radius: 5px; background: #fffdf8; cursor: pointer; }
+.zoom-toolbar output { font-size: .8rem; min-width: 3rem; text-align: center; font-variant-numeric: tabular-nums; }
+.zoom-toolbar span { margin-left: auto; font-size: .75rem; color: #595d55; }
+.native-stage { position: relative; overflow: hidden; height: min(65vh, 800px); min-height: 330px; background: #202823; touch-action: none; cursor: grab; isolation: isolate; }
+.native-stage:active { cursor: grabbing; }
+.native-stage.selecting { cursor: crosshair; }
+.native-stage:focus-visible { outline: 3px solid #b35931; outline-offset: -3px; }
+.native-layer { position: absolute; max-width: none; pointer-events: none; user-select: none; object-fit: fill; }
+.native-detail { image-rendering: pixelated; }
+.enhanced-viewport { position: absolute; inset: 0; pointer-events: none; }
+.native-selection { position: absolute; pointer-events: none; border: 2px dashed white; box-shadow: 0 0 0 1px #192b24; background: #ffffff0c; }
+.native-divider { position: absolute; top: 0; bottom: 0; width: 24px; margin-left: -12px; padding: 0; border: 0; border-left: 2px solid white; background: #fdfbf01c; color: white; text-shadow: 0 1px 3px black; cursor: ew-resize; touch-action: none; }
+.viewer-split-control { display: flex; align-items: center; gap: 1rem; padding: .5rem 1rem; font-size: .8rem; }
+.viewer-split-control input { flex: 1; min-width: 60px; }
+.viewer-help { color: #555e54; font-size: .75rem; line-height: 1.5; padding: 0 1rem .5rem; margin: 0; }
+.keyboard-area { font-size: .8rem; margin-top: .75rem; }
+.area-inputs { display: grid; grid-template-columns: 1fr 1fr; gap: .5rem; margin-top: .5rem; }
+.area-inputs input { width: 100%; padding: .4rem; }
+.other-projects { display: flex; gap: .5rem; align-items: baseline; }
+@media (max-width: 700px) { .native-stage { height: 55vh; min-height: 300px; } .zoom-toolbar span { flex-basis: 100%; margin: 0; } }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; } }
+
+.catalog-date-range { display: flex; flex-wrap: wrap; align-items: end; gap: 1rem; margin: 1rem 0; }
+.catalog-date-range label { display: grid; gap: .4rem; font-size: .8rem; }
+.catalog-date-range input { padding: .7rem; border: 1px solid #b7afa0; border-radius: 4px; width: 145px; background: #fffdf8; }
+.catalog-date-range p { max-width: 32rem; font-size: .8rem; color: #555e54; }
+
+.photo-report { margin-top: .7rem; font-size: .8rem; }
+.photo-report summary { cursor: pointer; text-decoration: underline; }
+.photo-report form { display: grid; gap: .65rem; margin-top: .7rem; }
+.photo-report label { display: grid; gap: .3rem; }
+.photo-report textarea, .photo-report select { width: 100%; padding: .5rem; border: 1px solid #b7afa0; border-radius: 4px; background: #fffdf8; color: #23332a; }
+.photo-report code { overflow-wrap: anywhere; }
+
+.study-context { padding: 1.5rem; border-top: 1px solid #ded7ca; }
+.study-context section { margin-bottom: 2rem; }
+.study-context h3 { font-family: Georgia, serif; font-size: 1.5rem; margin: .5rem 0; }
+.study-context p { font-size: .9rem; line-height: 1.6; }
+.study-note-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1rem; }
+.study-note-grid article { border: 1px solid #d2cbbf; padding: 1rem; border-radius: 4px; }
+.detail-number { border: 1px solid #a66441; border-radius: 50%; display: inline-grid; place-items: center; width: 1.7rem; height: 1.7rem; }
+.related-studies > div { display: flex; gap: 1rem; overflow-x: auto; padding: .7rem 0; }
+.related-studies a { flex: 0 0 155px; font-size: .8rem; }
+.related-studies img { width: 155px; height: 110px; object-fit: contain; background: #e8e2d6; display: block; margin-bottom: .5rem; }
+.context-reference { padding: 1rem; background: #eee8db; }
+.context-reference > img { max-width: 100%; max-height: 440px; object-fit: contain; }
+.context-credit { font-size: .75rem !important; }
+
+.photo-guide { padding: 2rem; margin: 2rem 0; background: #eee8db; }
+.photo-guide h2 { font: 2rem Georgia, serif; }
+.photo-guide-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; }
+.photo-guide p { line-height: 1.6; }
+.contribution-requests { display: flex; gap: .6rem; flex-wrap: wrap; margin-top: 1rem; }
+.community-form select { max-width: 100%; min-height: 42px; }
+
+@media (max-width: 700px) { .zoom-toolbar button, .viewer-toolbar button { min-height: 44px; } .viewer-split-control input { min-height: 44px; } .other-projects { flex-wrap: wrap; } }

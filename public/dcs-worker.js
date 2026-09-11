@@ -60,6 +60,28 @@ self.onmessage = async ({ data }) => {
       output.context.putImageData(pixels, 0, 0);
       const preview = await output.canvas.convertToBlob({ type: 'image/png' });
       self.postMessage({ jobId, type: 'preview', imageId, preview, fit });
+    } else if (type === 'viewport') {
+      // Decode only the visible area from the retained native bitmap. Both
+      // layers use exactly the same source crop and fitted transform.
+      const source = current;
+      const box = data.viewport;
+      if (!Array.isArray(box) || box.length !== 4 || box.some(value => !Number.isFinite(value) || value < 0 || value > 1) || box[2] <= box[0] || box[3] <= box[1]) throw new Error('Choose a valid close-up area.');
+      const x = Math.floor(box[0] * source.width), y = Math.floor(box[1] * source.height);
+      const right = Math.min(source.width, Math.ceil(box[2] * source.width)), bottom = Math.min(source.height, Math.ceil(box[3] * source.height));
+      const requested = Number(data.outputWidth);
+      if (!Number.isFinite(requested) || requested < 1 || requested > 2048) throw new Error('The close-up is too large.');
+      const scale = Math.min(requested / (right - x), 2048 / (bottom - y), 1);
+      const width = Math.max(1, Math.round((right - x) * scale)), height = Math.max(1, Math.round((bottom - y) * scale));
+      const output = canvas(width, height);
+      output.context.imageSmoothingQuality = 'high';
+      output.context.drawImage(source.bitmap, x, y, right - x, bottom - y, 0, 0, width, height);
+      const originalPreview = await output.canvas.convertToBlob({type: 'image/png'});
+      const pixels = output.context.getImageData(0, 0, width, height);
+      applyTransform(pixels.data, fit);
+      output.context.putImageData(pixels, 0, 0);
+      const preview = await output.canvas.convertToBlob({type: 'image/png'});
+      if (current !== source || latestImageId !== imageId) throw new Error('The photo changed while opening the close-up.');
+      self.postMessage({jobId, type: 'viewport', imageId, originalPreview, preview, fit, viewport: [x / source.width, y / source.height, right / source.width, bottom / source.height], width, height});
     } else if (type === 'export') {
       const output = canvas(current.width, current.height);
       output.context.drawImage(current.bitmap, 0, 0);

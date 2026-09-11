@@ -88,7 +88,7 @@
     "caveat": "Compare with epigraphic records and conservation history before interpreting an unusual shape.",
     "source": "https://www.sciencedirect.com/science/article/abs/pii/S2352409X17305977",
     "sourceLabel": "Evans and Mourad, DStretch and Egyptian tomb paintings (2018)",
-    "sample": ""
+    "sample": "commons-beni-hassan-19"
   },
   {
     "name": "Cueva San Borjitas",
@@ -1090,5 +1090,96 @@
     "source": "https://clevelandart.org/art/1933.446.a",
     "sourceLabel": "Source record and historical context",
     "sample": "cma-114201"
+  },
+  {
+    "name": "Herculaneum / painted interiors",
+    "location": "Herculaneum, Italy; detached panels in Naples where identified by the source",
+    "kind": "Candidate",
+    "material": "Paint on plaster",
+    "priority": "Look closely",
+    "why": "A surviving Roman painted surface from Herculaneum. The source record identifies the site; an exact house or room is not established unless stated in the title. Losses, repairs and lighting can also become more prominent.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://commons.wikimedia.org/wiki/File:Heracles_and_Telephus_fresco_from_the_Basilica_(Herculaneum).jpg",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-herculaneum-telephus"
+  },
+  {
+    "name": "Oplontis / Villa A",
+    "location": "Villa A (so-called Villa of Poppaea), Oplontis, Torre Annunziata, Italy",
+    "kind": "Candidate",
+    "material": "Paint on plaster",
+    "priority": "Look closely",
+    "why": "Photograph of surviving decoration at Villa A, Oplontis. Isolate a painted detail when comparing color; missing plaster, cracks and lighting are part of the present photograph.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://pompeiisites.org/en/oplontis/",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-oplontis-wall-2"
+  },
+  {
+    "name": "Stabiae / painted villa panels",
+    "location": "Stabiae, Italy; museum display as identified in the source record",
+    "kind": "Candidate",
+    "material": "Paint on plaster",
+    "priority": "Look closely",
+    "why": "A detached painted panel from a Stabian villa. Preserve its losses, photographed display and any photographer watermark. The enhancement does not restore missing plaster.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://pompeiisites.org/en/stabiae/",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-stabiae-flora"
+  },
+  {
+    "name": "Mari / the Investiture painting",
+    "location": "Royal palace, court 106, Mari, Syria; Musée du Louvre, AO 19826",
+    "kind": "Candidate",
+    "material": "Painted earthen wall surface",
+    "priority": "Look closely",
+    "why": "A view of the restored Investiture painting from Mari. All three views show the same object. The date range follows the current Louvre record; the Commons upload uses an older circa 1700 BCE attribution. Reflections and restoration are not newly recovered pigment.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://collections.louvre.fr/en/ark:/53355/cl010144553",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-mari-investiture-1"
+  },
+  {
+    "name": "Erebuni / Urartian wall fragments",
+    "location": "Erebuni Museum, Yerevan, Armenia",
+    "kind": "Candidate",
+    "material": "Painted wall fragment",
+    "priority": "Look closely",
+    "why": "Surviving colored wall-painting fragment in a dark museum display. Fit within the fragment and exclude its frame. Strong enhancement may amplify low-light noise; the broad cultural attribution is not a direct date for the fragment.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://commons.wikimedia.org/wiki/File:Urartaean_fresco_2_mus_erebuni.jpg",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-erebuni-fragment-2"
+  },
+  {
+    "name": "Pazyryk / ancient wool and felt",
+    "location": "Pazyryk, Altai Mountains; State Hermitage Museum",
+    "kind": "Candidate",
+    "material": "Knotted wool",
+    "priority": "Look closely",
+    "why": "Photograph of the Pazyryk carpet. The museum describes faded reds, blues, greens and yellows. Compare the woven pattern and worn areas without interpreting a false-color result as identified dyes.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://commons.wikimedia.org/wiki/File:Pazyryk.jpg",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-pazyryk-carpet"
+  },
+  {
+    "name": "Khmer sculpture / later lacquer",
+    "location": "Cambodia, exact findspot unknown; Musée Guimet, MG 14919",
+    "kind": "Candidate",
+    "material": "Sandstone with later black and red lacquer and traces of gilding",
+    "priority": "Look closely",
+    "why": "The source identifies a later lacquer coating on a 12th-century Khmer sculpture. This is Angkor Wat style, with unknown exact provenance; it is not a photograph of hidden paintings at Angkor Wat. Date filtering refers to the sculpture, not its later coating.",
+    "photo": "An original color photograph with native resolution, an object or site identification, and explicit reuse rights.",
+    "caveat": "Separate recorded color from lighting, damage and later treatment. The transform does not identify pigments, date marks or reconstruct missing color.",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambogia,_divinit%C3%A0_femminile_policroma,_prov._ignota,_stile_di_angkor_vat,_1100-1175.JPG",
+    "sourceLabel": "Source record and historical context",
+    "sample": "commons-angkor-style-deity"
   }
 ]

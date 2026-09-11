@@ -1,0 +1,19 @@
+{
+  "pageid": 48265401,
+  "ns": 6,
+  "title": "File:Autor nieznany, Archanioł (fragment postaci). Malowidło ścienne.jpg",
+  "revisions": [
+    {
+      "revid": 979104387,
+      "parentid": 808713292,
+      "timestamp": "2025-01-03T20:27:26Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Artwork\n |artist = {{Creator:unknown}}\n |author = \n |title = {{en|Wall painting - Archangel (fragment of figure)}} {{pl|Malowidło ścienne - fragment postaci archanioła}}\n |object type = wall painting\n |description = \n |date = 3rd quater of 10th c. CE\n |source = Muzeum Cyfrowe MNW [http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=9566]\n |medium = {{technique|tempera}}, tempera on mud plaster\n |dimensions = {{Size |unit=cm |height=237 |width=123}} x 4.5\n{{Size |unit=cm |height=175 |width=107}} \n |institution = {{Institution:National Museum in Warsaw}}\n |department = KOLEKCJA SZTUKI NUBIJSKIEJ, ETIOPSKIEJ, KOPTYJSKIEJ\n |place of discovery = Faras, Sudan\n |object history = \n |exhibition history = \n |credit line = \n |notes = \n |permission = \n |accession number = 234006\n |references = \n |other_versions = \n |wikidata = \n}}\n\n=={{int:license-header}}==\n{{PD-old-auto}}\n{{National Museum in Warsaw partnership}}\n{{Check categories|year=2016|month=April|day=19}}\n\n[[Category:Faras]]\n[[Category:Paintings of Archangels]]\n[[Category:Murals]]\n[[Category:Paleochristian paintings in the National Museum in Warsaw]]\n[[Category:Polish excavations at Faras]]\n[[Category:Images from National Museum in Warsaw – needing category checks]]"
+        }
+      }
+    }
+  ]
+}

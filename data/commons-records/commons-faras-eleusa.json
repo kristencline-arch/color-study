@@ -1,0 +1,84 @@
+{
+  "pageid": 49358125,
+  "ns": 6,
+  "title": "File:Nieznany - Malowidło ścienne z niszy - Matka Boska Eleusa.jpg",
+  "index": 23,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1175191,
+      "width": 1758,
+      "height": 2500,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nieznany_-_Malowid%C5%82o_%C5%9Bcienne_z_niszy_-_Matka_Boska_Eleusa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nieznany_-_Malowid%C5%82o_%C5%9Bcienne_z_niszy_-_Matka_Boska_Eleusa.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49358125",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-06-10 11:57:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Matka Boska Eleusa",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "12th-century paintings from Egypt|Eleusa|Artworks without Wikidata item|PD Old|PD Old auto: no death date|Artworks with known accession number|Paleochristian paintings in the National Museum in Warsaw|Template Unknown (author)|CC-PD-Mark|12th-century frescos in Poland|Frescos of Madonna and Child|Media contributed by the National Museum in Warsaw|PD-old missing SDC copyright status|Images from National Museum in Warsaw – needing category checks|Polish excavations at Faras|Fresco-secco Nubian paintings from Faras",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "12<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1150-00-00T00:00:00Z/7</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=32814\">cyfrowe.mnw.art.pl</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

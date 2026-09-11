@@ -1,0 +1,84 @@
+{
+  "pageid": 48265401,
+  "ns": 6,
+  "title": "File:Autor nieznany, Archanioł (fragment postaci). Malowidło ścienne.jpg",
+  "index": 21,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 639522,
+      "width": 1324,
+      "height": 2500,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Autor_nieznany%2C_Archanio%C5%82_%28fragment_postaci%29._Malowid%C5%82o_%C5%9Bcienne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Autor_nieznany,_Archanio%C5%82_(fragment_postaci)._Malowid%C5%82o_%C5%9Bcienne.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48265401",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-04-19 08:46:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wall painting - Archangel (fragment of figure)",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Murals|Faras|Artworks without Wikidata item|PD Old|PD Old auto: no death date|Artworks with known accession number|Paleochristian paintings in the National Museum in Warsaw|Template Unknown (author)|CC-PD-Mark|Media contributed by the National Museum in Warsaw|Media needing category review as of 19 April 2016|Paintings of Archangels|Images from National Museum in Warsaw – needing category checks|Polish excavations at Faras",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "3rd quater of 10th c. CE",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Muzeum Cyfrowe MNW <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=9566\">[1]</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pageid": 49358125,
+  "ns": 6,
+  "title": "File:Nieznany - Malowidło ścienne z niszy - Matka Boska Eleusa.jpg",
+  "revisions": [
+    {
+      "revid": 802478375,
+      "parentid": 780896594,
+      "timestamp": "2023-09-17T18:55:29Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "=={{int:filedesc}}==\n{{Artwork\n |artist = {{unknown|author}}\n |author = \n |title = {{title|{{Madonna and Child}}}} {{pl|Matka Boska Eleusa}}\n |object type = wall painting\n |description = \n |date = {{other date|century|12}}\n |source = [http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=32814 cyfrowe.mnw.art.pl]\n |medium = {{technique|tempera|plaster}} \n |dimensions = {{Size |unit=cm |height=321 |width=214}} x 55\n |institution = {{Institution:National Museum in Warsaw}}\n |department = KOLEKCJA SZTUKI NUBIJSKIEJ, ETIOPSKIEJ, KOPTYJSKIEJ\n |place of discovery = Faras, Sudan\n |object history = \n |exhibition history = \n |credit line = \n |notes = \n |permission = \n |accession number = 234048\n |references = \n |other_versions = \n |wikidata = \n}}\n\n=={{int:license-header}}==\n{{PD-old-auto}}\n{{National Museum in Warsaw partnership}}\n\n\n[[Category:Fresco-secco Nubian paintings from Faras]]\n[[Category:Frescos of Madonna and Child]]\n[[Category:Eleusa]]\n[[Category:Paleochristian paintings in the National Museum in Warsaw]]\n[[Category:Polish excavations at Faras]]\n[[Category:Images from National Museum in Warsaw – needing category checks]]\n[[Category:12th-century frescos in Poland|Poland]]\n[[Category:12th-century paintings from Egypt]]"
+        }
+      }
+    }
+  ]
+}

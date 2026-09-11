@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://color-study-painted-surfaces.kristen368163.chatgpt.site/sitemap.xml
