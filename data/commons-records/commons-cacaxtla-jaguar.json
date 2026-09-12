@@ -1,0 +1,92 @@
+{
+  "pageid": 29477560,
+  "ns": 6,
+  "title": "File:Mural de hombre jaguar de Cacaxtla, Tlaxcala.JPG",
+  "index": 8,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3620474,
+      "width": 4320,
+      "height": 3240,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mural_de_hombre_jaguar_de_Cacaxtla%2C_Tlaxcala.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mural_de_hombre_jaguar_de_Cacaxtla,_Tlaxcala.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29477560",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-11-07 22:13:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mural de hombre jaguar de Cacaxtla, Tlaxcala",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSC-W330|Self-published work|Murals in Cacaxtla|Files donated by Erickin Kirin",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mural de un hombre-jaguar parado sobre una serpiente en la zona arqueológica de Cacaxtla, Tlaxcala",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-10-17 12:44:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Erickin_Kirin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Erickin Kirin (page does not exist)\">Erickin Kirin</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

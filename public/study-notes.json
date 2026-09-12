@@ -350,5 +350,225 @@
         0.64
       ]
     }
+  ],
+  "commons-cacaxtla-battle-left": [
+    {
+      "title": "Work along the wall",
+      "text": "The panorama spans many figures. Inspect one short stretch at a time and compare colored contours with the worn ground.",
+      "box": [
+        0.08,
+        0.1,
+        0.31,
+        0.89
+      ]
+    },
+    {
+      "title": "Joins and illumination",
+      "text": "Look across neighboring figures for broad changes in light. A panorama may join several exposures; a color boundary alone is not a painted edge.",
+      "box": [
+        0.48,
+        0.1,
+        0.78,
+        0.89
+      ]
+    }
+  ],
+  "commons-cacaxtla-glyph-1": [
+    {
+      "title": "Small circles and outlines",
+      "text": "Follow the repeated round forms at the lower part of the motif. Compare their internal pattern with the original photograph.",
+      "box": [
+        0.21,
+        0.49,
+        0.72,
+        0.93
+      ]
+    },
+    {
+      "title": "Losses beside the design",
+      "text": "The pale diagonal strip interrupts the painted surface. Keep missing plaster separate from surviving color.",
+      "box": [
+        0.55,
+        0.3,
+        0.97,
+        0.93
+      ]
+    }
+  ],
+  "commons-bonampak-musicians": [
+    {
+      "title": "Figures and instruments",
+      "text": "Compare the figures and long dark instruments with the pale material around them. Seek continuity in contours already recorded by the camera.",
+      "box": [
+        0.08,
+        0.19,
+        0.72,
+        0.86
+      ]
+    },
+    {
+      "title": "Across the corner",
+      "text": "The right side turns onto another wall plane. Treat changes in illumination at the corner separately from painted color.",
+      "box": [
+        0.66,
+        0.14,
+        0.99,
+        0.94
+      ]
+    }
+  ],
+  "commons-bonampak-06": [
+    {
+      "title": "A worn upper register",
+      "text": "The upper-right area retains small colored forms among pale losses. Compare the same area at moderate and stronger settings.",
+      "box": [
+        0.46,
+        0.08,
+        0.94,
+        0.48
+      ]
+    },
+    {
+      "title": "Exclude the bright lower edge",
+      "text": "The bottom is much brighter than the upper wall. Fit in the middle of the painted surface so glare does not dominate the transform.",
+      "box": [
+        0.35,
+        0.22,
+        0.92,
+        0.68
+      ]
+    }
+  ],
+  "commons-teotihuacan-puma": [
+    {
+      "title": "The animal and red bands",
+      "text": "Follow the pale animal against its red surroundings, checking which boundaries remain visible in the original.",
+      "box": [
+        0.24,
+        0.13,
+        0.85,
+        0.61
+      ]
+    },
+    {
+      "title": "The circular border",
+      "text": "Compare the repeated pale round forms along the lower red band. Missing plaster and cracks can become more prominent too.",
+      "box": [
+        0.29,
+        0.54,
+        0.85,
+        0.78
+      ]
+    }
+  ],
+  "commons-hawaii-kapa-fragment": [
+    {
+      "title": "Repeated fine pattern",
+      "text": "Compare the small repeated marks across the upper band. Bark fibers and wear remain part of the recorded surface.",
+      "box": [
+        0.1,
+        0.16,
+        0.85,
+        0.43
+      ]
+    },
+    {
+      "title": "Wear across a band",
+      "text": "Inspect how pale losses interrupt the lower pattern. Intensified color cannot replace missing cloth or identify a dye.",
+      "box": [
+        0.11,
+        0.55,
+        0.89,
+        0.87
+      ]
+    }
+  ],
+  "commons-hawaii-kapa-1084": [
+    {
+      "title": "Stars inside triangles",
+      "text": "Compare the light star motifs with their colored triangular grounds. Fit within the cloth, away from the museum backdrop.",
+      "box": [
+        0.08,
+        0.08,
+        0.88,
+        0.7
+      ]
+    },
+    {
+      "title": "Borders between colors",
+      "text": "Follow the diagonals between neighboring triangles. Compare them with irregular patches of wear.",
+      "box": [
+        0.16,
+        0.42,
+        0.89,
+        0.93
+      ]
+    }
+  ],
+  "commons-buka-paddle": [
+    {
+      "title": "The enlarged painted figure",
+      "text": "Use the larger view on the right. Its dark figure and light ground provide a better fitting area than the background or the whole paddle.",
+      "box": [
+        0.45,
+        0.35,
+        0.84,
+        0.76
+      ]
+    },
+    {
+      "title": "One photograph, two views",
+      "text": "The supplied source combines an overall photograph with a detail. Fit within a single view to avoid mixing their scale and lighting.",
+      "box": [
+        0.51,
+        0.48,
+        0.77,
+        0.68
+      ]
+    }
+  ],
+  "commons-olowe-door-detail-1": [
+    {
+      "title": "Surviving color on two figures",
+      "text": "Compare the reddish, greenish and pale passages across the figures and their surroundings. Deep carved recesses create shadows.",
+      "box": [
+        0.19,
+        0.13,
+        0.83,
+        0.65
+      ]
+    },
+    {
+      "title": "Carving and pigment",
+      "text": "The lower heads and diagonal carving include both color and changes in surface angle. A false-color boundary does not identify a pigment.",
+      "box": [
+        0.15,
+        0.65,
+        0.95,
+        0.96
+      ]
+    }
+  ],
+  "commons-timbuktu-quran": [
+    {
+      "title": "Colored marks around the script",
+      "text": "Compare the red and blue marks with the lighter main script. Keep the same photographed area in view at each setting.",
+      "box": [
+        0.14,
+        0.17,
+        0.79,
+        0.71
+      ]
+    },
+    {
+      "title": "Ink, support and reflection",
+      "text": "The lower edge includes a bright reflection. Fit above it and compare the ink with nearby unmarked support.",
+      "box": [
+        0.22,
+        0.55,
+        0.78,
+        0.84
+      ]
+    }
   ]
 }

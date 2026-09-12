@@ -241,5 +241,50 @@
       "commons-faras-archangel",
       "commons-faras-eleusa"
     ]
+  },
+  {
+    "id": "cacaxtla",
+    "title": "Cacaxtla: murals and painted details",
+    "scope": "site",
+    "photo_ids": [
+      "commons-cacaxtla-battle-left",
+      "commons-cacaxtla-battle-right",
+      "commons-cacaxtla-glyph-1",
+      "commons-cacaxtla-glyph-2",
+      "commons-cacaxtla-eagle",
+      "commons-cacaxtla-jaguar"
+    ]
+  },
+  {
+    "id": "bonampak",
+    "title": "Bonampak: surviving murals in the temple",
+    "scope": "site",
+    "photo_ids": [
+      "commons-bonampak-musicians",
+      "commons-bonampak-room-1",
+      "commons-bonampak-painting",
+      "commons-bonampak-detail",
+      "commons-bonampak-06",
+      "commons-bonampak-08"
+    ]
+  },
+  {
+    "id": "timbuktu-chronicle",
+    "title": "Taʾrīkh al-fattāsh, Mamma Haidara 34122",
+    "scope": "manuscript",
+    "photo_ids": [
+      "commons-timbuktu-chronicle-1",
+      "commons-timbuktu-chronicle-2"
+    ]
+  },
+  {
+    "id": "olowe-door",
+    "title": "Olowe of Ise: palace doors and lintel",
+    "scope": "object",
+    "photo_ids": [
+      "commons-olowe-door",
+      "commons-olowe-door-detail-1",
+      "commons-olowe-door-detail-2"
+    ]
   }
 ]

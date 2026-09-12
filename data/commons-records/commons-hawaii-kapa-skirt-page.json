@@ -1,0 +1,19 @@
+{
+  "pageid": 72923725,
+  "ns": 6,
+  "title": "File:Kapa bark cloth skirt from Hawaii, Honolulu Museum of Art 2264.jpg",
+  "revisions": [
+    {
+      "revid": 1167142472,
+      "parentid": 479820129,
+      "timestamp": "2026-02-16T19:15:17Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|description   ={{en|1=''Kapa pā‘ū'' (type of bark cloth skirt) from Hawaii, Honolulu Museum of Art accession 2264.jpg}}\n|date          =2018\n|source        ={{own}}\n|author        =[[User:Hiart|Hiart]]\n}}\n\n== {{int:license-header}} ==\n{{self|Cc-zero}}\n[[Category:Kapa in the Honolulu Museum of Art]]"
+        }
+      }
+    }
+  ]
+}

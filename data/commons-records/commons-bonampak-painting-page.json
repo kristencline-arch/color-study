@@ -1,0 +1,19 @@
+{
+  "pageid": 44301,
+  "ns": 6,
+  "title": "File:Bonampak painting.jpg",
+  "revisions": [
+    {
+      "revid": 1091413160,
+      "parentid": 1051243986,
+      "timestamp": "2025-09-26T23:05:43Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|A picture of one of the paintings at [[w:Bonampak|Bonampak]] Photo © 2004 Jacob Rus}}\n|Source=   Photo © 2004 Jacob Rus\n\t\n|Date=2004\n|Author=Photo © 2004 Jacob Rus\n\t\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{cc-by-sa-2.0}}\n\n[[Category:Room 1 (Bonampak)]]\n[[Category:Taken with Nikon Coolpix 4300]]"
+        }
+      }
+    }
+  ]
+}

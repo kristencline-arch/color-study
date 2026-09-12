@@ -1,0 +1,92 @@
+{
+  "pageid": 72923725,
+  "ns": 6,
+  "title": "File:Kapa bark cloth skirt from Hawaii, Honolulu Museum of Art 2264.jpg",
+  "index": 8,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 477858,
+      "width": 3708,
+      "height": 964,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kapa_bark_cloth_skirt_from_Hawaii%2C_Honolulu_Museum_of_Art_2264.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kapa_bark_cloth_skirt_from_Hawaii,_Honolulu_Museum_of_Art_2264.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72923725",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2018-09-21 18:37:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kapa bark cloth skirt from Hawaii, Honolulu Museum of Art 2264",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Kapa in the Honolulu Museum of Art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<i>Kapa pā‘ū</i> (type of bark cloth skirt) from Hawaii, Honolulu Museum of Art accession 2264.jpg",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hiart&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hiart (page does not exist)\">Hiart</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

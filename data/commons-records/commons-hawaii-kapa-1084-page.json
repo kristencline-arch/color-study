@@ -1,0 +1,19 @@
+{
+  "pageid": 72923308,
+  "ns": 6,
+  "title": "File:Kapa (bark cloth from Hawaii, Honolulu Museum of Art accession 1084.1.jpg",
+  "revisions": [
+    {
+      "revid": 909051592,
+      "parentid": 479820435,
+      "timestamp": "2024-08-13T06:40:29Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|description   ={{en|1=''Kapa'' (bark cloth) from Hawaii, Honolulu Museum of Art accession 1084.1}}\n|date          =2018\n|source        ={{own}}\n|author        =[[User:Hiart|Hiart]]\n}}\n\n== {{int:license-header}} ==\n{{self|Cc-zero}}\n[[Category:Kapa in the Honolulu Museum of Art]]\n[[Category:Triangles in art]]"
+        }
+      }
+    }
+  ]
+}

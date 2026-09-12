@@ -796,7 +796,9 @@
     ],
     "size_bytes": 3874349,
     "catalog_order": 52,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-145925",
@@ -3387,7 +3389,9 @@
     ],
     "size_bytes": 10316317,
     "catalog_order": 98,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-108532",
@@ -5489,7 +5493,9 @@
     ],
     "size_bytes": 5864431,
     "catalog_order": 134,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-143265",
@@ -5545,7 +5551,9 @@
     ],
     "size_bytes": 6490858,
     "catalog_order": 135,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-131818",
@@ -5601,7 +5609,9 @@
     ],
     "size_bytes": 6488781,
     "catalog_order": 136,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-155456",
@@ -5657,7 +5667,9 @@
     ],
     "size_bytes": 8525158,
     "catalog_order": 137,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-155451",
@@ -5713,7 +5725,9 @@
     ],
     "size_bytes": 5358724,
     "catalog_order": 138,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-155447",
@@ -5769,7 +5783,9 @@
     ],
     "size_bytes": 5700130,
     "catalog_order": 139,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-155457",
@@ -5825,7 +5841,9 @@
     ],
     "size_bytes": 6157646,
     "catalog_order": 140,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-159690",
@@ -5881,7 +5899,9 @@
     ],
     "size_bytes": 1441858,
     "catalog_order": 141,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-155414",
@@ -5937,7 +5957,9 @@
     ],
     "size_bytes": 6417285,
     "catalog_order": 142,
-    "collections": []
+    "collections": [
+      "mesoamerica"
+    ]
   },
   {
     "id": "cma-149683",
@@ -10512,7 +10534,7 @@
       3614
     ],
     "size_bytes": 4949875,
-    "catalog_order": 11,
+    "catalog_order": 17,
     "collections": [
       "rome",
       "europe"
@@ -15807,7 +15829,7 @@
       2658
     ],
     "size_bytes": 2602538,
-    "catalog_order": 32,
+    "catalog_order": 320,
     "collections": [
       "asia",
       "manuscripts"
@@ -15866,7 +15888,7 @@
       3400
     ],
     "size_bytes": 1864418,
-    "catalog_order": 320,
+    "catalog_order": 321,
     "collections": [
       "asia",
       "manuscripts"
@@ -15925,7 +15947,7 @@
       352
     ],
     "size_bytes": 556080,
-    "catalog_order": 321,
+    "catalog_order": 322,
     "collections": [
       "asia",
       "manuscripts"
@@ -15984,7 +16006,7 @@
       344
     ],
     "size_bytes": 525445,
-    "catalog_order": 322,
+    "catalog_order": 323,
     "collections": [
       "asia",
       "manuscripts"
@@ -16043,7 +16065,7 @@
       325
     ],
     "size_bytes": 505832,
-    "catalog_order": 323,
+    "catalog_order": 324,
     "collections": [
       "asia",
       "manuscripts"
@@ -16102,7 +16124,7 @@
       508
     ],
     "size_bytes": 826309,
-    "catalog_order": 324,
+    "catalog_order": 325,
     "collections": [
       "asia",
       "manuscripts"
@@ -16161,7 +16183,7 @@
       508
     ],
     "size_bytes": 804086,
-    "catalog_order": 325,
+    "catalog_order": 326,
     "collections": [
       "asia",
       "manuscripts"
@@ -16220,7 +16242,7 @@
       508
     ],
     "size_bytes": 622899,
-    "catalog_order": 326,
+    "catalog_order": 327,
     "collections": [
       "asia",
       "manuscripts"
@@ -16279,7 +16301,7 @@
       508
     ],
     "size_bytes": 777596,
-    "catalog_order": 327,
+    "catalog_order": 328,
     "collections": [
       "asia",
       "manuscripts"
@@ -16338,7 +16360,7 @@
       508
     ],
     "size_bytes": 817350,
-    "catalog_order": 328,
+    "catalog_order": 329,
     "collections": [
       "asia",
       "manuscripts"
@@ -16397,7 +16419,7 @@
       744
     ],
     "size_bytes": 941189,
-    "catalog_order": 329,
+    "catalog_order": 330,
     "collections": [
       "asia",
       "manuscripts"
@@ -16456,7 +16478,7 @@
       916
     ],
     "size_bytes": 1131547,
-    "catalog_order": 330,
+    "catalog_order": 331,
     "collections": [
       "asia",
       "manuscripts"
@@ -16515,7 +16537,7 @@
       621
     ],
     "size_bytes": 721653,
-    "catalog_order": 331,
+    "catalog_order": 332,
     "collections": [
       "asia",
       "manuscripts"
@@ -16574,7 +16596,7 @@
       793
     ],
     "size_bytes": 1125172,
-    "catalog_order": 332,
+    "catalog_order": 333,
     "collections": [
       "asia",
       "manuscripts"
@@ -16633,7 +16655,7 @@
       1205
     ],
     "size_bytes": 1698837,
-    "catalog_order": 333,
+    "catalog_order": 334,
     "collections": [
       "asia",
       "manuscripts"
@@ -16692,7 +16714,7 @@
       1520
     ],
     "size_bytes": 1920616,
-    "catalog_order": 334,
+    "catalog_order": 335,
     "collections": [
       "asia",
       "manuscripts"
@@ -16751,7 +16773,7 @@
       2623
     ],
     "size_bytes": 5405845,
-    "catalog_order": 335,
+    "catalog_order": 336,
     "collections": [
       "asia",
       "manuscripts"
@@ -16810,7 +16832,7 @@
       3400
     ],
     "size_bytes": 2863331,
-    "catalog_order": 336,
+    "catalog_order": 337,
     "collections": [
       "asia",
       "manuscripts"
@@ -16869,7 +16891,7 @@
       3400
     ],
     "size_bytes": 4565769,
-    "catalog_order": 337,
+    "catalog_order": 338,
     "collections": [
       "asia",
       "manuscripts"
@@ -16928,7 +16950,7 @@
       3400
     ],
     "size_bytes": 2721464,
-    "catalog_order": 338,
+    "catalog_order": 339,
     "collections": [
       "asia",
       "manuscripts"
@@ -16987,7 +17009,7 @@
       919
     ],
     "size_bytes": 1823113,
-    "catalog_order": 339,
+    "catalog_order": 340,
     "collections": [
       "asia",
       "manuscripts"
@@ -17046,7 +17068,7 @@
       919
     ],
     "size_bytes": 1652216,
-    "catalog_order": 340,
+    "catalog_order": 341,
     "collections": [
       "asia",
       "manuscripts"
@@ -17105,7 +17127,7 @@
       919
     ],
     "size_bytes": 1647980,
-    "catalog_order": 341,
+    "catalog_order": 342,
     "collections": [
       "asia",
       "manuscripts"
@@ -17164,7 +17186,7 @@
       919
     ],
     "size_bytes": 1644890,
-    "catalog_order": 342,
+    "catalog_order": 343,
     "collections": [
       "asia",
       "manuscripts"
@@ -17223,7 +17245,7 @@
       919
     ],
     "size_bytes": 1805759,
-    "catalog_order": 343,
+    "catalog_order": 344,
     "collections": [
       "asia",
       "manuscripts"
@@ -17282,7 +17304,7 @@
       919
     ],
     "size_bytes": 1645244,
-    "catalog_order": 344,
+    "catalog_order": 345,
     "collections": [
       "asia",
       "manuscripts"
@@ -17341,7 +17363,7 @@
       3266
     ],
     "size_bytes": 3790573,
-    "catalog_order": 345,
+    "catalog_order": 346,
     "collections": [
       "asia"
     ]
@@ -17399,7 +17421,7 @@
       927
     ],
     "size_bytes": 554456,
-    "catalog_order": 346,
+    "catalog_order": 347,
     "collections": [
       "textiles",
       "south-america"
@@ -17458,7 +17480,7 @@
       2513
     ],
     "size_bytes": 4673977,
-    "catalog_order": 347,
+    "catalog_order": 348,
     "collections": [
       "textiles",
       "south-america"
@@ -17517,7 +17539,7 @@
       1055
     ],
     "size_bytes": 2918960,
-    "catalog_order": 348,
+    "catalog_order": 349,
     "collections": [
       "textiles",
       "south-america"
@@ -17576,7 +17598,7 @@
       3396
     ],
     "size_bytes": 12752761,
-    "catalog_order": 349,
+    "catalog_order": 350,
     "collections": [
       "textiles",
       "south-america"
@@ -17635,7 +17657,7 @@
       3400
     ],
     "size_bytes": 3426194,
-    "catalog_order": 350,
+    "catalog_order": 351,
     "collections": [
       "textiles",
       "south-america"
@@ -17694,7 +17716,7 @@
       2174
     ],
     "size_bytes": 2671622,
-    "catalog_order": 351,
+    "catalog_order": 352,
     "collections": [
       "textiles",
       "south-america"
@@ -17753,7 +17775,7 @@
       2762
     ],
     "size_bytes": 5652604,
-    "catalog_order": 352,
+    "catalog_order": 353,
     "collections": [
       "textiles",
       "south-america"
@@ -17812,7 +17834,7 @@
       3017
     ],
     "size_bytes": 1026172,
-    "catalog_order": 353,
+    "catalog_order": 354,
     "collections": [
       "textiles",
       "south-america"
@@ -17871,7 +17893,7 @@
       1474
     ],
     "size_bytes": 4698459,
-    "catalog_order": 354,
+    "catalog_order": 355,
     "collections": [
       "textiles",
       "south-america"
@@ -17930,7 +17952,7 @@
       1730
     ],
     "size_bytes": 1919036,
-    "catalog_order": 355,
+    "catalog_order": 356,
     "collections": [
       "textiles",
       "south-america"
@@ -17989,7 +18011,7 @@
       2556
     ],
     "size_bytes": 7046449,
-    "catalog_order": 356,
+    "catalog_order": 357,
     "collections": [
       "textiles",
       "south-america"
@@ -18048,7 +18070,7 @@
       3400
     ],
     "size_bytes": 1386377,
-    "catalog_order": 357,
+    "catalog_order": 358,
     "collections": [
       "textiles",
       "south-america"
@@ -18107,7 +18129,7 @@
       3400
     ],
     "size_bytes": 1510195,
-    "catalog_order": 358,
+    "catalog_order": 359,
     "collections": [
       "textiles",
       "south-america"
@@ -18166,7 +18188,7 @@
       801
     ],
     "size_bytes": 2298449,
-    "catalog_order": 359,
+    "catalog_order": 360,
     "collections": [
       "textiles",
       "south-america"
@@ -18225,7 +18247,7 @@
       1163
     ],
     "size_bytes": 2739039,
-    "catalog_order": 360,
+    "catalog_order": 361,
     "collections": [
       "textiles",
       "south-america"
@@ -18284,7 +18306,7 @@
       3400
     ],
     "size_bytes": 1923858,
-    "catalog_order": 361,
+    "catalog_order": 362,
     "collections": [
       "textiles",
       "south-america"
@@ -18343,7 +18365,7 @@
       3320
     ],
     "size_bytes": 2866042,
-    "catalog_order": 362,
+    "catalog_order": 363,
     "collections": [
       "textiles",
       "south-america"
@@ -18402,7 +18424,7 @@
       3400
     ],
     "size_bytes": 2760146,
-    "catalog_order": 363,
+    "catalog_order": 364,
     "collections": [
       "textiles",
       "south-america"
@@ -18461,7 +18483,7 @@
       3400
     ],
     "size_bytes": 3048517,
-    "catalog_order": 33,
+    "catalog_order": 365,
     "collections": [
       "textiles",
       "south-america"
@@ -18520,7 +18542,7 @@
       3400
     ],
     "size_bytes": 6172598,
-    "catalog_order": 364,
+    "catalog_order": 366,
     "collections": [
       "south-america"
     ]
@@ -18578,7 +18600,7 @@
       3400
     ],
     "size_bytes": 6309815,
-    "catalog_order": 365,
+    "catalog_order": 367,
     "collections": [
       "south-america"
     ]
@@ -18636,7 +18658,7 @@
       3400
     ],
     "size_bytes": 2519898,
-    "catalog_order": 366,
+    "catalog_order": 368,
     "collections": [
       "south-america"
     ]
@@ -18694,7 +18716,7 @@
       3400
     ],
     "size_bytes": 5023807,
-    "catalog_order": 367,
+    "catalog_order": 369,
     "collections": [
       "south-america"
     ]
@@ -18752,7 +18774,7 @@
       2758
     ],
     "size_bytes": 6093099,
-    "catalog_order": 368,
+    "catalog_order": 370,
     "collections": [
       "south-america"
     ]
@@ -18810,7 +18832,7 @@
       3085
     ],
     "size_bytes": 2487077,
-    "catalog_order": 369,
+    "catalog_order": 371,
     "collections": [
       "south-america"
     ]
@@ -18868,7 +18890,7 @@
       2330
     ],
     "size_bytes": 3663169,
-    "catalog_order": 370,
+    "catalog_order": 372,
     "collections": [
       "south-america"
     ]
@@ -18926,7 +18948,7 @@
       1933
     ],
     "size_bytes": 1997339,
-    "catalog_order": 371,
+    "catalog_order": 373,
     "collections": [
       "south-america"
     ]
@@ -18984,7 +19006,7 @@
       3400
     ],
     "size_bytes": 5404804,
-    "catalog_order": 372,
+    "catalog_order": 374,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19042,7 +19064,7 @@
       3400
     ],
     "size_bytes": 1186132,
-    "catalog_order": 373,
+    "catalog_order": 375,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19100,7 +19122,7 @@
       2037
     ],
     "size_bytes": 586771,
-    "catalog_order": 35,
+    "catalog_order": 376,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19158,7 +19180,7 @@
       2658
     ],
     "size_bytes": 5341266,
-    "catalog_order": 374,
+    "catalog_order": 377,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19216,7 +19238,7 @@
       2377
     ],
     "size_bytes": 4732604,
-    "catalog_order": 375,
+    "catalog_order": 378,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19274,7 +19296,7 @@
       3016
     ],
     "size_bytes": 6921757,
-    "catalog_order": 376,
+    "catalog_order": 379,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19332,7 +19354,7 @@
       3400
     ],
     "size_bytes": 4778749,
-    "catalog_order": 377,
+    "catalog_order": 380,
     "collections": [
       "indigenous-north-america"
     ]
@@ -19390,7 +19412,7 @@
       2561
     ],
     "size_bytes": 3630167,
-    "catalog_order": 378,
+    "catalog_order": 381,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19449,7 +19471,7 @@
       2535
     ],
     "size_bytes": 5968625,
-    "catalog_order": 379,
+    "catalog_order": 382,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19508,7 +19530,7 @@
       2461
     ],
     "size_bytes": 4965995,
-    "catalog_order": 380,
+    "catalog_order": 383,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19567,7 +19589,7 @@
       2618
     ],
     "size_bytes": 4046880,
-    "catalog_order": 381,
+    "catalog_order": 384,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19626,7 +19648,7 @@
       2911
     ],
     "size_bytes": 6399127,
-    "catalog_order": 382,
+    "catalog_order": 385,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19685,7 +19707,7 @@
       3400
     ],
     "size_bytes": 5824934,
-    "catalog_order": 383,
+    "catalog_order": 386,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19744,7 +19766,7 @@
       2523
     ],
     "size_bytes": 6883974,
-    "catalog_order": 384,
+    "catalog_order": 387,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19803,7 +19825,7 @@
       3400
     ],
     "size_bytes": 6215487,
-    "catalog_order": 385,
+    "catalog_order": 388,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19862,7 +19884,7 @@
       3400
     ],
     "size_bytes": 5709672,
-    "catalog_order": 386,
+    "catalog_order": 389,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19921,7 +19943,7 @@
       3400
     ],
     "size_bytes": 5599271,
-    "catalog_order": 387,
+    "catalog_order": 390,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -19980,7 +20002,7 @@
       2715
     ],
     "size_bytes": 7039922,
-    "catalog_order": 388,
+    "catalog_order": 391,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20039,7 +20061,7 @@
       2808
     ],
     "size_bytes": 7112340,
-    "catalog_order": 389,
+    "catalog_order": 392,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20098,7 +20120,7 @@
       3400
     ],
     "size_bytes": 5514967,
-    "catalog_order": 390,
+    "catalog_order": 393,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20157,7 +20179,7 @@
       3400
     ],
     "size_bytes": 2637793,
-    "catalog_order": 391,
+    "catalog_order": 394,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20216,7 +20238,7 @@
       3400
     ],
     "size_bytes": 1181131,
-    "catalog_order": 392,
+    "catalog_order": 395,
     "collections": [
       "textiles",
       "indigenous-north-america"
@@ -20275,7 +20297,7 @@
       699
     ],
     "size_bytes": 1012916,
-    "catalog_order": 393,
+    "catalog_order": 396,
     "collections": [
       "textiles",
       "oceania"
@@ -20334,7 +20356,7 @@
       3009
     ],
     "size_bytes": 3867540,
-    "catalog_order": 394,
+    "catalog_order": 397,
     "collections": [
       "textiles",
       "oceania"
@@ -20393,7 +20415,7 @@
       1126
     ],
     "size_bytes": 1320814,
-    "catalog_order": 395,
+    "catalog_order": 398,
     "collections": [
       "textiles",
       "oceania"
@@ -20452,7 +20474,7 @@
       923
     ],
     "size_bytes": 966503,
-    "catalog_order": 396,
+    "catalog_order": 399,
     "collections": [
       "textiles",
       "oceania"
@@ -20511,7 +20533,7 @@
       791
     ],
     "size_bytes": 540820,
-    "catalog_order": 397,
+    "catalog_order": 400,
     "collections": [
       "textiles",
       "oceania"
@@ -20570,7 +20592,7 @@
       1674
     ],
     "size_bytes": 1610317,
-    "catalog_order": 398,
+    "catalog_order": 401,
     "collections": [
       "textiles",
       "oceania"
@@ -20629,7 +20651,7 @@
       2379
     ],
     "size_bytes": 2671142,
-    "catalog_order": 399,
+    "catalog_order": 402,
     "collections": [
       "textiles",
       "oceania"
@@ -20688,7 +20710,7 @@
       3400
     ],
     "size_bytes": 2535070,
-    "catalog_order": 400,
+    "catalog_order": 403,
     "collections": [
       "textiles",
       "oceania"
@@ -20747,7 +20769,7 @@
       2093
     ],
     "size_bytes": 1734130,
-    "catalog_order": 401,
+    "catalog_order": 404,
     "collections": [
       "oceania"
     ]
@@ -20805,7 +20827,7 @@
       1925
     ],
     "size_bytes": 2521591,
-    "catalog_order": 402,
+    "catalog_order": 405,
     "collections": [
       "oceania"
     ]
@@ -20863,7 +20885,7 @@
       3400
     ],
     "size_bytes": 2145774,
-    "catalog_order": 34,
+    "catalog_order": 406,
     "collections": [
       "oceania"
     ]
@@ -20921,7 +20943,7 @@
       3400
     ],
     "size_bytes": 1142914,
-    "catalog_order": 403,
+    "catalog_order": 407,
     "collections": [
       "oceania"
     ]
@@ -20979,7 +21001,7 @@
       3400
     ],
     "size_bytes": 2090149,
-    "catalog_order": 404,
+    "catalog_order": 408,
     "collections": [
       "oceania"
     ]
@@ -21037,7 +21059,7 @@
       3400
     ],
     "size_bytes": 766065,
-    "catalog_order": 405,
+    "catalog_order": 409,
     "collections": [
       "oceania"
     ]
@@ -21095,7 +21117,7 @@
       3400
     ],
     "size_bytes": 1090523,
-    "catalog_order": 406,
+    "catalog_order": 410,
     "collections": [
       "oceania"
     ]
@@ -21153,7 +21175,7 @@
       599
     ],
     "size_bytes": 1452857,
-    "catalog_order": 407,
+    "catalog_order": 411,
     "collections": [
       "textiles",
       "africa"
@@ -21212,7 +21234,7 @@
       1021
     ],
     "size_bytes": 2873492,
-    "catalog_order": 408,
+    "catalog_order": 412,
     "collections": [
       "textiles",
       "africa"
@@ -21271,7 +21293,7 @@
       3211
     ],
     "size_bytes": 5229811,
-    "catalog_order": 409,
+    "catalog_order": 413,
     "collections": [
       "textiles",
       "africa"
@@ -21330,7 +21352,7 @@
       2029
     ],
     "size_bytes": 3200544,
-    "catalog_order": 410,
+    "catalog_order": 414,
     "collections": [
       "textiles",
       "africa"
@@ -21389,7 +21411,7 @@
       1264
     ],
     "size_bytes": 3100039,
-    "catalog_order": 411,
+    "catalog_order": 415,
     "collections": [
       "textiles",
       "africa"
@@ -21448,7 +21470,7 @@
       1835
     ],
     "size_bytes": 3210871,
-    "catalog_order": 412,
+    "catalog_order": 416,
     "collections": [
       "textiles",
       "africa"
@@ -21507,7 +21529,7 @@
       662
     ],
     "size_bytes": 1256651,
-    "catalog_order": 413,
+    "catalog_order": 417,
     "collections": [
       "textiles",
       "africa"
@@ -21566,7 +21588,7 @@
       430
     ],
     "size_bytes": 634201,
-    "catalog_order": 414,
+    "catalog_order": 418,
     "collections": [
       "textiles",
       "africa"
@@ -21625,7 +21647,7 @@
       3400
     ],
     "size_bytes": 4668850,
-    "catalog_order": 415,
+    "catalog_order": 419,
     "collections": [
       "textiles",
       "africa"
@@ -21684,7 +21706,7 @@
       1850
     ],
     "size_bytes": 4346945,
-    "catalog_order": 416,
+    "catalog_order": 420,
     "collections": [
       "textiles",
       "africa"
@@ -21743,7 +21765,7 @@
       3400
     ],
     "size_bytes": 2881557,
-    "catalog_order": 417,
+    "catalog_order": 421,
     "collections": [
       "textiles",
       "africa"
@@ -21802,7 +21824,7 @@
       731
     ],
     "size_bytes": 1954014,
-    "catalog_order": 418,
+    "catalog_order": 422,
     "collections": [
       "textiles",
       "africa"
@@ -21861,7 +21883,7 @@
       2705
     ],
     "size_bytes": 3725790,
-    "catalog_order": 419,
+    "catalog_order": 423,
     "collections": [
       "textiles",
       "africa"
@@ -21920,7 +21942,7 @@
       2369
     ],
     "size_bytes": 2445685,
-    "catalog_order": 420,
+    "catalog_order": 424,
     "collections": [
       "textiles",
       "africa"
@@ -21979,7 +22001,7 @@
       3390
     ],
     "size_bytes": 5797514,
-    "catalog_order": 421,
+    "catalog_order": 425,
     "collections": [
       "textiles",
       "africa"
@@ -22038,7 +22060,7 @@
       3125
     ],
     "size_bytes": 4702580,
-    "catalog_order": 422,
+    "catalog_order": 426,
     "collections": [
       "textiles",
       "africa"
@@ -22097,7 +22119,7 @@
       1860
     ],
     "size_bytes": 2221224,
-    "catalog_order": 423,
+    "catalog_order": 427,
     "collections": [
       "textiles",
       "africa"
@@ -22156,7 +22178,7 @@
       2612
     ],
     "size_bytes": 2478025,
-    "catalog_order": 424,
+    "catalog_order": 428,
     "collections": [
       "textiles",
       "africa"
@@ -22215,7 +22237,7 @@
       3400
     ],
     "size_bytes": 2367807,
-    "catalog_order": 425,
+    "catalog_order": 429,
     "collections": [
       "africa"
     ]
@@ -22273,7 +22295,7 @@
       3400
     ],
     "size_bytes": 3266090,
-    "catalog_order": 426,
+    "catalog_order": 430,
     "collections": [
       "africa"
     ]
@@ -22331,7 +22353,7 @@
       3400
     ],
     "size_bytes": 1950372,
-    "catalog_order": 427,
+    "catalog_order": 431,
     "collections": [
       "africa"
     ]
@@ -22389,7 +22411,7 @@
       3400
     ],
     "size_bytes": 1483896,
-    "catalog_order": 428,
+    "catalog_order": 432,
     "collections": [
       "africa"
     ]
@@ -22447,7 +22469,7 @@
       3400
     ],
     "size_bytes": 4524665,
-    "catalog_order": 429,
+    "catalog_order": 433,
     "collections": [
       "africa"
     ]
@@ -22505,7 +22527,7 @@
       3400
     ],
     "size_bytes": 5795533,
-    "catalog_order": 430,
+    "catalog_order": 434,
     "collections": [
       "textiles",
       "asia"
@@ -22564,7 +22586,7 @@
       3400
     ],
     "size_bytes": 4426371,
-    "catalog_order": 431,
+    "catalog_order": 435,
     "collections": [
       "textiles",
       "asia"
@@ -22623,7 +22645,7 @@
       1274
     ],
     "size_bytes": 1418180,
-    "catalog_order": 432,
+    "catalog_order": 436,
     "collections": [
       "textiles",
       "asia"
@@ -22682,7 +22704,7 @@
       3400
     ],
     "size_bytes": 2771277,
-    "catalog_order": 433,
+    "catalog_order": 437,
     "collections": [
       "textiles",
       "asia"
@@ -22741,7 +22763,7 @@
       1348
     ],
     "size_bytes": 1649673,
-    "catalog_order": 434,
+    "catalog_order": 438,
     "collections": [
       "textiles",
       "asia"
@@ -22800,7 +22822,7 @@
       3400
     ],
     "size_bytes": 4281257,
-    "catalog_order": 435,
+    "catalog_order": 439,
     "collections": [
       "textiles",
       "asia"
@@ -22860,7 +22882,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 436
+    "catalog_order": 440
   },
   {
     "id": "commons-agios-pediment",
@@ -22916,7 +22938,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 437
+    "catalog_order": 441
   },
   {
     "id": "commons-agios-left-guard",
@@ -22972,7 +22994,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 438
+    "catalog_order": 442
   },
   {
     "id": "commons-agios-right-guard",
@@ -23028,7 +23050,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 439
+    "catalog_order": 443
   },
   {
     "id": "commons-agios-left-detail",
@@ -23084,7 +23106,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 440
+    "catalog_order": 444
   },
   {
     "id": "commons-agios-right-detail",
@@ -23140,7 +23162,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 441
+    "catalog_order": 445
   },
   {
     "id": "commons-palmettes-ceiling",
@@ -23196,7 +23218,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 442
+    "catalog_order": 446
   },
   {
     "id": "commons-palmettes-flowers",
@@ -23252,7 +23274,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 30
+    "catalog_order": 447
   },
   {
     "id": "commons-palmettes-tendrils",
@@ -23308,7 +23330,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 443
+    "catalog_order": 448
   },
   {
     "id": "commons-palmettes-vault-detail",
@@ -23364,7 +23386,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 444
+    "catalog_order": 449
   },
   {
     "id": "commons-nerezi-north-wall",
@@ -23419,7 +23441,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 445
+    "catalog_order": 450
   },
   {
     "id": "commons-nerezi-west-wall",
@@ -23474,7 +23496,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 446
+    "catalog_order": 451
   },
   {
     "id": "commons-nerezi-apse",
@@ -23529,7 +23551,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 447
+    "catalog_order": 452
   },
   {
     "id": "commons-nerezi-orans",
@@ -23583,7 +23605,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 448
+    "catalog_order": 453
   },
   {
     "id": "commons-kurbinovo-constantine-helena",
@@ -23638,7 +23660,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 449
+    "catalog_order": 454
   },
   {
     "id": "commons-kurbinovo-0101",
@@ -23693,7 +23715,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 450
+    "catalog_order": 455
   },
   {
     "id": "commons-kurbinovo-020",
@@ -23748,7 +23770,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 451
+    "catalog_order": 456
   },
   {
     "id": "commons-kurbinovo-033",
@@ -23803,7 +23825,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 452
+    "catalog_order": 457
   },
   {
     "id": "commons-kurbinovo-055",
@@ -23858,7 +23880,7 @@
       "europe",
       "macedonia"
     ],
-    "catalog_order": 453
+    "catalog_order": 458
   },
   {
     "id": "commons-gunda-gunde-153v",
@@ -23914,7 +23936,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 454
+    "catalog_order": 459
   },
   {
     "id": "commons-gunda-gunde-2r",
@@ -23970,7 +23992,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 455
+    "catalog_order": 460
   },
   {
     "id": "commons-gunda-gunde-2v",
@@ -24026,7 +24048,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 456
+    "catalog_order": 461
   },
   {
     "id": "commons-gunda-gunde-3r",
@@ -24082,7 +24104,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 457
+    "catalog_order": 462
   },
   {
     "id": "commons-gunda-gunde-4v",
@@ -24138,7 +24160,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 458
+    "catalog_order": 463
   },
   {
     "id": "commons-gunda-gunde-5r",
@@ -24194,7 +24216,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 31
+    "catalog_order": 464
   },
   {
     "id": "commons-gunda-gunde-59v",
@@ -24250,7 +24272,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 459
+    "catalog_order": 465
   },
   {
     "id": "commons-gunda-gunde-60v",
@@ -24306,7 +24328,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 460
+    "catalog_order": 466
   },
   {
     "id": "commons-gunda-gunde-96v",
@@ -24362,7 +24384,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 461
+    "catalog_order": 467
   },
   {
     "id": "commons-gunda-gunde-197r",
@@ -24418,7 +24440,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 462
+    "catalog_order": 468
   },
   {
     "id": "commons-gunda-gunde-199r",
@@ -24474,7 +24496,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 463
+    "catalog_order": 469
   },
   {
     "id": "commons-gunda-gunde-209r",
@@ -24530,7 +24552,7 @@
       "manuscripts",
       "africa"
     ],
-    "catalog_order": 464
+    "catalog_order": 470
   },
   {
     "id": "cma-149790",
@@ -24585,7 +24607,7 @@
       3400
     ],
     "size_bytes": 2821557,
-    "catalog_order": 465,
+    "catalog_order": 471,
     "collections": [
       "europe"
     ]
@@ -24643,7 +24665,7 @@
       3400
     ],
     "size_bytes": 756567,
-    "catalog_order": 466,
+    "catalog_order": 472,
     "collections": [
       "europe"
     ]
@@ -24701,7 +24723,7 @@
       3400
     ],
     "size_bytes": 707739,
-    "catalog_order": 467,
+    "catalog_order": 473,
     "collections": [
       "europe"
     ]
@@ -24759,7 +24781,7 @@
       1848
     ],
     "size_bytes": 856895,
-    "catalog_order": 468,
+    "catalog_order": 474,
     "collections": [
       "europe"
     ]
@@ -24817,7 +24839,7 @@
       3400
     ],
     "size_bytes": 494037,
-    "catalog_order": 469,
+    "catalog_order": 475,
     "collections": [
       "europe"
     ]
@@ -24875,7 +24897,7 @@
       3400
     ],
     "size_bytes": 1702203,
-    "catalog_order": 470,
+    "catalog_order": 476,
     "collections": [
       "europe"
     ]
@@ -24933,7 +24955,7 @@
       3400
     ],
     "size_bytes": 988853,
-    "catalog_order": 471,
+    "catalog_order": 477,
     "collections": [
       "europe"
     ]
@@ -24991,7 +25013,7 @@
       2545
     ],
     "size_bytes": 6679296,
-    "catalog_order": 472,
+    "catalog_order": 478,
     "collections": [
       "europe"
     ]
@@ -25049,7 +25071,7 @@
       3400
     ],
     "size_bytes": 4742058,
-    "catalog_order": 22,
+    "catalog_order": 28,
     "collections": [
       "europe"
     ]
@@ -25107,7 +25129,7 @@
       3400
     ],
     "size_bytes": 683889,
-    "catalog_order": 473,
+    "catalog_order": 479,
     "collections": [
       "europe"
     ]
@@ -25165,7 +25187,7 @@
       3400
     ],
     "size_bytes": 5006319,
-    "catalog_order": 474,
+    "catalog_order": 480,
     "collections": [
       "europe"
     ]
@@ -25223,7 +25245,7 @@
       3400
     ],
     "size_bytes": 5305539,
-    "catalog_order": 475,
+    "catalog_order": 481,
     "collections": [
       "europe"
     ]
@@ -25281,7 +25303,7 @@
       3304
     ],
     "size_bytes": 3875268,
-    "catalog_order": 476,
+    "catalog_order": 482,
     "collections": [
       "europe"
     ]
@@ -25339,7 +25361,7 @@
       3381
     ],
     "size_bytes": 4113679,
-    "catalog_order": 477,
+    "catalog_order": 483,
     "collections": [
       "europe"
     ]
@@ -25397,7 +25419,7 @@
       3279
     ],
     "size_bytes": 1419375,
-    "catalog_order": 478,
+    "catalog_order": 484,
     "collections": [
       "europe"
     ]
@@ -25455,7 +25477,7 @@
       3400
     ],
     "size_bytes": 5968154,
-    "catalog_order": 479,
+    "catalog_order": 485,
     "collections": [
       "europe"
     ]
@@ -25513,7 +25535,7 @@
       3400
     ],
     "size_bytes": 5021113,
-    "catalog_order": 480,
+    "catalog_order": 486,
     "collections": [
       "europe"
     ]
@@ -25571,7 +25593,7 @@
       3400
     ],
     "size_bytes": 3444993,
-    "catalog_order": 481,
+    "catalog_order": 487,
     "collections": [
       "europe"
     ]
@@ -25629,7 +25651,7 @@
       3400
     ],
     "size_bytes": 3615641,
-    "catalog_order": 482,
+    "catalog_order": 488,
     "collections": [
       "europe"
     ]
@@ -25687,7 +25709,7 @@
       3400
     ],
     "size_bytes": 8977329,
-    "catalog_order": 483,
+    "catalog_order": 489,
     "collections": [
       "europe"
     ]
@@ -25745,7 +25767,7 @@
       3400
     ],
     "size_bytes": 8508548,
-    "catalog_order": 484,
+    "catalog_order": 490,
     "collections": [
       "europe"
     ]
@@ -25803,7 +25825,7 @@
       3400
     ],
     "size_bytes": 7844965,
-    "catalog_order": 485,
+    "catalog_order": 491,
     "collections": [
       "europe"
     ]
@@ -25861,7 +25883,7 @@
       3400
     ],
     "size_bytes": 5009427,
-    "catalog_order": 486,
+    "catalog_order": 492,
     "collections": [
       "europe"
     ]
@@ -25919,7 +25941,7 @@
       2850
     ],
     "size_bytes": 7855545,
-    "catalog_order": 487,
+    "catalog_order": 493,
     "collections": [
       "europe"
     ]
@@ -25977,7 +25999,7 @@
       1990
     ],
     "size_bytes": 3144380,
-    "catalog_order": 488,
+    "catalog_order": 494,
     "collections": [
       "europe"
     ]
@@ -26035,7 +26057,7 @@
       3400
     ],
     "size_bytes": 3165798,
-    "catalog_order": 489,
+    "catalog_order": 495,
     "collections": [
       "europe"
     ]
@@ -26093,7 +26115,7 @@
       1343
     ],
     "size_bytes": 3760778,
-    "catalog_order": 490,
+    "catalog_order": 496,
     "collections": [
       "europe"
     ]
@@ -26151,7 +26173,7 @@
       1018
     ],
     "size_bytes": 2960481,
-    "catalog_order": 491,
+    "catalog_order": 497,
     "collections": [
       "europe"
     ]
@@ -26209,7 +26231,7 @@
       2048
     ],
     "size_bytes": 3162107,
-    "catalog_order": 492,
+    "catalog_order": 498,
     "collections": [
       "europe"
     ]
@@ -26267,7 +26289,7 @@
       3400
     ],
     "size_bytes": 2788343,
-    "catalog_order": 493,
+    "catalog_order": 499,
     "collections": [
       "europe",
       "manuscripts"
@@ -26326,7 +26348,7 @@
       2832
     ],
     "size_bytes": 7967948,
-    "catalog_order": 494,
+    "catalog_order": 500,
     "collections": [
       "europe",
       "manuscripts"
@@ -26385,7 +26407,7 @@
       2542
     ],
     "size_bytes": 3092548,
-    "catalog_order": 495,
+    "catalog_order": 501,
     "collections": [
       "europe",
       "manuscripts"
@@ -26444,7 +26466,7 @@
       2048
     ],
     "size_bytes": 2932525,
-    "catalog_order": 496,
+    "catalog_order": 502,
     "collections": [
       "europe",
       "manuscripts"
@@ -26503,7 +26525,7 @@
       3400
     ],
     "size_bytes": 4390189,
-    "catalog_order": 497,
+    "catalog_order": 503,
     "collections": [
       "europe",
       "manuscripts"
@@ -26562,7 +26584,7 @@
       3400
     ],
     "size_bytes": 4363240,
-    "catalog_order": 498,
+    "catalog_order": 504,
     "collections": [
       "europe",
       "manuscripts"
@@ -26621,7 +26643,7 @@
       3400
     ],
     "size_bytes": 3975451,
-    "catalog_order": 499,
+    "catalog_order": 505,
     "collections": [
       "europe",
       "manuscripts"
@@ -26680,7 +26702,7 @@
       3400
     ],
     "size_bytes": 4612102,
-    "catalog_order": 500,
+    "catalog_order": 506,
     "collections": [
       "europe",
       "manuscripts"
@@ -26739,7 +26761,7 @@
       3400
     ],
     "size_bytes": 4442625,
-    "catalog_order": 501,
+    "catalog_order": 507,
     "collections": [
       "europe",
       "manuscripts"
@@ -26798,7 +26820,7 @@
       3400
     ],
     "size_bytes": 7092215,
-    "catalog_order": 24,
+    "catalog_order": 30,
     "collections": [
       "europe",
       "manuscripts"
@@ -26857,7 +26879,7 @@
       3400
     ],
     "size_bytes": 1968485,
-    "catalog_order": 502,
+    "catalog_order": 508,
     "collections": [
       "europe",
       "manuscripts"
@@ -26916,7 +26938,7 @@
       2634
     ],
     "size_bytes": 8325635,
-    "catalog_order": 503,
+    "catalog_order": 509,
     "collections": [
       "europe",
       "manuscripts"
@@ -26975,7 +26997,7 @@
       3400
     ],
     "size_bytes": 3332907,
-    "catalog_order": 504,
+    "catalog_order": 510,
     "collections": [
       "europe",
       "manuscripts"
@@ -27034,7 +27056,7 @@
       3400
     ],
     "size_bytes": 6712845,
-    "catalog_order": 505,
+    "catalog_order": 511,
     "collections": [
       "europe",
       "manuscripts"
@@ -27093,7 +27115,7 @@
       3400
     ],
     "size_bytes": 2951220,
-    "catalog_order": 506,
+    "catalog_order": 512,
     "collections": [
       "europe",
       "manuscripts"
@@ -27152,7 +27174,7 @@
       3400
     ],
     "size_bytes": 2779930,
-    "catalog_order": 507,
+    "catalog_order": 513,
     "collections": [
       "europe",
       "manuscripts"
@@ -27211,7 +27233,7 @@
       3221
     ],
     "size_bytes": 6842231,
-    "catalog_order": 508,
+    "catalog_order": 514,
     "collections": [
       "europe",
       "manuscripts"
@@ -27270,7 +27292,7 @@
       3304
     ],
     "size_bytes": 7009940,
-    "catalog_order": 509,
+    "catalog_order": 515,
     "collections": [
       "europe",
       "manuscripts"
@@ -27329,7 +27351,7 @@
       3400
     ],
     "size_bytes": 2443859,
-    "catalog_order": 510,
+    "catalog_order": 516,
     "collections": [
       "europe",
       "manuscripts"
@@ -27388,7 +27410,7 @@
       3400
     ],
     "size_bytes": 2079632,
-    "catalog_order": 511,
+    "catalog_order": 517,
     "collections": [
       "europe",
       "manuscripts"
@@ -27447,7 +27469,7 @@
       3400
     ],
     "size_bytes": 3389059,
-    "catalog_order": 512,
+    "catalog_order": 518,
     "collections": [
       "europe",
       "manuscripts"
@@ -27506,7 +27528,7 @@
       3400
     ],
     "size_bytes": 2320860,
-    "catalog_order": 513,
+    "catalog_order": 519,
     "collections": [
       "europe",
       "manuscripts"
@@ -27565,7 +27587,7 @@
       3400
     ],
     "size_bytes": 2834145,
-    "catalog_order": 514,
+    "catalog_order": 520,
     "collections": [
       "europe",
       "manuscripts"
@@ -27624,7 +27646,7 @@
       3400
     ],
     "size_bytes": 1236957,
-    "catalog_order": 515,
+    "catalog_order": 521,
     "collections": [
       "europe",
       "textiles"
@@ -27683,7 +27705,7 @@
       3400
     ],
     "size_bytes": 4472191,
-    "catalog_order": 516,
+    "catalog_order": 522,
     "collections": [
       "europe",
       "textiles"
@@ -27742,7 +27764,7 @@
       3400
     ],
     "size_bytes": 2945001,
-    "catalog_order": 517,
+    "catalog_order": 523,
     "collections": [
       "europe",
       "textiles"
@@ -27801,7 +27823,7 @@
       1962
     ],
     "size_bytes": 4387981,
-    "catalog_order": 518,
+    "catalog_order": 524,
     "collections": [
       "europe",
       "textiles"
@@ -27860,7 +27882,7 @@
       2965
     ],
     "size_bytes": 7179628,
-    "catalog_order": 519,
+    "catalog_order": 525,
     "collections": [
       "europe",
       "textiles"
@@ -27919,7 +27941,7 @@
       3400
     ],
     "size_bytes": 1669737,
-    "catalog_order": 520,
+    "catalog_order": 526,
     "collections": [
       "europe",
       "textiles"
@@ -27978,7 +28000,7 @@
       3400
     ],
     "size_bytes": 7307534,
-    "catalog_order": 521,
+    "catalog_order": 527,
     "collections": [
       "europe",
       "textiles"
@@ -28037,7 +28059,7 @@
       3400
     ],
     "size_bytes": 3572070,
-    "catalog_order": 522,
+    "catalog_order": 528,
     "collections": [
       "europe",
       "textiles"
@@ -28096,7 +28118,7 @@
       3400
     ],
     "size_bytes": 2150102,
-    "catalog_order": 523,
+    "catalog_order": 529,
     "collections": [
       "europe",
       "textiles"
@@ -28155,7 +28177,7 @@
       3400
     ],
     "size_bytes": 2309118,
-    "catalog_order": 524,
+    "catalog_order": 530,
     "collections": [
       "europe",
       "textiles"
@@ -28214,7 +28236,7 @@
       3400
     ],
     "size_bytes": 3174293,
-    "catalog_order": 525,
+    "catalog_order": 531,
     "collections": [
       "europe",
       "textiles"
@@ -28273,7 +28295,7 @@
       3400
     ],
     "size_bytes": 1964477,
-    "catalog_order": 27,
+    "catalog_order": 33,
     "collections": [
       "europe",
       "textiles"
@@ -28332,7 +28354,7 @@
       3400
     ],
     "size_bytes": 6611180,
-    "catalog_order": 526,
+    "catalog_order": 532,
     "collections": [
       "europe",
       "textiles"
@@ -28391,7 +28413,7 @@
       3400
     ],
     "size_bytes": 2715349,
-    "catalog_order": 527,
+    "catalog_order": 533,
     "collections": [
       "europe",
       "textiles"
@@ -28450,7 +28472,7 @@
       3250
     ],
     "size_bytes": 5096478,
-    "catalog_order": 528,
+    "catalog_order": 534,
     "collections": [
       "europe",
       "textiles"
@@ -28509,7 +28531,7 @@
       2201
     ],
     "size_bytes": 3555427,
-    "catalog_order": 529,
+    "catalog_order": 535,
     "collections": [
       "europe",
       "textiles"
@@ -28568,7 +28590,7 @@
       2449
     ],
     "size_bytes": 8254503,
-    "catalog_order": 530,
+    "catalog_order": 536,
     "collections": [
       "europe",
       "textiles"
@@ -28627,7 +28649,7 @@
       2789
     ],
     "size_bytes": 9086022,
-    "catalog_order": 531,
+    "catalog_order": 537,
     "collections": [
       "europe",
       "textiles"
@@ -28686,7 +28708,7 @@
       3030
     ],
     "size_bytes": 2361744,
-    "catalog_order": 532,
+    "catalog_order": 538,
     "collections": [
       "europe",
       "textiles"
@@ -28745,7 +28767,7 @@
       3400
     ],
     "size_bytes": 6556272,
-    "catalog_order": 533,
+    "catalog_order": 539,
     "collections": [
       "europe",
       "textiles"
@@ -28804,7 +28826,7 @@
       3400
     ],
     "size_bytes": 8147307,
-    "catalog_order": 534,
+    "catalog_order": 540,
     "collections": [
       "europe",
       "textiles",
@@ -28864,7 +28886,7 @@
       1247
     ],
     "size_bytes": 2035171,
-    "catalog_order": 535,
+    "catalog_order": 541,
     "collections": [
       "europe",
       "textiles",
@@ -28924,7 +28946,7 @@
       3400
     ],
     "size_bytes": 1427241,
-    "catalog_order": 28,
+    "catalog_order": 34,
     "collections": [
       "textiles",
       "oceania"
@@ -28982,7 +29004,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 536,
+    "catalog_order": 542,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29039,7 +29061,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 537,
+    "catalog_order": 543,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29096,7 +29118,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 538,
+    "catalog_order": 544,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29153,7 +29175,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 21,
+    "catalog_order": 27,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29210,7 +29232,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 539,
+    "catalog_order": 545,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29267,7 +29289,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 540,
+    "catalog_order": 546,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29324,7 +29346,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 26,
+    "catalog_order": 32,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29380,7 +29402,7 @@
     "collections": [
       "caribbean"
     ],
-    "catalog_order": 541,
+    "catalog_order": 547,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29437,7 +29459,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 29,
+    "catalog_order": 35,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29494,7 +29516,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 542,
+    "catalog_order": 548,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29552,7 +29574,7 @@
       "textiles",
       "oceania"
     ],
-    "catalog_order": 23,
+    "catalog_order": 29,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29608,7 +29630,7 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 543,
+    "catalog_order": 549,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29664,7 +29686,7 @@
     "collections": [
       "oceania"
     ],
-    "catalog_order": 544,
+    "catalog_order": 550,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29721,7 +29743,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 545,
+    "catalog_order": 551,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29778,7 +29800,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 546,
+    "catalog_order": 552,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29835,7 +29857,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 547,
+    "catalog_order": 553,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29900,7 +29922,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 20,
+    "catalog_order": 26,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -29965,7 +29987,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 548,
+    "catalog_order": 554,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30030,7 +30052,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 549,
+    "catalog_order": 555,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30095,7 +30117,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 550,
+    "catalog_order": 556,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30151,7 +30173,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 551,
+    "catalog_order": 557,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30207,7 +30229,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 552,
+    "catalog_order": 558,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30263,7 +30285,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 553,
+    "catalog_order": 559,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30319,7 +30341,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 554,
+    "catalog_order": 560,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30377,7 +30399,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 555,
+    "catalog_order": 561,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30435,7 +30457,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 25,
+    "catalog_order": 31,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30493,7 +30515,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 556,
+    "catalog_order": 562,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30551,7 +30573,7 @@
       "greece",
       "europe"
     ],
-    "catalog_order": 557,
+    "catalog_order": 563,
     "encoded_format": "JPEG",
     "frame_count": 1,
     "study_frame": 0
@@ -30608,7 +30630,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 558,
+    "catalog_order": 564,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30665,7 +30687,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 559,
+    "catalog_order": 565,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30722,7 +30744,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 560,
+    "catalog_order": 566,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30779,7 +30801,7 @@
     "collections": [
       "europe"
     ],
-    "catalog_order": 561,
+    "catalog_order": 567,
     "encoded_format": "MPO",
     "frame_count": 2,
     "study_frame": 0
@@ -30840,7 +30862,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 12
+    "catalog_order": 18
   },
   {
     "id": "commons-altxerri-black-bison",
@@ -30898,7 +30920,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 562
+    "catalog_order": 568
   },
   {
     "id": "commons-altxerri-bison",
@@ -30956,7 +30978,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 563
+    "catalog_order": 569
   },
   {
     "id": "commons-pech-merle-horses",
@@ -31014,7 +31036,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 17
+    "catalog_order": 23
   },
   {
     "id": "commons-mustair-flight",
@@ -31072,7 +31094,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 15
+    "catalog_order": 21
   },
   {
     "id": "commons-mustair-pilate",
@@ -31130,7 +31152,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 564
+    "catalog_order": 570
   },
   {
     "id": "commons-mustair-feeding",
@@ -31188,7 +31210,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 565
+    "catalog_order": 571
   },
   {
     "id": "commons-mustair-children",
@@ -31246,7 +31268,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 566
+    "catalog_order": 572
   },
   {
     "id": "commons-mustair-healing",
@@ -31304,7 +31326,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 567
+    "catalog_order": 573
   },
   {
     "id": "commons-mustair-harrowing",
@@ -31362,7 +31384,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 568
+    "catalog_order": 574
   },
   {
     "id": "commons-prokulus-24",
@@ -31420,7 +31442,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 569
+    "catalog_order": 575
   },
   {
     "id": "commons-prokulus-28",
@@ -31478,7 +31500,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 570
+    "catalog_order": 576
   },
   {
     "id": "commons-prokulus-38",
@@ -31536,7 +31558,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 571
+    "catalog_order": 577
   },
   {
     "id": "commons-prokulus-44",
@@ -31594,7 +31616,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 572
+    "catalog_order": 578
   },
   {
     "id": "commons-prokulus-50",
@@ -31652,7 +31674,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 573
+    "catalog_order": 579
   },
   {
     "id": "commons-prokulus-60",
@@ -31710,7 +31732,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 574
+    "catalog_order": 580
   },
   {
     "id": "commons-prokulus-70",
@@ -31768,7 +31790,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 575
+    "catalog_order": 581
   },
   {
     "id": "commons-prokulus-stucco",
@@ -31826,7 +31848,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 576
+    "catalog_order": 582
   },
   {
     "id": "commons-mals-donor",
@@ -31884,7 +31906,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 577
+    "catalog_order": 583
   },
   {
     "id": "commons-mals-martyrdom",
@@ -31942,7 +31964,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 578
+    "catalog_order": 584
   },
   {
     "id": "commons-mals-saints",
@@ -32000,7 +32022,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 579
+    "catalog_order": 585
   },
   {
     "id": "commons-castelseprio-throne",
@@ -32057,7 +32079,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 580
+    "catalog_order": 586
   },
   {
     "id": "commons-castelseprio-christ",
@@ -32114,7 +32136,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 581
+    "catalog_order": 587
   },
   {
     "id": "commons-castelseprio-joseph",
@@ -32171,7 +32193,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 14
+    "catalog_order": 20
   },
   {
     "id": "commons-castelseprio-bethlehem",
@@ -32228,7 +32250,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 582
+    "catalog_order": 588
   },
   {
     "id": "commons-castelseprio-nativity",
@@ -32285,7 +32307,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 583
+    "catalog_order": 589
   },
   {
     "id": "commons-castelseprio-midwives",
@@ -32342,7 +32364,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 584
+    "catalog_order": 590
   },
   {
     "id": "commons-castelseprio-temple",
@@ -32399,7 +32421,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 585
+    "catalog_order": 591
   },
   {
     "id": "commons-castelseprio-curtain",
@@ -32456,7 +32478,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 586
+    "catalog_order": 592
   },
   {
     "id": "commons-antiqua-madonna",
@@ -32515,7 +32537,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 587
+    "catalog_order": 593
   },
   {
     "id": "commons-antiqua-crucifix",
@@ -32574,7 +32596,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 588
+    "catalog_order": 594
   },
   {
     "id": "commons-antiqua-mural",
@@ -32633,7 +32655,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 589
+    "catalog_order": 595
   },
   {
     "id": "commons-antiqua-atrium-1",
@@ -32692,7 +32714,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 590
+    "catalog_order": 596
   },
   {
     "id": "commons-antiqua-atrium-3",
@@ -32751,7 +32773,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 591
+    "catalog_order": 597
   },
   {
     "id": "commons-cividale-christ",
@@ -32808,7 +32830,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 592
+    "catalog_order": 598
   },
   {
     "id": "commons-cividale-window",
@@ -32865,7 +32887,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 593
+    "catalog_order": 599
   },
   {
     "id": "commons-reichenau-lazarus",
@@ -32923,7 +32945,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 594
+    "catalog_order": 600
   },
   {
     "id": "commons-reichenau-abbot",
@@ -32981,7 +33003,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 595
+    "catalog_order": 601
   },
   {
     "id": "commons-reichenau-saint-left",
@@ -33039,7 +33061,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 596
+    "catalog_order": 602
   },
   {
     "id": "commons-reichenau-saint-right",
@@ -33097,7 +33119,7 @@
       "europe",
       "early-medieval-europe"
     ],
-    "catalog_order": 597
+    "catalog_order": 603
   },
   {
     "id": "commons-lindisfarne-chi-rho",
@@ -33156,7 +33178,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 19
+    "catalog_order": 25
   },
   {
     "id": "commons-lindisfarne-luke",
@@ -33215,7 +33237,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 598
+    "catalog_order": 604
   },
   {
     "id": "commons-lindisfarne-mark",
@@ -33274,7 +33296,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 599
+    "catalog_order": 605
   },
   {
     "id": "commons-lindisfarne-matthew",
@@ -33333,7 +33355,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 600
+    "catalog_order": 606
   },
   {
     "id": "commons-durrow-21v",
@@ -33392,7 +33414,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 601
+    "catalog_order": 607
   },
   {
     "id": "commons-durrow-124v",
@@ -33451,7 +33473,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 602
+    "catalog_order": 608
   },
   {
     "id": "commons-canterbury-aureus",
@@ -33509,7 +33531,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 603
+    "catalog_order": 609
   },
   {
     "id": "commons-reims-purple-psalter",
@@ -33567,7 +33589,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 604
+    "catalog_order": 610
   },
   {
     "id": "commons-bamberg-quadrivium",
@@ -33625,7 +33647,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 605
+    "catalog_order": 611
   },
   {
     "id": "commons-fleury-symbols",
@@ -33683,7 +33705,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 606
+    "catalog_order": 612
   },
   {
     "id": "commons-aachen-scholars",
@@ -33741,7 +33763,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 607
+    "catalog_order": 613
   },
   {
     "id": "commons-morgan-beatus-lamb",
@@ -33799,7 +33821,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 608
+    "catalog_order": 614
   },
   {
     "id": "commons-morgan-beatus-musicians",
@@ -33857,7 +33879,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 609
+    "catalog_order": 615
   },
   {
     "id": "commons-durrow-125v",
@@ -33916,7 +33938,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 13
+    "catalog_order": 19
   },
   {
     "id": "commons-durrow-192v",
@@ -33975,7 +33997,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 610
+    "catalog_order": 616
   },
   {
     "id": "commons-durrow-193r",
@@ -34034,7 +34056,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 611
+    "catalog_order": 617
   },
   {
     "id": "commons-durrow-248r",
@@ -34093,7 +34115,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 612
+    "catalog_order": 618
   },
   {
     "id": "commons-durrow-85v",
@@ -34152,7 +34174,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 613
+    "catalog_order": 619
   },
   {
     "id": "commons-durrow-86r",
@@ -34211,7 +34233,7 @@
       "early-medieval-europe",
       "manuscripts"
     ],
-    "catalog_order": 614
+    "catalog_order": 620
   },
   {
     "id": "commons-bernifal-6",
@@ -34269,7 +34291,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 615
+    "catalog_order": 621
   },
   {
     "id": "commons-bernifal-9",
@@ -34327,7 +34349,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 18
+    "catalog_order": 24
   },
   {
     "id": "commons-azilian-pebble",
@@ -34384,7 +34406,7 @@
       "europe",
       "ice-age-europe"
     ],
-    "catalog_order": 616
+    "catalog_order": 622
   },
   {
     "id": "cma-114201",
@@ -34439,7 +34461,7 @@
       3400
     ],
     "size_bytes": 3665602,
-    "catalog_order": 16,
+    "catalog_order": 22,
     "collections": [
       "europe",
       "early-medieval-europe",
@@ -34499,7 +34521,7 @@
       3400
     ],
     "size_bytes": 2099138,
-    "catalog_order": 617,
+    "catalog_order": 623,
     "collections": [
       "europe",
       "early-medieval-europe",
@@ -34564,7 +34586,7 @@
     "collections": [
       "egypt"
     ],
-    "catalog_order": 618
+    "catalog_order": 624
   },
   {
     "id": "commons-beni-hassan-17",
@@ -34624,7 +34646,7 @@
     "collections": [
       "egypt"
     ],
-    "catalog_order": 619
+    "catalog_order": 625
   },
   {
     "id": "commons-beni-hassan-18",
@@ -34684,7 +34706,7 @@
     "collections": [
       "egypt"
     ],
-    "catalog_order": 620
+    "catalog_order": 626
   },
   {
     "id": "commons-beni-hassan-19",
@@ -34804,7 +34826,7 @@
     "collections": [
       "egypt"
     ],
-    "catalog_order": 621
+    "catalog_order": 627
   },
   {
     "id": "commons-herculaneum-chiron",
@@ -34864,7 +34886,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 622
+    "catalog_order": 628
   },
   {
     "id": "commons-herculaneum-telephus",
@@ -34924,7 +34946,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 7
+    "catalog_order": 13
   },
   {
     "id": "commons-herculaneum-lyre",
@@ -34984,7 +35006,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 623
+    "catalog_order": 629
   },
   {
     "id": "commons-herculaneum-23",
@@ -35044,7 +35066,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 624
+    "catalog_order": 630
   },
   {
     "id": "commons-herculaneum-28",
@@ -35104,7 +35126,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 625
+    "catalog_order": 631
   },
   {
     "id": "commons-herculaneum-29",
@@ -35164,7 +35186,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 626
+    "catalog_order": 632
   },
   {
     "id": "commons-oplontis-bird",
@@ -35225,7 +35247,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 627
+    "catalog_order": 633
   },
   {
     "id": "commons-oplontis-cherries",
@@ -35286,7 +35308,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 628
+    "catalog_order": 634
   },
   {
     "id": "commons-oplontis-figs",
@@ -35347,7 +35369,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 629
+    "catalog_order": 635
   },
   {
     "id": "commons-oplontis-peacock",
@@ -35408,7 +35430,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 630
+    "catalog_order": 636
   },
   {
     "id": "commons-oplontis-pigeon",
@@ -35469,7 +35491,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 631
+    "catalog_order": 637
   },
   {
     "id": "commons-oplontis-wall-1",
@@ -35530,7 +35552,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 632
+    "catalog_order": 638
   },
   {
     "id": "commons-oplontis-wall-2",
@@ -35652,7 +35674,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 633
+    "catalog_order": 639
   },
   {
     "id": "commons-stabiae-flora",
@@ -35714,7 +35736,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 8
+    "catalog_order": 14
   },
   {
     "id": "commons-stabiae-diana",
@@ -35775,7 +35797,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 634
+    "catalog_order": 640
   },
   {
     "id": "commons-stabiae-leda",
@@ -35836,7 +35858,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 635
+    "catalog_order": 641
   },
   {
     "id": "commons-stabiae-tray",
@@ -35897,7 +35919,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 636
+    "catalog_order": 642
   },
   {
     "id": "commons-stabiae-portraits",
@@ -35958,7 +35980,7 @@
       "rome",
       "europe"
     ],
-    "catalog_order": 637
+    "catalog_order": 643
   },
   {
     "id": "commons-mari-investiture-1",
@@ -36020,7 +36042,7 @@
       "mesopotamia",
       "asia"
     ],
-    "catalog_order": 4
+    "catalog_order": 10
   },
   {
     "id": "commons-mari-investiture-2",
@@ -36082,7 +36104,7 @@
       "mesopotamia",
       "asia"
     ],
-    "catalog_order": 638
+    "catalog_order": 644
   },
   {
     "id": "commons-mari-investiture-4",
@@ -36144,7 +36166,7 @@
       "mesopotamia",
       "asia"
     ],
-    "catalog_order": 639
+    "catalog_order": 645
   },
   {
     "id": "commons-erebuni-fragment-1",
@@ -36201,7 +36223,7 @@
     "collections": [
       "asia"
     ],
-    "catalog_order": 640,
+    "catalog_order": 646,
     "year_start": null,
     "year_end": null
   },
@@ -36260,7 +36282,7 @@
     "collections": [
       "asia"
     ],
-    "catalog_order": 10,
+    "catalog_order": 16,
     "year_start": null,
     "year_end": null
   },
@@ -36319,7 +36341,7 @@
     "collections": [
       "asia"
     ],
-    "catalog_order": 641,
+    "catalog_order": 647,
     "year_start": null,
     "year_end": null
   },
@@ -36380,7 +36402,7 @@
     "collections": [
       "asia"
     ],
-    "catalog_order": 642
+    "catalog_order": 648
   },
   {
     "id": "commons-dunhuang-mara",
@@ -36442,7 +36464,7 @@
       "asia",
       "manuscripts"
     ],
-    "catalog_order": 643
+    "catalog_order": 649
   },
   {
     "id": "commons-dunhuang-vaishravana",
@@ -36504,7 +36526,7 @@
       "asia",
       "manuscripts"
     ],
-    "catalog_order": 6
+    "catalog_order": 12
   },
   {
     "id": "commons-faras-petros",
@@ -36564,7 +36586,7 @@
     "collections": [
       "africa"
     ],
-    "catalog_order": 644
+    "catalog_order": 650
   },
   {
     "id": "commons-faras-georgios",
@@ -36624,7 +36646,7 @@
     "collections": [
       "africa"
     ],
-    "catalog_order": 645
+    "catalog_order": 651
   },
   {
     "id": "commons-faras-archangel",
@@ -36684,7 +36706,7 @@
     "collections": [
       "africa"
     ],
-    "catalog_order": 3
+    "catalog_order": 9
   },
   {
     "id": "commons-faras-eleusa",
@@ -36744,7 +36766,7 @@
     "collections": [
       "africa"
     ],
-    "catalog_order": 646
+    "catalog_order": 652
   },
   {
     "id": "commons-pazyryk-saddlecloth",
@@ -36804,7 +36826,7 @@
       "textiles",
       "asia"
     ],
-    "catalog_order": 647
+    "catalog_order": 653
   },
   {
     "id": "commons-pazyryk-carpet",
@@ -36864,7 +36886,7 @@
       "textiles",
       "asia"
     ],
-    "catalog_order": 5
+    "catalog_order": 11
   },
   {
     "id": "commons-angkor-style-deity",
@@ -36923,6 +36945,1654 @@
     "collections": [
       "asia"
     ],
-    "catalog_order": 9
+    "catalog_order": 15
+  },
+  {
+    "id": "commons-cacaxtla-battle-left",
+    "short_title": "Cacaxtla: Battle Mural, left panorama",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.025,
+      0.1,
+      0.98,
+      0.85
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Approximately 650–700 CE",
+    "year_start": 650,
+    "year_end": 700,
+    "notes": "Wide photographic panorama of one side of Cacaxtla’s Battle Mural. Perspective, joins, uneven lighting and losses remain in the supplied image. A local fit can make small colored forms easier to compare; it does not establish their original hues.",
+    "context_url": "https://www.inah.gob.mx/index.php/foto-del-dia/detalle-del-mural-la-batalla-de-cacaxtla",
+    "title": "Cacaxtla: Battle Mural, left panorama",
+    "source_title": "Cacaxtla Battle Mural (left).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Tim Zaman",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(left).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACacaxtla+Battle+Mural+%28left%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cacaxtla_Battle_Mural_%28left%29.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-battle-left.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-battle-left-page.json",
+      "page_revision_id": 1147289243,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1147289243"
+    },
+    "photographed": "2012-07-15",
+    "original_file": "originals/commons-cacaxtla-battle-left.jpg",
+    "expected_dimensions": [
+      9366,
+      1665
+    ],
+    "encoded_dimensions": [
+      9366,
+      1665
+    ],
+    "size_bytes": 3949694,
+    "sha256": "cbbe960627fcf19026b0676faaed1635494e4562d45cfc87a4ebed02aab5dc1d",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-battle-left.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 654
+  },
+  {
+    "id": "commons-cacaxtla-battle-right",
+    "short_title": "Cacaxtla: Battle Mural, right panorama",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.025,
+      0.15,
+      0.95,
+      0.83
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Approximately 650–700 CE",
+    "year_start": 650,
+    "year_end": 700,
+    "notes": "Wide photographic panorama of one side of Cacaxtla’s Battle Mural. Perspective, joins, uneven lighting and losses remain in the supplied image. A local fit can make small colored forms easier to compare; it does not establish their original hues.",
+    "context_url": "https://www.inah.gob.mx/index.php/foto-del-dia/detalle-del-mural-la-batalla-de-cacaxtla",
+    "title": "Cacaxtla: Battle Mural, right panorama",
+    "source_title": "Cacaxtla Battle Mural (right).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Tim Zaman",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(right).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACacaxtla+Battle+Mural+%28right%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Cacaxtla_Battle_Mural_%28right%29.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-battle-right.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-battle-right-page.json",
+      "page_revision_id": 1147289441,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1147289441"
+    },
+    "photographed": "2012-07-15",
+    "original_file": "originals/commons-cacaxtla-battle-right.jpg",
+    "expected_dimensions": [
+      13514,
+      2018
+    ],
+    "encoded_dimensions": [
+      13514,
+      2018
+    ],
+    "size_bytes": 5749958,
+    "sha256": "c93df5cfe2f6ed28c0874d7423f498799aa58eb45103f26c476dbbda67e1c4b6",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-battle-right.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 655
+  },
+  {
+    "id": "commons-cacaxtla-glyph-1",
+    "short_title": "Cacaxtla: painted glyph with flames",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Epiclassic, approximately 650–900 CE",
+    "year_start": 650,
+    "year_end": 900,
+    "notes": "Surviving wall painting at Cacaxtla, photographed under the protective roof. Lighting, surface losses and repairs can also be emphasized by a color transform.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5417",
+    "title": "Cacaxtla: painted glyph with flames",
+    "source_title": "Cacaxtla Glifo 001.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "HJPD",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_001.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACacaxtla+Glifo+001.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cacaxtla_Glifo_001.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-glyph-1.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-glyph-1-page.json",
+      "page_revision_id": 1121735366,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1121735366"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-cacaxtla-glyph-1.jpg",
+    "expected_dimensions": [
+      2883,
+      4509
+    ],
+    "encoded_dimensions": [
+      2883,
+      4509
+    ],
+    "size_bytes": 3389768,
+    "sha256": "fc1f000857eff2ae357feaa1ce35e26013fe00524fb2be10667d973325ea26ef",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-glyph-1.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 6
+  },
+  {
+    "id": "commons-cacaxtla-glyph-2",
+    "short_title": "Cacaxtla: painted glyph and border",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Epiclassic, approximately 650–900 CE",
+    "year_start": 650,
+    "year_end": 900,
+    "notes": "Surviving wall painting at Cacaxtla, photographed under the protective roof. Lighting, surface losses and repairs can also be emphasized by a color transform.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5417",
+    "title": "Cacaxtla: painted glyph and border",
+    "source_title": "Cacaxtla Glifo 002.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "HJPD",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_002.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACacaxtla+Glifo+002.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cacaxtla_Glifo_002.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-glyph-2.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-glyph-2-page.json",
+      "page_revision_id": 1121735379,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1121735379"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-cacaxtla-glyph-2.jpg",
+    "expected_dimensions": [
+      3358,
+      3216
+    ],
+    "encoded_dimensions": [
+      3358,
+      3216
+    ],
+    "size_bytes": 2984593,
+    "sha256": "09178616a8eeb865610ace182daeb73d13b045a4f3ca307e9feb1d8adab718a6",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-glyph-2.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 656
+  },
+  {
+    "id": "commons-cacaxtla-eagle",
+    "short_title": "Cacaxtla: bird-costumed figure",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.41,
+      0.32,
+      0.86,
+      0.76
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Epiclassic, approximately 650–900 CE",
+    "year_start": 650,
+    "year_end": 900,
+    "notes": "Surviving wall painting at Cacaxtla, photographed under the protective roof. Lighting, surface losses and repairs can also be emphasized by a color transform.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5417",
+    "title": "Cacaxtla: bird-costumed figure",
+    "source_title": "Mural de Cacaxtla.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Erickin Kirin",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_de_Cacaxtla.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AMural+de+Cacaxtla.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mural_de_Cacaxtla.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-eagle.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-eagle-page.json",
+      "page_revision_id": 1187733091,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1187733091"
+    },
+    "photographed": "2013-10-17 12:44:23",
+    "original_file": "originals/commons-cacaxtla-eagle.jpg",
+    "expected_dimensions": [
+      4320,
+      3240
+    ],
+    "encoded_dimensions": [
+      4320,
+      3240
+    ],
+    "size_bytes": 3326889,
+    "sha256": "1c3d9fa3d7e0e2a002e0fb7dae90d32f4661d0c3eca0296df29f92048bc8c4d8",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-eagle.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 657
+  },
+  {
+    "id": "commons-cacaxtla-jaguar",
+    "short_title": "Cacaxtla: jaguar-costumed figure",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.47,
+      0.24,
+      0.8,
+      0.79
+    ],
+    "region": "Mesoamerica",
+    "culture": "Epiclassic central Mexico",
+    "location": "Cacaxtla, Tlaxcala, Mexico",
+    "object_date": "Epiclassic, approximately 650–900 CE",
+    "year_start": 650,
+    "year_end": 900,
+    "notes": "Surviving wall painting at Cacaxtla, photographed under the protective roof. Lighting, surface losses and repairs can also be emphasized by a color transform.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5417",
+    "title": "Cacaxtla: jaguar-costumed figure",
+    "source_title": "Mural de hombre jaguar de Cacaxtla, Tlaxcala.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Erickin Kirin",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_de_hombre_jaguar_de_Cacaxtla,_Tlaxcala.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AMural+de+hombre+jaguar+de+Cacaxtla%2C+Tlaxcala.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mural_de_hombre_jaguar_de_Cacaxtla%2C_Tlaxcala.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-cacaxtla-jaguar.json",
+      "page_snapshot": "data/commons-records/commons-cacaxtla-jaguar-page.json",
+      "page_revision_id": 1174094971,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1174094971"
+    },
+    "photographed": "2013-10-17 12:44:06",
+    "original_file": "originals/commons-cacaxtla-jaguar.jpg",
+    "expected_dimensions": [
+      4320,
+      3240
+    ],
+    "encoded_dimensions": [
+      4320,
+      3240
+    ],
+    "size_bytes": 3620474,
+    "sha256": "3e9af845552e64626034b9dde67155dff3f00d385b1e1bcbebfcaaa8b62e7c4d",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-cacaxtla-jaguar.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 658
+  },
+  {
+    "id": "commons-bonampak-musicians",
+    "short_title": "Bonampak: the musicians",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.04,
+      0.09,
+      0.92,
+      0.87
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: the musicians",
+    "source_title": "Bonampak, Temple of the Murals, musicians (14179847567).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Temple_of_the_Murals,_musicians_(14179847567).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABonampak%2C+Temple+of+the+Murals%2C+musicians+%2814179847567%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bonampak%2C_Temple_of_the_Murals%2C_musicians_%2814179847567%29.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 2.0",
+      "snapshot": "data/commons-records/commons-bonampak-musicians.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-musicians-page.json",
+      "page_revision_id": 1091412990,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1091412990"
+    },
+    "photographed": "2013-05-25 15:59",
+    "original_file": "originals/commons-bonampak-musicians.jpg",
+    "expected_dimensions": [
+      5184,
+      3456
+    ],
+    "encoded_dimensions": [
+      5184,
+      3456
+    ],
+    "size_bytes": 8780283,
+    "sha256": "e00a98791120d4408fe0c70d4d6e2e8401ecb14c64628270eab7c9869ad53e09",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-musicians.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 3
+  },
+  {
+    "id": "commons-bonampak-room-1",
+    "short_title": "Bonampak: Room 1 panorama",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.14,
+      0.25,
+      0.69,
+      0.89
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history. This wide view has strong perspective and uneven illumination. Fit a smaller wall area before comparing details.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: Room 1 panorama",
+    "source_title": "Mural room 1 bonampak.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Rafael Saldaña",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_room_1_bonampak.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AMural+room+1+bonampak.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mural_room_1_bonampak.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY 2.0",
+      "snapshot": "data/commons-records/commons-bonampak-room-1.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-room-1-page.json",
+      "page_revision_id": 878314826,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=878314826"
+    },
+    "photographed": "2015-12-28 09:23:33",
+    "original_file": "originals/commons-bonampak-room-1.jpg",
+    "expected_dimensions": [
+      9248,
+      2332
+    ],
+    "encoded_dimensions": [
+      9248,
+      2332
+    ],
+    "size_bytes": 8466513,
+    "sha256": "07f8388a01cb76890785775e334b5b7d21324e55065db7c364e82a3adceb7cce",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-room-1.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 659
+  },
+  {
+    "id": "commons-bonampak-painting",
+    "short_title": "Bonampak: musicians, earlier photograph",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history. Preserves the photographer’s original upload rather than the separately published Photoshop contrast enhancement.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: musicians, earlier photograph",
+    "source_title": "Bonampak painting.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Photo © 2004 Jacob Rus",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak_painting.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABonampak+painting.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bonampak_painting.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 2.0",
+      "snapshot": "data/commons-records/commons-bonampak-painting.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-painting-page.json",
+      "page_revision_id": 1091413160,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1091413160"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-bonampak-painting.jpg",
+    "expected_dimensions": [
+      2272,
+      1704
+    ],
+    "encoded_dimensions": [
+      2272,
+      1704
+    ],
+    "size_bytes": 1278591,
+    "sha256": "99770f0db2acd4a7790f68f442564eff27ff040d589e651a26a4542b07412787",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-painting.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 660
+  },
+  {
+    "id": "commons-bonampak-detail",
+    "short_title": "Bonampak: figure with feathered headdress",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: figure with feathered headdress",
+    "source_title": "Bonampak-fresco-detail.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Dennis G. Jarvis",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak-fresco-detail.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABonampak-fresco-detail.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bonampak-fresco-detail.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 2.0",
+      "snapshot": "data/commons-records/commons-bonampak-detail.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-detail-page.json",
+      "page_revision_id": 1131957728,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1131957728"
+    },
+    "photographed": "2007-02-25 05:59:14",
+    "original_file": "originals/commons-bonampak-detail.jpg",
+    "expected_dimensions": [
+      2448,
+      3264
+    ],
+    "encoded_dimensions": [
+      2448,
+      3264
+    ],
+    "size_bytes": 8632006,
+    "sha256": "543354b015bc9e4f8853c7c1ac582a65e01268cbbfe974f651e07bdc97d66576",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-detail.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 661
+  },
+  {
+    "id": "commons-bonampak-06",
+    "short_title": "Bonampak: worn painted figures",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.37,
+      0.05,
+      0.9,
+      0.58
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: worn painted figures",
+    "source_title": "Bonampak, Chiapas. 06.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Inakiherrasti",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._06.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABonampak%2C+Chiapas.+06.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bonampak%2C_Chiapas._06.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-bonampak-06.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-06-page.json",
+      "page_revision_id": 1185006061,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1185006061"
+    },
+    "photographed": "2014-04-14 17:18:30",
+    "original_file": "originals/commons-bonampak-06.jpg",
+    "expected_dimensions": [
+      4272,
+      2848
+    ],
+    "encoded_dimensions": [
+      4272,
+      2848
+    ],
+    "size_bytes": 5161277,
+    "sha256": "3fb8eb7a25214bd533b80a356342640cc51b8077eddc27c832589159cb9b6d56",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-06.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 662
+  },
+  {
+    "id": "commons-bonampak-08",
+    "short_title": "Bonampak: traces of a painted scene",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.09,
+      0.05,
+      0.92,
+      0.84
+    ],
+    "region": "Mesoamerica",
+    "culture": "Maya, Late Classic",
+    "location": "Temple of the Murals, Bonampak, Chiapas, Mexico",
+    "object_date": "Late 8th century CE, during Chan Muwan II’s reign",
+    "year_start": 776,
+    "year_end": 800,
+    "notes": "Photograph of surviving Maya mural paint at Bonampak. The date describes the late-8th-century mural program. Compare painted contours with pale surface deposits, losses and shadows; enhancement does not undo conservation history.",
+    "context_url": "https://lugares.inah.gob.mx/es/node/5416",
+    "title": "Bonampak: traces of a painted scene",
+    "source_title": "Bonampak, Chiapas. 08.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Inakiherrasti",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._08.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABonampak%2C+Chiapas.+08.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bonampak%2C_Chiapas._08.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 3.0",
+      "snapshot": "data/commons-records/commons-bonampak-08.json",
+      "page_snapshot": "data/commons-records/commons-bonampak-08-page.json",
+      "page_revision_id": 1185006080,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1185006080"
+    },
+    "photographed": "2014-04-14 17:18:49",
+    "original_file": "originals/commons-bonampak-08.jpg",
+    "expected_dimensions": [
+      4272,
+      2848
+    ],
+    "encoded_dimensions": [
+      4272,
+      2848
+    ],
+    "size_bytes": 5564855,
+    "sha256": "519dc7cbd0a5a81d555f0c15f9fd60475e6d563042612bab86261fa3be639c16",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-bonampak-08.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 663
+  },
+  {
+    "id": "commons-teotihuacan-puma",
+    "short_title": "Teotihuacán: Puma Mural",
+    "category": "Painted walls and caves",
+    "material": "Paint on plaster",
+    "focus_box_fraction": [
+      0.27,
+      0.1,
+      0.83,
+      0.65
+    ],
+    "region": "Mesoamerica",
+    "culture": "Teotihuacán",
+    "location": "Avenue of the Dead, Teotihuacán, Mexico",
+    "object_date": "Classic period; precise date of this mural not established",
+    "year_start": null,
+    "year_end": null,
+    "notes": "Photograph of the surviving Puma Mural beside the Avenue of the Dead. The pale animal and red bands share a wall with cracks and missing plaster; restrict fitting to the painted surface.",
+    "title": "Teotihuacán: Puma Mural",
+    "source_title": "Avenue of the Dead at Teotihuacan - Puma Mural IMG 7326.JPG",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Deror_avi",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AAvenue+of+the+Dead+at+Teotihuacan+-+Puma+Mural+IMG+7326.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-teotihuacan-puma.json",
+      "page_snapshot": "data/commons-records/commons-teotihuacan-puma-page.json",
+      "page_revision_id": 1264834936,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1264834936"
+    },
+    "photographed": "2015-07-13 22:01:05",
+    "original_file": "originals/commons-teotihuacan-puma.jpg",
+    "expected_dimensions": [
+      3456,
+      2304
+    ],
+    "encoded_dimensions": [
+      3456,
+      2304
+    ],
+    "size_bytes": 3450435,
+    "sha256": "d7e7de3b8f3a6b3380b486dfa073dec86c2454d31fde06f4fe9efcab6d2add30",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-teotihuacan-puma.jpg",
+    "collections": [
+      "mesoamerica"
+    ],
+    "catalog_order": 664
+  },
+  {
+    "id": "commons-timbuktu-quran",
+    "short_title": "Timbuktu collection: colored Quran folio",
+    "category": "Paintings and manuscripts",
+    "material": "Ink and color on skin, according to the source description",
+    "focus_box_fraction": [
+      0.2,
+      0.1,
+      0.79,
+      0.83
+    ],
+    "region": "Mali",
+    "culture": "West African Islamic manuscript tradition",
+    "location": "Mamma Haidara Commemorative Library collection, Timbuktu, Mali; photographed in a Paris exhibition in 2017",
+    "photo_license": "CC BY 4.0",
+    "photographed": "2017-07-01",
+    "object_date": "Cataloged as 11th century CE",
+    "year_start": 1000,
+    "year_end": 1099,
+    "accession_number": "34119",
+    "notes": "Quran folio in Maghrebi script from the Mamma Haidara collection. The file’s exhibition-based record dates the object to the 11th century; this is not a date or place inferred from the pixels. The supplied photograph was perspective-corrected and cropped by its photographer. Color differences include ink, support and display lighting.",
+    "title": "Timbuktu collection: colored Quran folio",
+    "source_title": "Folio Quran Maghrebi script Mamma Haidara Library 34119.jpeg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Folio_Quran_Maghrebi_script_Mamma_Haidara_Library_34119.jpeg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AFolio+Quran+Maghrebi+script+Mamma+Haidara+Library+34119.jpeg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Folio_Quran_Maghrebi_script_Mamma_Haidara_Library_34119.jpeg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-timbuktu-quran.json",
+      "photograph_license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "snapshot": "data/commons-records/commons-timbuktu-quran-license.json",
+        "revision_id": 1121077383,
+        "evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1121077383"
+      },
+      "page_snapshot": "data/commons-records/commons-timbuktu-quran-page.json",
+      "page_revision_id": 1121077383,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1121077383"
+    },
+    "original_file": "originals/commons-timbuktu-quran.jpg",
+    "expected_dimensions": [
+      5189,
+      4625
+    ],
+    "encoded_dimensions": [
+      5189,
+      4625
+    ],
+    "size_bytes": 9377429,
+    "sha256": "78001be2f7bde06df217079ef81f0d630d1a963909600691c10f56874c6fc64d",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-timbuktu-quran.jpg",
+    "collections": [
+      "manuscripts",
+      "africa"
+    ],
+    "catalog_order": 7
+  },
+  {
+    "id": "commons-timbuktu-chronicle-1",
+    "short_title": "Timbuktu: Taʾrīkh al-fattāsh, leaf 1",
+    "category": "Paintings and manuscripts",
+    "material": "Ink on a manuscript leaf; support not independently verified",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mali",
+    "culture": "West African Islamic manuscript tradition",
+    "location": "Mamma Haidara Commemorative Library collection, Timbuktu, Mali; photographed in a Paris exhibition in 2017",
+    "photo_license": "CC BY 4.0",
+    "photographed": "2017-07-01",
+    "object_date": "Cataloged as 1622–1653 CE",
+    "year_start": 1622,
+    "year_end": 1653,
+    "accession_number": "34122",
+    "notes": "A manuscript leaf of the Taʾrīkh al-fattāsh, photographed in the 2017 Trésors de l’Islam en Afrique exhibition. Date follows the file’s exhibition-based attribution, not an independent dating of the leaf. Ink, staining and display reflections affect the result; script authorship is not inferred from enhancement.",
+    "title": "Timbuktu: Taʾrīkh al-fattāsh, leaf 1",
+    "source_title": "Ta'rikh al-Fattash Mamma Haidara Library 34122 n01.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n01.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ATa%27rikh+al-Fattash+Mamma+Haidara+Library+34122+n01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ta%27rikh_al-Fattash_Mamma_Haidara_Library_34122_n01.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-timbuktu-chronicle-1.json",
+      "photograph_license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "snapshot": "data/commons-records/commons-timbuktu-chronicle-1-license.json",
+        "revision_id": 1110557405,
+        "evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1110557405"
+      },
+      "page_snapshot": "data/commons-records/commons-timbuktu-chronicle-1-page.json",
+      "page_revision_id": 1110557405,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1110557405"
+    },
+    "original_file": "originals/commons-timbuktu-chronicle-1.jpg",
+    "expected_dimensions": [
+      4602,
+      5891
+    ],
+    "encoded_dimensions": [
+      4602,
+      5891
+    ],
+    "size_bytes": 10364972,
+    "sha256": "53b4ac58742570e19e901aef3afb2d39cfabc42d0b88a361c7c1e64238cb20a4",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-timbuktu-chronicle-1.jpg",
+    "collections": [
+      "manuscripts",
+      "africa"
+    ],
+    "catalog_order": 665
+  },
+  {
+    "id": "commons-timbuktu-chronicle-2",
+    "short_title": "Timbuktu: Taʾrīkh al-fattāsh, leaf 2",
+    "category": "Paintings and manuscripts",
+    "material": "Ink on a manuscript leaf; support not independently verified",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Mali",
+    "culture": "West African Islamic manuscript tradition",
+    "location": "Mamma Haidara Commemorative Library collection, Timbuktu, Mali; photographed in a Paris exhibition in 2017",
+    "photo_license": "CC BY 4.0",
+    "photographed": "2017-07-01",
+    "object_date": "Cataloged as 1622–1653 CE",
+    "year_start": 1622,
+    "year_end": 1653,
+    "accession_number": "34122",
+    "notes": "A manuscript leaf of the Taʾrīkh al-fattāsh, photographed in the 2017 Trésors de l’Islam en Afrique exhibition. Date follows the file’s exhibition-based attribution, not an independent dating of the leaf. Ink, staining and display reflections affect the result; script authorship is not inferred from enhancement.",
+    "title": "Timbuktu: Taʾrīkh al-fattāsh, leaf 2",
+    "source_title": "Ta'rikh al-Fattash Mamma Haidara Library 34122 n02.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n02.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ATa%27rikh+al-Fattash+Mamma+Haidara+Library+34122+n02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ta%27rikh_al-Fattash_Mamma_Haidara_Library_34122_n02.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "Public domain",
+      "snapshot": "data/commons-records/commons-timbuktu-chronicle-2.json",
+      "photograph_license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "snapshot": "data/commons-records/commons-timbuktu-chronicle-2-license.json",
+        "revision_id": 993836979,
+        "evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=993836979"
+      },
+      "page_snapshot": "data/commons-records/commons-timbuktu-chronicle-2-page.json",
+      "page_revision_id": 993836979,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=993836979"
+    },
+    "original_file": "originals/commons-timbuktu-chronicle-2.jpg",
+    "expected_dimensions": [
+      4461,
+      5948
+    ],
+    "encoded_dimensions": [
+      4461,
+      5948
+    ],
+    "size_bytes": 10405100,
+    "sha256": "83b87b81f782ea4a9d7745df3ecc2799206c685081beb4a2f125368883555877",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-timbuktu-chronicle-2.jpg",
+    "collections": [
+      "manuscripts",
+      "africa"
+    ],
+    "catalog_order": 666
+  },
+  {
+    "id": "commons-buka-paddle",
+    "short_title": "Buka / Bougainville: painted canoe paddle",
+    "category": "Painted sculpture and relief",
+    "material": "Carved wood and pigment",
+    "focus_box_fraction": [
+      0.48,
+      0.36,
+      0.83,
+      0.77
+    ],
+    "region": "Papua New Guinea",
+    "culture": "Buka / north Bougainville",
+    "location": "Buka or north Bougainville, Solomon Islands archipelago, present-day Papua New Guinea; Honolulu Museum of Art",
+    "object_date": "Late 19th–early 20th century",
+    "year_start": 1850,
+    "year_end": 1950,
+    "accession_number": "4192",
+    "notes": "The source photograph combines an overall view and an enlarged detail of a painted canoe paddle (hose). Fit within one view, excluding the pale display background. The archipelago name is distinct from the modern country of Solomon Islands; the object is historic, not dated to antiquity.",
+    "title": "Buka / Bougainville: painted canoe paddle",
+    "source_title": "Canoe paddle, Papua New Guinea, Buka Island, North Solomons Province, wood and pigment, Honolulu Academy of Arts.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Canoe_paddle,_Papua_New_Guinea,_Buka_Island,_North_Solomons_Province,_wood_and_pigment,_Honolulu_Academy_of_Arts.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ACanoe+paddle%2C+Papua+New+Guinea%2C+Buka+Island%2C+North+Solomons+Province%2C+wood+and+pigment%2C+Honolulu+Academy+of+Arts.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Canoe_paddle%2C_Papua_New_Guinea%2C_Buka_Island%2C_North_Solomons_Province%2C_wood_and_pigment%2C_Honolulu_Academy_of_Arts.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-buka-paddle.json",
+      "page_snapshot": "data/commons-records/commons-buka-paddle-page.json",
+      "page_revision_id": 847401236,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=847401236"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-buka-paddle.jpg",
+    "expected_dimensions": [
+      1323,
+      3560
+    ],
+    "encoded_dimensions": [
+      1323,
+      3560
+    ],
+    "size_bytes": 576181,
+    "sha256": "17d58aa89e3adb095c47184eede1034f9f9a73ef7176d43b10b1171a24fc019a",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-buka-paddle.jpg",
+    "collections": [
+      "oceania"
+    ],
+    "catalog_order": 8
+  },
+  {
+    "id": "commons-hawaii-kapa-5084",
+    "short_title": "Hawaiʻi: red kapa with cloth borders",
+    "category": "Textiles",
+    "material": "Wauke barkcloth with red and black mill-cloth borders",
+    "focus_box_fraction": [
+      0.12,
+      0.12,
+      0.89,
+      0.85
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "19th century",
+    "year_start": 1800,
+    "year_end": 1899,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "accession_number": "5084.1",
+    "title": "Hawaiʻi: red kapa with cloth borders",
+    "source_title": "Kapa, 19th century, Honolulu Museum of Art accession 5084.1.JPG",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa,_19th_century,_Honolulu_Museum_of_Art_accession_5084.1.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa%2C+19th+century%2C+Honolulu+Museum+of+Art+accession+5084.1.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kapa%2C_19th_century%2C_Honolulu_Museum_of_Art_accession_5084.1.JPG",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-5084.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-5084-page.json",
+      "page_revision_id": 997175340,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=997175340"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-5084.jpg",
+    "expected_dimensions": [
+      2728,
+      2360
+    ],
+    "encoded_dimensions": [
+      2728,
+      2360
+    ],
+    "size_bytes": 1232077,
+    "sha256": "18367159a3004aee0941f531d13d27e120d403d53316b9fda22d2df2af9c0897",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-5084.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 667
+  },
+  {
+    "id": "commons-hawaii-kapa-early",
+    "short_title": "Hawaiʻi: early patterned kapa",
+    "category": "Textiles",
+    "material": "Decorated barkcloth (kapa)",
+    "focus_box_fraction": [
+      0.08,
+      0.08,
+      0.88,
+      0.9
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "Late 18th–early 19th century",
+    "year_start": 1750,
+    "year_end": 1850,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "title": "Hawaiʻi: early patterned kapa",
+    "source_title": "Kapa (bark cloth) from Hawaii, late 18th-early 19th century, Honolulu Academy of Arts.JPG",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_18th-early_19th_century,_Honolulu_Academy_of_Arts.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa+%28bark+cloth%29+from+Hawaii%2C+late+18th-early+19th+century%2C+Honolulu+Academy+of+Arts.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kapa_%28bark_cloth%29_from_Hawaii%2C_late_18th-early_19th_century%2C_Honolulu_Academy_of_Arts.JPG",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-early.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-early-page.json",
+      "page_revision_id": 1269421702,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1269421702"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-early.jpg",
+    "expected_dimensions": [
+      2750,
+      2460
+    ],
+    "encoded_dimensions": [
+      2750,
+      2460
+    ],
+    "size_bytes": 1381736,
+    "sha256": "f54ab22a1434ad72716c08038d68b3e8bfb71eaa52c50d149da492f696d661d7",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-early.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 668
+  },
+  {
+    "id": "commons-hawaii-kapa-late",
+    "short_title": "Hawaiʻi: patterned kapa with colored bands",
+    "category": "Textiles",
+    "material": "Decorated barkcloth (kapa)",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "Late 19th–early 20th century",
+    "year_start": 1850,
+    "year_end": 1950,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "title": "Hawaiʻi: patterned kapa with colored bands",
+    "source_title": "Kapa (bark cloth) from Hawaii, late 19th-early 20th century, Honolulu Academy of Arts.JPG",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_19th-early_20th_century,_Honolulu_Academy_of_Arts.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa+%28bark+cloth%29+from+Hawaii%2C+late+19th-early+20th+century%2C+Honolulu+Academy+of+Arts.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kapa_%28bark_cloth%29_from_Hawaii%2C_late_19th-early_20th_century%2C_Honolulu_Academy_of_Arts.JPG",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-late.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-late-page.json",
+      "page_revision_id": 706722795,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=706722795"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-late.jpg",
+    "expected_dimensions": [
+      3048,
+      1866
+    ],
+    "encoded_dimensions": [
+      3048,
+      1866
+    ],
+    "size_bytes": 950483,
+    "sha256": "d818ced8a6d3707b70d738cd4172395fce45a911ffca3b6c9149c886e2febe48",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-late.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 669
+  },
+  {
+    "id": "commons-hawaii-kapa-1084",
+    "short_title": "Hawaiʻi: kapa with stars and triangles",
+    "category": "Textiles",
+    "material": "Decorated barkcloth (kapa)",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "Object date not established in the source record",
+    "year_start": null,
+    "year_end": null,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "accession_number": "1084.1",
+    "title": "Hawaiʻi: kapa with stars and triangles",
+    "source_title": "Kapa (bark cloth from Hawaii, Honolulu Museum of Art accession 1084.1.jpg",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth_from_Hawaii,_Honolulu_Museum_of_Art_accession_1084.1.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa+%28bark+cloth+from+Hawaii%2C+Honolulu+Museum+of+Art+accession+1084.1.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kapa_%28bark_cloth_from_Hawaii%2C_Honolulu_Museum_of_Art_accession_1084.1.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-1084.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-1084-page.json",
+      "page_revision_id": 909051592,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=909051592"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-1084.jpg",
+    "expected_dimensions": [
+      1872,
+      3004
+    ],
+    "encoded_dimensions": [
+      1872,
+      3004
+    ],
+    "size_bytes": 723941,
+    "sha256": "156d7977a119f2e3275d3c477be9edd31cdf58864b975cd8d91d0ad4b66a2653",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-1084.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 670
+  },
+  {
+    "id": "commons-hawaii-kapa-skirt",
+    "short_title": "Hawaiʻi: patterned kapa pāʻū",
+    "category": "Textiles",
+    "material": "Decorated barkcloth (kapa)",
+    "focus_box_fraction": [
+      0.07,
+      0.19,
+      0.91,
+      0.79
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "Object date not established in the source record",
+    "year_start": null,
+    "year_end": null,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "accession_number": "2264",
+    "title": "Hawaiʻi: patterned kapa pāʻū",
+    "source_title": "Kapa bark cloth skirt from Hawaii, Honolulu Museum of Art 2264.jpg",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_bark_cloth_skirt_from_Hawaii,_Honolulu_Museum_of_Art_2264.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa+bark+cloth+skirt+from+Hawaii%2C+Honolulu+Museum+of+Art+2264.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kapa_bark_cloth_skirt_from_Hawaii%2C_Honolulu_Museum_of_Art_2264.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-skirt.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-skirt-page.json",
+      "page_revision_id": 1167142472,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1167142472"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-skirt.jpg",
+    "expected_dimensions": [
+      3708,
+      964
+    ],
+    "encoded_dimensions": [
+      3708,
+      964
+    ],
+    "size_bytes": 477858,
+    "sha256": "283cd0c8b0c091b214ad58490ebc3aecb469d41bd29bdac290197c9d165b8a5d",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-skirt.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 671
+  },
+  {
+    "id": "commons-hawaii-kapa-fragment",
+    "short_title": "Hawaiʻi: a worn patterned kapa fragment",
+    "category": "Textiles",
+    "material": "Decorated barkcloth (kapa)",
+    "focus_box_fraction": [
+      0.07,
+      0.13,
+      0.91,
+      0.83
+    ],
+    "region": "Hawaiʻi",
+    "culture": "Native Hawaiian",
+    "location": "Hawaiʻi; Honolulu Museum of Art",
+    "object_date": "19th century",
+    "year_start": 1800,
+    "year_end": 1899,
+    "notes": "Photograph of decorated Hawaiian barkcloth in the Honolulu Museum of Art. Kapa is beaten bark fiber rather than woven cloth. Compare pattern, wear and lighting within the cloth; a false-color result cannot identify its dyes or establish the date.",
+    "title": "Hawaiʻi: a worn patterned kapa fragment",
+    "source_title": "Kapa (bark cloth) from Hawaii, 19th century, Honolulu Museum of Art II.JPG",
+    "study_type": "textile",
+    "provider": "Wikimedia Commons",
+    "author": "Hiart",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_19th_century,_Honolulu_Museum_of_Art_II.JPG",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3AKapa+%28bark+cloth%29+from+Hawaii%2C+19th+century%2C+Honolulu+Museum+of+Art+II.JPG",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kapa_%28bark_cloth%29_from_Hawaii%2C_19th_century%2C_Honolulu_Museum_of_Art_II.JPG",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-hawaii-kapa-fragment.json",
+      "page_snapshot": "data/commons-records/commons-hawaii-kapa-fragment-page.json",
+      "page_revision_id": 1223792352,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1223792352"
+    },
+    "photographed": "Not established; see source file metadata",
+    "original_file": "originals/commons-hawaii-kapa-fragment.jpg",
+    "expected_dimensions": [
+      2585,
+      1235
+    ],
+    "encoded_dimensions": [
+      2585,
+      1235
+    ],
+    "size_bytes": 554551,
+    "sha256": "283add39af02613ec1104599c24d7b0f494ce00f60e36e81cbe76c4e321e3c64",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-hawaii-kapa-fragment.jpg",
+    "collections": [
+      "textiles",
+      "oceania"
+    ],
+    "catalog_order": 4
+  },
+  {
+    "id": "commons-yoruba-gelede",
+    "short_title": "Yoruba: Gẹ̀lẹ̀dẹ́ mask with pigment",
+    "category": "Painted sculpture and relief",
+    "material": "Wood and pigment",
+    "focus_box_fraction": [
+      0.21,
+      0.47,
+      0.68,
+      0.76
+    ],
+    "region": "Nigeria",
+    "culture": "Yoruba",
+    "location": "Nigeria; British Museum, Room 25 in the source photograph",
+    "object_date": "19th century",
+    "year_start": 1800,
+    "year_end": 1899,
+    "notes": "Gẹ̀lẹ̀dẹ́ mask with surviving pigment, photographed in a museum case. The face, carved upper elements, reflections and deep shadows should be evaluated separately. The source supplies a broad date, not a named maker.",
+    "title": "Yoruba: Gẹ̀lẹ̀dẹ́ mask with pigment",
+    "source_title": "British Museum Room 25 Gelede mask Yoruba people 17022019 5003.jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Vassil",
+    "source_page": "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3ABritish+Museum+Room+25+Gelede+mask+Yoruba+people+17022019+5003.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC0",
+      "snapshot": "data/commons-records/commons-yoruba-gelede.json",
+      "page_snapshot": "data/commons-records/commons-yoruba-gelede-page.json",
+      "page_revision_id": 1104274236,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1104274236"
+    },
+    "photographed": "2019-02-17 17:34:37",
+    "original_file": "originals/commons-yoruba-gelede.jpg",
+    "expected_dimensions": [
+      2318,
+      2833
+    ],
+    "encoded_dimensions": [
+      2318,
+      2833
+    ],
+    "size_bytes": 3937427,
+    "sha256": "5c283a7f0ba7f207f82f811aaaa7a78b6cb010b69cff7d7414bb35049eaff466",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-yoruba-gelede.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 672
+  },
+  {
+    "id": "commons-olowe-door",
+    "short_title": "Olowe of Ise: painted palace doors",
+    "category": "Painted sculpture and relief",
+    "material": "Carved wood and pigment",
+    "focus_box_fraction": [
+      0.17,
+      0.22,
+      0.79,
+      0.87
+    ],
+    "region": "Nigeria",
+    "culture": "Yoruba; Olowe of Ise",
+    "location": "Palace of the Ogoga of Ikere, Nigeria; British Museum",
+    "object_date": "Approximately 1910–1914 CE",
+    "year_start": 1910,
+    "year_end": 1914,
+    "notes": "One of three views of palace doors and lintel carved by Olowe of Ise. The museum documents their commission for the Ogoga of Ikere and later transfer following the 1924 British Empire Exhibition. Compare surviving paint with exposed wood and shadows; this is an early-20th-century work, not ancient sculpture.",
+    "context_url": "https://www.britishmuseum.org/visit/object-trails/collecting-and-empire-trail",
+    "title": "Olowe of Ise: painted palace doors",
+    "source_title": "Palace door and lintel-Yoruba (British Museum).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Ji-Elle",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3APalace+door+and+lintel-Yoruba+%28British+Museum%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Palace_door_and_lintel-Yoruba_%28British_Museum%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-olowe-door.json",
+      "page_snapshot": "data/commons-records/commons-olowe-door-page.json",
+      "page_revision_id": 1270832121,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1270832121"
+    },
+    "photographed": "2023-01-11 16:08:01",
+    "original_file": "originals/commons-olowe-door.jpg",
+    "expected_dimensions": [
+      2087,
+      3013
+    ],
+    "encoded_dimensions": [
+      2087,
+      3013
+    ],
+    "size_bytes": 1721101,
+    "sha256": "055a713fe608e0591b99eb1c01fe5016f85789ac2c574b79e0bc79d36c498124",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-olowe-door.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 673
+  },
+  {
+    "id": "commons-olowe-door-detail-1",
+    "short_title": "Olowe of Ise: two figures, door detail",
+    "category": "Painted sculpture and relief",
+    "material": "Carved wood and pigment",
+    "focus_box_fraction": [
+      0.08,
+      0.13,
+      0.89,
+      0.94
+    ],
+    "region": "Nigeria",
+    "culture": "Yoruba; Olowe of Ise",
+    "location": "Palace of the Ogoga of Ikere, Nigeria; British Museum",
+    "object_date": "Approximately 1910–1914 CE",
+    "year_start": 1910,
+    "year_end": 1914,
+    "notes": "One of three views of palace doors and lintel carved by Olowe of Ise. The museum documents their commission for the Ogoga of Ikere and later transfer following the 1924 British Empire Exhibition. Compare surviving paint with exposed wood and shadows; this is an early-20th-century work, not ancient sculpture.",
+    "context_url": "https://www.britishmuseum.org/visit/object-trails/collecting-and-empire-trail",
+    "title": "Olowe of Ise: two figures, door detail",
+    "source_title": "Palace door and lintel-Yoruba (British Museum) (detail) (1).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Ji-Elle",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(1).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3APalace+door+and+lintel-Yoruba+%28British+Museum%29+%28detail%29+%281%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Palace_door_and_lintel-Yoruba_%28British_Museum%29_%28detail%29_%281%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-olowe-door-detail-1.json",
+      "page_snapshot": "data/commons-records/commons-olowe-door-detail-1-page.json",
+      "page_revision_id": 1157257396,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=1157257396"
+    },
+    "photographed": "2023-01-11 16:08:17",
+    "original_file": "originals/commons-olowe-door-detail-1.jpg",
+    "expected_dimensions": [
+      2071,
+      3784
+    ],
+    "encoded_dimensions": [
+      2071,
+      3784
+    ],
+    "size_bytes": 2611375,
+    "sha256": "4b5474ef94775799d5c5e026ce7468cdba808a78459431758d60dbcad2f51bda",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-olowe-door-detail-1.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 5
+  },
+  {
+    "id": "commons-olowe-door-detail-2",
+    "short_title": "Olowe of Ise: figure and diagonal pattern",
+    "category": "Painted sculpture and relief",
+    "material": "Carved wood and pigment",
+    "focus_box_fraction": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ],
+    "region": "Nigeria",
+    "culture": "Yoruba; Olowe of Ise",
+    "location": "Palace of the Ogoga of Ikere, Nigeria; British Museum",
+    "object_date": "Approximately 1910–1914 CE",
+    "year_start": 1910,
+    "year_end": 1914,
+    "notes": "One of three views of palace doors and lintel carved by Olowe of Ise. The museum documents their commission for the Ogoga of Ikere and later transfer following the 1924 British Empire Exhibition. Compare surviving paint with exposed wood and shadows; this is an early-20th-century work, not ancient sculpture.",
+    "context_url": "https://www.britishmuseum.org/visit/object-trails/collecting-and-empire-trail",
+    "title": "Olowe of Ise: figure and diagonal pattern",
+    "source_title": "Palace door and lintel-Yoruba (British Museum) (detail) (2).jpg",
+    "study_type": "paint",
+    "provider": "Wikimedia Commons",
+    "author": "Ji-Elle",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(2).jpg",
+    "source_api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&titles=File%3APalace+door+and+lintel-Yoruba+%28British+Museum%29+%28detail%29+%282%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Palace_door_and_lintel-Yoruba_%28British_Museum%29_%28detail%29_%282%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "metadata_license": "CC0",
+    "rights_checked_at": "2026-09-12",
+    "rights_evidence": {
+      "field": "LicenseShortName",
+      "value": "CC BY-SA 4.0",
+      "snapshot": "data/commons-records/commons-olowe-door-detail-2.json",
+      "page_snapshot": "data/commons-records/commons-olowe-door-detail-2-page.json",
+      "page_revision_id": 727703381,
+      "page_evidence_url": "https://commons.wikimedia.org/w/index.php?oldid=727703381"
+    },
+    "photographed": "2023-01-11 16:08:25",
+    "original_file": "originals/commons-olowe-door-detail-2.jpg",
+    "expected_dimensions": [
+      2020,
+      3767
+    ],
+    "encoded_dimensions": [
+      2020,
+      3767
+    ],
+    "size_bytes": 2643253,
+    "sha256": "65057f0e554fa344a1968eccb3a5d31beff38e6344be92a8b7823b459b8e48df",
+    "encoded_format": "JPEG",
+    "frame_count": 1,
+    "study_frame": 0,
+    "thumbnail_file": "thumbnails/commons-olowe-door-detail-2.jpg",
+    "collections": [
+      "africa"
+    ],
+    "catalog_order": 674
   }
 ]

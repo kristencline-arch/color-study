@@ -1,0 +1,88 @@
+{
+  "pageid": 12263377,
+  "ns": 6,
+  "title": "File:Cacaxtla Glifo 001.jpg",
+  "index": 14,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3389768,
+      "width": 2883,
+      "height": 4509,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cacaxtla_Glifo_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_001.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12263377",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-12-10 13:48:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cacaxtla Glifo 001",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Mesoamerican writing|License migration redundant|Self-published work|Scanned with Plustek OpticFilm 7600i|Murals in Cacaxtla",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cacaxtla, Tlaxcala, Mexico: building A, glyph",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:HJPD\" title=\"User:HJPD\">HJPD</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

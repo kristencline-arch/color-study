@@ -8870,5 +8870,436 @@
       0.88,
       0.8
     ]
+  },
+  {
+    "id": "commons-cacaxtla-battle-left",
+    "file": "social/commons-cacaxtla-battle-left.jpg",
+    "source_sha256": "cbbe960627fcf19026b0676faaed1635494e4562d45cfc87a4ebed02aab5dc1d",
+    "sha256": "2e319a2dce4cc63d707aad065f799d55df1bbbae38548c015e89a8475fad0b3f",
+    "credit": "Tim Zaman",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(left).jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.025,
+      0.1,
+      0.98,
+      0.85
+    ]
+  },
+  {
+    "id": "commons-cacaxtla-battle-right",
+    "file": "social/commons-cacaxtla-battle-right.jpg",
+    "source_sha256": "c93df5cfe2f6ed28c0874d7423f498799aa58eb45103f26c476dbbda67e1c4b6",
+    "sha256": "15141ac38f63ac0f17f9e2e8bf41d7da9699fee4f8217bfc6171c038759c1e62",
+    "credit": "Tim Zaman",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(right).jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-cacaxtla-glyph-1",
+    "file": "social/commons-cacaxtla-glyph-1.jpg",
+    "source_sha256": "fc1f000857eff2ae357feaa1ce35e26013fe00524fb2be10667d973325ea26ef",
+    "sha256": "e557c04cf42646a57593622a4f81327c92b47447e2fd6f8da5b3b83fd97c610a",
+    "credit": "HJPD",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_001.jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "commons-cacaxtla-glyph-2",
+    "file": "social/commons-cacaxtla-glyph-2.jpg",
+    "source_sha256": "09178616a8eeb865610ace182daeb73d13b045a4f3ca307e9feb1d8adab718a6",
+    "sha256": "0169548bdbf5bc27deac152d3ff3f2b8035636b82bb87a53a86a2296716064af",
+    "credit": "HJPD",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_002.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-cacaxtla-eagle",
+    "file": "social/commons-cacaxtla-eagle.jpg",
+    "source_sha256": "1c3d9fa3d7e0e2a002e0fb7dae90d32f4661d0c3eca0296df29f92048bc8c4d8",
+    "sha256": "b27ce0698b13ba37490e6a9af0d7d1b9b1813af98b549a885da321228c01caa3",
+    "credit": "Erickin Kirin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_de_Cacaxtla.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-cacaxtla-jaguar",
+    "file": "social/commons-cacaxtla-jaguar.jpg",
+    "source_sha256": "3e9af845552e64626034b9dde67155dff3f00d385b1e1bcbebfcaaa8b62e7c4d",
+    "sha256": "f520fd7ce3c4d83358fb9de0b41348a15f7c7c24ef729bec286968e6f0dd9e09",
+    "credit": "Erickin Kirin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_de_hombre_jaguar_de_Cacaxtla,_Tlaxcala.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-bonampak-musicians",
+    "file": "social/commons-bonampak-musicians.jpg",
+    "source_sha256": "e00a98791120d4408fe0c70d4d6e2e8401ecb14c64628270eab7c9869ad53e09",
+    "sha256": "bd7c6d17836eb91d854cccabce1a65675cab33d2005cd33771a78192c37adef9",
+    "credit": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Temple_of_the_Murals,_musicians_(14179847567).jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.04,
+      0.09,
+      0.92,
+      0.87
+    ]
+  },
+  {
+    "id": "commons-bonampak-room-1",
+    "file": "social/commons-bonampak-room-1.jpg",
+    "source_sha256": "07f8388a01cb76890785775e334b5b7d21324e55065db7c364e82a3adceb7cce",
+    "sha256": "2a130fe17dc6d6f51f7023107ec2b86740a6e7d21ac11d7cf5dfca9d5fed0201",
+    "credit": "Rafael Saldaña",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Mural_room_1_bonampak.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-bonampak-painting",
+    "file": "social/commons-bonampak-painting.jpg",
+    "source_sha256": "99770f0db2acd4a7790f68f442564eff27ff040d589e651a26a4542b07412787",
+    "sha256": "d756c3643e6b8a49df9866d37480d5c3a0bf7875f09435e9516d2c03df20f20b",
+    "credit": "Photo © 2004 Jacob Rus",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak_painting.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-bonampak-detail",
+    "file": "social/commons-bonampak-detail.jpg",
+    "source_sha256": "543354b015bc9e4f8853c7c1ac582a65e01268cbbfe974f651e07bdc97d66576",
+    "sha256": "f28587553606e72c65635b8d2129fd85b26f67f7530ff83aebf9766ea5b30389",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak-fresco-detail.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-bonampak-06",
+    "file": "social/commons-bonampak-06.jpg",
+    "source_sha256": "3fb8eb7a25214bd533b80a356342640cc51b8077eddc27c832589159cb9b6d56",
+    "sha256": "c4833200f9567f1721754f0daff94e05fec96500c6e09c542770172fd70433fb",
+    "credit": "Inakiherrasti",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._06.JPG",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.37,
+      0.05,
+      0.9,
+      0.58
+    ]
+  },
+  {
+    "id": "commons-bonampak-08",
+    "file": "social/commons-bonampak-08.jpg",
+    "source_sha256": "519dc7cbd0a5a81d555f0c15f9fd60475e6d563042612bab86261fa3be639c16",
+    "sha256": "b6d9ff8864d5a896564efe104690c4c6ba34c9eaeed2cc2570851fef09cc7eef",
+    "credit": "Inakiherrasti",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._08.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-teotihuacan-puma",
+    "file": "social/commons-teotihuacan-puma.jpg",
+    "source_sha256": "d7e7de3b8f3a6b3380b486dfa073dec86c2454d31fde06f4fe9efcab6d2add30",
+    "sha256": "9115cf1bd02fd4471f091cc792d6056af7b34ec5739c0a321a8ebafc14f829cb",
+    "credit": "Deror_avi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.27,
+      0.1,
+      0.83,
+      0.65
+    ]
+  },
+  {
+    "id": "commons-timbuktu-quran",
+    "file": "social/commons-timbuktu-quran.jpg",
+    "source_sha256": "78001be2f7bde06df217079ef81f0d630d1a963909600691c10f56874c6fc64d",
+    "sha256": "73321ceb19891f9934cadd8d7e873dbde72a647bb042f4deebe11422e75f4bfd",
+    "credit": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Folio_Quran_Maghrebi_script_Mamma_Haidara_Library_34119.jpeg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.2,
+      0.1,
+      0.79,
+      0.83
+    ]
+  },
+  {
+    "id": "commons-timbuktu-chronicle-1",
+    "file": "social/commons-timbuktu-chronicle-1.jpg",
+    "source_sha256": "53b4ac58742570e19e901aef3afb2d39cfabc42d0b88a361c7c1e64238cb20a4",
+    "sha256": "0eb765430628090f5764a450463aca0536775720dd63941ee216f8170a71faf1",
+    "credit": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n01.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-timbuktu-chronicle-2",
+    "file": "social/commons-timbuktu-chronicle-2.jpg",
+    "source_sha256": "83b87b81f782ea4a9d7745df3ecc2799206c685081beb4a2f125368883555877",
+    "sha256": "baee0bf1160f8f643521b326f0e919fb55fe46934fd3e0110d9c1f24c0b8a85b",
+    "credit": "© Marie-Lan Nguyen / Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n02.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-buka-paddle",
+    "file": "social/commons-buka-paddle.jpg",
+    "source_sha256": "17d58aa89e3adb095c47184eede1034f9f9a73ef7176d43b10b1171a24fc019a",
+    "sha256": "bcda334b22e1903d47adb08f60050ae30b15ce7cd187d21c584b1e739e7e7ce6",
+    "credit": "hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Canoe_paddle,_Papua_New_Guinea,_Buka_Island,_North_Solomons_Province,_wood_and_pigment,_Honolulu_Academy_of_Arts.jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.48,
+      0.36,
+      0.83,
+      0.77
+    ]
+  },
+  {
+    "id": "commons-hawaii-kapa-5084",
+    "file": "social/commons-hawaii-kapa-5084.jpg",
+    "source_sha256": "18367159a3004aee0941f531d13d27e120d403d53316b9fda22d2df2af9c0897",
+    "sha256": "b21769625fb2ae6284afad7be567dc84f1a33bbab52ec0800799724fecae4ad9",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa,_19th_century,_Honolulu_Museum_of_Art_accession_5084.1.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-hawaii-kapa-early",
+    "file": "social/commons-hawaii-kapa-early.jpg",
+    "source_sha256": "f54ab22a1434ad72716c08038d68b3e8bfb71eaa52c50d149da492f696d661d7",
+    "sha256": "9b6d179116929a4fc7f683dabe74cd739e89f93cc769dc8495fb956e22d58518",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_18th-early_19th_century,_Honolulu_Academy_of_Arts.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-hawaii-kapa-late",
+    "file": "social/commons-hawaii-kapa-late.jpg",
+    "source_sha256": "d818ced8a6d3707b70d738cd4172395fce45a911ffca3b6c9149c886e2febe48",
+    "sha256": "e43599dc8c0ebddab1cdd02bdfe30ec0f89d0bcaf6d3ae2d3dce7626cbb5677f",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_19th-early_20th_century,_Honolulu_Academy_of_Arts.JPG",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-hawaii-kapa-1084",
+    "file": "social/commons-hawaii-kapa-1084.jpg",
+    "source_sha256": "156d7977a119f2e3275d3c477be9edd31cdf58864b975cd8d91d0ad4b66a2653",
+    "sha256": "4a37162e46c340b1efc2ddc681ae72d3105d85c35814e1fa4a6b3c2d3898e818",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth_from_Hawaii,_Honolulu_Museum_of_Art_accession_1084.1.jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.1,
+      0.1,
+      0.9,
+      0.9
+    ]
+  },
+  {
+    "id": "commons-hawaii-kapa-skirt",
+    "file": "social/commons-hawaii-kapa-skirt.jpg",
+    "source_sha256": "283cd0c8b0c091b214ad58490ebc3aecb469d41bd29bdac290197c9d165b8a5d",
+    "sha256": "955efb34c8d9d0e75f6bd75f19adbc092e2af3e4167480cfaa9da58bc417d8f0",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_bark_cloth_skirt_from_Hawaii,_Honolulu_Museum_of_Art_2264.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-hawaii-kapa-fragment",
+    "file": "social/commons-hawaii-kapa-fragment.jpg",
+    "source_sha256": "283add39af02613ec1104599c24d7b0f494ce00f60e36e81cbe76c4e321e3c64",
+    "sha256": "8212efe65b3aa4f1f23fc633ec1bc4a191a8bfc4ccee0118edb3d9f1ce4beee0",
+    "credit": "Hiart",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_19th_century,_Honolulu_Museum_of_Art_II.JPG",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.07,
+      0.13,
+      0.91,
+      0.83
+    ]
+  },
+  {
+    "id": "commons-yoruba-gelede",
+    "file": "social/commons-yoruba-gelede.jpg",
+    "source_sha256": "5c283a7f0ba7f207f82f811aaaa7a78b6cb010b69cff7d7414bb35049eaff466",
+    "sha256": "a684782aa72bb30c257cc5a914cba4c08a42b0dcdce4040385d61101e22e6bd9",
+    "credit": "Vassil",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-olowe-door",
+    "file": "social/commons-olowe-door.jpg",
+    "source_sha256": "055a713fe608e0591b99eb1c01fe5016f85789ac2c574b79e0bc79d36c498124",
+    "sha256": "3447f1624dc07ec111dae9841ce2c0a8ef11f1bfac443c7b7ffa511c96a07494",
+    "credit": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum).jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
+  },
+  {
+    "id": "commons-olowe-door-detail-1",
+    "file": "social/commons-olowe-door-detail-1.jpg",
+    "source_sha256": "4b5474ef94775799d5c5e026ce7468cdba808a78459431758d60dbcad2f51bda",
+    "sha256": "6a98dc0d73cef52c7612ed84de7f9d068c3f4346847c4d6b6a9d59018e960643",
+    "credit": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(1).jpg",
+    "modifications": "Resized and placed in a labeled photographic card; includes the recorded false-color comparison",
+    "comparison_settings": {
+      "targetStd": 34,
+      "maxGain": 12
+    },
+    "comparison_region": [
+      0.08,
+      0.13,
+      0.89,
+      0.94
+    ]
+  },
+  {
+    "id": "commons-olowe-door-detail-2",
+    "file": "social/commons-olowe-door-detail-2.jpg",
+    "source_sha256": "65057f0e554fa344a1968eccb3a5d31beff38e6344be92a8b7823b459b8e48df",
+    "sha256": "01ece6060b722c1c46209a718be1c0a4e7d23f641f87a9e91a76622c6b972d81",
+    "credit": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(2).jpg",
+    "modifications": "Resized and placed in a labeled photographic card",
+    "comparison_settings": null,
+    "comparison_region": null
   }
 ]

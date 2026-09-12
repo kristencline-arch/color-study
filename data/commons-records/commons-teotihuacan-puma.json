@@ -1,0 +1,92 @@
+{
+  "pageid": 43366081,
+  "ns": 6,
+  "title": "File:Avenue of the Dead at Teotihuacan - Puma Mural IMG 7326.JPG",
+  "index": 33,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3450435,
+      "width": 3456,
+      "height": 2304,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43366081",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-09-18 10:19:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Avenue of the Dead at Teotihuacan - Puma Mural IMG 7326",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Avenue of the Dead at Teotihuacan|Self-published work|Images from Wiki Loves Monuments 2015|Cultural heritage monuments in Mexico with known IDs|Uploaded via Campaign:wlm-mx|Images from Wiki Loves Monuments 2015 in Mexico|Mexico photographs taken on 2015-07-13|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Mexico missing SDC location of creation|Cultural heritage monuments in Mexico missing SDC depicts|Mural del Puma",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This image was uploaded as part of <a href=\"//commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2015\" title=\"Commons:Wiki Loves Monuments 2015\">Wiki Loves Monuments 2015</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-07-13 22:01:05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Deror_avi\" title=\"User:Deror avi\">Deror_avi</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

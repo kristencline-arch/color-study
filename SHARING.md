@@ -9,6 +9,9 @@ Suggested starting points:
 - [Beni Hasan: Amenemhat’s painted tomb](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-beni-hassan-19)
 - [Oplontis: faded wall decoration](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-oplontis-wall-2)
 - [Faras: patterned Nubian mural fragment](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-faras-archangel)
+- [Bonampak: surviving mural figures](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-bonampak-musicians)
+- [Hawaiʻi: worn patterned kapa](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-hawaii-kapa-fragment)
+- [Olowe of Ise: surviving paint on carved doors](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-olowe-door-detail-1)
 - [Pazyryk: ancient knotted carpet](https://color-study-painted-surfaces.kristen368163.chatgpt.site/study/commons-pazyryk-carpet)
 
 These links have photographic social previews. Keep the original and enhanced labels, credit and source license when reposting an image. Each record includes its own terms; the code’s MIT license does not replace image licenses. The software is independent of NASA, DStretch, museums and the photographers.

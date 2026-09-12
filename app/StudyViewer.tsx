@@ -2,6 +2,8 @@
 /* eslint-disable @next/next/no-img-element -- Private image pixels stay in local blob URLs. */
 import {useEffect, useRef, useState, type PointerEvent, type CSSProperties} from "react";
 
+import {imagePoint as pointOnImage, rebaseGesture, selectionBox} from "./viewer-gestures.mjs";
+
 type Box = [number, number, number, number];
 type ViewportReply = {originalPreview: Blob; preview: Blob; viewport: Box};
 type Props = {
@@ -25,7 +27,7 @@ export default function StudyViewer(props: Props) {
   const sequence = useRef(0);
   const urls = useRef<string[]>([]);
   const pointers = useRef(new Map<number, [number, number]>());
-  const gesture = useRef<{x: number; y: number; center: [number, number]; start: [number, number]; distance?: number; zoom?: number} | null>(null);
+  const gesture = useRef<ReturnType<typeof rebaseGesture>>(null);
   const fitScale = Math.min(1, Math.max(1, size.width - 36) / width, Math.max(1, size.height - 36) / height);
   const scale = Math.min(4, fitScale * zoom);
   const imageWidth = width * scale, imageHeight = height * scale;
@@ -77,36 +79,40 @@ export default function StudyViewer(props: Props) {
 
   function setMagnification(value: number) {setZoom(clamp(value, 1, 4 / fitScale));}
   function fit() {setZoom(1); setCenter([.5, .5]);}
-  function imagePoint(event: PointerEvent): [number, number] {
+  function view() {return {left, top, imageWidth, imageHeight, center: [cx, cy] as [number, number], zoom};}
+  function stagePoint(event: PointerEvent): [number, number] {
     const rect = stage.current!.getBoundingClientRect();
-    return [clamp((event.clientX - rect.left - left) / imageWidth, 0, 1), clamp((event.clientY - rect.top - top) / imageHeight, 0, 1)];
+    return [event.clientX - rect.left, event.clientY - rect.top];
   }
   function pointerDown(event: PointerEvent<HTMLDivElement>) {
-    if (busy || !after) return;
+    if (busy || !after || event.button !== 0 || pointers.current.size >= (selecting ? 1 : 2)) return;
     event.currentTarget.focus(); event.currentTarget.setPointerCapture(event.pointerId);
-    pointers.current.set(event.pointerId, [event.clientX, event.clientY]);
-    if (pointers.current.size === 2 && !selecting) {
-      const [a, b] = [...pointers.current.values()];
-      gesture.current = {x: event.clientX, y: event.clientY, center: [cx, cy], start: imagePoint(event), distance: Math.hypot(a[0] - b[0], a[1] - b[1]), zoom};
-    } else gesture.current = {x: event.clientX, y: event.clientY, center: [cx, cy], start: imagePoint(event)};
+    pointers.current.set(event.pointerId, stagePoint(event));
+    gesture.current = rebaseGesture(pointers.current, view());
   }
   function pointerMove(event: PointerEvent<HTMLDivElement>) {
     if (!pointers.current.has(event.pointerId) || !gesture.current) return;
-    pointers.current.set(event.pointerId, [event.clientX, event.clientY]);
+    const point = stagePoint(event);
+    pointers.current.set(event.pointerId, point);
     const g = gesture.current;
-    if (pointers.current.size === 2 && g.distance && !selecting) {
+    if (pointers.current.size === 2 && !selecting) {
       const [a, b] = [...pointers.current.values()];
-      setMagnification(g.zoom! * Math.hypot(a[0] - b[0], a[1] - b[1]) / g.distance); return;
+      if (g.distance) setMagnification(g.zoom * Math.hypot(a[0] - b[0], a[1] - b[1]) / g.distance);
+      else gesture.current = rebaseGesture(pointers.current, view());
+      return;
     }
-    if (selecting) {
-      const end = imagePoint(event);
-      setDraft([Math.min(g.start[0], end[0]), Math.min(g.start[1], end[1]), Math.max(g.start[0], end[0]), Math.max(g.start[1], end[1])]);
-    } else setCenter([clamp(g.center[0] - (event.clientX - g.x) / imageWidth, visibleX, 1 - visibleX), clamp(g.center[1] - (event.clientY - g.y) / imageHeight, visibleY, 1 - visibleY)]);
+    if (selecting) setDraft(selectionBox(g.start, pointOnImage(point, view())));
+    else setCenter([clamp(g.center[0] - (point[0] - g.x) / imageWidth, visibleX, 1 - visibleX), clamp(g.center[1] - (point[1] - g.y) / imageHeight, visibleY, 1 - visibleY)]);
   }
-  function pointerUp(event: PointerEvent<HTMLDivElement>) {
+  function finishPointer(event: PointerEvent<HTMLDivElement>, canceled = false) {
+    if (!pointers.current.has(event.pointerId)) return;
+    if (!canceled && selecting && gesture.current) {
+      const box = selectionBox(gesture.current.start, pointOnImage(stagePoint(event), view()));
+      if (box[2] - box[0] >= .01 && box[3] - box[1] >= .01) onRegion(box);
+    }
     pointers.current.delete(event.pointerId);
-    if (selecting && draft && draft[2] - draft[0] >= .01 && draft[3] - draft[1] >= .01) onRegion(draft);
-    setDraft(null); gesture.current = null;
+    setDraft(null);
+    gesture.current = rebaseGesture(pointers.current, view());
   }
   const frameStyle: CSSProperties = {left, top, width: imageWidth, height: imageHeight};
   const tileStyle: CSSProperties | undefined = currentTile ? {left: left + currentTile.box[0] * imageWidth, top: top + currentTile.box[1] * imageHeight, width: (currentTile.box[2] - currentTile.box[0]) * imageWidth, height: (currentTile.box[3] - currentTile.box[1]) * imageHeight} : undefined;
@@ -121,7 +127,7 @@ export default function StudyViewer(props: Props) {
       <span>Drag to pan · pinch to zoom</span>
     </div>
     <div className={`native-stage ${selecting ? "selecting" : ""}`} ref={stage} tabIndex={0} role="group" aria-label={`Image viewer: ${name}`} aria-describedby="viewer-keyboard-help"
-      onPointerDown={pointerDown} onPointerMove={pointerMove} onPointerUp={pointerUp} onPointerCancel={() => {pointers.current.clear(); gesture.current = null; setDraft(null);}}
+      onPointerDown={pointerDown} onPointerMove={pointerMove} onPointerUp={event => finishPointer(event)} onPointerCancel={event => finishPointer(event, true)} onLostPointerCapture={event => finishPointer(event, true)}
       onKeyDown={event => {
         if (event.target !== event.currentTarget) return;
         const step = event.shiftKey ? 100 : 30;

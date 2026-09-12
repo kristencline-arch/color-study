@@ -1,0 +1,19 @@
+{
+  "pageid": 12263377,
+  "ns": 6,
+  "title": "File:Cacaxtla Glifo 001.jpg",
+  "revisions": [
+    {
+      "revid": 1121735366,
+      "parentid": 845156134,
+      "timestamp": "2025-11-26T13:36:21Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=Cacaxtla, Tlaxcala, Mexico: building A, glyph}}\n{{de|1=Cacaxtla, Tlaxcala, Mexiko: Gebäude A, Schriftzeichen}}\n|Source={{own}}\n|Author=[[User:HJPD|HJPD]]\n|Date=\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-3.0}}\n\n[[Category:Murals in Cacaxtla]]\n[[Category:Mesoamerican writing]]\n[[Category:Scanned with Plustek OpticFilm 7600i]]"
+        }
+      }
+    }
+  ]
+}

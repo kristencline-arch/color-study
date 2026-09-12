@@ -2,19 +2,19 @@
 
 [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) · [Download the database](https://color-study-painted-surfaces.kristen368163.chatgpt.site/api/dataset?download=all) · [Image files](public/originals/)
 
-The September 2026 collection contains **648 photographs and scans, including 171 textiles and 115 scroll or manuscript views**. There are 424 museum API imports, 213 additional field or archive images, and the original eleven studies. The latest 40 additions include Amenemhat’s tomb at Beni Hasan, Herculaneum, Oplontis, Stabiae, Mari, Erebuni, Dunhuang, Faras, Pazyryk and a Khmer sculpture with later lacquer. There are 56 prepared comparisons and 17 overlapping collections. Counts describe photographs, not unique artifacts. See the [coverage review](public/photo-search.md).
+The September 2026 collection contains **675 photographs and scans, including 177 textiles and 118 scroll or manuscript views**. There are 424 museum API imports, 240 additional field or archive images, and the original eleven studies. The latest 27 additions include Cacaxtla, Bonampak and Teotihuacán murals, Hawaiian kapa, a Buka/Bougainville painted paddle, Timbuktu manuscript leaves and Yoruba painted woodwork. There are 66 prepared comparisons and 18 overlapping collections. Counts describe photographs, not unique artifacts. See the [coverage review](public/photo-search.md).
 
 This is a curated starting collection, not a comprehensive inventory of ancient art. Images were selected for surviving dyes or paint, useful resolution, available original bytes and clear reuse rights. The two existing technique-limit examples remain explicitly labeled. Visually similar Teotihuacán fragments from Cleveland and Chicago are separate objects, with different accession numbers and dimensions.
 
 ## Files and licenses
 
 - `public/sources.json` is the complete curated catalog. Stable IDs keep existing study links working.
-- `public/originals/` holds unmodified museum or source JPEGs. The 648 originals total approximately 2,853 MiB. Four Keldby originals use the JPEG-based MPO container: their auxiliary images are preserved, and the study uses the first image (`study_frame: 0`). The importer validates cached files as well as new downloads. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
+- `public/originals/` holds unmodified museum or source JPEGs. The 675 originals total approximately 2,960 MiB. Four Keldby originals use the JPEG-based MPO container: their auxiliary images are preserved, and the study uses the first image (`study_frame: 0`). The importer validates cached files as well as new downloads. The study JPEG can be smaller than a museum's archival master; record dimensions describe the actual packaged JPEG.
 - `public/thumbnails/` contains resized, orientation-corrected sRGB derivatives. Original bytes are unchanged.
 - `data/museum-selection.json` records the explicit selection, categories and study guidance.
 - `data/museum-records/` contains museum API snapshots, including image-rights flags, dates and accession numbers. Chicago image-service snapshots retain the advertised native dimensions.
 - `data/commons-selection.json` and `data/commons-records/` preserve the explicit field/archive selection and item-specific rights snapshots.
-- `public/collections.json` records 17 curated groups, their covers and explicit membership. `data/featured-order.json` records the first gallery page.
+- `public/collections.json` records 18 curated groups, their covers and explicit membership. `data/featured-order.json` records the first gallery page.
 - `public/showcase.json` records the mathematical transforms and hashes of the prepared comparison previews.
 
 Curated metadata, original catalog annotations and the compilation are dedicated under [CC0](CATALOG-LICENSE.md). **Each image retains its listed license**: museum additions are CC0/public domain; existing field photographs include attribution and share-alike licenses. Community photographs and descriptions are CC BY 4.0. The code is MIT. Raw provider snapshots retain their original provider terms, including any third-party descriptive text. These are separate grants; the catalog's CC0 dedication does not relicense third-party photographs or community descriptions.

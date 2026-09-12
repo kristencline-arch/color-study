@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-11",
+  "before": 648,
+  "after": 675,
+  "added_count": 27,
+  "added_ids": [
+    "commons-bonampak-06",
+    "commons-bonampak-08",
+    "commons-bonampak-detail",
+    "commons-bonampak-musicians",
+    "commons-bonampak-painting",
+    "commons-bonampak-room-1",
+    "commons-buka-paddle",
+    "commons-cacaxtla-battle-left",
+    "commons-cacaxtla-battle-right",
+    "commons-cacaxtla-eagle",
+    "commons-cacaxtla-glyph-1",
+    "commons-cacaxtla-glyph-2",
+    "commons-cacaxtla-jaguar",
+    "commons-hawaii-kapa-1084",
+    "commons-hawaii-kapa-5084",
+    "commons-hawaii-kapa-early",
+    "commons-hawaii-kapa-fragment",
+    "commons-hawaii-kapa-late",
+    "commons-hawaii-kapa-skirt",
+    "commons-olowe-door",
+    "commons-olowe-door-detail-1",
+    "commons-olowe-door-detail-2",
+    "commons-teotihuacan-puma",
+    "commons-timbuktu-chronicle-1",
+    "commons-timbuktu-chronicle-2",
+    "commons-timbuktu-quran",
+    "commons-yoruba-gelede"
+  ],
+  "scope": "Pacific barkcloth and painted wood; Mexican murals; Sahelian manuscripts and Yoruba polychromy",
+  "new_prepared_comparisons": [
+    "commons-cacaxtla-battle-left",
+    "commons-cacaxtla-glyph-1",
+    "commons-bonampak-musicians",
+    "commons-bonampak-06",
+    "commons-teotihuacan-puma",
+    "commons-hawaii-kapa-fragment",
+    "commons-hawaii-kapa-1084",
+    "commons-buka-paddle",
+    "commons-olowe-door-detail-1",
+    "commons-timbuktu-quran"
+  ],
+  "rejected": [
+    {
+      "id": "commons-cacaxtla-red-temple",
+      "reason": "Photomosaic appears strongly color-processed. An unprocessed baseline and processing history were not established."
+    },
+    {
+      "id": "commons-bonampak-mural-1",
+      "reason": "Saved file-page category identifies a National Museum of Anthropology reproduction, not an original wall."
+    },
+    {
+      "id": "commons-bonampak-mural-2",
+      "reason": "Photograph appears to depict a modern copy; the title and category alone do not resolve original versus reproduction."
+    },
+    {
+      "id": "commons-teotihuacan-stream",
+      "reason": "Source describes Tepantitla, but an original wall versus a museum copy was not independently resolved for this view."
+    },
+    {
+      "id": "commons-teotihuacan-1974",
+      "reason": "Historic print has a severe magenta cast and blown highlights; inadequate as a useful pigment-study baseline."
+    }
+  ],
+  "review": "Source bytes and Commons image metadata plus file-page revisions retained. Native photographs visually inspected before inclusion; historical object dates are separate from capture dates. Three manuscript photographs retain the photographer’s CC BY 4.0 grant despite public-domain artwork metadata.",
+  "original_bytes_added": 111312820
+}

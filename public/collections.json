@@ -758,9 +758,15 @@
       "commons-mangaia-mask",
       "commons-tonga-ngatu",
       "commons-pazyryk-saddlecloth",
-      "commons-pazyryk-carpet"
+      "commons-pazyryk-carpet",
+      "commons-hawaii-kapa-5084",
+      "commons-hawaii-kapa-early",
+      "commons-hawaii-kapa-late",
+      "commons-hawaii-kapa-1084",
+      "commons-hawaii-kapa-skirt",
+      "commons-hawaii-kapa-fragment"
     ],
-    "count": 171
+    "count": 177
   },
   {
     "id": "asia",
@@ -953,7 +959,7 @@
   {
     "id": "oceania",
     "label": "Oceania & Pacific Islands",
-    "description": "Barkcloth, dyed fiber and painted works from Pacific islands and Australia.",
+    "description": "Hawaiian kapa, Pacific barkcloth, dyed fiber, painted paddles and other works from Pacific islands and Australia.",
     "cover": "cma-145954",
     "photo_ids": [
       "cma-149458",
@@ -980,9 +986,16 @@
       "commons-mangaia-mask",
       "commons-tonga-ngatu",
       "commons-ambrym-mask",
-      "commons-malakula-mask"
+      "commons-malakula-mask",
+      "commons-buka-paddle",
+      "commons-hawaii-kapa-5084",
+      "commons-hawaii-kapa-early",
+      "commons-hawaii-kapa-late",
+      "commons-hawaii-kapa-1084",
+      "commons-hawaii-kapa-skirt",
+      "commons-hawaii-kapa-fragment"
     ],
-    "count": 25
+    "count": 32
   },
   {
     "id": "caribbean",
@@ -1153,9 +1166,45 @@
       "cma-114201",
       "cma-114202",
       "commons-dunhuang-mara",
-      "commons-dunhuang-vaishravana"
+      "commons-dunhuang-vaishravana",
+      "commons-timbuktu-quran",
+      "commons-timbuktu-chronicle-1",
+      "commons-timbuktu-chronicle-2"
     ],
-    "count": 115
+    "count": 118
+  },
+  {
+    "id": "mesoamerica",
+    "label": "Mesoamerica",
+    "description": "Cacaxtla and Bonampak wall paintings, Teotihuacán murals and Maya painted vessels, stucco and sculpture.",
+    "cover": "commons-bonampak-musicians",
+    "photo_ids": [
+      "cma-138881",
+      "aic-14968",
+      "cma-155455",
+      "cma-143265",
+      "cma-131818",
+      "cma-155456",
+      "cma-155451",
+      "cma-155447",
+      "cma-155457",
+      "cma-159690",
+      "cma-155414",
+      "commons-cacaxtla-battle-left",
+      "commons-cacaxtla-battle-right",
+      "commons-cacaxtla-glyph-1",
+      "commons-cacaxtla-glyph-2",
+      "commons-cacaxtla-eagle",
+      "commons-cacaxtla-jaguar",
+      "commons-bonampak-musicians",
+      "commons-bonampak-room-1",
+      "commons-bonampak-painting",
+      "commons-bonampak-detail",
+      "commons-bonampak-06",
+      "commons-bonampak-08",
+      "commons-teotihuacan-puma"
+    ],
+    "count": 24
   },
   {
     "id": "south-america",
@@ -1210,7 +1259,7 @@
   {
     "id": "africa",
     "label": "Africa beyond Egypt",
-    "description": "Ethiopian manuscript pages, dyed and embroidered cloth, Nubian murals and San painting.",
+    "description": "Nubian murals, Ethiopian and Sahelian manuscripts, dyed cloth, San painting and Yoruba polychrome woodwork.",
     "cover": "commons-gunda-gunde-3r",
     "photo_ids": [
       "cma-160940",
@@ -1258,8 +1307,15 @@
       "commons-faras-petros",
       "commons-faras-georgios",
       "commons-faras-archangel",
-      "commons-faras-eleusa"
+      "commons-faras-eleusa",
+      "commons-timbuktu-quran",
+      "commons-timbuktu-chronicle-1",
+      "commons-timbuktu-chronicle-2",
+      "commons-yoruba-gelede",
+      "commons-olowe-door",
+      "commons-olowe-door-detail-1",
+      "commons-olowe-door-detail-2"
     ],
-    "count": 46
+    "count": 53
   }
 ]

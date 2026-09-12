@@ -3894,3 +3894,165 @@ Code is MIT; original catalog annotations are CC0. Each source photograph retain
 ## Separate reconstruction reference
 
 Photograph of a modern experimental reconstruction of Phrasikleia — Aquaplaning, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [source](https://commons.wikimedia.org/wiki/File:Experimental_color_reconstruction_of_the_Greek_grave_statue_of_Phrasikleia.jpg). The preview is resized; the supplied original is retained in `public/references/`. This is a different object from the Greek sphinx and is not an enhancement result. Research context: [The Met’s Chroma exhibition](https://www.metmuseum.org/exhibitions/chroma).
+
+## commons-cacaxtla-battle-left
+
+**Cacaxtla: Battle Mural, left panorama** — Tim Zaman. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(left).jpg).
+
+9,366 × 1,665 pixels. Original SHA-256: `cbbe960627fcf19026b0676faaed1635494e4562d45cfc87a4ebed02aab5dc1d`.
+
+## commons-cacaxtla-battle-right
+
+**Cacaxtla: Battle Mural, right panorama** — Tim Zaman. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Cacaxtla_Battle_Mural_(right).jpg).
+
+13,514 × 2,018 pixels. Original SHA-256: `c93df5cfe2f6ed28c0874d7423f498799aa58eb45103f26c476dbbda67e1c4b6`.
+
+## commons-cacaxtla-glyph-1
+
+**Cacaxtla: painted glyph with flames** — HJPD. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_001.jpg).
+
+2,883 × 4,509 pixels. Original SHA-256: `fc1f000857eff2ae357feaa1ce35e26013fe00524fb2be10667d973325ea26ef`.
+
+## commons-cacaxtla-glyph-2
+
+**Cacaxtla: painted glyph and border** — HJPD. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Cacaxtla_Glifo_002.jpg).
+
+3,358 × 3,216 pixels. Original SHA-256: `09178616a8eeb865610ace182daeb73d13b045a4f3ca307e9feb1d8adab718a6`.
+
+## commons-cacaxtla-eagle
+
+**Cacaxtla: bird-costumed figure** — Erickin Kirin. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Mural_de_Cacaxtla.JPG).
+
+4,320 × 3,240 pixels. Original SHA-256: `1c3d9fa3d7e0e2a002e0fb7dae90d32f4661d0c3eca0296df29f92048bc8c4d8`.
+
+## commons-cacaxtla-jaguar
+
+**Cacaxtla: jaguar-costumed figure** — Erickin Kirin. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Mural_de_hombre_jaguar_de_Cacaxtla,_Tlaxcala.JPG).
+
+4,320 × 3,240 pixels. Original SHA-256: `3e9af845552e64626034b9dde67155dff3f00d385b1e1bcbebfcaaa8b62e7c4d`.
+
+## commons-bonampak-musicians
+
+**Bonampak: the musicians** — Arian Zwegers from Brussels, Belgium. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Bonampak,_Temple_of_the_Murals,_musicians_(14179847567).jpg).
+
+5,184 × 3,456 pixels. Original SHA-256: `e00a98791120d4408fe0c70d4d6e2e8401ecb14c64628270eab7c9869ad53e09`.
+
+## commons-bonampak-room-1
+
+**Bonampak: Room 1 panorama** — Rafael Saldaña. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Mural_room_1_bonampak.jpg).
+
+9,248 × 2,332 pixels. Original SHA-256: `07f8388a01cb76890785775e334b5b7d21324e55065db7c364e82a3adceb7cce`.
+
+## commons-bonampak-painting
+
+**Bonampak: musicians, earlier photograph** — Photo © 2004 Jacob Rus. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Bonampak_painting.jpg).
+
+2,272 × 1,704 pixels. Original SHA-256: `99770f0db2acd4a7790f68f442564eff27ff040d589e651a26a4542b07412787`.
+
+## commons-bonampak-detail
+
+**Bonampak: figure with feathered headdress** — Dennis G. Jarvis. [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) · [Source](https://commons.wikimedia.org/wiki/File:Bonampak-fresco-detail.jpg).
+
+2,448 × 3,264 pixels. Original SHA-256: `543354b015bc9e4f8853c7c1ac582a65e01268cbbfe974f651e07bdc97d66576`.
+
+## commons-bonampak-06
+
+**Bonampak: worn painted figures** — Inakiherrasti. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._06.JPG).
+
+4,272 × 2,848 pixels. Original SHA-256: `3fb8eb7a25214bd533b80a356342640cc51b8077eddc27c832589159cb9b6d56`.
+
+## commons-bonampak-08
+
+**Bonampak: traces of a painted scene** — Inakiherrasti. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [Source](https://commons.wikimedia.org/wiki/File:Bonampak,_Chiapas._08.JPG).
+
+4,272 × 2,848 pixels. Original SHA-256: `519dc7cbd0a5a81d555f0c15f9fd60475e6d563042612bab86261fa3be639c16`.
+
+## commons-teotihuacan-puma
+
+**Teotihuacán: Puma Mural** — Deror_avi. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Avenue_of_the_Dead_at_Teotihuacan_-_Puma_Mural_IMG_7326.JPG).
+
+3,456 × 2,304 pixels. Original SHA-256: `d7e7de3b8f3a6b3380b486dfa073dec86c2454d31fde06f4fe9efcab6d2add30`.
+
+## commons-timbuktu-quran
+
+**Timbuktu collection: colored Quran folio** — © Marie-Lan Nguyen / Wikimedia Commons. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Source](https://commons.wikimedia.org/wiki/File:Folio_Quran_Maghrebi_script_Mamma_Haidara_Library_34119.jpeg).
+
+5,189 × 4,625 pixels. Original SHA-256: `78001be2f7bde06df217079ef81f0d630d1a963909600691c10f56874c6fc64d`.
+
+## commons-timbuktu-chronicle-1
+
+**Timbuktu: Taʾrīkh al-fattāsh, leaf 1** — © Marie-Lan Nguyen / Wikimedia Commons. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Source](https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n01.jpg).
+
+4,602 × 5,891 pixels. Original SHA-256: `53b4ac58742570e19e901aef3afb2d39cfabc42d0b88a361c7c1e64238cb20a4`.
+
+## commons-timbuktu-chronicle-2
+
+**Timbuktu: Taʾrīkh al-fattāsh, leaf 2** — © Marie-Lan Nguyen / Wikimedia Commons. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Source](https://commons.wikimedia.org/wiki/File:Ta'rikh_al-Fattash_Mamma_Haidara_Library_34122_n02.jpg).
+
+4,461 × 5,948 pixels. Original SHA-256: `83b87b81f782ea4a9d7745df3ecc2799206c685081beb4a2f125368883555877`.
+
+## commons-buka-paddle
+
+**Buka / Bougainville: painted canoe paddle** — hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Canoe_paddle,_Papua_New_Guinea,_Buka_Island,_North_Solomons_Province,_wood_and_pigment,_Honolulu_Academy_of_Arts.jpg).
+
+1,323 × 3,560 pixels. Original SHA-256: `17d58aa89e3adb095c47184eede1034f9f9a73ef7176d43b10b1171a24fc019a`.
+
+## commons-hawaii-kapa-5084
+
+**Hawaiʻi: red kapa with cloth borders** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa,_19th_century,_Honolulu_Museum_of_Art_accession_5084.1.JPG).
+
+2,728 × 2,360 pixels. Original SHA-256: `18367159a3004aee0941f531d13d27e120d403d53316b9fda22d2df2af9c0897`.
+
+## commons-hawaii-kapa-early
+
+**Hawaiʻi: early patterned kapa** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_18th-early_19th_century,_Honolulu_Academy_of_Arts.JPG).
+
+2,750 × 2,460 pixels. Original SHA-256: `f54ab22a1434ad72716c08038d68b3e8bfb71eaa52c50d149da492f696d661d7`.
+
+## commons-hawaii-kapa-late
+
+**Hawaiʻi: patterned kapa with colored bands** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_late_19th-early_20th_century,_Honolulu_Academy_of_Arts.JPG).
+
+3,048 × 1,866 pixels. Original SHA-256: `d818ced8a6d3707b70d738cd4172395fce45a911ffca3b6c9149c886e2febe48`.
+
+## commons-hawaii-kapa-1084
+
+**Hawaiʻi: kapa with stars and triangles** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth_from_Hawaii,_Honolulu_Museum_of_Art_accession_1084.1.jpg).
+
+1,872 × 3,004 pixels. Original SHA-256: `156d7977a119f2e3275d3c477be9edd31cdf58864b975cd8d91d0ad4b66a2653`.
+
+## commons-hawaii-kapa-skirt
+
+**Hawaiʻi: patterned kapa pāʻū** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa_bark_cloth_skirt_from_Hawaii,_Honolulu_Museum_of_Art_2264.jpg).
+
+3,708 × 964 pixels. Original SHA-256: `283cd0c8b0c091b214ad58490ebc3aecb469d41bd29bdac290197c9d165b8a5d`.
+
+## commons-hawaii-kapa-fragment
+
+**Hawaiʻi: a worn patterned kapa fragment** — Hiart. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:Kapa_(bark_cloth)_from_Hawaii,_19th_century,_Honolulu_Museum_of_Art_II.JPG).
+
+2,585 × 1,235 pixels. Original SHA-256: `283add39af02613ec1104599c24d7b0f494ce00f60e36e81cbe76c4e321e3c64`.
+
+## commons-yoruba-gelede
+
+**Yoruba: Gẹ̀lẹ̀dẹ́ mask with pigment** — Vassil. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) · [Source](https://commons.wikimedia.org/wiki/File:British_Museum_Room_25_Gelede_mask_Yoruba_people_17022019_5003.jpg).
+
+2,318 × 2,833 pixels. Original SHA-256: `5c283a7f0ba7f207f82f811aaaa7a78b6cb010b69cff7d7414bb35049eaff466`.
+
+## commons-olowe-door
+
+**Olowe of Ise: painted palace doors** — Ji-Elle. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum).jpg).
+
+2,087 × 3,013 pixels. Original SHA-256: `055a713fe608e0591b99eb1c01fe5016f85789ac2c574b79e0bc79d36c498124`.
+
+## commons-olowe-door-detail-1
+
+**Olowe of Ise: two figures, door detail** — Ji-Elle. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(1).jpg).
+
+2,071 × 3,784 pixels. Original SHA-256: `4b5474ef94775799d5c5e026ce7468cdba808a78459431758d60dbcad2f51bda`.
+
+## commons-olowe-door-detail-2
+
+**Olowe of Ise: figure and diagonal pattern** — Ji-Elle. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(2).jpg).
+
+2,020 × 3,767 pixels. Original SHA-256: `65057f0e554fa344a1968eccb3a5d31beff38e6344be92a8b7823b459b8e48df`.

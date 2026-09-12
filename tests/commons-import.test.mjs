@@ -44,7 +44,8 @@ assert reviewed
 for spec in reviewed:
     page = json.loads(Path('data/commons-records', spec['id'] + '-license.json').read_text())
     name, url, revision = commons.validate_photo_license(spec, page)
-    assert name == spec['photo_license'] and url.startswith('https://creativecommons.org/licenses/by-sa/')
+    assert name == spec['photo_license']
+    assert url == 'https://creativecommons.org/licenses/' + ('by-sa/' if 'SA' in name else 'by/') + name.split()[-1] + '/'
     for changed in ['title', 'grant']:
         bad = copy.deepcopy(page)
         if changed == 'title': bad['title'] = 'File:Different photograph.jpg'
@@ -84,7 +85,10 @@ for source in json.loads((root / 'public/sources.json').read_text()):
     with Image.open(root / 'public' / source['thumbnail_file']) as thumbnail:
         width, height = source['expected_dimensions']
         assert max(thumbnail.size) <= 720, source['id']
-        assert abs(thumbnail.width / thumbnail.height - width / height) < .015, source['id']
+        # Integer pixel rounding is more visible in a very wide panorama.
+        target_scale = min(720 / width, 720 / height, 1)
+        assert abs(thumbnail.width - width * target_scale) <= 1, source['id']
+        assert abs(thumbnail.height - height * target_scale) <= 1, source['id']
     count += 1
 print(json.dumps(dict(count=count, rotated=rotated)))
 `], {cwd: new URL('../', import.meta.url), encoding: 'utf8', timeout: 60000});

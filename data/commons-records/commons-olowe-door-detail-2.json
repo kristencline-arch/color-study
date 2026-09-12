@@ -1,0 +1,92 @@
+{
+  "pageid": 127843598,
+  "ns": 6,
+  "title": "File:Palace door and lintel-Yoruba (British Museum) (detail) (2).jpg",
+  "index": 7,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2643253,
+      "width": 2020,
+      "height": 3767,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Palace_door_and_lintel-Yoruba_%28British_Museum%29_%28detail%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palace_door_and_lintel-Yoruba_(British_Museum)_(detail)_(2).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127843598",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-01-17 07:49:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Palace door and lintel-Yoruba (British Museum) (detail) (2)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Pair of door panels (Yoruba), British Museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Palace door and lintel\n<ul><li>Wood, pigment</li>\n<li>By Olowe of Ise (1878-1938), about 1910-1914</li>\n<li>Yoruba people, Ikere, Nigeria</li>\n<li>British Museum, room 25</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-01-11 16:08:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ji-Elle\" title=\"User:Ji-Elle\">Ji-Elle</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

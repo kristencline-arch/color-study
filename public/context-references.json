@@ -101,5 +101,47 @@
     "title": "From villa walls to museum panels",
     "description": "The archaeological park documents excavation and the removal of frescoes for preservation. The present photograph records a panel after that history, including surviving losses.",
     "source": "https://pompeiisites.org/en/stabiae/history-of-the-excavation/"
+  },
+  {
+    "id": "cacaxtla-context",
+    "study_ids": [
+      "commons-cacaxtla-battle-left",
+      "commons-cacaxtla-battle-right",
+      "commons-cacaxtla-glyph-1",
+      "commons-cacaxtla-glyph-2",
+      "commons-cacaxtla-eagle",
+      "commons-cacaxtla-jaguar"
+    ],
+    "kind": "Object and historical context",
+    "title": "Cacaxtla’s painted political world",
+    "description": "INAH describes the Epiclassic mural program and its combinations of central Mexican and Maya imagery. Multiple views here belong to one site.",
+    "source": "https://lugares.inah.gob.mx/es/node/5417"
+  },
+  {
+    "id": "bonampak-context",
+    "study_ids": [
+      "commons-bonampak-musicians",
+      "commons-bonampak-room-1",
+      "commons-bonampak-painting",
+      "commons-bonampak-detail",
+      "commons-bonampak-06",
+      "commons-bonampak-08"
+    ],
+    "kind": "Object and historical context",
+    "title": "A surviving Maya mural program",
+    "description": "INAH places these paintings in the building commissioned by Chan Muwan II in the late eighth century. The source discusses scenes and their architectural setting.",
+    "source": "https://lugares.inah.gob.mx/es/node/5416"
+  },
+  {
+    "id": "olowe-context",
+    "study_ids": [
+      "commons-olowe-door",
+      "commons-olowe-door-detail-1",
+      "commons-olowe-door-detail-2"
+    ],
+    "kind": "Object and historical context",
+    "title": "The doors and their collecting history",
+    "description": "The British Museum records the commission for the Ogoga of Ikere, Olowe of Ise’s authorship and the doors’ transfer after the 1924 British Empire Exhibition.",
+    "source": "https://www.britishmuseum.org/visit/object-trails/collecting-and-empire-trail"
   }
 ]

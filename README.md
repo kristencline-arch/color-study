@@ -1,6 +1,6 @@
 # Color Study
 
-An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 648 photographs, including 171 textiles, a [91-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
+An open-source photographic showcase and browser lab for regularized RGB decorrelation stretch. It includes a searchable database of 675 photographs, including 177 textiles, a [91-target painted-surface guide](public/targets.md), and an open community photo collection. The [public source repository](https://github.com/kristencline-arch/color-study) contains the portable app and processing tools.
 
 Curated metadata and original annotations are [CC0](CATALOG-LICENSE.md); photographs retain their individual licenses. [Browse the collection](https://color-study-painted-surfaces.kristen368163.chatgpt.site/#collection) or [view all image credits](CREDITS.md).
 
@@ -28,7 +28,7 @@ Each photo has a report link to the GitHub issue form. The contributor receives 
 
 Browse 17 overlapping collections, with new Ice Age Europe and early medieval Europe groups, including Europe, the Caribbean, Oceania and Pacific Islands, Asia, Macedonia, Indigenous North America, scrolls and manuscripts, South America, and Africa beyond Egypt. Museum and source records retain specific cultural attributions and dates. The [coverage review](public/photo-search.md) identifies remaining region and era gaps.
 
-The collection includes 171 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
+The collection includes 177 textiles and ancient or historic painted art, alongside the original field studies in Turkey, Iran, India, Argentina, Pompeii, Unas and Greek marble sculpture. [Catalog documentation](CATALOG.md) explains the selection, source metadata, image rights, read API and repeatable museum and Commons importers. The original Great Pyramid and Titanic examples remain available under technique limits. New original files are unchanged; thumbnails are resized derivatives. `public/sources.json` records dimensions, hashes, authors, license and source links. The original standalone gallery and Python engine in the parent folder are preserved.
 
 ## Validation
 
@@ -58,7 +58,7 @@ The production website loads imported museum and field JPEGs from the pinned Git
 
 ## Guided studies and sharing
 
-Every curated image has a `/study/<id>` page with a photographic social preview, source credit and license. Sixteen studies include 32 detail prompts; 20 related-view groups distinguish site views and manuscript pages from counts of unique objects. The browser viewer supports synchronized pan, pinch and keyboard zoom, 100% detail, and keyboard-entered fitting rectangles. Native viewport tiles and exports use the same fitted transform.
+Every curated image has a `/study/<id>` page with a photographic social preview, source credit and license. Twenty-six studies include 52 detail prompts; 24 related-view groups distinguish site views and manuscript pages from counts of unique objects. The browser viewer supports synchronized pan, pinch and keyboard zoom, continued one-finger panning after a pinch, 100% detail, and keyboard-entered fitting rectangles. Native viewport tiles and exports use the same fitted transform.
 
 Share preserves the study’s settings and selected surface, including a whole-image fit. Collection links retain search, date range, material, provider, sort and page. Negative years mean BCE; the new `from`/`to` filters include overlapping dated ranges. Browser Back restores the saved URL by reloading it.
 
